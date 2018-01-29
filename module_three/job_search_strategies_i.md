@@ -28,7 +28,7 @@ This job search brings up a lot of questions:
 	* When do you need a job by? 
 	* What steps do you need to take to secure that job?
 
-Trying to answer all of these questions at once can feel overwhelming, but in this session, we'll discuss how you can pull together all the professional development pieces you've worked on this module (your resume, your professional story, your flower exercise, your research, your job shadowing experience) to help you answer these questions one by one.
+Trying to answer all of these questions at once can feel overwhelming, but in this session, we'll discuss how you can pull together all the professional development pieces you've worked on this module (your resume, your professional story, your flower exercise week 5, your research, your job shadowing experience week 4) to help you answer these questions one by one.
 
 ### Objectives
 * Identify your top priorities in your job search
@@ -42,16 +42,10 @@ Trying to answer all of these questions at once can feel overwhelming, but in th
 * Complete PD Peer Groups Survey
 
 ### Decide on Priorities: What do you want to do (longterm)? 
-The Flower Exercise forced you to take a deeper dive into what skills, knowledge, and values have informed your professional journey thus far, and we'll build on those reflections to analyze how our career could provide us with the opportunities we seek. 
-
-How can you do that? Start by looking at your completed Flower Exercise. What bullet points stick out to you as most important in describing who you are? How can you take the most important bullets and combine them into a career you love?
-
-**I Do:** Allison will model how she might create a professional summary about herself using [her Flower Exercise](https://github.com/turingschool/career-development-curriculum/blob/master/files/Allison's%20Flower%20Scan.pdf):
-
-* I value helping others reach their fullest potential, and my skills in coaching, active listening, and providing feedback ensure that I can be successful in a career that does just that. For my next job search, my priorities are to find a job that combines my passion and knowledge around curriculum-planning to coach others on a wider spectrum, and I also hope to do this work in a way that provides the right work-life balance to allow me to pursue my passion for writing as well. 
+. What bullet points stick out to you as most important in describing who you are? How can you take the most important bullets and combine them into a career you love?
 
 ### Your Turn
-**Write:** Spend five minutes analyzing your Flower Exercise and list your biggest priorities in the job search based on what you've discovered. 
+**Write:** Spend five minutes analyzing your biggest priorities in the job search based on what you've discovered. 
 
 Priorities could include: 
 
@@ -126,7 +120,7 @@ Work backwards from that date to consider these questions for yourself:
 * If I need a job by X date, what do I need to do each month/week/day to make that happen?
 * Who will I rely for support? Who will I use for resources? 
 
-### Your Turn
+### Your Turn in Week 5
 Decide for yourself answers to the above questions, and fill out the survey for Module 4 PD Peer Groups.
 
 ### Closing
