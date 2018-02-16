@@ -26,7 +26,7 @@ By mastering the objectives listed above, students will be able to put themselve
 ### Deliverables
 In order to fulfill the requirements of Module Two, students will submit these deliverables:
 
-* Written reflection:
+* Create a individual private gist with each of these Written reflections:
   * How you've used agile as a process at Turing and what kind of project management tools you utilized. Address these questions:
     * What were you already doing?
     * What did you put into place in Module Two?
@@ -38,10 +38,10 @@ In order to fulfill the requirements of Module Two, students will submit these d
 * Plan for outreach & networking as you go into Module 3 using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/outreach_networking_guidelines.md)
 * Gear Up-related reflections
 
-You'll submit all deliverables except for Gear Up reflections [here](https://github.com/turingschool/career-development-curriculum/tree/master/deliverable_submissions). Gear Up reflections should be included in your module portfolio.
+You'll submit all deliverables except for Gear Up reflections [here](https://goo.gl/forms/2FBYw38BmDEudPB22). Gear Up reflections should be included in your module portfolio.  
 
 ### Gear Up Sessions
 
 * Gear Up 1: Empathy & Privilege
-* Gear Up 2: Parable of the Polygon/Automation
+* Gear Up 2: Parable of the Polygon/Automation/Group Think
 * Gear Up 3: Case Study with Mod 4
