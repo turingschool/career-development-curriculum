@@ -24,13 +24,13 @@ By achieving the objectives listed above, students will be able to direct their 
 * [Developer Identity](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/developer_identity.md)
 
 ### Deliverables
-In order to fulfill the requirements of module one, students will submit these deliverables:
+In order to fulfill the requirements of module one, students will submit these deliverables in a private gist:
 
 * DTR Memo using [this template](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/dtr_guidelines_memo.md)
-* Feedback for each project partner
+* Feedback for each project partner (Submitted ongoing through surveys)
 * StrengthsFinder/storytelling reflection using [this template](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/strengths_storytelling_reflection.md)
 * Create/Update LinkedIn, GitHub, Twitter, and Stack Overflow profiles and input them into Census
 
-You'll submit your DTR Memo and Storytelling reflection [here](https://github.com/turingschool/career-development-curriculum/tree/master/deliverable_submissions). Your profiles will be submitted by setting up your Census account, and your partner feedback will be submitted in the surveys you receive. 
+You'll submit your DTR Memo and Storytelling reflection [here](https://docs.google.com/forms/d/1XGgtEs30A6l38jIe4zSWyjSGH2jJokRblt-UJEIXNoM/edit). Your profiles will be submitted by setting up your Census account, and your partner feedback will be submitted in the surveys you receive. 
 
 Gear Up reflections should be included in your module portfolio.
