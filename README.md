@@ -24,7 +24,7 @@ In this repo, you'll find all of the curriculum for career development, includin
 * [Module Four](https://github.com/turingschool/career-development-curriculum/tree/master/module_four)
 
 ### Deliverables
-In Modules 1 and 2, career development deliverables will be reviewed by Allison through pull requests to this repo. Students should submit their deliverables via Pull Request to the [submissions file here](https://github.com/turingschool/career-development-curriculum/tree/master/deliverable_submissions). You'll need to update your version of this as you move from Module 1 to Module 2. 
+In Modules 1 and 2, career development deliverables will be reviewed by Allison through submissions to this survey [here](https://docs.google.com/forms/d/1XGgtEs30A6l38jIe4zSWyjSGH2jJokRblt-UJEIXNoM/edit). 
 
 In Modules 3 and 4, there are different accountability systems put into place to help ensure that you're on track for your job search, including student accountability groups and staff members who will serve as coaches.
 
