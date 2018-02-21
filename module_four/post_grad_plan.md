@@ -3,9 +3,9 @@ You are so close! You've spent the last 7 months working towards this -- graduat
 
 As you fill out this plan, consider how your first job search will set the tone for your career trajectory in the software industry. After all, your first developer job should align with those goals as well so that you're on track for a longterm successful career. 
 
-**Note:** If you have already secured a job prior to graduation, skip to the second part of the plan below.  
+**Note:** If you have already secured a job prior to graduation, skip to the second step to look at ways you can support the rest of your cohort. However, this step is optional.  
 
-## #1: 30-Day Job Search Action Plan
+## 30-Day Job Search Action Plan
 ### Create a schedule & goals for the first 30 days Post-Graduation
 Design a 40-hour "work week" that provides time for: 
 * Code (ideally, 2-4 hours a day will be dedicated to coding)
@@ -83,7 +83,7 @@ While you've made concrete plans for how to achieve your goal, it's also importa
 **Action Step:** Identify 1-2 "barriers" you might put on yourself in this job search as well as the steps you will take to overcome them. Be prepared to describe these in your M4 portfolio review. 
 
 ## #2: Supporting Others in Your Cohort in Their Job Search
-*Fill out this part only if you have already secured a job prior to graduation.*
+*Fill out this part only if you have already secured a job prior to graduation. This part is optional.*
 
 As a member of the Turing community, your support in the job search makes a big difference for your peers as they pursue their first position. Complete the following action steps to 
 
