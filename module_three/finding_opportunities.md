@@ -4,12 +4,13 @@
 
 ### Objectives
 
+* Create a [jobtrack.io](https://jobtrack.io/)
 * Redefine how best to find job opportunities without limiting your search to job boards or job listings
 * Discuss more effective job-searching strategies such as Meetup, LinkedIn, cold outreach, boolean searches to produce more potential opportunities
 * Research companies and people to create a list of opportunities
 
 ### Prep for Your Job Search
-Set up a system to track your job search now. Whether you use [Trello](https://trello.com), [jobtrack.io](https://jobtrack.io/), or another system, having a system to keep track of everything from companies you're interested in to notes from coffee meetings will be highly beneficial in helping you stay organized in the job search. In order to successfully pass your Module 4 portfolio, you'll need to discuss your job search tracking system in your portfolio review in your PD deliverable, found [here](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md). 
+The first step to a successful job search is to utilize a tracking system, which we'll set up today with [jobtrack.io](https://jobtrack.io/). Having this system to keep track of everything from companies you're interested in to notes from coffee meetings will be highly beneficial in helping you stay organized in the job search. In order to successfully pass your Module 4 portfolio, you'll need to discuss how you're using Jobtrack in your portfolio review in your PD deliverable, found [here](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md). 
 
 ### Why
 Now is the point in your Turing education to start on your job search, and through this session, we'll discuss tools of how to approach the job search in an intentional way that will also make the search less overwhelming.  
@@ -19,7 +20,7 @@ Session length: 60 minutes
 
 * Hook (5 mins)
 * Opening (3 mins)
-* Job Tracking System (15 mins)
+* Jobtrack.io (15 mins) -- need longer???
 * Explore tools (35 mins)
 * Closing (2 mins)
 
