@@ -5,20 +5,21 @@
 [Slides for this lesson](https://docs.google.com/presentation/d/1DNPivOJBUUnWlwD-n-2K9dysidWPyVFaqCvMmy87Irw/edit?usp=sharing)
 
 ### Session Structure:
-Time: 60 mins, then breakout groups
+Time: 60 mins
 
 * Opening: objectives, scope & sequence of M4 PD. Introduction to PD groups, breakdown of week by week, and discussion of 30-day plan (10 mins)
 * Visioning, Barriers, & Strengths (30 mins)
-* Jobtrack set-up (18 mins)
-	* This time can also be used to explore resources if students already have jobtrack accounts
-* Closing & prepare to get into breakout groups (2 mins)
+*  (18 mins)
+* Closing: Create next steps, discuss homework (2 mins)
 
 ## Opening: The Big Picture
+### Find Your Peer Groups Listed on the Slide
+You are assigned to a peer group made up of other students and one staff member who will be your coach. You'll meet with your groups every Thursday at 1pm. **You've been grouped according to the timeline that you said you'd need a job by.** Keep this in mind as you plan together.
+
 ### Objectives
 * Understand the scope and sequence of Module 4 Professional Development and what support looks like this module
 * Discover the use and importance of M4 PD peer groups & coaches
 * Identify barriers that may come up for you in the job search and utilize strategies to overcome them
-* Create a Jobtrack.io account
 * Identify particular resources & strategies for outreach, networking, branding, and interview prep
 
 ### Module 4 Professional Development Scope & Sequence
@@ -27,11 +28,16 @@ You're starting your final module at Turing, and we aim to set you up with struc
 ### Looking Ahead
 In your Module 4, you'll be expected to:
 
-* Participate in a trial with [jobtrack.io](https://jobtrack.io/)
-* Complete 1 mock interview and technical challenge
+* Use your [jobtrack.io](https://jobtrack.io/) account
 * Submit your [30-day job search action plan](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md) in your portfolio to discuss at the end-of-module portfolio review
 * Give your condensed elevator pitch version of your professional story at the portfolio review
 * Present your Turing Story, which will be a lightning talk of sorts to describe your Turing journey. Slides are encouraged but optional.
+
+You'll also have the opportunity to complete:
+* 1 mock interview
+* 1 technical challenge
+
+*Your instructors will give you more information about these.*
 
 **You Do:** Students skim over the plan and ask any questions that come up (3-5 mins) 
 
@@ -125,19 +131,12 @@ Guiding question:
 
 **Do:** Instructor models and then students jot down ideas
 
-## Jobtrack Set-Up
-As a class, we'll watch this [video](https://drive.google.com/a/jobtrack.io/file/d/14SPY5CbL5hQj7JDxGrAnCMSkIgmLG78n/view?usp=sharing) on how to set up and utilize Jobtrack.io in your job search.  
+## .... Put in pieces from coaching doc here
 
-**You Do:** After watching the video, take 5 minutes to set up your jobtrack account and update it with current information.
 
-## If You Already Have a JobTrack account set up:
-### Choose Your Own Adventure: Explore Your Resources
-Depending on the area(s) that you've identified as being a particular barrier for you, you may want to hone in on exploring the resources and alumni tips for that area. 
 
-Check out the resources section of [this document](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/guidelines_for_peer_groups.md) again, and begin making additional plans to help you with your barriers and your overall job search strategy for the module. 
-
-### Closing: Break into Groups
-You'll meet with your peer groups to get started strategizing on your job search. **You've been grouped according to the timeline that you said you'd need a job by.** Keep this in mind as you plan together.
+### Closing: Discuss Next Steps & Homework
+...
 
 Start with a DTR to get on the same page about your job search goals, barriers you might place on yourself in this job search, how you want to communicate with each other, and ideas for how you can motivate and hold each other accountable. [Use these guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/guidelines_for_peer_groups.md) to help structure your time. 
 
