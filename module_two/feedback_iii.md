@@ -27,8 +27,8 @@ What value is there in using feedback for personal growth? Why is this something
 * Use the Johari Window technique to recognize your own blind spots
 * Create goals for how to improve your collaboration practices
 
-### Deliverable
-Use your Johari Windows and to complete [this reflection](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/feedback_implementation_strengths_reflection.md) in a gist to submit via the [PD deliverables submission repo](https://github.com/turingschool/career-development-curriculum/tree/master/deliverable_submissions).
+### Optional Deliverable
+Use your Johari Windows and to complete [this reflection](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/feedback_implementation_strengths_reflection.md) 
 
 ### Feedback Tests Our Growth Mindsets
 Review: what is a growth mindset? How do you think feedback might affect a growth mindset?
@@ -88,7 +88,7 @@ Analyze:
 * For the Blind Spot quadrant, is there anything you'd like to build more awareness around? How will you do that? 
 
 #### You Do
-Spend 15 minutes creating your Johari Windows and then the last 10 minutes of this practice time on [your reflection](https://github.com/turingschool/career-development-curriculum/edit/master/module_two/feedback_implementation_strengths_reflection.md). Keep in mind that you'll be coaching each other in the next part of the lesson. 
+Spend 15 minutes creating your Johari Windows and then the last 10 minutes of this practice time on [your reflection](https://github.com/turingschool/career-development-curriculum/edit/master/module_two/feedback_implementation_strengths_reflection.md).
 
 ### Closing
 Questions & Takeaways
