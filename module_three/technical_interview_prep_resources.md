@@ -14,6 +14,7 @@ Ian Douglas has published [this handy guide](https://docs.google.com/document/d/
 * [Mark Miranda](https://markmiranda.youcanbook.me/)
 * [Rich Shea](https://richcshea.youcanbook.me/) - if you do not see a time that works for you, feel free to reach out to Rich on Slack (@richshea)
 * [Austin Wood](https://austinwood.youcanbook.me/)
+* [Bob Gu](https://robertgu.youcanbook.me/)
 
 ### Apps & Other Resources
 
