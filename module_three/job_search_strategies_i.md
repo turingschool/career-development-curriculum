@@ -1,6 +1,6 @@
 # Job Search Strategies I
 
-Session Time: 90 minutes
+Session Time: 60 minutes
 
 [Slides for this lesson](https://docs.google.com/presentation/d/1ncfDn8PO3bRTwZbNPU01w0kbHGvofLjupUzYBQZ_IVI/edit?usp=sharing)
 
@@ -12,6 +12,8 @@ Structure:
 * Job search logistics (10 mins)
 * Closing (5 mins)
 * Extra time: students can spend time working on their deliverables (potentially 10 mins)
+
+WORK TIME FOR PORTFOLIOS
 
 ### Opening
 This job search brings up a lot of questions:
