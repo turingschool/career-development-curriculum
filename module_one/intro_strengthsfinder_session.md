@@ -33,16 +33,26 @@ From this, we aim for students to develop a self-awareness that allows them to s
 Today's session focuses on building awareness of your own strengths as well as the strengths of those in your cohort.
 
 ### Objectives
-* Understand what constitutes a strength
-* Understand how to develop a strength
+* Understand what a strength is and how to develop it
 * Reflect on StrengthsFinder results 
 * Familiarize yourself with each other's strengths
+* Practice talking about yourself
 * Create goals for your professional development at Turing using StrengthsFinder
 
 ### Optional Deliverable
 Reflection is a powerful tool in helping us improve. Complete this [reflection](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/strengths_reflection_guidelines.md) in your own gist and DM it to Allison if you would like to schedule a coaching session to discuss it. 
 
 ## Overview
+### The Why
+How would you answer these questions:
+
+* How do you talk about yourself?
+* How do you want others to describe you?
+* What do you want to be known for?
+* How in tune are you with yourself?
+
+StrengthsFinder can help you answer these!
+
 ### What is a Strength?
 The StrengthsFinder assessment doesn't measure strengths exactly -- instead, it's examining the presence of certain talents in [34 areas](https://github.com/turingschool/career-development-curriculum/blob/master/files/BriefDescriptionsOfThemes.pdf). Strengths are rather the product of building one's talents combined with skills and knowledge. Here is the breakdown of this development:
 
