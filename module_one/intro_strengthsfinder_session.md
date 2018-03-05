@@ -15,6 +15,23 @@ Time: 60 mins
 * You Do: Individual Reflections (18 mins)
 * Closing: Recap use of StrengthsFinder and option for coaching (2 mins)
 
+### Overview of Professional Development at Turing
+Turing’s **mission** is to unlock human potential by training a diverse, inclusive student body to succeed in high-fulfillment technical careers. 
+
+Turing’s career development curriculum is created directly out of this mission with a focus on **unlocking students’ potential** in modules one and two through cultivating self-awareness and empathy. In modules three and four, curriculum focuses on providing strategies to empower students to **succeed in high-fulfillment technical careers** by creating connections within the technology industry, building competencies for industry leadership, and securing a fulfilling career -- and not just another job. 
+
+The touchstones of this curriculum include these mindsets: 
+
+* **Agency:** Taking initiative and ownership over your learning and work
+* **Empathy:** Understanding and sharing others' emotions in order to relate to them 
+* **Engagement:** Active participation in community
+* **Grit:** A combination of perseverance and passion
+* **Growth:** A belief that your abilities can be developed through dedication, hard work, and resiliency
+
+From this, we aim for students to develop a self-awareness that allows them to speak to their strengths and build connections with developers and others in this industry. StrengthsFinder is a tool that will help you get started!
+
+Today's session focuses on building awareness of your own strengths as well as the strengths of those in your cohort.
+
 ### Objectives
 * Understand what constitutes a strength
 * Understand how to develop a strength
@@ -23,7 +40,7 @@ Time: 60 mins
 * Create goals for your professional development at Turing using StrengthsFinder
 
 ### Optional Deliverable
-Complete this [reflection](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/strengths_reflection_guidelines.md) in your own gist and DM it to Ellen Mary if you would like to schedule a coaching session to discuss it. These coaching sessions will happen during Tuesday lunch office hours.
+Reflection is a powerful tool in helping us improve. Complete this [reflection](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/strengths_reflection_guidelines.md) in your own gist and DM it to Allison if you would like to schedule a coaching session to discuss it. 
 
 ## Overview
 ### What is a Strength?
