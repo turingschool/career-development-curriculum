@@ -1,4 +1,4 @@
-# Introduction to StrengthsFinder
+# Building Self-Awareness: Introduction to StrengthsFinder
 
 ## Getting to Know Yourself & Others Through Strengths
 
