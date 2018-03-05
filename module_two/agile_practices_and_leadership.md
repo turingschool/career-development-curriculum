@@ -186,19 +186,10 @@ Now let's talk now about how teams work together.
 * What has made your previous teams successful? What has made them difficult?
 * When working together for the first time, what can you do/have you done to make sure your team is productive?
 
-#### Tuckman's Group Life Cycle
-* Forming
-* Storming
-* Norming
-* Performing
-* [Video](https://www.youtube.com/watch?v=OhSI6oBQmQA&list=PLbu6naAjG_K93h0wjyn1b1EHQl1Q2pH_y)
-   * We'll pause to discuss at different parts of the stage
-* [Reference this handout](https://salvos.org.au/scribe/sites/2020/files/Resources/Transitions/HANDOUT_-_Tuckmans_Team_Development_Model.pdf)
-
 #### StrengthsFinder: Leadership Domains
 Let's consider how our strengths play a part in the types of roles we take on in our project groups. 
 
-Four Domains of Leadership in Strengths:
+Four Domains of Leadership:
   * **Executing:** Team members who have a dominant strength in Executing are those you turn to time and again to implement a solution. These people work tirelessly to get something done. People who are strong in the Executing domain have an ability to take an idea and transform it into a reality within the organization they lead
   * **Influencing:** People who are innately good at influencing are always selling the team’s ideas inside and outside the organization. When you need someone to take charge, speak up, and make sure your group is heard, look to someone with Influence.
   * **Relationship Building:** Relationship Builders are the glue that holds a team together. Strengths associated with bringing people together -- whether it is by keeping distractions at bay or keeping the collective energy high -- transform a group of individuals into a team capable of carrying out complex projects and goals.
@@ -206,13 +197,35 @@ Four Domains of Leadership in Strengths:
 
 ![SF Leadership Domains](https://github.com/turingschool/career-development-curriculum/blob/master/files/SF%20Leadership%20Domains.png)
 
-What does this tell you about your own leadership style?
+With your top 5 StrengthsFinder strengths, where do you fall in these styles? What does this tell you about how you operate on teams?
+
+**Whole Group Discussion:**
+* How do each of these types of leadership styles work together?
+* Where might they come into conflict with each other?
+* How could teams resolve that conflict?
+
+#### Bringing These Styles Together: Tuckman's Group Life Cycle
+Now that you understand these leadership styles look like, let's discuss how these styles can come together to work well. Psychologist Bruce Tuckman developed the "Tuckman's Group Life Cycle," which consists of 4 phases:
+
+* Forming
+* Storming
+* Norming
+* Performing
+* [Reference this handout](https://salvos.org.au/scribe/sites/2020/files/Resources/Transitions/HANDOUT_-_Tuckmans_Team_Development_Model.pdf)
+* [Optional Video for more Information](https://www.youtube.com/watch?v=OhSI6oBQmQA&list=PLbu6naAjG_K93h0wjyn1b1EHQl1Q2pH_y)
+
+**Whole Group Discussion:**
+* How do each of these phases build on each other?
+* How can a team move past the storming phase into the norming phase?
+* How does this cycle relate to agile systems?
 
 #### Project Team Discussion
+Get in your current project teams to discuss the following questions:
 
 * Share your strengths with each other -- what do they mean? How do you interpret these strengths in your day-to-day work? 
 * Describe a “high point” moment as a team so far -- when has your team worked at its absolute best? How have you moved through Tuckman's stages?
 * What are your domains of strengths? How have you seen these in action working together so far? What are the impacts of these domains on the team? 
+* How might your team come into conflict with each other? How will you resolve that conflict if it occurs?
 * What domains are not covered as much in your current team? How does that affect your team’s performance? 
 
 ### Closing
