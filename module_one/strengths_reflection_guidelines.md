@@ -23,20 +23,16 @@
 7. How could you use these themes to help you manage an area in which you might struggle?
 
 ### Look at the Suggested Action Items 
-8. What options sound doable? 
-
-9. What are some new ways to use these themes at Turing?
-
-10. What obstacles are there to trying out any of these options?
-
-11. Short-term Goals: 
-* How will these talents help you in your work this module? 
+8. Short-term Goals: 
+* How will these talents help you in your work this module at Turing? 
 * What is an action step you'd like to commit to help you develop your themes further today? Next week? This module?
 * What do you want to learn this module to turn your talents into greater strengths?
 
-12. Longterm Goals:
+9. Longterm Goals:
 * How will these talents contribute to your future career as a software developer? 
 * What would you like to focus on development at Turing to ensure that you develop these talents more fully?
+
+10. How will you communicate with your mentor and/or students that you work with about your strengths?
 
 ### Repeating the Module
 If you've reflected on your StrengthsFinder results previously, here are some additional questions you may want to consider during this second module:
