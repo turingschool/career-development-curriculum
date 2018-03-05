@@ -52,4 +52,4 @@ If you've reflected on your StrengthsFinder results previously, here are some ad
 ### Next Steps
 This reflection is for your own growth, and you do not need to turn this in. 
 
-However, if you would like to have a follow-up coaching session with Ellen Mary, please reach out to her to discuss next steps.   
+However, if you would like to have a follow-up coaching session with Allison, please reach out to her to discuss next steps.   
