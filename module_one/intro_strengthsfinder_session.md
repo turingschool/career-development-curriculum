@@ -12,7 +12,8 @@ Time: 60 mins
 * Overview: what is a strength, etc. (10 mins)
 * I Do: Demonstrate how to interpret reports (10 mins)
 * We Do: Get to know each other through strengths (15 mins)
-* You Do: Individual Reflections (18 mins)
+* Application: Building Relationships with Mentors (8 mins)
+* You Do: Individual Reflections (10 mins)
 * Closing: Recap use of StrengthsFinder and option for coaching (2 mins)
 
 ### Overview of Professional Development at Turing
@@ -95,13 +96,13 @@ Now that you have taken the StrengthsFinder assessment, let's dive into what the
 * Strengths Insight and Action-Planning Guide: Along with insights, this document gives suggestions for action steps you could take to develop these talents more. 
 
 ### I Do
-Erin will model how she would reflect on her results:
+Allison will model how she would reflect on her results:
 
-* Connectedness
-* Empathy
-* Input
 * Strategic
-* Ideation
+* Empathy
+* Intellection
+* Developer
+* Input
 
 1. Discover the meaning of a talent theme:
     * How does StrengthsFinder define these themes?
@@ -114,7 +115,7 @@ Erin will model how she would reflect on her results:
     * When have I seen this talent get in my way?
     * How do I feel about the level to which I use this talent on a regular basis?
 3. Goal-setting: how would I like to develop this theme more?
-    * What professional goals do I want to focus on right now? How might developing this theme help me with those?
+    * How could this theme be useful at Turing? In programming?
     * How can I build more awareness around this theme?
     * In which situations would developing this theme be very beneficial?
     * How do I want others to see me in regards to this theme?
@@ -137,9 +138,23 @@ Erin will model how she would reflect on her results:
 
 3. Find a partner to introduce yourself using these strengths. We'll do 3 rounds of this so you can start to get to know others in your cohort according to your strengths. Here are some things you can discuss with each other:
 
-   * What do your top 5 strengths mean to you?
+   * What do your top 5 strengths mean to you? How do they create a picture of you as a person?
    * If you and your partner have the same strength(s) in common, how is your understanding of the strength the same? How does it differ?
    * How could you and your partner learn from each other's strengths? 
+   
+**Whole Group Debrief:** How did it feel to talk about yourself? 
+
+## Application: Prepare for your mentor introductions
+This will be your first opportunity to create a professional relationship in the industry. Think about how your strengths can help you create an effective relationship with your mentor.
+
+What does an effective mentor-mentee relationship look like? Your mentor is here for help and advice, but you should figure out a balance of when you turn to your mentor for help and how you can make sure that you're still able to find tools on your own. 
+
+Examples:
+* The **Achiever** strength is about working hard and accomplishing a lot during a given day. If this is a strength of mine, how can I use this to structure my time with my mentor? How can my mentor help me knowing this strength about me?
+* The **Futuristic** strength has a lot to do with longterm planning and imagining the "what ifs." If this is a strength of mine, how can I use this when communicating with my mentor? How can my mentor help me knowing this strength about me?
+* The **Learner** strengths is about learning for the sake of learning. People with this strength are innately curious. If this is a strength of mine, how can I communicate my needs when meeting with a mentor? How can my mentor help me knowing this strength about me?
+
+The more you cultivate self-awareness, the more you'll be able to talk about yourself in a comfortable and confident way. Use this relationship as a way to practice some of those storytelling skills.
 
 ## Further Reflection
 Using the other two reports, now you'll take time to individually reflect on the results and begin to make both short-term and longterm goals for both Turing and your new career path using your strengths. Answer the rest of the questions on the [template](https://github.com/turingschool/career-development-curriculum/edit/master/module_one/strengths_reflection_guidelines.md) in your own gist. 
