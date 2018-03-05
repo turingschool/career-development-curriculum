@@ -160,7 +160,7 @@ The more you cultivate self-awareness, the more you'll be able to talk about you
 Using the other two reports, now you'll take time to individually reflect on the results and begin to make both short-term and longterm goals for both Turing and your new career path using your strengths. Answer the rest of the questions on the [template](https://github.com/turingschool/career-development-curriculum/edit/master/module_one/strengths_reflection_guidelines.md) in your own gist. 
   
 ## Next Steps & Coaching
-StrengthsFinder will be a helpful tool we'll use throughout your career development sessions at Turing. If you would like support in building your strengths individually or just want someone to talk with about your goals or how to be successful at Turing, please attend Ellen Mary's office hours on Tuesdays from 12-1 pm.
+StrengthsFinder will be a helpful tool we'll use throughout your career development sessions at Turing. If you would like support in building your strengths individually or just want someone to talk with about your goals or how to be successful at Turing, please reach out to Allison to set up a 1-on-1 meeting.
 
 Participating in coaching is completely optional, and even if you don't want to participate in coaching this module, you can participate at any point during your time at Turing. 
 
