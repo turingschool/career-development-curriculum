@@ -25,7 +25,7 @@
 ### Look at the Suggested Action Items 
 8. What options sound doable? 
 
-9. What are some new ways to use these themes that you haven't utilized before?
+9. What are some new ways to use these themes at Turing?
 
 10. What obstacles are there to trying out any of these options?
 
@@ -35,7 +35,6 @@
 * What do you want to learn this module to turn your talents into greater strengths?
 
 12. Longterm Goals:
-* What professional goals do you have?
 * How will these talents contribute to your future career as a software developer? 
 * What would you like to focus on development at Turing to ensure that you develop these talents more fully?
 
