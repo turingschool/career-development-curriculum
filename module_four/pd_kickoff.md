@@ -7,44 +7,56 @@
 ### Session Structure:
 Time: 60 mins
 
-* Opening: objectives, scope & sequence of M4 PD. Introduction to PD groups, breakdown of week by week, and discussion of 30-day plan (10 mins)
-* Visioning, Barriers, & Strengths (30 mins)
-*  (18 mins)
-* Closing: Create next steps, discuss homework (2 mins)
+* Opening: objectives, scope & sequence of M4 PD. Introduction to PD groups, breakdown of week by week, and discussion of 30-day plan (8 mins)
+* DTR in groups & go over expectations (12 mins)
+* Visioning, Barriers, & Strengths (30 mins) -- more focused on creating goals, including timeline for getting a job
+	* Discussions in groups
+* Based on goals set in previous discussion, each person comes up with an action step to work on in the next week (8 mins)
+* Closing: Discuss homework, address questions (2 mins)
 
 ## Opening: The Big Picture
 ### Find Your Peer Groups Listed on the Slide
-You are assigned to a peer group made up of other students and one staff member who will be your coach. You'll meet with your groups every Thursday at 1pm. **You've been grouped according to the timeline that you said you'd need a job by.** Keep this in mind as you plan together.
+You are assigned to a peer group made up of other students and one staff member who will be your coach. You'll meet with your groups every Thursday at 1pm. **You've been grouped according to the timeline by which you said you'd need a job.** Keep this in mind as you plan together.
 
 ### Objectives
 * Understand the scope and sequence of Module 4 Professional Development and what support looks like this module
 * Discover the use and importance of M4 PD peer groups & coaches
 * Identify barriers that may come up for you in the job search and utilize strategies to overcome them
-* Identify particular resources & strategies for outreach, networking, branding, and interview prep
+* Identify particular resources & strategies for outreach, networking, branding, and interview prep & create next steps
 
 ### Module 4 Professional Development Scope & Sequence
 You're starting your final module at Turing, and we aim to set you up with structured support to help you navigate this successfully. However, you are the driver of your own job search -- take advantage of all of the tools and resources listed here!
 
 ### Looking Ahead
-In your Module 4, you'll be expected to:
+Here is the PD layout of week-by-week in Module 4:
+
+* Week 1: PD Kickoff
+* Week 2: Resume, Cover Letters, LinkedIn, and Portfolio reviews
+* Week 3: External Review: mentors and alumni will meet with PD groups to go through resumes, cover letters, and give feedback on pitches
+* Week 4: Negotiations discussion
+* Week 5: 30-day Post-Grad Plan Workshop
+* Week 6: Prepare & present portfolio defense
+
+You'll be expected to:
 
 * Use your [jobtrack.io](https://jobtrack.io/) account
-* Submit your [30-day job search action plan](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md) in your portfolio to discuss at the end-of-module portfolio review
-* Give your condensed elevator pitch version of your professional story at the portfolio review
-* Present your Turing Story, which will be a lightning talk of sorts to describe your Turing journey. Slides are encouraged but optional.
+* Submit your [30-day job search action plan](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md) in your portfolio and be prepared to discuss it with coaches and instructors
+* Present your story and lessons learned at your portfolio review
+* Participate in 1 mock interview
+* Participate in 1 technical challenge
+* Lead Gear Up for Mods 1-3 
 
-You'll also have the opportunity to complete:
-* 1 mock interview
-* 1 technical challenge
-
-*Your instructors will give you more information about these.*
-
-**You Do:** Students skim over the plan and ask any questions that come up (3-5 mins) 
+**You Do:** Students skim over the plan and ask any questions that come up (5 mins) 
 
 ### Professional Development Peer Groups & Coaches
-[Reference these guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/guidelines_for_peer_groups.md) to get your group going on the right track. Depending on your group's timeline, your group's structure will vary from week to week, but the guidelines provide you with a breakdown of what you'll discuss with your coaches and peers each week.
+Time to DTR! With your groups:
 
-**You Do:** Students look over the guidelines and ask any questions that come up (3-5 mins)
+* Introduce yourselves and take this time to say some of your professional story
+	* Students: Where are you in the job search currently?
+	* Coaches: What are your strengths and areas of expertise to help students?
+* [Reference these guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/guidelines_for_peer_groups.md) to understand group expectations and weekly deliverables
+	* Coaches: set expectations
+
 
 ## Visioning, Barriers, & Strengths
 ### Embarking on the Mod 4 Job Search: Dream Big
