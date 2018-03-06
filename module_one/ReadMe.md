@@ -33,4 +33,5 @@ In order to fulfill the requirements of module one, students will submit these d
 
 You'll submit your DTR Memo and Storytelling reflection [here](https://docs.google.com/forms/d/1XGgtEs30A6l38jIe4zSWyjSGH2jJokRblt-UJEIXNoM/edit). Your profiles will be submitted by setting up your Census account, and your partner feedback will be submitted in the surveys you receive. 
 
-Gear Up reflections should be included in your module portfolio.
+### For Students Repeating the Module
+If you're repeating the module,
