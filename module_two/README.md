@@ -38,10 +38,7 @@ In order to fulfill the requirements of Module Two, students will submit these d
 * Plan for outreach & networking as you go into Module 3 using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/outreach_networking_guidelines.md)
 * Gear Up-related reflections
 
-You'll submit all deliverables except for Gear Up reflections [here](https://goo.gl/forms/2FBYw38BmDEudPB22). Gear Up reflections should be included in your module portfolio.  
+You'll submit all deliverables except for Gear Up reflections [here](https://goo.gl/forms/2FBYw38BmDEudPB22). 
 
-### Gear Up Sessions
-
-* Gear Up 1: Empathy & Privilege
-* Gear Up 2: Parable of the Polygon/Automation/Group Think
-* Gear Up 3: Case Study with Mod 4
+### For Students Repeating the Module
+If you're repeating the module,
