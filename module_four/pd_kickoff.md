@@ -9,10 +9,11 @@ Time: 60 mins
 
 * Opening: objectives, scope & sequence of M4 PD. Introduction to PD groups, breakdown of week by week, and discussion of 30-day plan (8 mins)
 * DTR in groups & go over expectations (12 mins)
-* Visioning, Barriers, & Strengths (30 mins) -- more focused on creating goals, including timeline for getting a job
-	* Discussions in groups
-* Based on goals set in previous discussion, each person comes up with an action step to work on in the next week (8 mins)
-* Closing: Discuss homework, address questions (2 mins)
+* Visioning, Barriers, & Strengths (15 mins)
+	* Rethink to be more about goal-setting and discuss potential action steps
+* Group Discussion (10 mins)
+* Work Time (10 mins)
+* Closing: Share out action steps, Discuss homework, address questions (3 mins)
 
 ## Opening: The Big Picture
 ### Find Your Peer Groups Listed on the Slide
@@ -49,15 +50,17 @@ You'll be expected to:
 **You Do:** Students skim over the plan and ask any questions that come up (5 mins) 
 
 ### Professional Development Peer Groups & Coaches
-Time to DTR! With your groups:
+The goal of today's session is for you and your group to get to know each other in a way that will create a support system for the rest of the module.
+
+DTR in your groups:
 
 * Introduce yourselves and take this time to say some of your professional story
 	* Students: Where are you in the job search currently?
 	* Coaches: What are your strengths and areas of expertise to help students?
-* [Reference these guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/guidelines_for_peer_groups.md) to understand group expectations and weekly deliverables
+* [Reference these guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/guidelines_for_peer_groups.md) to understand group expectations and regular deliverables
 	* Coaches: set expectations
-
-
+	* Students: ask any clarifying questions
+	
 ## Visioning, Barriers, & Strengths
 ### Embarking on the Mod 4 Job Search: Dream Big
 Close your eyes and imagine that you’re in your dream job; what is it like? What are you doing? What does the company do? Who do you work with? Who are your users? Why is this a dream job for you — do you get to do what you like? Are you using your strengths? Do you get mentorship?
@@ -84,67 +87,23 @@ What are some barriers you might carry with you? Think about these areas:
 * Other -- what other anxieties do you have that aren't covered in the other categories? 
 
 **You Do:**
-Individually, reflect in your journal on specific barriers that have come up for you in previous job searches and/or that you anticipate could hold you back in your current job search. 
+Individually, reflect in your journal on specific barriers that have come up for you in previous job searches and/or that you anticipate could hold you back in your current job search: 
+
 * Why do you think these barriers occur for you? 
 * Have you tried to overcome them in the past? If so, what was effective for you? 
 * Think about how you answered the "confidence in the job search" question in the survey for PD peer groups. What specific areas bring you confidence? What areas do you feel less confident in?
 * What kind of support could you use from your peer group to help you move past these barriers? 
 Be prepared to share this information in your group DTR. 
 
-## Overcoming Your Barriers: Five Strategies 
-Adapted from *Coaching Questions* by Tony Stoltzfus
 
-In order to overcome our barriers and achieve that dream job, we need to incorporate strategies that actually allow us to move past these barriers.
 
-**1. Dream Without It:**
-Imagine that the obstacle is suddenly gone. Think about what you would do then. **Goal:** experience the possibility that the dream could happen to provide energy to tackle the barrier. 
 
-Guiding questions:
-* With the barrier gone, how does that change things for you? How do you feel about pursuing that dream job now?
-* If you had unlimited resources and couldn't fail, what would you do then?
 
-**Do:** Instructor models and then students jot down ideas
 
-**2. Find What Worked in the Past:**
-Different change strategies work for different people. To find what works for you, explore what you've done in similar situations in the past. **Goal:** act of reflecting on past successes builds courage and confidence and brings to mind practical solutions.
+## Group Discussion
+Now with your group, discuss at least one barrier that came to mind in today's exercise and how you hope to overcome it and what support you need from your group to do so.
 
-Guiding questions:
-* When you've faced this kind of obstacle in the past, how did you overcome it? 
-* When have you faced a fear in the past and beat it? How'd you do it?
-* Think back to why you left your last job and enrolled in Turing. What was the turning point for you there? From that success, what can you apply to this new job search?
- 
-**Do:** Instructor models and then students jot down ideas
-
-**3: Brainstorm Options:**
-When we're mulling over a challenge we face, we tend to stop thinking creatively after 2-3 options. If those options don't look very attractive, we get stuck. **Goal:** Get unstuck by thinking through more doable options and get back into the creative zone. 
-
-Guiding questions:
-* What are 5 options you could use to tackle this barrier?
-* Focus in on your strengths: How do your top 5 StrengthsFinder strengths relate to these options? What [domains of leadership](https://docs.google.com/document/d/1N449kYbcOhu22vbORfjUOfjFOIfPoka5w00q_fklipU/edit?usp=sharing) can you pull from? 
-* Who else can help you harness these strengths? 
-
-**Do:** Instructor models and then students jot down ideas
-
-**4: Walk in the Light:**
-Barriers have the most power over us when they live inside our heads, unexamined. **Goal:** Bring your obstacles to the light -- acknowledge them and talk about them.
-
-Guiding questions:
-* What's the thing you don't want to happen?
-* What's your worst-case scenario? What makes this the "worst" for you?
-* Now, what if you *intentionally* did the worst thing or had the worst thing happen to you? What do you do now?
-
-**Do:** Instructor models and then students jot down ideas
-
-**5: Find the Reason:**
-Everyone has a good reason for what they do. You have a good reason for coming to Turing and embarking on this career change. Go back to those reasons for being here. **Goal:** Rediscover and refine your motivations
-
-Guiding question:
-* Find the underlying motivation for embarking on a job search in a new field -- link it back to the practicalities (not just the dreams) of what this new career means, such as higher income, support family better, greater work-life balance, intellectual stimulation, ability to make a difference on a real scale, etc. At the end of the day, what motivates *you* to achieve this?
-
-**Do:** Instructor models and then students jot down ideas
-
-## .... Put in pieces from coaching doc here
-
+ Based on goals set in previous exercise, each person comes up with an action step to work on in the next week
 
 
 ### Closing: Discuss Next Steps & Homework
