@@ -183,8 +183,12 @@ Check out these resources:
 Now let's talk now about how teams work together.
 
 #### Whole Group Introduction
-* What has made your previous teams successful? What has made them difficult?
-* When working together for the first time, what can you do/have you done to make sure your team is productive?
+Doing agile vs. Being agile = what's the difference?
+
+* Doing Agile = putting the tools into place
+  * These are the *practices*
+* Being Agile = building relationships & collaboration, communication, continuous learning
+  * This is the team's *mindset*
 
 #### StrengthsFinder: Leadership Domains
 Let's consider how our strengths play a part in the types of roles we take on in our project groups. 
