@@ -10,7 +10,6 @@ Time: 60 mins
 * Opening: objectives, scope & sequence of M4 PD. Introduction to PD groups, breakdown of week by week, and discussion of 30-day plan (8 mins)
 * DTR in groups & go over expectations (12 mins)
 * Visioning, Barriers, & Strengths (15 mins)
-	* Rethink to be more about goal-setting and discuss potential action steps
 * Group Discussion (10 mins)
 * Work Time (10 mins)
 * Closing: Share out action steps, Discuss homework, address questions (3 mins)
@@ -84,6 +83,7 @@ What are some barriers you might carry with you? Think about these areas:
 * Networking
 * Interviewing (either technical or culture-based questions)
 * Personal Branding for yourself
+* Balancing the workload of Module 4 and the job search
 * Other -- what other anxieties do you have that aren't covered in the other categories? 
 
 **You Do:**
@@ -93,28 +93,49 @@ Individually, reflect in your journal on specific barriers that have come up for
 * Have you tried to overcome them in the past? If so, what was effective for you? 
 * Think about how you answered the "confidence in the job search" question in the survey for PD peer groups. What specific areas bring you confidence? What areas do you feel less confident in?
 * What kind of support could you use from your peer group to help you move past these barriers? 
-Be prepared to share this information in your group DTR. 
+* Now that you have named any potential obstacles and how you will move past them, think about where you want to go in your job search this module. 
 
+### Goal-Planning: Get that Dream Job
+Now that you’ve named potential obstacles, you can begin to work past them. Start by thinking back to that dream job and creating concrete goals to get it. Reflect in your journal on these questions:
 
-
-
-
+* What feels doable during this module to move forward in your job search? What would be a stretch?
+* Write out 3 SMART goals that you will work towards in your job search this module
+	* SMART = Specific, Measurable, Achievable, Relevant, Time-bound
+* What is 1 action step you will take in the next week to help you make progress towards achieving your goals? 
 
 ## Group Discussion
-Now with your group, discuss at least one barrier that came to mind in today's exercise and how you hope to overcome it and what support you need from your group to do so.
+Now with your group, discuss at least one barrier that came to mind in your reflection, how you hope to overcome it, and what support you need from your group to do so.
+ 
+ * What is one action step you will take in the next week to help you realize your goals?
+ * How will you hold each other accountable in this group?
+ 
+ **Whole Group Share-Out:**
+ At least one person from each group will share out an action step that they are taking or how the group will hold each other accountable
 
- Based on goals set in previous exercise, each person comes up with an action step to work on in the next week
+## Work Time: Start on your Action Steps!
+In these 10 minutes, you could:
 
+* Send at least 1 outreach email
+* Block out time on your calendar for all job-related things this module
+* Schedule a mock interview with a mentor or Ian
+* Start revising your resume
+* Update your LinkedIn
+* Start on a cover letter
+* Ask for feedback on something from your coach or fellow group members
 
 ### Closing: Discuss Next Steps & Homework
-...
+Next week, bring:
 
-Start with a DTR to get on the same page about your job search goals, barriers you might place on yourself in this job search, how you want to communicate with each other, and ideas for how you can motivate and hold each other accountable. [Use these guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/guidelines_for_peer_groups.md) to help structure your time. 
+* Status updates on your action steps
+* 1 helpful tip for someone else in your group
+* Tailored resume for 1 position
+* Tailored cover letter for same position
 
 **Remember Your Resources:**
 
 * #job-hunt
 * #salaries
-* Your peer group
-* Your coach
-* Your mentors
+* #cold-outreach
+* DM your coach as needed
+* Jeff’s office hours: look for posts in #job-hunt
+* Ian’s office hours: Tuesdays, 1-2pm
