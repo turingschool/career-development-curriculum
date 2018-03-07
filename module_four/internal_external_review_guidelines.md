@@ -2,7 +2,7 @@
 ## Providing Feedback on Resumes, Cover Letters, LinkedIn, Turing Portfolios, and Professional Stories
 
 ### Internal Review
-
+Each group member will have 5-10 minutes
 
 ### External Review
 
