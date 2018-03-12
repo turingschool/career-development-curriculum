@@ -12,7 +12,7 @@ Ian Douglas has published [this handy guide](https://docs.google.com/document/d/
 ### Schedule a Mock Interview
 
 * [Mark Miranda](https://markmiranda.youcanbook.me/)
-* [Rich Shea](https://richcshea.youcanbook.me/) - if you do not see a time that works for you, feel free to reach out to Rich on Slack (@richshea)
+* Rich Shea - DM him on Slack (@richshea) to schedule an interview slot
 * [Austin Wood](https://austinwood.youcanbook.me/)
 * [Bob Gu](https://robertgu.youcanbook.me/)
 
