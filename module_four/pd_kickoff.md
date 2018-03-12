@@ -43,7 +43,7 @@ You'll be expected to:
 * Submit your [30-day job search action plan](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md) in your portfolio and be prepared to discuss it with coaches and instructors
 * Present your story and lessons learned at your portfolio review
 * Participate in 1 mock interview
-* Participate in 1 technical challenge
+* Participate in cohort code challenges and reviews
 * Lead Gear Up for Mods 1-3 
 
 **You Do:** Students skim over the plan and ask any questions that come up (5 mins) 
