@@ -34,4 +34,4 @@ In order to fulfill the requirements of module one, students will submit these d
 You'll submit your DTR Memo and Storytelling reflection [here](https://goo.gl/forms/HILyYTTzy5eJWJyI3). Your profiles will be submitted by setting up your Census account, and your partner feedback will be submitted in the surveys you receive. 
 
 ### For Students Repeating the Module
-If you're repeating the module,
+If you're repeating the module, you have two options for each professional development session depending on your confidence levels and staff feedback in the following areas. If you feel that you've mastered a particular skill and/or have been signed off on a particular deliverable by a staff member, you do not need to attend a repeat session. If you do feel that you 
