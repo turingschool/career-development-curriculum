@@ -109,6 +109,8 @@ Now with your group, discuss at least one barrier that came to mind in your refl
  * What is one action step you will take in the next week to help you realize your goals?
  * How will you hold each other accountable in this group?
  
+ Start a Slack channel for your group and post your action steps in it.
+ 
  **Whole Group Share-Out:**
  At least one person from each group will share out an action step that they are taking or how the group will hold each other accountable
 
