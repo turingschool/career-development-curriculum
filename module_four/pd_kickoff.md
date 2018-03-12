@@ -41,9 +41,8 @@ You'll be expected to:
 
 * Use your [jobtrack.io](https://jobtrack.io/) account
 * Submit your [30-day job search action plan](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md) in your portfolio and be prepared to discuss it with coaches and instructors
-* Present your story and lessons learned at your portfolio review
-* Participate in 1 mock interview
-* Participate in cohort code challenges and reviews
+* Present your story and lessons learned at your end-of-module portfolio review
+* Participate in mock interviews, code challenges, and reviews in your cohort
 * Lead Gear Up for Mods 1-3 
 
 **You Do:** Students skim over the plan and ask any questions that come up (5 mins) 
