@@ -8,13 +8,13 @@
 
 Time: 60 mins
 
-* Opening (5 mins)
-* Overview: what is a strength, etc. (10 mins)
+* Opening (6 mins)
+* Overview: what is a strength, etc. (6 mins)
 * I Do: Demonstrate how to interpret reports (10 mins)
 * We Do: Get to know each other through strengths (15 mins)
-* Application: Building Relationships with Mentors (8 mins)
+* Application: Building Relationships with Mentors (12 mins)
 * You Do: Individual Reflections (10 mins)
-* Closing: Recap use of StrengthsFinder and option for coaching (2 mins)
+* Closing: Recap use of StrengthsFinder and option for coaching (1 mins)
 
 ### Overview of Professional Development at Turing
 Turing’s **mission** is to unlock human potential by training a diverse, inclusive student body to succeed in high-fulfillment technical careers. 
@@ -156,8 +156,39 @@ Examples:
 
 The more you cultivate self-awareness, the more you'll be able to talk about yourself in a comfortable and confident way. Use this relationship as a way to practice some of those storytelling skills.
 
+Now, craft your introductory message your mentor. This is your first opportunity to practice some cold outreach practices, something that we'll discuss in subsequent sessions. But what makes this easy is that it's not really cold outreach at all so the risk feels lower! 
+
+Purpose of your message:
+* Introduce yourself -- what do you want your mentor to know about you? 
+* Set some initial expectations of what you'd like to talk about in your first meeting
+* Provide a call to action -- what should your mentor do based on this message?
+
+Example: 
+
+    Hi Samira,
+
+    I just started in the Front End program at Turing, and I'm excited to be your mentee! I came to 
+    Turing because I wanted to learn more about how to create beautiful websites. I am a very 
+    creative person and like to create big picture visions for what I'm creating. When I think about this 
+    module though, I could use some support on executing the day-to-day parts of a projcet. I'd love to 
+    hear any advice you have for me on how to stay organized in that regard. 
+    
+    Like you, I'm originally from Chicago and hope to move back there after I graduate. I'd also love 
+    to discuss the tech scene there with you and any advice you have for my job search. 
+    
+    I saw on the mentor schedule that you are available Wednesdays at 5pm -- are you free next 
+    Wednesday the 28th? If that date/time doesn't work, please let me know a time that's better 
+    for you. 
+
+    Thanks,
+    Gaby Martinez
+
+What do you notice about this example? What is effective? What might you do differently?  
+
+You Do: Spend 5 minutes now crafting your message to your mentor. You will probably add to it once you know who your mentor is, including information you learn about them from the spreadsheet, but creating a template will help you get started. 
+
 ## Further Reflection
-Using the other two reports, now you'll take time to individually reflect on the results and begin to make both short-term and longterm goals for both Turing and your new career path using your strengths. Answer the rest of the questions on the [template](https://github.com/turingschool/career-development-curriculum/edit/master/module_one/strengths_reflection_guidelines.md) in your own gist. 
+Using the other two reports, take time to individually reflect on the results and begin to make both short-term and longterm goals for both Turing and your new career path using your strengths. Answer the rest of the questions on the [template](https://github.com/turingschool/career-development-curriculum/edit/master/module_one/strengths_reflection_guidelines.md) in your own gist. 
   
 ## Next Steps & Coaching
 StrengthsFinder will be a helpful tool we'll use throughout your career development sessions at Turing. If you would like support in building your strengths individually or just want someone to talk with about your goals or how to be successful at Turing, please reach out to Allison to set up a 1-on-1 meeting.
