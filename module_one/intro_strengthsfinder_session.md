@@ -169,8 +169,8 @@ Example:
 
     I just started in the Front End program at Turing, and I'm excited to be your mentee! I came to 
     Turing because I wanted to learn more about how to create beautiful websites. I am a very 
-    creative person and like to create big picture visions for what I'm creating. When I think about this 
-    module though, I could use some support on executing the day-to-day parts of a project. I'd love to 
+    creative person and like to create big picture visions for my work. When I think about this 
+    module, I could use some support on executing the day-to-day parts of a project. I'd love to 
     hear any advice you have for me on how to stay organized in that regard. 
     
     Like you, I'm originally from Chicago and hope to move back there after I graduate. I'd also love 
