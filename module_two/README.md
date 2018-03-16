@@ -40,4 +40,4 @@ In order to fulfill the requirements of Module Two, students will submit these d
 You'll submit all deliverables [here](https://goo.gl/forms/2FBYw38BmDEudPB22). 
 
 ### For Students Repeating the Module
-If you're repeating the module,
+If you're repeating the module, 
