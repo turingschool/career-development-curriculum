@@ -3,13 +3,6 @@
 
 [Slides for this session](https://docs.google.com/presentation/d/1iLKN-7mCeQCaYulVT_LOsC4ctKjVgG63fNBRijtf33E/edit?usp=sharing)
 
-### Opening
-Last module, we discussed triggers...
-
-When you submitted your written partner feedback, how many of you were asked to update it before it was sent on to your partner? 
-
-Without getting into the specifics of that feedback, what was challenging about revising that feedback to make it more specific, actionable, and kind? 
-
 ### Session Structure
 
 Length: 60 minutes
@@ -22,30 +15,37 @@ Length: 60 minutes
 * Feedback Prep (10 mins)
 * Closing & Next Steps (2 mins)
 
-* Opening: objectives, deliverable, why -- relate to work scenarios, quick review?
-* Refining Our Process: how to get better at giving feedback
-* Communicating Feedback in Conversation
-* Nonviolent Communication Framework 
+### Opening
+#### Why
+Becoming an effective feedback giver and receiver is all about cultivating self-awareness....Relate to work scenarios
 
-### Objectives
-* Understand how intent and impact affect dialogue
-* Understand the different stages of a feedback conversations
+#### Review
+Last module, we discussed the 3 types of feedback, triggers that can happen for us when we receive feedback, and the principles of delivering effective feedback, which include being **specific**, **actionable**, and **kind**.
 
-* Practice active listening and reframing feedback
-* Deliver feedback in a constructive conversation
+When you submitted your written partner feedback, how many of you were asked to update it before it was sent on to your partner? 
 
-### Deliverable
+Without getting into the specifics of that feedback, what was challenging about revising that feedback to make it more specific, actionable, and kind? 
+
+Today, we'll discuss techniques for getting better at giving effective feedback as well as how to provide feedback in a face-to-face conversation. 
+
+#### Objectives
+
+#### Deliverable
 
 Have a feedback conversation and document it using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/feedback_conversation_reflection_guidelines.md)
 
-### Opening
-Why is working on our skills for giving and receiving feedback so important? Why have we chosen this as a skill for you to work on in your career development at Turing?
+### Refining Your Process as Feedback Giver
+Before we can have a conversation around feedback, we need to assess the situation at hand to decide what kind of feedback is needed. We need to understand the difference between *positions* and *interests*:
 
-* Whole group discussion
-* Discuss objectives and deliverable
+* Positions: what people say they want or demand 
+* Interests: underlying needs, desires, fears, and concerns that the stated position should satisfy
 
-Last module, we focused on giving written feedback. Today, we'll discuss techniques for providing feedback in a face-to-face conversation. 
+Knowing the interests you have behind the positions you're presenting helps you provide the necessary feedback
 
+Three Sources of Interests Behind Feedback:
+* 
+
+Say what you mean: this is often hard to put into practice. 
 
 
 ### Communicating Feedback in Conversation
@@ -77,7 +77,7 @@ In order to dive into what your feelings/thoughts/concerns/opinions really are i
 
 Similar to the Facts-Feelings-Ask model of having crucial conversations that we discussed in [Learning to Pair](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/learning_to_pair.md) in Module One, the Nonviolent Communication Framework asks you to consider how to be more *mindful* in your communication with others.
 
-* **Whole Group:** What does it mean to be mindful in communication? What would that look like?
+* **Whole Group:** What does it mean to be mindful in communication? What would that look like? When is communication *not* mindful?
 
 Who is good at mindful communication? No one -- yet. We often spend our time communicating:
 
