@@ -15,12 +15,12 @@ Without getting into the specifics of that feedback, what was challenging about 
 Length: 60 minutes
  
 * Opening (5 mins)
-
-* Communicating Feedback in Conversation (5 mins)
-* Nonviolent Communication Framework (10 mins)
-
-* Feedback Conversation Prep (8 mins)
-* Final Reflection (5 mins)
+* Refining Your Process as Feedback Giver (10 mins)
+* Navigating the Conversation (6 mins)
+* Nonviolent Communication Framework (15 mins)
+* Practice (12 mins)
+* Feedback Prep (10 mins)
+* Closing & Next Steps (2 mins)
 
 * Opening: objectives, deliverable, why -- relate to work scenarios, quick review?
 * Refining Our Process: how to get better at giving feedback
@@ -30,7 +30,7 @@ Length: 60 minutes
 ### Objectives
 * Understand how intent and impact affect dialogue
 * Understand the different stages of a feedback conversations
-* Discover how to handle switchtracking in these conversations
+
 * Practice active listening and reframing feedback
 * Deliver feedback in a constructive conversation
 
