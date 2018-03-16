@@ -8,6 +8,8 @@
 
 * What principles of feedback did you use in the conversation?
 
+* What is your biggest challenge when giving feedback to someone else? How do you want to overcome that challenge?
+
 * How would you describe your ability to communicate feedback? How has this experience affected your communication skills?
 
 * Any other comments:
