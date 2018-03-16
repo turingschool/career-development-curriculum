@@ -8,5 +8,7 @@
 
 * What principles of feedback did you use in the conversation?
 
+* How would you describe your ability to communicate feedback? How has this experience affected your communication skills?
+
 * Any other comments:
 
