@@ -17,7 +17,9 @@ Length: 60 minutes
 
 ### Opening
 #### Why
-Becoming an effective feedback giver and receiver is all about cultivating self-awareness in communication to understand both what you really want to say to someone about their work processes and understanding what someone else is trying to convey to you. ....Relate to work scenarios
+Becoming an effective feedback giver and receiver is all about cultivating self-awareness in communication to understand both what you really want to say to someone about their work processes and understanding what someone else is trying to convey to you. 
+
+Communication is paramount to creating good software. In an agile system, feedback is part of the process, both from users and during sprint retrospectives. Having the skill to give and receive feedback well will make you a strong part of any software team. 
 
 #### Review
 Last module, we discussed the 3 types of feedback, triggers that can happen for us when we receive feedback, and the principles of delivering effective feedback, which include being **specific**, **actionable**, and **kind**. And the 3 types of feedback are **appreciation**, **coaching**, and **evaluation**.
@@ -30,6 +32,7 @@ Discuss:
 Today, we'll discuss techniques for getting better at giving effective feedback as well as how to provide feedback in a face-to-face conversation. 
 
 #### Objectives
+* Utilize a template for a feedback conversation
 * Understand what feedback you want to communicate
 * 
 
@@ -37,10 +40,28 @@ Today, we'll discuss techniques for getting better at giving effective feedback 
 
 Have a feedback conversation and document it using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/feedback_conversation_reflection_guidelines.md)
 
-### Refining Your Process as Feedback Giver
-Before we can have a conversation around feedback, let's dive into why we give feedback. What's our **purpose** when giving feedback?
+### Communicating Feedback in Conversation
+Here is a basic template on how to conduct a feedback conversation:
+* **Open** the conversation by getting aligned
+   * Define the purpose of the conversation
+   * What kind of feedback are we discussing?
+   * What does the giver want to give me?
+   * Is the feedback negotiable or final? A suggestion or a command?
+* **Body:** Two-way exchange of information
+   * Listening
+   * Asserting
+   * Managing conversation process
+   * Problem-solving
+* **Close** by committing to action
 
-Having those motivations in mind, we need to find ways of creating possibilities for the receiver. After all, they might not be aware of areas where they can improve, and providing them with insight based on what you've observed as their project partner can be very beneficial. 
+Whole Group Debrief:
+
+* What will make this conversation different with a project team vs. having this conversation with just one partner?
+* What blind spots might come up in conversation vs. in writing?
+
+### The Body of the Conversation: Refining Your Process 
+During this part of the conversation, it's a two-way exchange of information. The feedback giver is communicating their position while the receiver is listening and asserting what they need 
+
 
 In order to figure out what feedback to give, we need to assess the situation and understand the difference between *positions* and *interests*:
 
@@ -132,23 +153,7 @@ For each of the above, discuss:
 * How do you feel about these alternatives?
 * Would you say anything different to try to realign intent and impact more?
 
-### Communicating Feedback in Conversation
-How to conduct a feedback conversation:
-* **Open** the conversation by getting aligned
-   * Define the purpose of the conversation
-   * What kind of feedback are we discussing?
-   * What does the giver want to give me?
-   * Is the feedback negotiable or final? A suggestion or a command?
-* **Body:** Two-way exchange of information
-   * Listening
-   * Asserting
-   * Managing conversation process
-   * Problem-solving
-* **Close** by committing to action
 
-Whole Group Debrief:
-
-* What will make this conversation different with a project team vs. having this conversation with just one partner?
 
 
 
