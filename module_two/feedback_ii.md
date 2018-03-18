@@ -17,33 +17,48 @@ Length: 60 minutes
 
 ### Opening
 #### Why
-Becoming an effective feedback giver and receiver is all about cultivating self-awareness....Relate to work scenarios
+Becoming an effective feedback giver and receiver is all about cultivating self-awareness in communication to understand both what you really want to say to someone about their work processes and understanding what someone else is trying to convey to you. ....Relate to work scenarios
 
 #### Review
 Last module, we discussed the 3 types of feedback, triggers that can happen for us when we receive feedback, and the principles of delivering effective feedback, which include being **specific**, **actionable**, and **kind**.
 
-When you submitted your written partner feedback, how many of you were asked to update it before it was sent on to your partner? 
+Discuss:
 
-Without getting into the specifics of that feedback, what was challenging about revising that feedback to make it more specific, actionable, and kind? 
+* When you submitted your written partner feedback, how many of you were asked to update it before it was sent on to your partner? 
+* Without getting into the specifics of that feedback, what was challenging about revising that feedback to make it more specific, actionable, and kind? 
 
 Today, we'll discuss techniques for getting better at giving effective feedback as well as how to provide feedback in a face-to-face conversation. 
 
 #### Objectives
+* Understand what feedback you want to communicate
+* 
 
 #### Deliverable
 
 Have a feedback conversation and document it using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/feedback_conversation_reflection_guidelines.md)
 
 ### Refining Your Process as Feedback Giver
-Before we can have a conversation around feedback, we need to assess the situation at hand to decide what kind of feedback is needed. We need to understand the difference between *positions* and *interests*:
+Before we can have a conversation around feedback, let's dive into why we give feedback. What's our purpose when giving feedback?
+
+Having those motivations in mind, we need to find ways of creating possibilities for the receiver. After all, they might not be aware of areas where they can improve, and providing them with insight based on what you've observed as their project partner can be very beneficial. 
+
+In order to figure out what feedback to give, we need to assess the situation and understand the difference between *positions* and *interests*:
 
 * Positions: what people say they want or demand 
 * Interests: underlying needs, desires, fears, and concerns that the stated position should satisfy
 
-Knowing the interests you have behind the positions you're presenting helps you provide the necessary feedback
+Our position is what might come to our mind first:
+* Your partner is often late? Your position: Be on time.
+* Your partner micromanages? Your position: Stop doing that.
 
-Three Sources of Interests Behind Feedback:
-* 
+But interests are the *why* behind those positions. *Why* is it a problem that your partner is late? Time ends up being wasted and you may feel disrespected. *Why* is micromanaging not helpful? Because it doesn't allow the other person to have autonomy over their work and could lead to a sense of resentment. 
+
+As the feedback giver, you need to tune into what your underlying interests are in the position you're taking in order to fully help your partner grow and improve.
+
+Three Sources of Interests Behind the Feedback You'll Give:
+* Helping your partner
+* Helping yourself and your relationship with your partner
+* Helping the team/project/cohort
 
 Say what you mean: this is often hard to put into practice. 
 
