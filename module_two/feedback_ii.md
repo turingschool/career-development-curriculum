@@ -162,7 +162,7 @@ But when you take the time to listen to your partner, you hear them say, "Mergin
 So, how can you **assert** your position while still taking in their interests? 
 
 Possible answers:
-* Going forward, I'll discuss with my partner a system for reviewing our PRs in a timely manner so that we can move on to future features.
+* Going forward, I’ll discuss with my partner a system for reviewing our PRs in a timeframe that works for both of us.
 * I'll use the time while I'm waiting for a PR to be reviewed to review my partner's PR
 
 And remember you're allowed to **manage the process** -- if the feedback is triggering you in a way where you can't continue to have a productive conversation, stop the conversation. Say, "I'd like to come back to this later." 
