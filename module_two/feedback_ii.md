@@ -9,9 +9,9 @@ Length: 60 minutes
  
 * Opening (5 mins)
 * Navigating the Conversation (5 mins)
-* Refining Your Process as Feedback Giver (10 mins)
-* Nonviolent Communication Framework (15 mins)
-* Role as the Receiver (10 mins)
+* Refining Your Process as Feedback Giver (12 mins)
+* Nonviolent Communication Framework (16 mins)
+* Role as the Receiver (8 mins)
 * Feedback Prep (10 mins)
 * Closing & Next Steps (2 mins)
 
