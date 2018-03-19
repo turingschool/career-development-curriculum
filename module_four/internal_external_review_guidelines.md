@@ -17,9 +17,16 @@ Students should come prepared with a tailored resume and cover letter for a spec
 
 **Guiding Questions for Feedback:**
 * How does the resume communicate the skills and story of the student? 
-* Does the resume provide the 
-* Does the cover letter have a hook that draws you in as the reader? I.e., what is memorable about the cover letter? 
-* Does the cover letter describe value that the student can bring to the role/company?
+    * Do you have a clear sense of what kind of work the student has produced? 
+    * Does the resume give a sense of the student's career trajectory? 
+    * Is Turing listed on the resume?
+    * Is the resume aligned with the position (i.e., If the position is for a Rails developer, does the student showcase Rails projects? Is Rails listed in the skills section?)
+    * Is the layout clean and interesting to look at?
+    
+* How does the cover letter communicate the student's interest in the job and ability to do it? 
+    * Hook: Does the first paragraph draw you in as the reader (i.e., what is memorable about the cover letter? What stands out about the student?)? 
+    * Does the cover letter describe value that the student can bring to the role/company?
+    * Does the cover letter expand on the resume in a logical way? 
 
 Both the coach and fellow group members should provide feedback. **For coaches who have more than 1 group:** Make sure that the groups are clear on expectations so that they can review each other's resumes and cover letters on their own when you're with your other group
 
