@@ -87,7 +87,7 @@ Three Sources of Interests Behind the Feedback You'll Give:
 1. If your source of interest is to *help your partner* and your position is *don't merge your own PRs,* what is the underlying interest behind this?
 
 Possible answers:
-* PRs reviews by a second a person decreases mistakes in the code
+* PR reviews by a second person decreases mistakes in the code
 * Tagging someone in a PR is good practice for code review in a workplace
 
 2. If your source of interest is to *help yourself and your relationship with your partner* and your position is *tell me what you're working on as you work on it,* what is the underlying interest behind this?
