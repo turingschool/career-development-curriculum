@@ -17,6 +17,7 @@ Students should come prepared with a tailored resume and cover letter for a spec
 
 **Guiding Questions for Feedback:**
 * How does the resume communicate the skills and story of the student? 
+    * What makes this an effective resume? 
     * Do you have a clear sense of what kind of work the student has produced? 
     * Does the resume give a sense of the student's career trajectory? How would you describe the student based on the resume?
     * Is Turing listed on the resume?
@@ -25,9 +26,9 @@ Students should come prepared with a tailored resume and cover letter for a spec
     
 * How does the cover letter communicate the student's interest in the job and ability to do it? 
     * Hook: Does the first paragraph draw you in as the reader (i.e., what is memorable about the cover letter? What stands out about the student?)? 
+    * Does the cover letter expand on the resume in a logical way? How do they highlight their relevant skills?
     * Does the cover letter describe value that the student can bring to the role/company?
-    * Does the cover letter expand on the resume in a logical way? 
-
+ 
 Both the coach and fellow group members should provide feedback. **For coaches who have more than 1 group:** Make sure that the groups are clear on expectations so that they can review each other's resumes and cover letters on their own when you're with your other group
 
 After everyone has had a turn for review, please use the remaining time in the session to go over the External Review for which students should have prepared:
