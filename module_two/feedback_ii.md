@@ -85,7 +85,7 @@ Three Sources of Interests Behind the Feedback You'll Give:
 1. If your source of interest is to *help your partner* and your position is *don't merge your own PRs,* what is the underlying interest behind this?
 
 Possible answers:
-* Asking someone else to review your PRs will allow for a second set of eyes on your code, which will decrease mistakes
+* Reviewing PRs by a second a person decreases mistakes in the code
 * Tagging someone in a PR is good practice for code review in a workplace
 * 
 
@@ -158,9 +158,20 @@ For each of the above, discuss:
 * Would you say anything different to try to realign intent and impact more?
 
 ### Taking it in as the Receiver
-Let's go back to the example from earlier about the feedback giver's position being that "don't merge your own PR." As the receiver of this feedback, you also have a position -- you didn't have time to wait for a code review because your next feature depended on this one and 
+As the receiver, do you need to take all the feedback you're hearing? No, but you do need to **listen** to the other person to understand their interest behind what they're saying. 
 
+**Whole Group:** What does it mean to **actively listen**? 
 
+Let's go back to the example from earlier about the feedback giver's position being that "don't merge your own PR." As the receiver of this feedback, you also have a position -- you didn't have time to wait for a code review because your next feature depended on this, so you don't see the problem with merging your own PR. 
+
+But when you take the time to listen to your partner, you hear them say, "Merging your own PR means that I wasn't able to review the code. It kept me from learning from what you did, and it could've cost us more time down the road due to mistakes that would've been caught during a code review."
+
+So, how can you **assert** your position while still taking in their interests? 
+
+Possible answers:
+* 
+
+And remember you're allowed to **manage the process** -- if the feedback is triggering you in a way where you can't continue to have a productive conversation, stop the conversation. Say, "I'd like to come back to this later." 
 
 ### Putting it into Practice: Having the Conversations
 Now is the time to prepare for giving feedback to your project partners in conversations:
