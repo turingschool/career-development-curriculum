@@ -18,10 +18,10 @@ Students should come prepared with a tailored resume and cover letter for a spec
 **Guiding Questions for Feedback:**
 * How does the resume communicate the skills and story of the student? 
     * Do you have a clear sense of what kind of work the student has produced? 
-    * Does the resume give a sense of the student's career trajectory? 
+    * Does the resume give a sense of the student's career trajectory? How would you describe the student based on the resume?
     * Is Turing listed on the resume?
     * Is the resume aligned with the position (i.e., If the position is for a Rails developer, does the student showcase Rails projects? Is Rails listed in the skills section?)
-    * Is the layout clean and interesting to look at?
+    * Are technical skills and projects near the top of the resume? Is the layout clean and interesting to look at?
     
 * How does the cover letter communicate the student's interest in the job and ability to do it? 
     * Hook: Does the first paragraph draw you in as the reader (i.e., what is memorable about the cover letter? What stands out about the student?)? 
