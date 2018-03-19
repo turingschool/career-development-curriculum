@@ -33,8 +33,10 @@ Today, we'll discuss techniques for getting better at giving effective feedback 
 
 #### Objectives
 * Utilize a template for a feedback conversation
-* Understand what feedback you want to communicate
-* 
+* Understand both your position and interests in the feedback you want to deliver
+* Utilize the Nonviolent Communication Framework to increase the mindfulness in your communication
+* Understand the role of active listening and assertion when taking in feedback
+* Prepare for and have a feedback conversation with your project partners
 
 #### Deliverable
 
