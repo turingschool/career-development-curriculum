@@ -8,21 +8,21 @@
 Length: 60 minutes
  
 * Opening (5 mins)
+* Navigating the Conversation (5 mins)
 * Refining Your Process as Feedback Giver (10 mins)
-* Navigating the Conversation (6 mins)
 * Nonviolent Communication Framework (15 mins)
-* Practice (12 mins)
+* Role as the Receiver (10 mins)
 * Feedback Prep (10 mins)
 * Closing & Next Steps (2 mins)
 
 ### Opening
 #### Why
-Becoming an effective feedback giver and receiver is all about cultivating self-awareness in communication to understand both what you really want to say to someone about their work processes and understanding what someone else is trying to convey to you. 
+Becoming an effective feedback giver and receiver is all about cultivating **self-awareness in your communication** to understand both what you really want to say to someone about their work processes and understanding what someone else is trying to convey to you. 
 
 Communication is paramount to creating good software. In an agile system, feedback is part of the process, both from users and during sprint retrospectives. Having the skill to give and receive feedback well will make you a strong part of any software team. 
 
 #### Review
-Last module, we discussed the 3 types of feedback, triggers that can happen for us when we receive feedback, and the principles of delivering effective feedback, which include being **specific**, **actionable**, and **kind**. And the 3 types of feedback are **appreciation**, **coaching**, and **evaluation**.
+Last module, we discussed the 3 types of feedback, triggers that can happen for us when we receive feedback, and the principles of delivering effective feedback, which include being **specific**, **actionable**, and **kind**. We also discussed the 3 types of feedback: **appreciation**, **coaching**, and **evaluation**.
 
 Discuss:
 
@@ -42,6 +42,7 @@ Have a feedback conversation and document it using these [guidelines](https://gi
 
 ### Communicating Feedback in Conversation
 Here is a basic template on how to conduct a feedback conversation:
+
 * **Open** the conversation by getting aligned
    * Define the purpose of the conversation
    * What kind of feedback are we discussing?
@@ -60,8 +61,7 @@ Whole Group Debrief:
 * What blind spots might come up in conversation vs. in writing?
 
 ### The Body of the Conversation: Refining Your Process 
-During this part of the conversation, it's a two-way exchange of information. The feedback giver is communicating their position while the receiver is listening and asserting what they need 
-
+Let's dive into the **Body** part of the template. During this part of the conversation, it's a two-way exchange of information. The feedback giver is communicating their *position* while the receiver is listening and asserting their *interests* in order to get to a place where the feedback feels helpful and doable. 
 
 In order to figure out what feedback to give, we need to assess the situation and understand the difference between *positions* and *interests*:
 
@@ -72,7 +72,7 @@ Our position is what might come to our mind first:
 * Your partner is often late? Your position: Be on time.
 * Your partner micromanages? Your position: Stop doing that.
 
-But interests are the *why* behind those positions. *Why* is it a problem that your partner is late? Time ends up being wasted and you may feel disrespected. *Why* is micromanaging not helpful? Because it doesn't allow the other person to have autonomy over their work and could lead to a sense of resentment. 
+But interests pertain to the *why* behind those positions. *Why* is it a problem that your partner is late? Time ends up being wasted and you may feel disrespected. *Why* is micromanaging not helpful? Because it doesn't allow the other person to have autonomy over their work and could lead to a sense of resentment. 
 
 As the feedback giver, you need to tune into what your underlying interests are in the position you're taking in order to fully help your partner grow and improve.
 
@@ -82,24 +82,28 @@ Three Sources of Interests Behind the Feedback You'll Give:
 * Helping the team/project/cohort
 
 **Examples:**
-1. If your source of interest is to *help your partner* and your position is *be on time,* what is the underlying interest to this?
+1. If your source of interest is to *help your partner* and your position is *don't merge your own PRs,* what is the underlying interest behind this?
 
 Possible answers:
-* Bringing awareness to their behavior: *chronic lateness appears unprofessional and can be seen as a sign of disrespect towards the other person's time*
-* Providing your partner with possible solutions to be on time more: *using a calendar, timeboxing, notifications, increasing communication, etc.*
+* Asking someone else to review your PRs will allow for a second set of eyes on your code, which will decrease mistakes
+* Tagging someone in a PR is good practice for code review in a workplace
 * 
 
-2. If your source of interest is to *help yourself and your relationship with your partner* and your position is *stop m
+2. If your source of interest is to *help yourself and your relationship with your partner* and your position is *tell me what you're working on as you work on it,* what is the underlying interest behind this?
 
 Possible answers:
-* Bringing awareness to
+* When you don't share your thought process, I feel lost as your partner. I would like to collaborate more by being able to dialogue about the code.
+* As your partner, I would like to learn from your thought process and be able to contribute to the work that you've created.
+* 
 
-3. If your source of interest is to *help the team/project/cohort* and your position is *
+3. If your source of interest is to *help the team/project/cohort* and your position is *you dominate the conversation during check-ins,* what is the underlying interest behind this?
 
 Possible answers:
-* Bringing awareness to
+* The rest of the team has felt disrespected when they don't get to have their voices heard. 
+* 
+* 
 
-Now that we've unpacked the underlying interests behind our positions in feedback, we need to consider how we would phrase the feedback
+Now that we've unpacked the underlying interests behind our positions in feedback, we need to consider how we would phrase the feedback so that the impact of our words is as closely aligned with our intent as possible. 
 
 ### Nonviolent Communication Framework
 In order to dive into what your feelings/thoughts/concerns/opinions really are in terms of the feedback you need to give, consider the steps to the [Nonviolent Communication Framework](http://www.nonviolentcommunication.com/freeresources/article_archive/heartofnvc_mrosenberg.htm) in order to use our natural *compassion* when communicating with each other.
@@ -153,7 +157,8 @@ For each of the above, discuss:
 * How do you feel about these alternatives?
 * Would you say anything different to try to realign intent and impact more?
 
-
+### Taking it in as the Receiver
+Let's go back to the example from earlier about the feedback giver's position being that "don't merge your own PR." As the receiver of this feedback, you also have a position -- you didn't have time to wait for a code review because your next feature depended on this one and 
 
 
 
@@ -163,7 +168,7 @@ Now is the time to prepare for giving feedback to your project partners in conve
 * BE: Little Shop (multiple partners)
 * FE: Game Time (1 partner)
 
-* 1. **Reflect:** Write down any key points, think about how you can clearly explain your intent, and take into consideration what kind of feedback you need from the other 
+* 1. **Reflect:** Write down any key positions you have as well as the interest behind them, think about how you can clearly explain your intent, and take into consideration what kind of feedback you need from the other 
 * 2. **Schedule the conversation:** 
       When you have the conversation, make sure to follow the Open-Body-Close format for this conversation, and ask clarifying questions. 
 * 3. **Plan for follow-up:** This is one conversation on how the project went, but consider any conversations you may want to have after taking time to absorb the feedback
