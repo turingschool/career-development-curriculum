@@ -146,7 +146,7 @@ For each of the above, discuss:
 
 * What alternatives could you use for these? 
 * What could be a blind spot here? Tone of voice -- you don’t want to come across as passive aggressive
-* Would you say anything different to try to realign intent and impact more?
+* How can you align intent and impact?
 
 ### Taking it in as the Receiver
 As the receiver, do you need to take all the feedback you're hearing? No, but you do need to **listen** to the other person to understand their interest behind what they're saying in order to decide what you can use the feedback for. 
