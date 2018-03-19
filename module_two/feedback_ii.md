@@ -85,23 +85,20 @@ Three Sources of Interests Behind the Feedback You'll Give:
 1. If your source of interest is to *help your partner* and your position is *don't merge your own PRs,* what is the underlying interest behind this?
 
 Possible answers:
-* Reviewing PRs by a second a person decreases mistakes in the code
+* PRs reviews by a second a person decreases mistakes in the code
 * Tagging someone in a PR is good practice for code review in a workplace
-* 
 
 2. If your source of interest is to *help yourself and your relationship with your partner* and your position is *tell me what you're working on as you work on it,* what is the underlying interest behind this?
 
 Possible answers:
 * When you don't share your thought process, I feel lost as your partner. I would like to collaborate more by being able to dialogue about the code.
 * As your partner, I would like to learn from your thought process and be able to contribute to the work that you've created.
-* 
 
 3. If your source of interest is to *help the team/project/cohort* and your position is *you dominate the conversation during check-ins,* what is the underlying interest behind this?
 
 Possible answers:
-* The rest of the team has felt disrespected when they don't get to have their voices heard. 
-* 
-* 
+* The rest of the team feels frustrated that they haven't been able to voice their ideas and opinions. 
+* You are giving off the impression that you are not a team player and that you may be difficult to work with. 
 
 Now that we've unpacked the underlying interests behind our positions in feedback, we need to consider how we would phrase the feedback so that the impact of our words is as closely aligned with our intent as possible. 
 
@@ -137,28 +134,22 @@ NVC Framework follows these steps:
 All of these steps of reflection should take place *before* you have the feedback conversation to clarify your points.
 
 #### Turn & Talk
-Find a partner to discuss the following scenarios.
+Find a partner to discuss the following scenarios and come up with an alternative way of phrasing these pieces of feedback:
 
 **Scenario #1: "Don't be so quiet"**
 
-Possible alternative: "I'd like to hear you contribute your thoughts more often."
-
 **Scenario #2: "I feel inadequate because when I've brought up ideas you haven't been willing to try any of them out today."**
-
-Possible alternative: We might add "...and I need you to acknowledge my ideas, discuss them with me, and try them sometimes."
 
 **Scenario #3: "I feel you are not giving 100% to this.”**
 
-Possible alternative:  “I feel frustrated that you have not been able to be here this week to work on our project.  Could we agree on times that we can work on this together so that we can both be focused on the same thing?” 
-
 For each of the above, discuss:
 
+* What alternatives could you use for these? 
 * What could be a blind spot here? Tone of voice -- you don’t want to come across as passive aggressive
-* How do you feel about these alternatives?
 * Would you say anything different to try to realign intent and impact more?
 
 ### Taking it in as the Receiver
-As the receiver, do you need to take all the feedback you're hearing? No, but you do need to **listen** to the other person to understand their interest behind what they're saying. 
+As the receiver, do you need to take all the feedback you're hearing? No, but you do need to **listen** to the other person to understand their interest behind what they're saying in order to decide what you can use the feedback for. 
 
 **Whole Group:** What does it mean to **actively listen**? 
 
@@ -169,7 +160,8 @@ But when you take the time to listen to your partner, you hear them say, "Mergin
 So, how can you **assert** your position while still taking in their interests? 
 
 Possible answers:
-* 
+* Going forward, I'll discuss with my partner a system for reviewing our PRs in a timely manner so that we can move on to future features.
+* I'll use the time while I'm waiting for a PR to be reviewed to review my partner's PR
 
 And remember you're allowed to **manage the process** -- if the feedback is triggering you in a way where you can't continue to have a productive conversation, stop the conversation. Say, "I'd like to come back to this later." 
 
