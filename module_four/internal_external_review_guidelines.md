@@ -2,15 +2,34 @@
 ## Providing Feedback on Resumes, Cover Letters, LinkedIn, Turing Portfolios, GitHub profiles, and Professional Stories
 
 ### Internal Review
+Time Structure for Session: 60 mins
+* 5-7 mins: Quick 1 minute status update from each group member and helpful tips they brought for each other
+* 35-50 mins: Review each student's tailored resume and cover letter (see below on expectations)
+* 5-20 mins *(remaining time depends on how many group members there are)*: Coaches give an overview of the External Review (see below) and provide work time with any remaining time
+
 Students should come prepared with a tailored resume and cover letter for a specific position for which they are interested. They should either bring hard copies of each for all group members or they should share links to both the resume and cover letter in their group Slack channels. Each student will then have 5-10 minutes in the session to discuss their tailored resume and cover letter. They should give a brief overview of the role and the company and then ask for feedback.
 
-**Guiding Questions for Resume Review:**
-* How does this resume communicate the skills and story of the student? 
-* 
+**Guiding Questions for Feedback:**
+* How does the resume communicate the skills and story of the student? 
+* Does the resume provide the 
+* Does the cover letter have a hook that draws you in as the reader? I.e., what is memorable about the cover letter? 
+* Does the cover letter describe value that the student can bring to the role/company?
 
+Both the coach and fellow group members should provide feedback. **For coaches who have more than 1 group:** Make sure that the groups are clear on expectations so that they can review each other's resumes and cover letters on their own when you're with your other group
+
+After everyone has had a turn for review, please use the remaining time in the session to go over the External Review for which students should have prepared:
+
+* Elevator pitch version of their professional story
+* Tailored resume
+* Tailored cover letter
+* LinkedIn profile
+* Turing alumni portfolio
+* GitHub profile 
+
+Professionals from partnering companies will pick 1 of these at random to review with the student, so they should have **all** of these ready to present. 
 
 ### External Review
-During Thursday of Week 3, Module 4 students will undergo an external review with a mentor or potential employer in which they will present 1 of the following:
+During Thursday of Week 3, Module 4 students will undergo an external review with mentors or professionals from partnering companies in which they will present 1 of the following:
 * Elevator pitch version of their professional story
 * Tailored resume
 * Tailored cover letter
@@ -26,7 +45,9 @@ You’ll be with a group of 5-7 students and can break down the 60-minute timefr
 * 7-10 minutes for each student: students will present their professional piece and receive your feedback
 * Any time remaining could be used for a Q&A
 
-Provide students with specific, actionable, and kind feedback that reflects your experience in the industry -- we want students to get an honest perspective. Here are some guiding questions for you to use when structuring your feedback:
+Provide students with specific, actionable, and kind feedback that reflects your experience in the industry -- we want students to get an honest perspective. 
+
+Here are some guiding questions for you to use when structuring your feedback:
 * What stands out to you about this piece? What does it communicate about the student? Does the student present themselves in a unique way? If so, how?
 * How clear is the information presented? What questions do you still have?
 * What recommendations do you have for improvement?
