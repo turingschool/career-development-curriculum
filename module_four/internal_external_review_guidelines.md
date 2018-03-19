@@ -7,7 +7,13 @@ Time Structure for Session: 60 mins
 * 35-50 mins: Review each student's tailored resume and cover letter (see below on expectations)
 * 5-20 mins *(remaining time depends on how many group members there are)*: Coaches give an overview of the External Review (see below) and provide work time with any remaining time
 
-Students should come prepared with a tailored resume and cover letter for a specific position for which they are interested. They should either bring hard copies of each for all group members or they should share links to both the resume and cover letter in their group Slack channels. Each student will then have 5-10 minutes in the session to discuss their tailored resume and cover letter. They should give a brief overview of the role and the company and then ask for feedback.
+Students should come prepared with a tailored resume and cover letter for a specific position for which they are interested. They should either bring hard copies of each for all group members or they should share links to both the resume and cover letter in their group Slack channels. Each student will then have 5-10 minutes in the session to discuss their tailored resume and cover letter. 
+
+#### Expectations:
+* When presenting, students should give a brief overview of the role and the company
+* Everyone in the group should read over the resume and cover letter
+* Using the guiding questions below, everyone in the group provides feedback and asks clarifying questions
+* Student presenter will answer questions where needed, but their main role is to listen and take notes on feedback
 
 **Guiding Questions for Feedback:**
 * How does the resume communicate the skills and story of the student? 
