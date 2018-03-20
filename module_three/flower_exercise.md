@@ -17,20 +17,18 @@ Close your eyes for a moment and think back to when you were a young child and y
 
 Today we'll talk about the steps you can take to make sure that you recapture those feelings of excitement and passion in your new career as a software developer. After all, you're making this career transition because you weren't happy in your last job -- let's make sure that your happiness is front and center in your new career. 
 
-We'll utilize a job-hunting strategy from   to 
+This relates directly to our mission at Turing as we strive for all students to **succeed in high-fulfillment technical careers.**
 
-What is important to you? What goals do you have for yourself? What kind of services do you want to provide? Where do you see your career going? Utilizing a job-hunting strategy that has an 84% success rate, you’ll complete a self-inventory to answer those questions and more in this session adapted from [What Color is Your Parachute](http://www.jobhuntersbible.com/) by Richard N. Bolles
+We'll utilize a job-hunting strategy that has an 84% success rate from [What Color is Your Parachute](http://www.jobhuntersbible.com/) by Richard N. Bolles to unpack your values, goals, and passions to make this job search your most successful and satisfying.
 
-## Learning Objectives:
+### Learning Objectives:
+
 * Describe yourself in 7 different ways to enhance your professional story
 * Outline specific priorities for your job search 
 * Describe in detail the kind of career you’re looking for
 
 ## Recommended Deliverable:
 **[Complete the Flower Exercise 1-pager](https://github.com/turingschool/career-development-curriculum/blob/master/files/Career%20Unit%20-%20The%20Flower%20Diagram.pdf)** and share it with Allison. You can set up a meeting with her to discuss it further if you would like.
-
-## The Why
-We do this exercise with students not only because it's effective (again, it has an 84% success rate and has been used with job-seekers for the past 4 decades) but because you are transitioning careers to find something that you love -- not just another job. Learning more deeply about yourself, your values, your strengths, and your priorities will make this a much more fulfilling job search and a much quicker job search. 
 
 ## How It Works
 The Flower Exercise is designed to help you move through 3 stages:
@@ -126,6 +124,13 @@ Start broadly and then make more specific
 * Petal #7: Goal/Purpose/Mission in life
 	* What is important to you?
 
-### Put it all together:
+### Choose Your Own Adventure
 
-* Use your notes to complete the flower worksheet 
+### Group Sharing
+
+### Final Reflection & Share Out
+
+### Closing
+What will you do with this information?
+
+Remember that you can schedule a coaching session with Allison to talk through your discoveries to help you begin to narrow the scope of your job search. 
