@@ -18,6 +18,7 @@ By achieving the objectives listed above, students will be able to direct their 
 
 ### Sessions
 * [StrengthsFinder Reflection](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/strengths_reflection_session.md)
+* [Working Styles](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/working_styles.md)
 * [Learning to Pair](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/learning_to_pair.md) 
 * [Feedback I](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/feedback_i.md) 
 * [Storytelling & Strengths](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/strengths_and_storytelling.md)
