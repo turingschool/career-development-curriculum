@@ -1,33 +1,21 @@
-#  Working Styles:  Intro, extro, ambiverts!
+#  Working Styles
 
-### [Slides](https://docs.google.com/presentation/d/1Dv3pkCbDjEGilq9tPq5ABHySQIQ3zBs489fetFvcZno/edit#slide=id.g1eee055cc6_1_92)
+## Introverts, Extroverts, and Everything In Between
 
-### Pre-Reading
-
-Read the following [article](https://www.fastcompany.com/3016031/leadership-now/are-you-an-introvert-or-an-extrovert-and-what-it-means-for-your-career) in preparation for this session.
-
-**Note:** If the reading was sent to students beforehand, have them complete the growth mindset recap; if it wasn't, have them read the article in the session and skip the growth mindset recap. The reading takes about 10 minutes. 
+[Slides for this session](https://docs.google.com/presentation/d/1Dv3pkCbDjEGilq9tPq5ABHySQIQ3zBs489fetFvcZno/edit#slide=id.g1eee055cc6_1_92)
 
 ### Introduction (2 minutes)
 You have started to work together in meaningful ways--during class, in pairing sessions, and in partner projects.  That means that we are 100% certain you are about to experience (or already have) a clash in working styles.  If we can discuss how we learn and work best, we can think about ways that we can better communicate our needs AND compromise in order to bring out the best in everyone.  Today we are going to start with a quick growth mindset reflection and then dig into understanding the spectrum of workstyles we have in our cohorts. 
 
-Learning Goals:
+#### Objectives
 
-* Continue the conversation about growth mindset
 * Build self-awareness so that you can develop even more empathy with others
 * Understand how we can leverage our different working styles for success at Turing and beyond
 
-### Individual Reflection - Growth Mindset (3 minutes)
+#### What Does Introversion and Extroversion Mean, Really? 
+What comes to mind when you hear the word "introvert"? What comes to mind when you hear the word "extrovert"? 
 
-Reflect on the following questions in your notebook.
-
-* Where have you been successful in maintaining a growth mindset?
-* Where have you been challenged in maintaining a growth mindset?
-* What new strategies have you identified to help you strengthen your growth mindset?
-
-### Pair Share (3 minutes)
-
-Turn to a pair and share how you've been successful this week in maintaining a growth mindset.
+Read the following [article](https://www.fastcompany.com/3016031/leadership-now/are-you-an-introvert-or-an-extrovert-and-what-it-means-for-your-career) in preparation for this session.
 
 ### Working Styles & Preferences (5 minutes)
 
