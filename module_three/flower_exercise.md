@@ -1,9 +1,21 @@
 # Flower Exercise
 ## Taking Inventory of Who You Are to Help You Find the Best Fit
 
-What is important to you? What goals do you have for yourself? What kind of services do you want to provide? Where do you see your career going? Utilizing a job-hunting strategy that has an 84% success rate, you’ll complete a self-inventory to answer those questions and more in this session adapted from [What Color is Your Parachute](http://www.jobhuntersbible.com/) by Richard N. Bolles
-
 [Slides for this session](https://docs.google.com/presentation/d/1ZxwdADE5YeyRl_mHAfcQW25QgLSALHo_iKu7eRLLfgg/edit?usp=sharing)
+
+Session Structure: 60 mins
+
+* Opening: why is this important?
+* Overview of Petals & Worksheets: How to do this inventory
+* Choose Your Own Adventure: Work Time
+* Group Sharing
+* Final Reflection & Share Out
+* Closing
+
+### Opening
+Close your eyes for a moment and think back to when you were a young child and you first thought about what you wanted to be when you grow up. Maybe you thought about 
+
+What is important to you? What goals do you have for yourself? What kind of services do you want to provide? Where do you see your career going? Utilizing a job-hunting strategy that has an 84% success rate, you’ll complete a self-inventory to answer those questions and more in this session adapted from [What Color is Your Parachute](http://www.jobhuntersbible.com/) by Richard N. Bolles
 
 ## Learning Objectives:
 * Describe yourself in 7 different ways to enhance your professional story
@@ -11,7 +23,7 @@ What is important to you? What goals do you have for yourself? What kind of serv
 * Describe in detail the kind of career you’re looking for
 
 ## Recommended Deliverable:
-**[Complete the Flower Exercise 1-pager](https://github.com/turingschool/career-development-curriculum/blob/master/files/Career%20Unit%20-%20The%20Flower%20Diagram.pdf)** and share it with Allison. She will also have optional office hours to discuss it in week 4 or 5. Check your cohort channel for this announcement. 
+**[Complete the Flower Exercise 1-pager](https://github.com/turingschool/career-development-curriculum/blob/master/files/Career%20Unit%20-%20The%20Flower%20Diagram.pdf)** and share it with Allison. You can set up a meeting with her to discuss it further if you would like.
 
 ## The Why
 We do this exercise with students not only because it's effective (again, it has an 84% success rate and has been used with job-seekers for the past 4 decades) but because you are transitioning careers to find something that you love -- not just another job. Learning more deeply about yourself, your values, your strengths, and your priorities will make this a much more fulfilling job search and a much quicker job search. 
