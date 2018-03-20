@@ -5,12 +5,12 @@
 
 Session Structure: 60 mins
 
-* Opening: why is this important?
-* Overview of Petals & Worksheets: How to do this inventory
-* Choose Your Own Adventure: Work Time
-* Group Sharing
-* Final Reflection & Share Out
-* Closing
+* Opening: why is this important? (5 mins)
+* Overview of Petals & Worksheets: How to do this inventory (
+* Choose Your Own Adventure: Work Time (
+* Group Sharing (
+* Final Reflection & Share Out (
+* Closing (
 
 ### Opening
 Close your eyes for a moment and think back to when you were a young child and you first thought about what you wanted to be when you grow up. Maybe you dreamed of being a doctor, an astronaut, a singer, a professional athlete, a teacher -- what about those dreams were exciting and appealing to you?
@@ -19,7 +19,7 @@ Today we'll talk about the steps you can take to make sure that you recapture th
 
 This relates directly to our mission at Turing as we strive for all students to **succeed in high-fulfillment technical careers.**
 
-We'll utilize a job-hunting strategy that has an 84% success rate from [What Color is Your Parachute](http://www.jobhuntersbible.com/) by Richard N. Bolles to unpack your values, goals, and passions to make this job search your most successful and satisfying.
+We'll utilize a job-hunting strategy from [What Color is Your Parachute](http://www.jobhuntersbible.com/) by Richard N. Bolles to unpack your values, goals, and passions to make this job search your most successful and satisfying. 
 
 ### Learning Objectives:
 
@@ -131,6 +131,7 @@ Pick 1-2 of the petals to dive into on your own. Think about what's most importa
 ### Group Sharing
 
 ### Final Reflection & Share Out
+Spend a few minutes synthesizing information that you 
 
 ### Closing
 What will you do with this information?
