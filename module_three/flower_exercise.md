@@ -125,6 +125,8 @@ Start broadly and then make more specific
 	* What is important to you?
 
 ### Choose Your Own Adventure
+Pick 1-2 of the petals to dive into on your own. Think about what's most important to you when it come to unpacking your job search....
+
 
 ### Group Sharing
 
