@@ -13,7 +13,11 @@ Session Structure: 60 mins
 * Closing
 
 ### Opening
-Close your eyes for a moment and think back to when you were a young child and you first thought about what you wanted to be when you grow up. Maybe you thought about 
+Close your eyes for a moment and think back to when you were a young child and you first thought about what you wanted to be when you grow up. Maybe you dreamed of being a doctor, an astronaut, a singer, a professional athlete, a teacher -- what about those dreams were exciting and appealing to you?
+
+Today we'll talk about the steps you can take to make sure that you recapture those feelings of excitement and passion in your new career as a software developer. After all, you're making this career transition because you weren't happy in your last job -- let's make sure that your happiness is front and center in your new career. 
+
+We'll utilize a job-hunting strategy from   to 
 
 What is important to you? What goals do you have for yourself? What kind of services do you want to provide? Where do you see your career going? Utilizing a job-hunting strategy that has an 84% success rate, you’ll complete a self-inventory to answer those questions and more in this session adapted from [What Color is Your Parachute](http://www.jobhuntersbible.com/) by Richard N. Bolles
 
