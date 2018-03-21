@@ -6,11 +6,11 @@
 Session Structure: 60 mins
 
 * Opening: why is this important? (5 mins)
-* Overview of Petals & Worksheets: How to do this inventory (
-* Choose Your Own Adventure: Work Time (
-* Group Sharing (
-* Final Reflection & Share Out (
-* Closing (
+* Overview of Petals & Worksheets: How to do this inventory (15 mins)
+* Choose Your Own Adventure: Work Time (20 mins)
+* Group Sharing (10 mins)
+* Final Reflection & Share Out (8 mins)
+* Closing (2 mins)
 
 ### Opening
 Close your eyes for a moment and think back to when you were a young child and you first thought about what you wanted to be when you grow up. Maybe you dreamed of being a doctor, an astronaut, a singer, a professional athlete, a teacher -- what about those dreams were exciting and appealing to you?
@@ -23,21 +23,21 @@ We'll utilize a job-hunting strategy from [What Color is Your Parachute](http://
 
 ### Learning Objectives:
 
-* Describe yourself in 7 different ways to enhance your professional story
+* Describe yourself in 7 different ways to fully understand what you're looking for in your next career
 * Outline specific priorities for your job search 
-* Describe in detail the kind of career you’re looking for
+* 
 
 ## Recommended Deliverable:
 **[Complete the Flower Exercise 1-pager](https://github.com/turingschool/career-development-curriculum/blob/master/files/Career%20Unit%20-%20The%20Flower%20Diagram.pdf)** and share it with Allison. You can set up a meeting with her to discuss it further if you would like.
 
-## How It Works
+### Overview: How It Works
 The Flower Exercise is designed to help you move through 3 stages:
 
 * The **brain dump** stage to organize your thoughts using these [worksheets](https://docs.google.com/document/d/1pLe95AA3y8rxnU-MDnyAVeoqWCxE9__KMDhmPgcd_7c/edit?usp=sharing)
 * The **synthesis** stage to summarize the findings in your brain dump
-* The **prioritization** stage to narrow down what's most important to you from your synthesis. **The results from your prioritization stage are what should go on your finished Flower page.** 
+* The **prioritization** stage to narrow down what's most important to you from your synthesis. **The results from your prioritization stage are what should go on your finished Flower page.**
 
-### You’re Not a Role
+### You're Not Just a Role
 Let's start by recapping the do's and don'ts of professional storytelling. When people have asked you what you do in the past, what have you said? “I was a construction worker.” “I was a marketing manager.” “I was a teacher.” Sound familiar? These kind of declarations are not inherently wrong -- it's important to claim your identity according to the work you love. 
 
 However, stating your identity in this way can lock you into a role; but you’re not a role, you’re a person with many skills and many experiences.
