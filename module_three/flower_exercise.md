@@ -23,9 +23,9 @@ We'll utilize a job-hunting strategy from [What Color is Your Parachute](http://
 
 ### Learning Objectives:
 
-* Describe yourself in 7 different ways to fully understand what you're looking for in your next career
+* Describe yourself in 7 different ways to enhance your professional story
 * Outline specific priorities for your job search 
-* 
+* Describe in detail the kind of career you’re looking for
 
 ## Recommended Deliverable:
 **[Complete the Flower Exercise 1-pager](https://github.com/turingschool/career-development-curriculum/blob/master/files/Career%20Unit%20-%20The%20Flower%20Diagram.pdf)** and share it with Allison. You can set up a meeting with her to discuss it further if you would like.
@@ -37,7 +37,7 @@ The Flower Exercise is designed to help you move through 3 stages:
 * The **synthesis** stage to summarize the findings in your brain dump
 * The **prioritization** stage to narrow down what's most important to you from your synthesis. **The results from your prioritization stage are what should go on your finished Flower page.**
 
-### You're Not Just a Role
+### You're Not a Role
 Let's start by recapping the do's and don'ts of professional storytelling. When people have asked you what you do in the past, what have you said? “I was a construction worker.” “I was a marketing manager.” “I was a teacher.” Sound familiar? These kind of declarations are not inherently wrong -- it's important to claim your identity according to the work you love. 
 
 However, stating your identity in this way can lock you into a role; but you’re not a role, you’re a person with many skills and many experiences.
@@ -124,14 +124,18 @@ Start broadly and then make more specific
 * Petal #7: Goal/Purpose/Mission in life
 	* What is important to you?
 
-### Choose Your Own Adventure
-Pick 1-2 of the petals to dive into on your own. Think about what's most important to you when it come to unpacking your job search....
-
+### Choose Your Own Adventure: Work Time
+Pick 1-2 of the petals to dive into on your own. Think about what's most important to you when it come to unpacking your approach to your job search. This is the brain dump part of the process: use the worksheets, reflect on your past experiences, journal about your passions. 
 
 ### Group Sharing
+Find 3-4 people to share some takeaways from your brain dump. This is where you synthesize the information you've been working through by answering these questions:
+
+* What did you discover about yourself and your ideal career in this exercise?
+* How will you use this information to drive your job search? 
+* What do you still want to learn from this process?
 
 ### Final Reflection & Share Out
-Spend a few minutes synthesizing information that you 
+From your group discussion, spend a few minutes prioritizing the most important takeaways and then fill out your Flower 1-pager with your most important priorities.
 
 ### Closing
 What will you do with this information?
