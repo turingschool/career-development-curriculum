@@ -1,5 +1,5 @@
 # Flower Exercise
-## Taking Inventory of Who You Are to Help You Find the Best Fit
+## Taking Inventory of Who You Are to Get What You Really Want
 
 [Slides for this session](https://docs.google.com/presentation/d/1ZxwdADE5YeyRl_mHAfcQW25QgLSALHo_iKu7eRLLfgg/edit?usp=sharing)
 
