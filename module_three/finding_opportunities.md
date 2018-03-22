@@ -20,7 +20,7 @@ Session length: 60 minutes
 
 * Hook (5 mins)
 * Opening (3 mins)
-* Jobtrack.io (15 mins) -- need longer???
+* Jobtrack.io (20 mins)
 * Explore tools (35 mins)
 * Closing (2 mins)
 
@@ -48,31 +48,15 @@ Let's start with these tools instead:
 There are more tools listed at the bottom of this markdown for you to consider, and we'll also discuss how you can create a system to keep yourself organized through suggested tools such as Trello and jobtrack.io. 
 
 ### Create a Job Searching Tracker
-First, start with a place to track all of your job search research and to-dos. Here we'll discuss both Trello and jobtrack.io, but that is not to say there aren't other effective tracking tools out there. Finding one that works for you will be essential in keeping your job search streamlined. 
-
-#### Trello
-[Trello](https://trello.com) is an easy-to-use project management tool that can allow you to track where you are in the process with any given company by creating individual lists and cards to capture information that you want to keep. 
-
-Check out [this post](http://blog.trello.com/using-trello-for-a-job-search-less-stress-more-process) for more on why Trello is a helpful tool for staying on top of your job search and to see an example of a job search board. [Labels](http://help.trello.com/article/797-adding-labels-to-cards?utm_source=Trello%20blog&utm_medium=blog%20post&utm_campaign=Job%20Search) can be helpful as you figure out what you want to prioritize, and you can record your progress by utilizing the [comments](http://help.trello.com/article/765-commenting-on-cards?utm_source=Trello%20blog&utm_medium=blog%20post&utm_campaign=Job%20Search) on the back of each card. 
-
-Some lists you may want to set up in Trello are: 
-
-* Potential Contacts
-* Contacts who have Responded
-* Companies to Research
-* Meetups -- include when they're happening
-* Follow Up
-* Coffee Meetings
-* Informational Interviews
-* Interviews
+First, start with a place to track all of your job search research and to-dos. We partner with jobtrack.io to give you accounts that we can help you track your job search progress with.
 
 #### Jobtrack.io
-[Jobtrack.io](https://jobtrack.io) is another tool that has been built specifically for job seekers. It allows you to track relationships with companies and where you are in the process, pulling in data about companies intuitively through its free Chrome extension. You are also able to manage versions of your resume and cover letters within the tool, and it will send you reminders to proceed in different steps of the process with companies. 
+[Jobtrack.io](https://jobtrack.io) was built specifically for job seekers. It allows you to track relationships with companies and where you are in the process, pulling in data about companies intuitively through its free Chrome extension. You are also able to manage versions of your resume and cover letters within the tool, and it will send you reminders to proceed in different steps of the process with companies. 
 
 This [tutorial](https://drive.google.com/file/d/14SPY5CbL5hQj7JDxGrAnCMSkIgmLG78n/view?usp=sharing) can help you get started on using it effectively. 
 
 #### Your Turn
-Explore different Job Search Tracker systems and decide on one that you can set up now. Start by reading this [blog post on using Trello for the job search](https://blog.trello.com/using-trello-for-a-job-search-less-stress-more-process), which is a 4-minute read, and then dive into both of these tools to see what might be more beneficial for you. 
+Take 10 minutes to set up your Jobtrack account now. 
 
 ### Meetup Differently
 Meetup is traditionally used to find local networking groups. However, it can also be used to find companies you would like to work with.
