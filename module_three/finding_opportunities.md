@@ -2,6 +2,9 @@
 
 [Slides for this session](https://docs.google.com/presentation/d/1cMJwVIn7QY4txtLLUfGrb-gF1A9PuWxyVfJuSqeKE4U/edit?usp=sharing)
 
+### Opening
+At the end of last module, you were tasked with creating a networking and outreach plan for this module. Let's check in for a status update...
+
 ### Objectives
 
 * Create and effectively use a [jobtrack.io](https://jobtrack.io/) account for your job search
