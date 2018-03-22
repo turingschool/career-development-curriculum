@@ -4,10 +4,10 @@
 
 ### Objectives
 
-* Create a [jobtrack.io](https://jobtrack.io/)
-* Redefine how best to find job opportunities without limiting your search to job boards or job listings
-* Discuss more effective job-searching strategies such as Meetup, LinkedIn, cold outreach, boolean searches to produce more potential opportunities
-* Research companies and people to create a list of opportunities
+* Create and effectively use a [jobtrack.io](https://jobtrack.io/) account for your job search
+* Discuss how to use tools such as Meetup, LinkedIn, BuiltIn, and other sites to find opportunities
+* Redefine how to use job boards or job listings to capitalize on opportunities
+* Begin research on companies and jobs to jumpstart your job search
 
 ### Prep for Your Job Search
 The first step to a successful job search is to utilize a tracking system, which we'll set up today with [jobtrack.io](https://jobtrack.io/). Having this system to keep track of everything from companies you're interested in to notes from coffee meetings will be highly beneficial in helping you stay organized in the job search. In order to successfully pass your Module 4 portfolio, you'll need to discuss how you're using Jobtrack in your portfolio review in your PD deliverable, found [here](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md). 
