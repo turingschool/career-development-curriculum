@@ -1,4 +1,4 @@
-# Finding Opportunities
+# Finding Opportunities: Jump Starting Your Job Search
 
 [Slides for this session](https://docs.google.com/presentation/d/1cMJwVIn7QY4txtLLUfGrb-gF1A9PuWxyVfJuSqeKE4U/edit?usp=sharing)
 
@@ -62,10 +62,32 @@ Let's start with these tools:
 * [Google](http://www.google.com/)
 * [BuiltIn](http://builtin.com/)
 * [Training on LinkedIn from Skillful](https://www.linkedin.com/training)
+* [Github’s Job Board](https://jobs.github.com/)
+* [Smashing Magazine’s Job Board](http://jobs.smashingmagazine.com/)
+* [Mashable's Job Board](http://jobs.mashable.com/jobs/search/results)
+* [Angel List](https://angel.co/jobs)
+* [Stack Overflow Job Board](http://careers.stackoverflow.com/jobs)
+* [Craigslist](https://denver.craigslist.org/d/software-qa-dba-etc/search/sof) - *this link is specific to Denver, but you can use this with any city*
+* [Top Ruby Jobs](https://toprubyjobs.com/)
+* [Ruby Weekly](http://rubyweekly.com/)
+* [JavaScript Weekly](http://javascriptweekly.com/)
+* [gun.io](https://gun.io/)
+* [Ars Technica Job Board](http://arstechnica.com/jobs/)
+* [We Work Remotely Job Board](https://weworkremotely.com/)
+* [Current Listing of Remote Dev Jobs](https://remoteok.io/remote-dev-jobs)
 
-Include more of the other ones listed?
+#### Social Media Resources for your Job Search:
+
+* [The Best Way to Use Social Media for Your Job Search](http://www.forbes.com/sites/trudysteinfeld/2012/09/28/the-best-ways-to-use-social-media-in-your-job-search/)
+* [Twitter 101: A Tutorial for the Timid](https://www.themuse.com/advice/twitter-101-a-tutorial-for-the-timid)
+* [How to Not Suck at Twitter](https://www.themuse.com/advice/how-not-to-suck-at-twitter)
+* [5 Better Ways to Network on Twitter and LinkedIn](https://www.themuse.com/advice/5-better-ways-to-network-on-twitter-linkedin)
 
 **Whole Group:** How can you use these sites to find opportunities? 
+
+Let's dive into what you can do with each of these tools:
+
+
 
 #### You Do: Group Time
 In small groups of 3-4 students, using one of the sites discussed, find at least one job that each person in the group is interested in. You'll present to the whole group:
@@ -75,18 +97,29 @@ In small groups of 3-4 students, using one of the sites discussed, find at least
 * What steps you will take to apply
 
 ### Group Practice: You Found a Job Listing, Now What?
-Now that we have some job listings, we need to dig deeper. Remember, if we really want these jobs, we need to create connections with the people and the companies behind the job listings. 
+Now that we have some job listings, we need to dig deeper. Remember, if we really want these jobs, we need to create connections with the people and the companies behind the job listings so we can become referral candidates. 
 
+Using this job listing, I'm going to update my Jobtrack and create a plan for outreach using the guidelines we discussed last module in the [Outreach & Networking Session](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/outreach_and_networking.md):
 
-Recap of outreach here
+* Update my contacts -- how do I find contact information?
+* Craft my email -- what should I say? 
+* Create a task/Set up a meeting
 
 Need more help? Join the #cold-outreach channel and come to their sessions
 
+**What else?**
 
+* Create a tailored resume for the position
+* Write a tailored cover letter for the position
+* Research the technologies/libraries the company uses to use in an upcoming project
 
+### Your Turn: Conduct Research & Update Your Jobtrack.io Account
+You have 10 minutes now to get started researching and adding opportunities you're interested in to your Jobtrack.io account.
 
-###
+### Closing & Next Steps
+It's important to take the time now to organize your job search. Take these steps to make this process less daunting and empower yourself. 
 
+Next week, you'll be going on Job Shadowing. We know that this is *not* a job interview, but it is an opportunity to create connections with others in the industry. Add contact information and other info to your Jobtrack from your Job Shadowing experience. 
 
 
 ### Meetup Differently
@@ -160,40 +193,3 @@ Often job seekers forget to Google the simplest of searches. Don't forget to res
 * If you are interested in any of the 6 locations for BuiltIn, navigate to [BuiltIn](http://builtin.com/) to set up a profile
 * Explore the companies listed in Skillful's list
 
-### Closing & Next Steps
-It's important to take the time now to organize your job search. Take these steps to make this process less daunting and empower yourself. 
-
-1. Apply the steps we discussed above to set up an effective job tracking system
-
-2. As you go through and continue to track your job search, keep in mind to:
-
-- Include the contact information for the individual you would like to build a connection with / have an informational interview with
-- Track the communication between you and the individual(s) at the company
-- Track the stage of the process you are currently in with the company
-
-### Additional Resources
-
-#### Social Media for Your Job Search:
-- [The Best Way to Use Social Media for Your Job Search](http://www.forbes.com/sites/trudysteinfeld/2012/09/28/the-best-ways-to-use-social-media-in-your-job-search/)
-- [Twitter 101: A Tutorial for the Timid](https://www.themuse.com/advice/twitter-101-a-tutorial-for-the-timid)
-- [How to Not Suck at Twitter](https://www.themuse.com/advice/how-not-to-suck-at-twitter)
-- [5 Better Ways to Network on Twitter and LinkedIn](https://www.themuse.com/advice/5-better-ways-to-network-on-twitter-linkedin)
-
-#### Additional sites 
-These are additional sites for finding opportunities, but *remember applying blind is less effective than finding someone.* Use these sites to find companies that are hiring, then go back through the steps listed above before applying to positions:
-
-- [Github’s Job Board](https://jobs.github.com/)
-- [Smashing Magazine’s Job Board](http://jobs.smashingmagazine.com/)
-- [Mashable's Job Board](http://jobs.mashable.com/jobs/search/results)
-- [Angel List](https://angel.co/jobs)
-- [Stack Overflow Job Board](http://careers.stackoverflow.com/jobs)
-- [Built in Colorado's Denver/Boulder Job Board](http://www.builtincolorado.com/jobs)
-- [Craigslist](https://denver.craigslist.org/d/software-qa-dba-etc/search/sof)
-- [Top Ruby Jobs](https://toprubyjobs.com/)
-- [Ruby Weekly](http://rubyweekly.com/)
-- [JavaScript Weekly](http://javascriptweekly.com/)
-- [Built in Colorado’s List of Top Digital Companies in Denver](http://www.builtincolorado.com/guides/best-companies-work-colorado)
-- [gun.io](https://gun.io/)
-- [Ars Technica Job Board](http://arstechnica.com/jobs/)
-- [We Work Remotely Job Board](https://weworkremotely.com/)
-- [Current Listing of Remote Dev Jobs](https://remoteok.io/remote-dev-jobs)
