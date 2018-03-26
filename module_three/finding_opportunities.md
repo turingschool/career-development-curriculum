@@ -8,17 +8,17 @@ Now is the point in your Turing education to start on your job search, and throu
 ### Overview of Session
 Session length: 60 minutes
 
-* Opening (6 mins)
+* Opening (7 mins)
 * Jobtrack.io Tutorial & Set Up (15 mins)
 * Discuss Job Searching Tools (20 mins)
-* Group Practice (8
+* Group Practice: Demo (8 mins)
 * You Do: Work Time (10 mins)
 * Closing (2 mins)
 
 ### Opening  
 The traditional way to look for jobs isn't necessarily the best route. 
 
-Looking for jobs on sites like monster.com, Indeed, and other career listing sites can be discouraging and ineffective. As little as [20-30% of job listings](http://www.npr.org/2011/02/08/133474431/a-successful-job-search-its-all-about-networking) are being posted online. That means that when you're only looking at company job postings, you are decreasing your chances of finding a job significantly. 
+Applying for jobs on sites like monster.com, Indeed, and other career listing sites can be discouraging and ineffective. As little as [20-30% of job listings](http://www.npr.org/2011/02/08/133474431/a-successful-job-search-its-all-about-networking) are being posted online. That means that when you're only looking at company job postings, you are decreasing your chances of finding a job significantly. 
 
 In contrast, [referral candidates](http://www.careerxroads.com/news/SourcesOfHire2013.pdf) are 3-4 times more likely to be hired than non-referral candidates. To add yourself to those numbers, today we'll talk about how to find a job without relying on your resume or job postings.
 
@@ -83,10 +83,11 @@ Let's start with these tools:
 * [How to Not Suck at Twitter](https://www.themuse.com/advice/how-not-to-suck-at-twitter)
 * [5 Better Ways to Network on Twitter and LinkedIn](https://www.themuse.com/advice/5-better-ways-to-network-on-twitter-linkedin)
 
-**Whole Group:** How can you use these sites to find opportunities? 
+**Whole Group:** How can you use these sites to find opportunities? How could you dig deeper beyond a job listing?
 
 Let's dive into what you can do with each of these tools:
 
+*
 
 
 #### You Do: Group Time
