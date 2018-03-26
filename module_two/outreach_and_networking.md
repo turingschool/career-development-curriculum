@@ -70,11 +70,6 @@ Other things to keep in mind:
 
 Have an idea of how you would set up a meeting with a mentor before you contact them. 
 
-#### Posse Mentors
-Again, don't forget about the mentors in your posse. If you're not sure who they are, hover over the channel topic in your posse channel to see them listed. 
-
-* Just because they're in your posse doesn't mean you shouldn't do research on these mentors and see what their specialities are. Otherwise, *how will you know how to best build a relationship with them?*
-
 #### How to Leverage Your Network
 How can you leverage the network you already have? 
 
