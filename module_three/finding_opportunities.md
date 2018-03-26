@@ -2,33 +2,18 @@
 
 [Slides for this session](https://docs.google.com/presentation/d/1cMJwVIn7QY4txtLLUfGrb-gF1A9PuWxyVfJuSqeKE4U/edit?usp=sharing)
 
-### Opening
-At the end of last module, you were tasked with creating a networking and outreach plan for this module. Let's check in for a status update...
-
-### Objectives
-
-* Create and effectively use a [jobtrack.io](https://jobtrack.io/) account for your job search
-* Discuss how to use tools such as Meetup, LinkedIn, BuiltIn, and other sites to find opportunities
-* Redefine how to use job boards or job listings to capitalize on opportunities
-* Begin research on companies and jobs to jumpstart your job search
-
-### Prep for Your Job Search
-The first step to a successful job search is to utilize a tracking system, which we'll set up today with [jobtrack.io](https://jobtrack.io/). Having this system to keep track of everything from companies you're interested in to notes from coffee meetings will be highly beneficial in helping you stay organized in the job search. In order to successfully pass your Module 4 portfolio, you'll need to discuss how you're using Jobtrack in your portfolio review in your PD deliverable, found [here](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md). 
-
 ### Why
-Now is the point in your Turing education to start on your job search, and through this session, we'll discuss tools of how to approach the job search in an intentional way that will also make the search less overwhelming.  
+Now is the point in your Turing education to start on your job search, and through this session, we'll discuss tools to use to approach the job search in an intentional way that will also make the search less overwhelming.  
 
 ### Overview of Session
 Session length: 60 minutes
 
-* Hook (5 mins)
-* Opening (3 mins)
-* Jobtrack.io (20 mins)
-* Explore tools (35 mins)
+* Opening (8 mins)
+* Jobtrack.io Tutorial & Set Up ( mins)
+* Discuss Job Searching Tools (10 mins)
+* I Do: Demo (10 mins)
+* You Do: Work Time (15 mins)
 * Closing (2 mins)
-
-### Warm Up
-Think about your last job search. What strategies did you use? Which proved to be successful? Which were not successful? **Turn and talk** to the person next to you to share your experience. What trends came up?
 
 ### Opening  
 The traditional way to look for jobs isn't necessarily the best route. 
@@ -37,8 +22,35 @@ Looking for jobs on sites like monster.com, Indeed, and other career listing sit
 
 In contrast, [referral candidates](http://www.careerxroads.com/news/SourcesOfHire2013.pdf) are 3-4 times more likely to be hired than non-referral candidates. To add yourself to those numbers, today we'll talk about how to find a job without relying on your resume or job postings.
 
-**Switch your Line of Thinking:**
-Focus on finding people and companies you'd like to work with or for, and don't get sidetracked with whether or not they have job listings posted that match your skillset. Ask yourself: *Who is doing work that interests me? How can I learn more?* The goal is to think longterm. Some of these opportunities may turn into future opportunities, rather than your first job. Be open-minded because you never know what will come of these conversations you'll start having.
+#### Turn & Talk
+At the end of last mod, you were asked to create a networking and outreach plan to execute during this mod. The goal of this plan was to start your job search by creating connections. Turn and talk to provide your partner with an update on this plan:
+
+* What connections have you created?
+* What would you like to improve in your networking and outreach plans?
+* How can you help hold each other accountable? 
+
+A few groups will share out. 
+
+#### Objectives
+
+* Pivot job search priorities to focus on finding people and companies you're interested in
+* Create and effectively use a [jobtrack.io](https://jobtrack.io/) account for your job search
+* Discuss how to use tools such as Meetup, LinkedIn, BuiltIn, and other sites to find opportunities
+* Redefine how to use job boards or job listings to capitalize on opportunities
+* Begin research on companies and jobs to jumpstart your job search
+
+### Prep for Your Job Search: Using Jobtrack.io
+The first step to a successful job search is to utilize a tracking system, which we'll set up today with [jobtrack.io](https://jobtrack.io/). Having this system to keep track of everything from companies you're interested in to notes from coffee meetings will be highly beneficial in helping you stay organized in the job search. In order to successfully pass your Module 4 portfolio, you'll need to discuss how you're using Jobtrack in your portfolio review in your PD deliverable, found [here](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md). 
+
+[Jobtrack.io](https://jobtrack.io) was built specifically for job seekers. It allows you to track relationships with companies and where you are in the process, pulling in data about companies intuitively through its free Chrome extension. You are also able to manage versions of your resume and cover letters within the tool, and it will send you reminders to proceed in different steps of the process with companies. 
+
+This [tutorial](https://drive.google.com/file/d/14SPY5CbL5hQj7JDxGrAnCMSkIgmLG78n/view?usp=sharing) can help you get started on using it effectively. 
+
+#### Your Turn
+Take 10 minutes to set up your Jobtrack account now. ....
+
+
+
 
 Let's start with these tools instead:
 
@@ -50,16 +62,6 @@ Let's start with these tools instead:
 
 There are more tools listed at the bottom of this markdown for you to consider, and we'll also discuss how you can create a system to keep yourself organized through suggested tools such as Trello and jobtrack.io. 
 
-### Create a Job Searching Tracker
-First, start with a place to track all of your job search research and to-dos. We partner with jobtrack.io to give you accounts that we can help you track your job search progress with.
-
-#### Jobtrack.io
-[Jobtrack.io](https://jobtrack.io) was built specifically for job seekers. It allows you to track relationships with companies and where you are in the process, pulling in data about companies intuitively through its free Chrome extension. You are also able to manage versions of your resume and cover letters within the tool, and it will send you reminders to proceed in different steps of the process with companies. 
-
-This [tutorial](https://drive.google.com/file/d/14SPY5CbL5hQj7JDxGrAnCMSkIgmLG78n/view?usp=sharing) can help you get started on using it effectively. 
-
-#### Your Turn
-Take 10 minutes to set up your Jobtrack account now. 
 
 ### Meetup Differently
 Meetup is traditionally used to find local networking groups. However, it can also be used to find companies you would like to work with.
