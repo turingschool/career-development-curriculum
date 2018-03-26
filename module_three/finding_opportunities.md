@@ -51,8 +51,8 @@ Take 10 minutes to set up your Jobtrack account now. ....
 
 
 
-
-Let's start with these tools instead:
+### Your Job Search Tool Box:
+Let's start with these tools: 
 
 * [Meetup](http://www.meetup.com/)
 * [LinkedIn](http://www.linkedin.com/)
@@ -60,7 +60,21 @@ Let's start with these tools instead:
 * [BuiltIn](http://builtin.com/)
 * [Training on LinkedIn from Skillful](https://www.linkedin.com/training)
 
-There are more tools listed at the bottom of this markdown for you to consider, and we'll also discuss how you can create a system to keep yourself organized through suggested tools such as Trello and jobtrack.io. 
+Include more of the other ones listed?
+
+**Whole Group:** How can you use these sites to find opportunities? 
+
+#### You Do: Group Time
+In small groups of 3-4 students, using one of the sites discussed, find at least one job that each person in the group is interested in. You'll present to the whole group:
+
+* Where you found the job
+
+
+### You Found a Job Listing: Now What?
+
+
+Recap of outreach here
+
 
 
 ### Meetup Differently
