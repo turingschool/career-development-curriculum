@@ -8,11 +8,11 @@ Now is the point in your Turing education to start on your job search, and throu
 ### Overview of Session
 Session length: 60 minutes
 
-* Opening (8 mins)
-* Jobtrack.io Tutorial & Set Up ( mins)
-* Discuss Job Searching Tools (10 mins)
-* I Do: Demo (10 mins)
-* You Do: Work Time (15 mins)
+* Opening (6 mins)
+* Jobtrack.io Tutorial & Set Up (15 mins)
+* Discuss Job Searching Tools (20 mins)
+* Group Practice (8
+* You Do: Work Time (10 mins)
 * Closing (2 mins)
 
 ### Opening  
@@ -44,14 +44,17 @@ The first step to a successful job search is to utilize a tracking system, which
 
 [Jobtrack.io](https://jobtrack.io) was built specifically for job seekers. It allows you to track relationships with companies and where you are in the process, pulling in data about companies intuitively through its free Chrome extension. You are also able to manage versions of your resume and cover letters within the tool, and it will send you reminders to proceed in different steps of the process with companies. 
 
-This [tutorial](https://drive.google.com/file/d/14SPY5CbL5hQj7JDxGrAnCMSkIgmLG78n/view?usp=sharing) can help you get started on using it effectively. 
+Let's walk through how to set up and use Jobtrack. 
+
+**Tips:**
+
+* Add the [Chrome Extension](https://chrome.google.com/webstore/search/jobtrack.io)
+* Watch this [tutorial](https://drive.google.com/file/d/14SPY5CbL5hQj7JDxGrAnCMSkIgmLG78n/view?usp=sharing) to get even more information on how to use Jobtrack.io effectively
 
 #### Your Turn
-Take 10 minutes to set up your Jobtrack account now. ....
+Take 5 minutes to set up your Jobtrack account and install the chrome extension. We'll come back to logging in more information later in the session. 
 
-
-
-### Your Job Search Tool Box:
+### Your Job Search Tool Box: 
 Let's start with these tools: 
 
 * [Meetup](http://www.meetup.com/)
@@ -67,13 +70,22 @@ Include more of the other ones listed?
 #### You Do: Group Time
 In small groups of 3-4 students, using one of the sites discussed, find at least one job that each person in the group is interested in. You'll present to the whole group:
 
-* Where you found the job
+* Where you found the job and how
+* What details you uncovered in your research
+* What steps you will take to apply
 
-
-### You Found a Job Listing: Now What?
+### Group Practice: You Found a Job Listing, Now What?
+Now that we have some job listings, we need to dig deeper. Remember, if we really want these jobs, we need to create connections with the people and the companies behind the job listings. 
 
 
 Recap of outreach here
+
+Need more help? Join the #cold-outreach channel and come to their sessions
+
+
+
+
+###
 
 
 
