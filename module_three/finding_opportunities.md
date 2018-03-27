@@ -8,12 +8,12 @@ Now is the point in your Turing education to start on your job search, and throu
 ### Overview of Session
 Session length: 60 minutes
 
-* Opening (7 mins)
+* Opening (6 mins)
 * Jobtrack.io Tutorial & Set Up (15 mins)
 * Discuss Job Searching Tools (20 mins)
 * Group Practice: Demo (8 mins)
 * You Do: Work Time (10 mins)
-* Closing (2 mins)
+* Closing (1 min)
 
 ### Opening  
 The traditional way to look for jobs isn't necessarily the best route. 
@@ -106,11 +106,6 @@ Let's start with these tools:
 * [5 Better Ways to Network on Twitter and LinkedIn](https://www.themuse.com/advice/5-better-ways-to-network-on-twitter-linkedin)
 
 **Whole Group:** How can you use these sites to find opportunities? How could you dig deeper beyond a job listing?
-
-Let's dive into what you can do with each of these tools:
-
-*
-
 
 #### You Do: Group Time
 In small groups of 3-4 students, using one of the sites discussed, find at least one job that each person in the group is interested in. You'll present to the whole group:
