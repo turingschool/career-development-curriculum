@@ -5,20 +5,10 @@
 ### Session Overview
 Length: 90 mins
 
-* Kick-off in Clarke Hall: Overview, reminders about job shadowing (5 mins)
+* Kick-off in Clarke Hall: Overview and find groups (5 mins)
 * Transition to locations (5 mins)
 * Workshop (40 mins)
 * Revisions & Submit final draft (40 mins)
-
-## Job Shadow Reminders
-Remind students about job shadowing, including professional expectations, such as:
-* Keep your phones off/out of reach 
-* Don't drink alcohol prior to the shadow
-* Dress professionally -- doesn't need to be overly dressy, focus on business casual
-* Come prepared with questions
-
-Read this feedback we've gotten from an alum at Ibotta to your students: 
-```As a Turing grad who benefitted greatly from shadowing, it's a pleasure to be able to hopefully provide the same benefit to Turing students who shadow me at Ibotta. I have a bit of feedback for future shadowing students: It's best not to consume anything before the shadowing that might cause one's breath to smell like alcohol. If it's not alcohol, then sometimes chewing tobacco can cause this odor. When you're sitting right next to someone you're shadowing, they will smell it. So that's something Turing students might want to be aware of before they shadow. Another thing is that it's best not to check your phone while the person you're shadowing is trying to show you things. It's rude and shows that you're unengaged during time that the person has taken out of their day to hopefully show you useful stuff. Another thing I'd recommend is for students to come prepared with questions. This is a rare opportunity to learn what life is like outside of Turing, and it's a shame to not take advantage of it. Respectfully asking questions also evidences engagement and interest on the part of the student. I am so glad that Turing offers its students this opportunity, and it was something that I found really useful. I hope this feedback isn't too heavy-handed. Just something I wanted to share with you. Thanks for all that you do, and I hope to get to meet you in person some day soon!```
 
 ## Workshop Overview
 Each student should have 10 minutes for their workshop. Go around the group for quick intros and decide who will go first. The student who is presenting should come prepared to:
