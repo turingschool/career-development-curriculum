@@ -58,10 +58,32 @@ Take 5 minutes to set up your Jobtrack account and install the chrome extension.
 Let's start with these tools: 
 
 * [Meetup](http://www.meetup.com/)
+   * Tips: Search for groups local to the area you’re interested in working and in topics that you're interested in pursuing (i.e. Ruby, JavaScript, etc.). Be sure to select "Groups" (not "Calendar"). On the group page, there are two things that will be very useful to your job search:
+      * Organizers list: who are they? Where do they work? What other meetups are they active in?
+      * Upcoming events: look at the RSVP list; Who else is going? What companies do they work for? 
 * [LinkedIn](http://www.linkedin.com/)
+   * Tips: 
+      * Use the "Advanced Search" tool to find people based on skillset, location, and industry OR names of companies and select the "People who work at..." option
+      * In "Keywords" type in the skills or focus you want to be working in (i.e., JavaScript, Ruby, Python, EdTech, FinTech, etc.)
+      * In "Location" type in the area where you'd like to work
+      * In "Industry" select "computer software"
+      * Search: Of those profiles that return, look at their profiles to see the list of companies they've worked for throughout their experience. What companies do you want to continue to research? Who do you want to connect with? 
+      * You can also click on the company’s page and on the right side, view "Similar Companies" where your connections work
 * [Google](http://www.google.com/)
+    * Tips:  
+      * Search “top tech companies in [location]” / "top workplaces in [industry (edtech, fintech, etc.)]" and look for a journalist-generated list of companies that are recommended in that area
+      * Pick a couple companies to look into and walk through their website, including their careers page and team page
+      * Research these people on LinkedIn, Twitter, and look for a personal blog 
+    * Other Resources:
+      * [25 Killer Combos for Google's Site: Operator](https://moz.com/blog/25-killer-combos-for-googles-site-operator)
+      * [How to Use Google Search More Effectively](http://mashable.com/2011/11/24/google-search-infographic/)
 * [BuiltIn](http://builtin.com/)
+    * Tips:
+      * Located in Austin, Boston, Chicago, Colorado, LA, New York
+      * Create a profile -- there are 150 companies that are hiring in Colorado alone!
 * [Training on LinkedIn from Skillful](https://www.linkedin.com/training)
+    * Tips:
+      * Use the "See Jobs" button to generate a list of companies to learn about 
 * [Github’s Job Board](https://jobs.github.com/)
 * [Smashing Magazine’s Job Board](http://jobs.smashingmagazine.com/)
 * [Mashable's Job Board](http://jobs.mashable.com/jobs/search/results)
@@ -121,76 +143,3 @@ You have 10 minutes now to get started researching and adding opportunities you'
 It's important to take the time now to organize your job search. Take these steps to make this process less daunting and empower yourself. 
 
 Next week, you'll be going on Job Shadowing. We know that this is *not* a job interview, but it is an opportunity to create connections with others in the industry. Add contact information and other info to your Jobtrack from your Job Shadowing experience. 
-
-
-### Meetup Differently
-Meetup is traditionally used to find local networking groups. However, it can also be used to find companies you would like to work with.
-
-#### Your Turn
-* Navigate to [Meetup.com](http://www.meetup.com/)
-* Using information from your Flower Exercise findings, search for groups local to the area you’re interested in working and in topics that you're interested in pursuing (i.e. Ruby, JavaScript, etc.). Be sure to select "Groups" (not "Calendar").
-* On the group page, there are two things that will be very useful to your job search: 
-    * Organizers list
-    * Upcoming events
-* Check out who the organizers are. Where do they work? What other meetups are they active in? Are any of these companies of interest?
-* Now navigate to the RSVP list. Who else is going? What companies do they work for? These are great resources for finding companies that you may be interested in working for that you may not have known before!
-
-### LinkedIn Actively
-It's not enough to just have a profile and hope employers find you. Use LinkedIn to learn more about people using similar skills to those you'd like to use in your career or find people with the working titles you'd like to have, living in the location you'd like to be living and working in, and working in the industry you'd like to be working in.
-
-#### Your Turn
-
-* Navigate to [LinkedIn.com](http://www.linkedin.com/)
-* Use the "Advanced Search" tool to find people based on skillset, location, and industry.
-* In "Keywords" type in the skills or focus you want to be working in (i.e., JavaScript, Ruby, Python, EdTech, FinTech, etc.)
-* In "Location" type in the area you'd like to be working it, whether it is where you're located or not.
-* In "Industry" select "computer software"
-* Select search
-* Of those profiles that return, look at their profiles to see the list of companies they've worked for throughout their experience.
-* Add those companies of interest to your company tracker, include the person(s) you believe you could build a relationship with at those companies.
-
-### LinkedIn Company Connections
-If you already have companies in mind that you would like to work with/for, don't just apply to an open position, *if* there is an open position. Find someone at the company that you believe you could build a relationship with and ask for an informational interview to learn more about the company culture, team dynamics, and work flow.
-
-#### Your Turn
-
-- Navigate to [LinkedIn.com](http://linkedin.com)
-- Search for people to connect with that work for companies you’re interested in by typing the search box the name of the company. As you type a drop down selection of “People who work at…” will appear. Select that option.
-- Narrow it down by the location where you’d like to work.
-- Then narrow it down by industry - "computer software."
-- Now click through the results and determine whom you feel you can build a relationship with. When you find one, research them.
-- When you feel like you know what you need to, write a personalized connection message to them with a call to action. See these **[Cold Outreach Guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/cold_outreach_guidelines.md)** for some tips for reaching out. 
-- You can also click on the company’s page and on the right side, view "Similar Companies" where your connections work. 
-
-### Google... because it's at your fingertips
-Often job seekers forget to Google the simplest of searches. Don't forget to research even the simplest of phrases. Finding a journalist-curated list of top companies in your field of interest can go a long way as a springboard for where to focus your research. 
-
-**Resources for making the most of a Google search:**
-
-* [25 Killer Combos for Google's Site: Operator](https://moz.com/blog/25-killer-combos-for-googles-site-operator)
-- [How to Use Google Search More Effectively](http://mashable.com/2011/11/24/google-search-infographic/)
-- [Boolean Black Belt-Sourcing/Recruiting](http://booleanblackbelt.com/)
-
-#### Your Turn
-
-- Navigate to [Google](http://google.com)
-- Pick a location you’re interested in exploring opportunities.
-- Search “top tech companies in [location]” / "top workplaces in [industry (edtech, fintech, etc.)]"
-- Look for a journalist-generated list of companies that are recommended in that area.
-- Pick a couple companies to look into.
-- Walk through the about page, careers page, and team page
-- Research these people on LinkedIn, Twitter, and look for a personal blog by this person/people
-- Evaluate how you could build a connection with someone from that company
-
-### Other Tools
-
-* BuiltIn -- located in Austin, Boston, Chicago, Colorado, LA, New York
-   * Create a profile -- there are 150 companies that are hiring in Colorado alone!
-* Training Opportunities from Skillful on LinkedIn
-   * Use the "See Jobs" button to generate a list of companies to learn about. 
-
-#### Your Turn
-
-* If you are interested in any of the 6 locations for BuiltIn, navigate to [BuiltIn](http://builtin.com/) to set up a profile
-* Explore the companies listed in Skillful's list
-
