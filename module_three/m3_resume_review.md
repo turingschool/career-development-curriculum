@@ -1,5 +1,7 @@
 # Module Three Resume Review Guidelines
 
+[Slides](https://docs.google.com/presentation/d/1QVsxi9TL1FQ7QL3w-FA_xnj8iCX095uUcnhJDRvqhiU/edit?usp=sharing)
+
 ### Session Overview
 Length: 90 mins
 
