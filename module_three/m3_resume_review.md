@@ -1,4 +1,16 @@
-# Module Three Resume Review Guidelines (Week Three)
+# Module Three Resume Review Guidelines
+
+### Session Overview
+Length: 90 mins
+
+* Kick-off in Clarke Hall: Overview, reminders about job shadowing (5 mins)
+* Transition to locations (5 mins)
+* Workshop (40 mins)
+* Revisions & Submit final draft (40 mins)
+
+### Workshop Overview
+
+
 
 ## Facilitator Guide
 
