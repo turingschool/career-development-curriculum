@@ -90,6 +90,7 @@ Let's start with these tools:
 * [Angel List](https://angel.co/jobs)
 * [Hired](https://hired.com/)
 * [Stack Overflow Job Board](http://careers.stackoverflow.com/jobs)
+* [Hacker News](https://news.ycombinator.com/jobs)
 * [Craigslist](https://denver.craigslist.org/d/software-qa-dba-etc/search/sof) - *this link is specific to Denver, but you can use this with any city*
 * [Top Ruby Jobs](https://toprubyjobs.com/)
 * [Ruby Weekly](http://rubyweekly.com/)
