@@ -85,6 +85,7 @@ Let's start with these tools:
     * Tips:
       * Use the "See Jobs" button to generate a list of companies to learn about 
 * [Github’s Job Board](https://jobs.github.com/)
+* [Glassdoor](https://www.glassdoor.com/index.htm)
 * [Smashing Magazine’s Job Board](http://jobs.smashingmagazine.com/)
 * [Mashable's Job Board](http://jobs.mashable.com/jobs/search/results)
 * [Angel List](https://angel.co/jobs)
