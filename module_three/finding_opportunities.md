@@ -88,6 +88,7 @@ Let's start with these tools:
 * [Smashing Magazine’s Job Board](http://jobs.smashingmagazine.com/)
 * [Mashable's Job Board](http://jobs.mashable.com/jobs/search/results)
 * [Angel List](https://angel.co/jobs)
+* [Hired](https://hired.com/)
 * [Stack Overflow Job Board](http://careers.stackoverflow.com/jobs)
 * [Craigslist](https://denver.craigslist.org/d/software-qa-dba-etc/search/sof) - *this link is specific to Denver, but you can use this with any city*
 * [Top Ruby Jobs](https://toprubyjobs.com/)
