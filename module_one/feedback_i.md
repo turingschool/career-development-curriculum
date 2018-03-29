@@ -139,7 +139,7 @@ Discuss these examples with your partner:
 
 | Feedback | Giver's Intent | Giver's Impact |
 | ------ | ---------------- | ---------------- |
-| I think the project went fine overall. But I think you should work on your organization skills. You were late to most meetings. | The project got finished, no real complaints, but my partner should know that tardiness is affecting their pairing abilities | This is so harsh. Didn’t I do anything right? |
+| I think the project went fine overall. But I think you should work on your organization skills. You were late to most meetings. | The project got finished, but my partner should know that tardiness is affecting their pairing abilities | This is so harsh. Didn’t I do anything right? |
 | You're making a lot of strides with TDD. You got a 3 on testing again this project | Few people ever get a 4, and you got a 3 twice in a row. This is impressive! | I worked even harder than last project, and I still got a 4. This instructor is too hard on me. |
 
 ### Being Intentional in Giving Feedback
