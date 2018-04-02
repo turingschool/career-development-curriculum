@@ -83,8 +83,8 @@ Of the feedback you've received, what themes are emerging?
 Group these answers into areas that help you parse through the feedback:
 
 Example:
-| Project | Paired Project #1 | Paired Project #2 | Paired Project #3
-| ----------- | ------------ | ------------ | ------------ |
+| Project | Paired Project #1 | Paired Project #2 | Paired Project #3 |
+| ------- | ----------------- | ----------------- | ---------------- |
 | Appreciation | -Effective communication using Slack<br>-JavaScript/Ruby skills help produce clean code | -Less merge conflicts in this project<br>-CSS looks better, closer to spec<br>-Helped group increase communication through daily retros -Helped partner write cleaner code | -Using Waffle to keep group on track and increase communication<br>-TDD scores moved up to 3 |
 | Coaching | -Using Git<br>-TD<br>-CSS | -Using GitHub for code review<br>-Tests only sometimes pass | -Tagging partners in PRs regularly |
  
