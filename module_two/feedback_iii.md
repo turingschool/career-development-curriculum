@@ -7,10 +7,15 @@
 
 Length: 60 minutes
 
-* Opening (3 mins)
-* Feedback Review (12 mins)
-* Right & Wrong Spotting (20 mins)
-* Johari Windows & Personal Reflections (20 mins. on Johari Windows, 10 mins. on personal reflection)
+* Opening (2 mins)
+* Reflection & Turn & Talk (8 mins)
+* Process for Implementing Feedback (15 mins)
+  * Right & Wrong Spotting
+  * Name One Thing 
+  * Look for Themes
+  * Analyze Priorities
+  * Experiment: Try It Out 
+* Johari Windows & Personal Reflections (30 mins total: 20 mins. on Johari Windows, 10 mins. on personal reflection)
 * Closing (3 mins.)
 
 ### Why
@@ -18,41 +23,38 @@ In your third and final feedback session, we'll spend time reflecting on how we 
 
 What value is there in using feedback for personal growth? Why is this something we're talking about at Turing?
 
-* Whole Group Discussion
-
 ### Objectives
 
 * Analyze our reactions and feelings about feedback
-* Discuss and apply the Right & Wrong Spotting Technique to feedback reflections
+* Utilize a process for implementing feedback
 * Use the Johari Window technique to recognize your own blind spots
 * Create goals for how to improve your collaboration practices
 
 ### Optional Deliverable
 Use your Johari Windows and to complete [this reflection](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/feedback_implementation_strengths_reflection.md) 
 
-### Feedback Tests Our Growth Mindsets
-Review: what is a growth mindset? How do you think feedback might affect a growth mindset?
+### Taking Feedback
+Reflect on these questions in your journal and then **Turn & Talk** to discuss your ideas with a partner:
 
-Pulse Check: How much does this sound like you? Reflect in your journals on these statements:
-
-| To What Degree is this Me? | Never, Occasionally, Sometimes, Often, Always |
-| ------ | ---------------- | 
-| I love feedback. | 1 - 2 - 3 - 4 - 5 | 
-| I recognize when I have feedback triggers. | 1 - 2 - 3 - 4 - 5 |
-| I separate how I'm feeling from the feedback. | 1 - 2 - 3 - 4 - 5 |
-| I view tough situations as learning opportunities. | 1 - 2 - 3 - 4 - 5 |
-| I reward myself when I get something helpful from feedback because of the way I handled it.  | 1 - 2 - 3 - 4 - 5 |
-
-**Turn & Talk:** 
-Turn to the person next to you to discuss your reflections on the above statements. How do you and your partner feel similarly or differently about these statements?
+* When in your life have you taken feedback to heart and tried to do something with it? 
+* What was that process like? 
+* What was the result? 
 
 **Whole Group Debrief:**
 
-* What did you and your partner have in common about these statements?
-* How did you differ?
+* What kind of process might you implement here at Turing?
 * Based on this discussion, where would you like to see a change in your attitude towards feedback?
 
-### Right & Wrong Spotting
+### Process for Implementing Feedback
+It can sometimes be difficult to know what to do with the feedback we receive, so today we'll talk through a process for how to implement feedback effectively:
+
+* Right & Wrong Spotting
+* Name One Thing 
+* Look for Themes
+* Analyze Priorities
+* Experiment: Try It Out 
+
+
 When we receive feedback, often our first reaction is that it's wrong or unhelpful. That's a valid feeling resulting from a trigger and the impact that the feedback has on you -- go with it. Pay attention to why you're having this impact. 
 
 **In the moment:**
