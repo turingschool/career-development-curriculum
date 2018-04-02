@@ -9,11 +9,11 @@ Length: 60 minutes
 
 * Opening (2 mins)
 * Reflection & Turn & Talk (8 mins)
-* Process for Implementing Feedback (15 mins)
+* Process for Implementing Feedback (15-20 mins)
   * Right & Wrong Spotting
-  * Name One Thing 
   * Look for Themes
   * Analyze Priorities
+  * Name One Thing
   * Experiment: Try It Out 
 * Johari Windows & Personal Reflections (30 mins total: 20 mins. on Johari Windows, 10 mins. on personal reflection)
 * Closing (3 mins.)
@@ -49,12 +49,12 @@ Reflect on these questions in your journal and then **Turn & Talk** to discuss y
 It can sometimes be difficult to know what to do with the feedback we receive, so today we'll talk through a process for how to implement feedback effectively:
 
 * Right & Wrong Spotting
-* Name One Thing 
 * Look for Themes
 * Analyze Priorities
+* Name One Thing
 * Experiment: Try It Out 
 
-
+#### Right & Wrong Spotting
 When we receive feedback, often our first reaction is that it's wrong or unhelpful. That's a valid feeling resulting from a trigger and the impact that the feedback has on you -- go with it. Pay attention to why you're having this impact. 
 
 **In the moment:**
@@ -73,13 +73,38 @@ Use the Right & Wrong Spotting Technique to turn the feedback into something use
 | ------ | ---------------- | 
 | What do I not agree with about this feedback? | What is something right that I can use from this feedback? |
 
-#### I Do
-Allison will model how she would use the Right & Wrong Spotting technique to parse through feedback.
+#### Look for Themes
+Of the feedback you've received, what themes are emerging?
 
-#### You Do
-Spend 10 minutes reflecting on feedback that you've received recently. Create a right and wrong spotting table and write out any questions that you have still to clarify that feedback further. You'll need to make sure to ask these questions from your previous partners later!
+**Appreciation:** What do others see me doing well?
 
-### Johari Windows
+**Coaching:** How do my partners/instructors/mentors think I can improve?
+
+Group these answers into areas that help you parse through the feedback:
+
+Example:
+ 
+#### Analyze Priorities
+Now that you have your buckets of feedback, decide what's most important to you to both strengthen and improve. Order your priorities in a list:
+
+*From the example above:*
+1. 
+
+#### Name One Thing
+Out of those priorities, pick one thing that feels both doable and important for you to try. *If you've analyzed your priorities thoroughly, this one thing should be 1 or 2 on your list:*
+
+#### Experiment: Try It On & Try It Out
+You should never expect to change your habits completely in one day. It's not necessary, and it might put undue pressure on you to change. Instead, think about the first step of implementing feedback as an *experiment.* This is your chance to see what fits about the feedback and what feels doable to move forward with.
+
+Consider:
+
+* How to try it out in a low-stakes environment
+* How your perspective changes
+* What's the worst thing that could happen? *By answering that question for yourself, you may see that there is little downside*
+
+Creating a process for yourself can help take the ego out of the equation as you focus on building the skill of self-improvement. 
+
+### Putting It Into Practice: Johari Windows
 Created by psychologists Joseph Luft and Harrington Ingham in 1955 (and named for them, combining the names Joe and Harry), the Johari Window is a technique used to help people better understand their relationship with themselves and others.
 
 Complete the [Johari Window activity](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/johari_window_activity.md) using the adjectives you and your teammates identified for you ahead of time. Create your own copy of the [Johari Window](https://docs.google.com/document/d/1IFaKPTEA3V96i8cboxqeAfgKEyEbigwIxQ5KQ-lp440/edit?usp=sharing).
@@ -90,7 +115,7 @@ Analyze:
 * For the Blind Spot quadrant, is there anything you'd like to build more awareness around? How will you do that? 
 
 #### You Do
-Spend 15 minutes creating your Johari Windows and then the last 10 minutes of this practice time on [your reflection](https://github.com/turingschool/career-development-curriculum/edit/master/module_two/feedback_implementation_strengths_reflection.md).
+Spend 20 minutes creating your Johari Windows and then the last 10 minutes of this practice time on [your reflection](https://github.com/turingschool/career-development-curriculum/edit/master/module_two/feedback_implementation_strengths_reflection.md).
 
 ### Closing
 Questions & Takeaways
