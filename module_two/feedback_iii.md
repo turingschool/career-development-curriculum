@@ -76,13 +76,18 @@ Use the Right & Wrong Spotting Technique to turn the feedback into something use
 #### Look for Themes
 Of the feedback you've received, what themes are emerging?
 
-**Appreciation:** What do others see me doing well?
+**Appreciation:** What do others see me doing well? Where am I improving?
 
 **Coaching:** How do my partners/instructors/mentors think I can improve?
 
 Group these answers into areas that help you parse through the feedback:
 
 Example:
+| Project      | Paired Project #1                                                                    | Paired Project #2                                                                                                                                                    | Paired Project #3                                                                         |
+|--------------|--------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
+| Appreciation | -Effective communication using Slack,<br>-JavaScript/Ruby skills help produce clean code | -Less merge conflicts in this project<br>-CSS looks better, closer to spec<br>-Helped group increase communication through daily retros -Helped partner write cleaner code | -Using Waffle to keep group on track and increase communication<br>-TDD scores moved up to 3 |
+| Coaching     | -Using Git<br>-TD<br>-CSS                                                                 | -Using GitHub for code review<br>-Tests only sometimes pass                                                                                                             | -Tagging partners in PRs regularly                                                        |
+
  
 #### Analyze Priorities
 Now that you have your buckets of feedback, decide what's most important to you to both strengthen and improve. Order your priorities in a list:
