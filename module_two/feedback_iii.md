@@ -93,10 +93,15 @@ Example:
 Now that you have your buckets of feedback, decide what's most important to you to both strengthen and improve. Order your priorities in a list:
 
 *From the example above:*
-1. 
+1. Continuing to improve Git Worflow; Why? Because I want to be seen as competent in this area in job interviews and in my new career.
+2. Continuing to refine Agile practices; Why? Because my partners often comment on my ability to communicate well with the team
+3. Continuing to strengthen my TDD skills
 
 #### Name One Thing
 Out of those priorities, pick one thing that feels both doable and important for you to try. *If you've analyzed your priorities thoroughly, this one thing should be 1 or 2 on your list:*
+
+*From the example above:*
+* Improving Git workflow
 
 #### Experiment: Try It On & Try It Out
 You should never expect to change your habits completely in one day. It's not necessary, and it might put undue pressure on you to change. Instead, think about the first step of implementing feedback as an *experiment.* This is your chance to see what fits about the feedback and what feels doable to move forward with.
