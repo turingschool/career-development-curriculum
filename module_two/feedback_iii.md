@@ -93,9 +93,9 @@ Example:
 Now that you have your buckets of feedback, decide what's most important to you to both strengthen and improve. Order your priorities in a list:
 
 *From the example above:*
-1. Continuing to improve Git Worflow; Why? Because I want to be seen as competent in this area in job interviews and in my new career.
-2. Continuing to refine Agile practices; Why? Because my partners often comment on my ability to communicate well with the team
-3. Continuing to strengthen my TDD skills
+1. Continuing to improve Git Workflow; Why? Because I want to be seen as competent in this area in job interviews and in my new career.
+2. Continuing to refine agile practices; Why? Because my partners often comment on my ability to communicate well with the team
+3. Continuing to strengthen my TDD skills; Why? Because testing is a good practice for making reliable code and will cut back on refactoring I'll have to do later
 
 #### Name One Thing
 Out of those priorities, pick one thing that feels both doable and important for you to try. *If you've analyzed your priorities thoroughly, this one thing should be 1 or 2 on your list:*
