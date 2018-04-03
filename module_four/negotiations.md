@@ -7,6 +7,8 @@ For some reason we live in a world that is afraid to talk openly about money. Th
 
 ### Session Structure
 
+
+
 * Opening: objectives, reflection, turn & talk (15 mins)
 * Unpacking the Conversation (15 mins)
   * The Why of Negotiating (3 mins) 
