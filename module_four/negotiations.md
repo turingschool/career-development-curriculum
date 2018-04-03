@@ -7,9 +7,26 @@ For some reason we live in a world that is afraid to talk openly about money. Th
 
 ### Session Structure
 
+* Opening: recap external review, why of negotiating, reflection (10 mins)
+-Recap from external review: follow up with people who wanted to keep in touch
+-Opening:
+	-Why of negotiating
+	-Reflection: have you negotiated in the past? What was your experience? If you haven’t negotiated, why not?
+-INM:
+	-Introduce question: what would you say if you were asked this question?
+	-Don’t give a number — this is a conversation
+	-Instead, say this and here’s all the things you can consider when looking at an offer…
+-Example: what would you consider about this offer?
+	-Discuss
+-Email chain demo on this offer — scripted and think aloud
+	-Evaluated multiple offers
+	-Asking for extensions
+	-Negotiating beyond the salary
+-You Do: Provide offer example and discuss negotiating beyond salary
+	-In groups, discuss and craft a response
 
 
-* Opening: objectives, reflection, turn & talk (15 mins)
+* Opening: objectives, recap of external review, turn & talk (10-15 mins)
 * Unpacking the Conversation (15 mins)
   * The Why of Negotiating (3 mins) 
   * Turn & Talk (5 mins)
