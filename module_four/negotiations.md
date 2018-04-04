@@ -50,6 +50,11 @@ Recap External Review:
 
   * Keep in mind that the [wage gap](http://www.latimes.com/business/technology/la-fi-tn-0323-pay-gap-20160323-story.html) in [tech](http://www.payscale.com/data-packages/gender-pay-gap/women-in-tech) is very real. Creating transparency around salaries is an important step in closing that gap, and that transparency starts with negotiations. Do not let money stay on the table that could be yours.
   
+  SET BETTER EXPECTATIONS ABOUT WHY WE'RE DOING THIS SESSION:
+  -Companies expect you to negotiate, so they will low-ball you at first
+  -This is about having tools to 
+  -If you're not sure about the offer, bring it to us and see what we think;
+  
 **Let's say you're asked the question: "What are your salary expectations?"**
 
   * **Do not put a number on the table** -- you can't negotiate after showing your cards. Instead, say: *"I would love to hear what you're offering for this position so I can have more context for the conversation."*
