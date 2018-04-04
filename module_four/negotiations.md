@@ -54,12 +54,15 @@ Recap External Review:
   -Companies expect you to negotiate, so they will low-ball you at first
   -This is about having tools to 
   -If you're not sure about the offer, bring it to us and see what we think;
+  -You don't have to negotiate but here's the data on students who negotiated and what they were able to get -- LOOK THIS UP; Ian will look at his Slack; Bekah Lundy -- when she was applying at Apto, they were going to offer her $55k and she countered with $70k and got it because they didn't realize that it was market-rate
   
 **Let's say you're asked the question: "What are your salary expectations?"**
 
   * **Do not put a number on the table** -- you can't negotiate after showing your cards. Instead, say: *"I would love to hear what you're offering for this position so I can have more context for the conversation."*
   * During this discussion, you may be talking with a hiring manager. Don’t be offended if they ask you again -- they are just doing what they've been told, and they might not be equipped to go through a negotiation at that time. You should still push back about wanting to know more about what is being offered. 
   * Again, never give a number. If you're filling out an online form, and it expects an answer, it's fine to write in 0 or $1 and mention that you want to have a follow-up discussion (as all salary discussions should be). 
+  
+  "I'm brand-new in the industry, here's what market rate is, but I'd like you to evaluate what my skills are worth." You're in a better position to evaluate my skills and how you would value my skills and background. 
 
 #### Navigating the Conversation
 Once you've asked for more context and you're given an offer, think about these next steps:
@@ -80,6 +83,8 @@ Once you've asked for more context and you're given an offer, think about these 
 * **Create Leverage:** Reach out to other companies that you're interviewing with and let them know that you've received another offer and that you're most interested in an opportunity with their company. Then ask *"do you know what your timeline is for making a hiring decision?"* as a way to leverage your offer. 
   * This puts the ball in their court and tells the company that you a person who is sought after, which increase their interest
   * When you find out timelines from the other companies you're interviewing with, let the offering company know that you're very thankful and excited for the opportunity, but you're also deep in the process with "x number" of companies, and it's too early into your career to burn any bridges; you'd like to honor the process. Could you give them an answer by "X" date?
+  
+  Ian: If I have an offer but want to sound more interested in other companies, say "I have another offer, it's expiring within this time; I'm going to ask them for an extension because I want to keep working with you." -- letting them know interest but also making sure you are still pursuing the other offer; wanting to evaluate all companies 
 
 * **Negotiating the Offer:** Once you have all the facts and can make a decision, go back to the company:
   * Eliminate passive language when negotiating, but always be generous and respectful.
@@ -94,6 +99,20 @@ Once you've asked for more context and you're given an offer, think about these 
     * Using "we" shows that this is a joint effort
     * Not an aggressive move -- "close the gap" instead of "I need this"
     * Don't mention another company or their offer -- that becomes aggressive. Tech industry is small, and companies talk. Don't give them a bad impression; plus, you don't know what's happening behind the scenes
+    
+    -You should give reasons; if you ask for something without a reason, you come across as greedy/needy; if you're going to negotiate beyond salary, trade for something; if you want more benefits, give an idea why or trade something for it; if you want extra time off, what could you give back instead of time off? If salary is not where you want it to be, get signing bonus; especially if benefits don't kick in for 90 days (you have family, etc.) if you get a cash bonus up-front, it'll be taxed -- take taxes into consideration; because it's a one-time payment, companies are usually fine;
+    
+    -Depending on what's important to you, it will affect how you talk about it; give more details about what you value; "I want to continue growing and learning while I'm there, would you consider giving a professional development stipend?"
+    
+    "Will you reimburse IRS-approved relocation expenses?" They can get a tax write-off; get a list of what's reimbursable. 
+    
+    -PTO; if PTO is important, you need to be able to explain why personal rest time is important without sounding "lazy" or that work is a burden; you can emphasize travel/family/what you would trade for it
+    
+    -Working remotely -- is that something that's part of the company culture? If they allow for it, how much will they allow? Will they reimburse internet at home? Probably not, but if I'm in the metro area, will you reimburse co-working space? You could mention working with clients, other teammates, for a selling point; Could ask for remote at all
+    
+    -Commute/transportation costs; could discuss that but it has to be company-wide, they might not change the rules for you
+    
+    "If you can do this, then I'm on board." 
 
 ### I Do: Negotiation Demo
 -Evaluate multiple offers
@@ -127,7 +146,7 @@ Here is my email response to the hiring manager:
 
 ### What if a Company Can't Meet Your Counter?
 * If the company is unable to meet your counter offer, *this is okay.* It is good practice to always negotiate
-  * Consider asking for a three-month review to set goals and milestones and continue to evaluate what you’re worth
+  * Consider asking for a three-month review and set goals and milestones together to continue to evaluate what you’re worth at the end of that time
   * Follow that up with a six-month review to evaluate your performance against those goals/milestones
     * Say something like, *"I want to see these goals, and if I make them by 6 months, I want to then discuss a raise in my salary."* Bring it up in initial negotiation to put it on the table, and even if they do reviews later in the year, it doesn't hurt to ask during the initial negotiation.
     
@@ -154,6 +173,12 @@ Here is my email response to the hiring manager:
 ### You Do: Group Discussion
 You receive this offer (GET IAN'S INPUT):
 
+In an area you're not excited about -- longer commute; they say they don't negotiate or it's non-negotiable, how might you handle that? 
+
+* $65k
+* 2 weeks of PTO
+* $500/yr for PD 
+* 
 
 
 In your small groups, discuss:
@@ -161,7 +186,7 @@ In your small groups, discuss:
 * What are the pros and cons of this offer?
 * What is missing?
 * What might you negotiate for?
-* 
+* How can you ask for just a little bit more in one area? 
   
 ### Resources for Follow-Up
 
