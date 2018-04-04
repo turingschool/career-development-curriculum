@@ -7,11 +7,6 @@ For some reason we live in a world that is afraid to talk openly about money. Th
 
 ### Session Structure
 
-* Opening: recap external review, why of negotiating, reflection (10 mins)
--Recap from external review: follow up with people who wanted to keep in touch
--Opening:
-	-Why of negotiating
-	-Reflection: have you negotiated in the past? What was your experience? If you haven’t negotiated, why not?
 -INM:
 	-Introduce question: what would you say if you were asked this question?
 	-Don’t give a number — this is a conversation
@@ -19,23 +14,16 @@ For some reason we live in a world that is afraid to talk openly about money. Th
 -Example: what would you consider about this offer?
 	-Discuss
 -Email chain demo on this offer — scripted and think aloud
-	-Evaluated multiple offers
-	-Asking for extensions
-	-Negotiating beyond the salary
+	
 -You Do: Provide offer example and discuss negotiating beyond salary
 	-In groups, discuss and craft a response
 
 
-* Opening: objectives, recap of external review, turn & talk (10-15 mins)
-* Unpacking the Conversation (15 mins)
-  * The Why of Negotiating (3 mins) 
-  * Turn & Talk (5 mins)
-  * Share Out (2 mins)
-  * Back to the question (5 mins)
-* Offer Discussion (10 mins)
-* Pair practice & Debrief (10 mins)
-* Q & A (8 mins)
-* Closing (2 mins)
+* Opening: objectives, recap of external review, turn & talk (10 mins)
+* Ins & Outs of Negotations (15 mins)
+* I Do: Offer Discussion & Demo (10 mins)
+* You Do: Group Discussions (20 mins)
+* Debrief & Closing (5 mins)
 
 ### Objectives 
 
@@ -102,8 +90,11 @@ Once you've asked for more context and you're given an offer, think about these 
     * Not an aggressive move -- "close the gap" instead of "I need this"
     * Don't mention another company or their offer -- that becomes aggressive. Tech industry is small, and companies talk. Don't give them a bad impression; plus, you don't know what's happening behind the scenes
 
-
 ### I Do: Negotiation Demo
+-Evaluate multiple offers
+	-Asking for extensions
+	-Negotiating beyond the salary
+
 Let's say that you've received this offer:
 
  	* $70k salary
