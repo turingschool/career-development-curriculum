@@ -7,18 +7,6 @@ For some reason we live in a world that is afraid to talk openly about money. Th
 
 ### Session Structure
 
--INM:
-	-Introduce question: what would you say if you were asked this question?
-	-Don’t give a number — this is a conversation
-	-Instead, say this and here’s all the things you can consider when looking at an offer…
--Example: what would you consider about this offer?
-	-Discuss
--Email chain demo on this offer — scripted and think aloud
-	
--You Do: Provide offer example and discuss negotiating beyond salary
-	-In groups, discuss and craft a response
-
-
 * Opening: objectives, recap of external review, turn & talk (10 mins)
 * Ins & Outs of Negotations (15 mins)
 * I Do: Offer Discussion & Demo (10 mins)
@@ -43,26 +31,35 @@ Recap External Review:
 * If so, what was your experience? 
 * If you haven’t negotiated, why not?
 
+### The Why
+
+* As our mission states, we aim to unlock human potential by training a diverse, inclusive student body to **succeed in high-fulfillment technical careers.** As part of that high-fulfillment piece, we aim to provide you with the tools to navigate offer negotiations. It's up to you to use these tools, but keep in mind that companies will low-ball you with their first offer because they *expect you to negotiate.*
+
+* A negotiation conversation could take as little as 5 minutes. Think about that. You generally can’t do 5 minutes of work this year and have your boss give you an extra $10,000. But you can pick up $10,000 in salary negotiations just by having a conversation about your compensation. That makes your negotiation five very important minutes so that no money is left on the table. You can't afford to *not* negotiate. Not only that, but when our alumni have used these negotiations tools, they've been able to get more of what they deserve:
+
+	* Alum Bekah Lundy: when she was applying at Apto, they were going to offer her $55k, unaware of what the going market-rate was for a Turing grad. When she countered with $70k, she got it
+
+If you're ever given an offer that you're not sure how to negotiate, bring it to the staff and we'll help. 
+
+* Keep in mind that the [wage gap](http://www.latimes.com/business/technology/la-fi-tn-0323-pay-gap-20160323-story.html) in [tech](http://www.payscale.com/data-packages/gender-pay-gap/women-in-tech) is very real. Creating transparency around salaries is an important step in closing that gap, and that transparency starts with negotiations. Do not let money stay on the table that could be yours.
+
 ### Ins & Outs of Negotiations
-**Why Negotiating Matters:**
-
-  * A negotiation conversation could take as little as 5 minutes. Think about that. You generally can’t do 5 minutes of work this year and have your boss give you an extra $10,000. But you can pick up $10,000 in salary negotiations just by having a conversation about your compensation. That makes your negotiation five very important minutes so that no money is left on the table. You can't afford to *not* negotiate. 
-
-  * Keep in mind that the [wage gap](http://www.latimes.com/business/technology/la-fi-tn-0323-pay-gap-20160323-story.html) in [tech](http://www.payscale.com/data-packages/gender-pay-gap/women-in-tech) is very real. Creating transparency around salaries is an important step in closing that gap, and that transparency starts with negotiations. Do not let money stay on the table that could be yours.
-  
-  SET BETTER EXPECTATIONS ABOUT WHY WE'RE DOING THIS SESSION:
-  -Companies expect you to negotiate, so they will low-ball you at first
-  -This is about having tools to 
-  -If you're not sure about the offer, bring it to us and see what we think;
-  -You don't have to negotiate but here's the data on students who negotiated and what they were able to get -- LOOK THIS UP; Ian will look at his Slack; Bekah Lundy -- when she was applying at Apto, they were going to offer her $55k and she countered with $70k and got it because they didn't realize that it was market-rate
-  
 **Let's say you're asked the question: "What are your salary expectations?"**
 
-  * **Do not put a number on the table** -- you can't negotiate after showing your cards. Instead, say: *"I would love to hear what you're offering for this position so I can have more context for the conversation."*
-  * During this discussion, you may be talking with a hiring manager. Don’t be offended if they ask you again -- they are just doing what they've been told, and they might not be equipped to go through a negotiation at that time. You should still push back about wanting to know more about what is being offered. 
-  * Again, never give a number. If you're filling out an online form, and it expects an answer, it's fine to write in 0 or $1 and mention that you want to have a follow-up discussion (as all salary discussions should be). 
-  
-  "I'm brand-new in the industry, here's what market rate is, but I'd like you to evaluate what my skills are worth." You're in a better position to evaluate my skills and how you would value my skills and background. 
+How would you answer that question? 
+
+* **First, do not put a number on the table.** Instead, say: *"I would love to hear what you're offering for this position so I can have more context for the conversation."*
+  	* During this discussion, you may be talking with a hiring manager. Don’t be offended if they ask you again -- they are just doing what they've been told, and they might not be equipped to go through a negotiation at that time. You should still push back about wanting to know more about what is being offered. 
+  	* If you're filling out an online form, and it expects an answer, it's fine to write in 0 or $1 and mention that you want to have a follow-up discussion (as all salary discussions should be). 
+
+* If you're pushed to give a number, use the average Turing grad starting salary, which is $75k. **AND you should also take that opportunity to sell yourself to explain why you deserve more.** 
+	* What traits can you describe yourself with to create leverage? Examples:
+		* “I’m at the top of my class"
+		* "I can provide references”
+		* "I have these applicable skills from my previous experience..."
+
+* Again, if you're pushed to give a number, provide that Turing grad starting salary **AND create a way for the company to decide what your worth is.** Example:
+	* "I'm brand-new in the industry, here's what the market rate is, but I'd like you to evaluate what my skills and background are worth."
 
 #### Navigating the Conversation
 Once you've asked for more context and you're given an offer, think about these next steps:
