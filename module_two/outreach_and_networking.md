@@ -11,7 +11,7 @@ Time: 60 minutes
 * Crafting the Email (5 mins)
 * Outreach examples (5 mins)
 * Outreach practice (20 mins)
-* Intro to networking (5 mins)
+* Intro to networking (5 mins) Use context section — inverse of storytelling, how to make other person memorable. Hook: tell me something about someone else in your cohort, why do you remember that? Reframe networking as making new friendships 
 * Networking planning (5 mins)
 * Takeaways/Closing (5 mins)
 
