@@ -96,24 +96,18 @@ Once you've asked for more context and you're given an offer, take these next st
     		* Using "we" shows that this is a joint effort
    		* Not an aggressive move -- "close the gap" instead of "I need this"
     		* Don't mention another company or their offer -- that becomes aggressive. Tech industry is small, and companies talk. Don't give them a bad impression; plus, you don't know what's happening behind the scenes
-		* You should give reasons. If you ask for something without a reason, you come across as greedy or needy. If you're going to negotiate beyond salary, trade for something. If you want more benefits, give an idea why or trade something for it. If you want extra time off, what could you give back in exchange? 
-		* Depending on what's important to you, it will affect how you talk about it. Give more details about what you value. "I want to continue growing and learning while I'm there, would you consider giving a professional development stipend?"
+		* You should give reasons. If you ask for something without a reason, you come across as greedy or needy. Depending on what's important to you, it will affect how you talk about it. Give more details about what you value. If you're going to negotiate beyond salary, trade for something. 
+			* If you want more benefits, give an idea why or trade something for it. If you want extra time off, what could you give back in exchange? 
+			*"I want to continue growing and learning while I'm there, would you consider giving a professional development stipend?"* 
+			* If PTO is important, you need to be able to explain why personal rest time is important without sounding "lazy" or that work is a burden; you can emphasize travel/family/what you would trade for it. 
+			* If working remotely is important, find out if that something that's part of the company culture. If they allow for it, how much will they allow? Will they reimburse internet at home? Will they reimburse a co-working space? You could mention working with clients, other teammates, for a selling point
 		* "If you can do this, then I'm on board." 
     
-    
-    
-    -PTO; if PTO is important, you need to be able to explain why personal rest time is important without sounding "lazy" or that work is a burden; you can emphasize travel/family/what you would trade for it
-    
-    -Working remotely -- is that something that's part of the company culture? If they allow for it, how much will they allow? Will they reimburse internet at home? Probably not, but if I'm in the metro area, will you reimburse co-working space? You could mention working with clients, other teammates, for a selling point; Could ask for remote at all
-    
-    -Commute/transportation costs; could discuss that but it has to be company-wide, they might not change the rules for you
-    
-    
-
 ### I Do: Negotiation Demo
 -Evaluate multiple offers
 	-Asking for extensions
 	-Negotiating beyond the salary
+Think about professional communication skills ...
 
 Let's say that you've received this offer:
 
@@ -141,7 +135,8 @@ Here is my email response to the hiring manager:
 `What’s your minimum PTO days? Do you require people to take a certain amount of time off? How frequently do people take off?`
 
 ### What if a Company Can't Meet Your Counter?
-* If the company is unable to meet your counter offer, *this is okay.* It is good practice to always negotiate
+* If the company is unable to meet your counter offer, *this is okay.* It is good practice to always negotiate. And you can decide 
+
   * Consider asking for a three-month review and set goals and milestones together to continue to evaluate what you’re worth at the end of that time
   * Follow that up with a six-month review to evaluate your performance against those goals/milestones
     * Say something like, *"I want to see these goals, and if I make them by 6 months, I want to then discuss a raise in my salary."* Bring it up in initial negotiation to put it on the table, and even if they do reviews later in the year, it doesn't hurt to ask during the initial negotiation.
@@ -155,7 +150,6 @@ Here is my email response to the hiring manager:
 
 **Keep in Mind:**
 
-  * Don’t negotiate too high, so you don’t waste that extra money you could’ve negotiated earlier
   * Negotiating just an extra $1000 or two isn't worth it -- it doesn’t even out to a lot of money. It could make you look petty. You don't want to ruin a relationship over it
   * There’s always a (small) chance that someone can rescind an offer, but it's very unlikely -- it’s costly to the company to take that back.  
     * If a company rescinds simply because you brought up the conversation while you were respectful, that was probably a red flag and you dodged a bullet
