@@ -91,6 +91,7 @@ Once you've asked for more context and you're given an offer, take these next st
 		* As a general rule of thumb, when it comes to equity, don't trade salary for it. Companies include equity in their offers as a way to keep you invested in the company. But you shouldn't put too much weight on stock options; if it's an Incentive Stock Option, assume you'll never get money out of it. Restricted Stock Options (RSUs) might be worth negotiating as they're publicly traded. You can negotiate using these stock options, but you'll want to be careful about it. Don’t negotiate it all away because you want to sound like you have skin in the game and that you're not a flight risk.
 			* “I’m new in the industry, I don’t know if investing right now makes sense for me. Could I give back some of the options to get X instead?” 
 	* When negotiating for a higher salary, ask for 5-10% more than what was offered. Never ask for more than 10% more than what they offered you, unless there are rare circumstance that you've discussed with someone you trust prior to negotiating.
+	* If you have doubts about taking the position, what would it take to make you feel ok taking the position? What would remove the doubt from taking the job?
 	* Template:
   		* "I'm excited about this offer. I was hoping to make **X**. How can we close the gap on this?" 
     		* Using "we" shows that this is a joint effort
@@ -135,10 +136,11 @@ Here is my email response to the hiring manager:
 `What’s your minimum PTO days? Do you require people to take a certain amount of time off? How frequently do people take off?`
 
 ### What if a Company Can't Meet Your Counter?
-* If the company is unable to meet your counter offer, *this is okay.* It is good practice to always negotiate. And you can decide 
+* If the company is unable to meet your counter offer, *this is okay.* **The worst thing they can say is "no."** It is good practice to always negotiate.
 
-  * Consider asking for a three-month review and set goals and milestones together to continue to evaluate what you’re worth at the end of that time
-  * Follow that up with a six-month review to evaluate your performance against those goals/milestones
+* You can decide at that point if you want to continue the interview process. **If you don't currently have other offers on the table, then stick with this process.** Take that offer and keep job-hunting. We can help coach you through leaving the position gracefully if you find something better later.
+
+* Consider asking for a three-month or six-month review and set goals and milestones together to meet at the end of that time to evaluate what you’re worth
     * Say something like, *"I want to see these goals, and if I make them by 6 months, I want to then discuss a raise in my salary."* Bring it up in initial negotiation to put it on the table, and even if they do reviews later in the year, it doesn't hurt to ask during the initial negotiation.
     
   * Another way to ask is for a signing bonus:
@@ -178,7 +180,7 @@ In your small groups, discuss:
 * What is missing?
 * What might you negotiate for?
 * How can you ask for just a little bit more in one area? 
-* What will you say to sell yourself 
+* What will you say to sell yourself to get what you deserve? 
   
 ### Resources for Follow-Up
 
