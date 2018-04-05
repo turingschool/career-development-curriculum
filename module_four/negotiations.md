@@ -54,7 +54,7 @@ How would you answer that question?
 		* "I have these applicable skills from my previous experience..."
 
 * Again, if you're pushed to give a number, provide that Turing grad starting salary **AND create a way for the company to decide what your worth is.** Example:
-	* "I'm brand-new in the industry, here's what the market rate is, but I'd like you to evaluate what my skills and background are worth."
+	* "I'd prefer if your company determine through the interview process what my skills are worth to you as a developer given my background. My classmates are currently getting offers in the $75k to $80k range right now but I'm open to discussion about compensation as we get to know each other."
 
 #### Navigating the Conversation
 Once you've asked for more context and you're given an offer, take these next steps:
@@ -102,28 +102,29 @@ Once you've asked for more context and you're given an offer, take these next st
 #### Alumni Examples
 Here are a few examples of how alumni have approached the negotiations conversation -- remember, you can reach out to Turing staff for coaching when it comes to negotiating an offer:
 
-	* One alum received an offer for $60k, 100%-paid benefits package, 401K, 20 PTO days (4 weeks). This student was worried that the offer was quite low and discussed it with Ian. The perception was that the company was unaware of market rates for entry-level devs. So, the student worked with Ian and sent this to them at 3pm that day:
+* One alum received an offer for $60k, 100%-paid benefits package, 401K, 20 PTO days (4 weeks). This student was worried that the offer was quite low and discussed it with Ian. The perception was that the company was unaware of market rates for entry-level devs. So, the student worked with Ian and sent this to them at 3pm that day:
 
-	```Thanks, (manager name removed).
+	Thanks, (manager name removed).
 	I really appreciate this offer, thank you for sending it over. (company) is by far my first choice of companies to 	   work at. The other company that I have interviewed with has offered me $85k. My classmates at Turing are getting 	    offers in the $75k-$80k range.  Would it be possible for (company) to come closer to the $75k-$80k range? I'm open  	to discussion on it!
 	Thank you much,
-	(student)```
+	(student)
 
-	The manager called her back at 5pm with an updated offer:
-	```(manager from company) Just called, 75k!!!!```
+The manager called her back at 5pm with an updated offer:
+	(manager from company) Just called, 75k!!!!
 
-	* Another alum negotiated a $5k signing bonus to pay for healthcare out of their own pocket for their first 90 days. 
+* Another alum negotiated a $5k signing bonus to pay for healthcare out of their own pocket for their first 90 days. 
 	
-	* Another student got an offer at $55k + some normal benefits (health insurance, conference budget, sick/vacation days, computer gear). We coached them to approach the conversation like this: ```I appreciate everyone's time and effort to work through the interview process, and thanks very much for the offer of employment. Is there some flexibility on the starting salary or perhaps plans to increase the salary closer to market rates in the near term? Other graduates from Turing are seeing offers in the $75k-$80k range, but I know that's a significant increase from your offer, and I'd like to discuss possibilities in this regard.```
+* Another student got an offer at $55k + some normal benefits (health insurance, conference budget, sick/vacation days, computer gear). We coached them to approach the conversation like this: 
 	
-	Here is what they sent to the employer:
-	```I've done a good amount of research and talked with my partner your offer, and I'd like to open a discussion about the base salary. The median starting salary for Turing graduates is $75,000, and my peers are seeing offers ranging from $70,000 to $80,000+. I'm confident my references would be happy to confirm my abilities, teamspersonship, and capacity for growth, relatively to my peers. This—plus the writing skills and professional experience I bring to the table—leads me to value my potential in the middle-to-upper part of that range. I know that's a significant increase from your offer, so I'd like to discuss the possibilities for closing that gap, and getting into that range in the near-term.
+	I appreciate everyone's time and effort to work through the interview process, and thanks very much for the offer of employment. Is there some flexibility on the starting salary or perhaps plans to increase the salary closer to market rates in the near term? Other graduates from Turing are seeing offers in the $75k-$80k range, but I know that's a significant increase from your offer, and I'd like to discuss possibilities in this regard.
 	
-	They heard back 4 days later, and the salary was bumped from $55k to $65k with a bump to $70k after a 90-day period, contingent on a positive review at that time.
-	
-	* 
+Here is what they sent to the employer:
 
-What do you notice about these examples?
+	I've done a good amount of research and talked with my partner your offer, and I'd like to open a discussion about the base salary. The median starting salary for Turing graduates is $75,000, and my peers are seeing offers ranging from $70,000 to $80,000+. I'm confident my references would be happy to confirm my abilities, teamspersonship, and capacity for growth, relatively to my peers. This—plus the writing skills and professional experience I bring to the table—leads me to value my potential in the middle-to-upper part of that range. I know that's a significant increase from your offer, so I'd like to discuss the possibilities for closing that gap, and getting into that range in the near-term.
+	
+They heard back 4 days later, and the salary was bumped from $55k to $65k with a bump to $70k after a 90-day period, contingent on a positive review at that time.
+	
+**What do you notice about these examples?**
     
 ### Negotiation Demo
 
