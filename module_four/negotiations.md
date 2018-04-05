@@ -9,7 +9,7 @@ For some reason we live in a world that is afraid to talk openly about money. Th
 
 * Opening: objectives, recap of external review, turn & talk (10 mins)
 * Ins & Outs of Negotations (15 mins)
-* I Do: Offer Discussion & Demo (10 mins)
+* Offer Discussion & Demo (10 mins)
 * You Do: Group Discussions (20 mins)
 * Debrief & Closing (5 mins)
 
@@ -82,7 +82,7 @@ Once you've asked for more context and you're given an offer, take these next st
 	* When you find out timelines from the other companies you're interviewing with, let the offering company know that you're very thankful and excited for the opportunity, but you're also deep in the process with "x number" of companies, and it's too early into your career to burn any bridges; you'd like to honor the process. Could you give them an answer by "X" date?
 
 * **Negotiating the Offer:** Once you have all the facts and can make a decision, go back to the company:
-	* Eliminate passive language when negotiating, but always be generous and respectful.
+	* Professional communication: Negotiating in person or on the phone allows you to show how genuine you are in the interaction; however, email chains are helpful to have everything in writing. In either scenario, you want to be generous and respectful and watch out for any blind spots in your tone/language. 
 	* Be honest and transparent
 	* Get all of the facts -- are there other potential opportunities not on the table yet? What are your priorities that you need to discuss? 
 		* Family leave -- even if you don't currently have kids or unsure if you want kids, you need to know what the plan is for maternity and paternity leave. It's much harder to negotiate later. This is the same with healthcare and 401k match
@@ -103,36 +103,27 @@ Once you've asked for more context and you're given an offer, take these next st
 			* If working remotely is important, find out if that something that's part of the company culture. If they allow for it, how much will they allow? Will they reimburse internet at home? Will they reimburse a co-working space? You could mention working with clients, other teammates, for a selling point
 		* "If you can do this, then I'm on board." 
     
-### I Do: Negotiation Demo
--Evaluate multiple offers
-	-Asking for extensions
-	-Negotiating beyond the salary
+### Negotiation Demo
+
 Think about professional communication skills ...
 
-Let's say that you've received this offer:
+`Hi Brittany -
+Attached you'll find your offer letter to begin work with us on May 1st, 2014 at $90,000/year. Also included are some additional forms to fill out and sign. Please bring these with you on your first day of work along with two forms of ID. Looking forward to having you on board!
+Joe
+HR Manager`
 
- 	* $70k salary
- 	* 401k, no employer match
- 	* Full coverage health care & dental
-    * Unlimited PTO
-    * $2500/yr for professional development
-    * $75/month for transit
-    * % equity...
+`Thanks for sending all of this over! I will take a look through all of these documents in a bit and let you know if I have any questions.
+Brittany`
 
-Looking over the included information, I have these questions:
+`Hi Joe - 
+Would you have some time for a quick phone call tomorrow? I'm so pleased with much of the offer, but I was hoping to be just a bit closer to 100K in salary. I think my relevant experience working in newsrooms and under tight deadlines will ensure I can contribute quality work as soon as I'm on board. I'm happy to provide you with references that can speak to my abilities in that area. Let me know if there's anything we can do to close this gap. Thanks again! Talk to you soon.
+Brittany`
 
-* How much PTO do employees generally take? 
-* What is the parental leave like? 
-* 
-
-
-Here is my email response to the hiring manager:
-
-`Thank you so much for this offer. I would like to take some time to think it over. Please let me know when you 
-
-`I've thoughtfully considered 
-
-`What’s your minimum PTO days? Do you require people to take a certain amount of time off? How frequently do people take off?`
+#### Breaking down the example:
+* Companies will often send you an offer letter and their language will be a little presumptious that you're already accepting the position. That might make you feel like you don't have an opportunity to negotiate, and that you have to stick with the offer they gave you, but you don't! *They do this on purpose.* 
+* Respond to them right away at least to confirm receipt of the email. This will buy you some time so you can review the offer/ask for advice or guidance on it. It also gives them a hint that you might want to negotiate something.
+* After you've reviewed it, you're free to negotiate directly in the email but offer up a chance for a phone conversation. Explain what you're happy with and what you'd like to negotiate. Don't just ask for more money, explain why you're worth it. What differentiates you from the competition that makes you worth that extra money or PTO? 
+* Sometimes they will respond right away with a new offer letter just giving you what you asked for. Sometimes they'll call you back and tell you what they can do (maybe give you a counter offer). 
 
 ### What if a Company Can't Meet Your Counter?
 * If the company is unable to meet your counter offer, *this is okay.* **The worst thing they can say is "no."** It is good practice to always negotiate.
