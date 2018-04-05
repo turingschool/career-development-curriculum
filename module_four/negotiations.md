@@ -17,8 +17,7 @@ For some reason we live in a world that is afraid to talk openly about money. Th
 
 * Build understanding of and confidence towards negotiations 
 * Evaluate offer packages in their entirety
-* Navigate negotiations in polite, professional manner with humility
-* Navigate multiple offers and while still in the interview process with other companies
+* Look at examples and discuss tactics for negotiating
 	
 ### Opening
 Recap External Review:
