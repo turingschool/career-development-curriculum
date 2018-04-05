@@ -62,7 +62,7 @@ How would you answer that question?
 	* "I'm brand-new in the industry, here's what the market rate is, but I'd like you to evaluate what my skills and background are worth."
 
 #### Navigating the Conversation
-Once you've asked for more context and you're given an offer, think about these next steps:
+Once you've asked for more context and you're given an offer, take these next steps:
 
 * **Take at least 24 hours:** When you receive an offer, do not accept on the spot. You don't even have to negotiate on the spot. Say, *"Thank you so much for this opportunity! I need to take some time to review the offer (you can say with your partner, mentor, etc. if you don't feel comfortable leaving it open ended). Could you send me the offer in writing so I can review it?"*
   * You want to sound excited and interested, but you're also biding your time, so you can you consider any other offers and think this through
@@ -168,15 +168,16 @@ Here is my email response to the hiring manager:
   * **It’s important for you to advocate for yourself because there's no guarantee that anyone else will**
 
 ### You Do: Group Discussion
-You receive this offer (GET IAN'S INPUT):
+You receive this offer:
 
 In an area you're not excited about -- longer commute; they say they don't negotiate or it's non-negotiable, how might you handle that? 
 
-* $65k
+`* $65k
 * 2 weeks of PTO
 * $500/yr for PD 
-* 
-
+* 401k with 1% employer match
+* $10k in incentive stock options
+* Full health & dental coverage`
 
 In your small groups, discuss:
 
@@ -184,6 +185,7 @@ In your small groups, discuss:
 * What is missing?
 * What might you negotiate for?
 * How can you ask for just a little bit more in one area? 
+* What will you say to sell yourself 
   
 ### Resources for Follow-Up
 
