@@ -65,43 +65,42 @@ How would you answer that question?
 Once you've asked for more context and you're given an offer, take these next steps:
 
 * **Take at least 24 hours:** When you receive an offer, do not accept on the spot. You don't even have to negotiate on the spot. Say, *"Thank you so much for this opportunity! I need to take some time to review the offer (you can say with your partner, mentor, etc. if you don't feel comfortable leaving it open ended). Could you send me the offer in writing so I can review it?"*
-  * You want to sound excited and interested, but you're also biding your time, so you can you consider any other offers and think this through
-  * Consider all pieces of the offer and weigh the pros and cons; is there more value in negotiating another part of the offer than salary?
-    * What do *you* care about? 
-    * What's missing from the offer? What didn't they talk about?
-  * Talk to someone you trust to get some feedback (your staff coach, mentors, etc.)
+	* You want to sound excited and interested, but you're also biding your time, so you can you consider any other offers and think this through
+	* Consider all pieces of the offer and weigh the pros and cons; is there more value in negotiating another part of the offer than salary?
+    		* What do *you* care about? 
+    		* What's missing from the offer? What didn't they talk about?
+	* Talk to someone you trust to get some feedback (your staff coach, mentors, etc.)
  
  	* **What If:** You're given a short timeline
     	* In this case, create a pro and con list -- to decide which offer you’ll take
-  		* It’s not a red flag that they need you to hurry necessarily -- maybe they just got a bigger workload and need to make a decision quickly
+  		* It’s not a red flag that they need you to hurry necessarily. Maybe they just got a bigger workload and need to make a decision quickly
   		* Think about it as a whole -- what were your interactions like? What are the relationships with the team members?
   		* You can still talk to your other companies -- *"I found out I need to let them know by this time, is there a way I could know about your hiring deadline by then? I’m still really interested."* 
 
-* **Create Leverage:** Reach out to other companies that you're interviewing with and let them know that you've received another offer and that you're most interested in an opportunity with their company. Then ask *"do you know what your timeline is for making a hiring decision?"* as a way to leverage your offer. 
-  * This puts the ball in their court and tells the company that you a person who is sought after, which increase their interest
-  * When you find out timelines from the other companies you're interviewing with, let the offering company know that you're very thankful and excited for the opportunity, but you're also deep in the process with "x number" of companies, and it's too early into your career to burn any bridges; you'd like to honor the process. Could you give them an answer by "X" date?
-  
-  Ian: If I have an offer but want to sound more interested in other companies, say "I have another offer, it's expiring within this time; I'm going to ask them for an extension because I want to keep working with you." -- letting them know interest but also making sure you are still pursuing the other offer; wanting to evaluate all companies 
+* **Create Leverage:** Reach out to other companies that you're interviewing with and let them know that you've received another offer and that you're most interested in an opportunity with their company. Then ask about their hiring timeline for making a hiring decision as a way to leverage your offer.
+	* *"I have another offer, it's expiring within this time; I'm going to ask them for an extension because I want to keep working with you."* This lets the company know that you're interested but also letting them know that you're pursuing the other company. 
+  	* This puts the ball in their court and tells the company that you a person who is sought after, which increase their interest
+	* When you find out timelines from the other companies you're interviewing with, let the offering company know that you're very thankful and excited for the opportunity, but you're also deep in the process with "x number" of companies, and it's too early into your career to burn any bridges; you'd like to honor the process. Could you give them an answer by "X" date?
 
 * **Negotiating the Offer:** Once you have all the facts and can make a decision, go back to the company:
-  * Eliminate passive language when negotiating, but always be generous and respectful.
-  * Be honest and transparent
-  * Get all of the facts -- are there other potential opportunities not on the table yet? What are your priorities that you need to discuss? 
-      * Maternity/paternity -- even if you don't currently have kids or unsure if you want kids, you need to know what the plan is for maternity and paternity leave. It's much harder to negotiate later. This is the same with healthcare and 401k match
-     * Don't forget about mentorship -- you can get that written into your contract
-     * As a general rule of thumb, don't trade salary for equity
-  * When negotiating for a higher salary, ask for 5-10% more than what was offered. Never ask for more than 10% more than what they offered you, unless there are rare circumstance that you've discussed with someone you trust prior to negotiating.
-  * Template:
-  	* "I'm excited about this offer. I was hoping to make **X**. How can we close the gap on this?" 
-    * Using "we" shows that this is a joint effort
-    * Not an aggressive move -- "close the gap" instead of "I need this"
-    * Don't mention another company or their offer -- that becomes aggressive. Tech industry is small, and companies talk. Don't give them a bad impression; plus, you don't know what's happening behind the scenes
+	* Eliminate passive language when negotiating, but always be generous and respectful.
+	* Be honest and transparent
+	* Get all of the facts -- are there other potential opportunities not on the table yet? What are your priorities that you need to discuss? 
+		* Family leave -- even if you don't currently have kids or unsure if you want kids, you need to know what the plan is for maternity and paternity leave. It's much harder to negotiate later. This is the same with healthcare and 401k match
+		* Don't forget about mentorship -- you can get that written into your contract
+		* As a general rule of thumb, when it comes to equity, don't trade salary for it. Companies include equity in their offers as a way to keep you invested in the company. But you shouldn't put too much weight on stock options; if it's an Incentive Stock Option, assume you'll never get money out of it. Restricted Stock Options (RSUs) might be worth negotiating as they're publicly traded. You can negotiate using these stock options, but you'll want to be careful about it. Don’t negotiate it all away because you want to sound like you have skin in the game and that you're not a flight risk.
+			* “I’m new in the industry, I don’t know if investing right now makes sense for me. Could I give back some of the options to get X instead?” 
+	* When negotiating for a higher salary, ask for 5-10% more than what was offered. Never ask for more than 10% more than what they offered you, unless there are rare circumstance that you've discussed with someone you trust prior to negotiating.
+	* Template:
+  		* "I'm excited about this offer. I was hoping to make **X**. How can we close the gap on this?" 
+    		* Using "we" shows that this is a joint effort
+   		* Not an aggressive move -- "close the gap" instead of "I need this"
+    		* Don't mention another company or their offer -- that becomes aggressive. Tech industry is small, and companies talk. Don't give them a bad impression; plus, you don't know what's happening behind the scenes
+		* You should give reasons. If you ask for something without a reason, you come across as greedy or needy. If you're going to negotiate beyond salary, trade for something. If you want more benefits, give an idea why or trade something for it. If you want extra time off, what could you give back in exchange? 
+		* Depending on what's important to you, it will affect how you talk about it. Give more details about what you value. "I want to continue growing and learning while I'm there, would you consider giving a professional development stipend?"
+		* "If you can do this, then I'm on board." 
     
-    -You should give reasons; if you ask for something without a reason, you come across as greedy/needy; if you're going to negotiate beyond salary, trade for something; if you want more benefits, give an idea why or trade something for it; if you want extra time off, what could you give back instead of time off? If salary is not where you want it to be, get signing bonus; especially if benefits don't kick in for 90 days (you have family, etc.) if you get a cash bonus up-front, it'll be taxed -- take taxes into consideration; because it's a one-time payment, companies are usually fine;
     
-    -Depending on what's important to you, it will affect how you talk about it; give more details about what you value; "I want to continue growing and learning while I'm there, would you consider giving a professional development stipend?"
-    
-    "Will you reimburse IRS-approved relocation expenses?" They can get a tax write-off; get a list of what's reimbursable. 
     
     -PTO; if PTO is important, you need to be able to explain why personal rest time is important without sounding "lazy" or that work is a burden; you can emphasize travel/family/what you would trade for it
     
@@ -109,7 +108,7 @@ Once you've asked for more context and you're given an offer, take these next st
     
     -Commute/transportation costs; could discuss that but it has to be company-wide, they might not change the rules for you
     
-    "If you can do this, then I'm on board." 
+    
 
 ### I Do: Negotiation Demo
 -Evaluate multiple offers
@@ -148,10 +147,11 @@ Here is my email response to the hiring manager:
     * Say something like, *"I want to see these goals, and if I make them by 6 months, I want to then discuss a raise in my salary."* Bring it up in initial negotiation to put it on the table, and even if they do reviews later in the year, it doesn't hurt to ask during the initial negotiation.
     
   * Another way to ask is for a signing bonus:
-    * *"I know we can’t meet my salary requirements, but what about rounding it out with a signing bonus?"*
-    * Companies are more likely to try this since it’s a 1-time thing
+    * *"I know we can’t meet my salary requirements, but what about rounding it out with a signing bonus?"* 
+    * Companies are more likely to try this since it’s a 1-time thing and it's a great option to negotiate for if benefits don't kick in for 90 days so that you can cover that cost. Keep in mind that it'll be taxed. 
 
-  * You could also negotiate moving costs, but be aware that this is a reimbursement, not something you can take
+  * You could also negotiate moving costs, but be aware that this is a reimbursement, not something you can take. Ask about the tax write-off and get a list of what's reimburasable. 
+  	* "Will you reimburse IRS-approved relocation expenses?"
 
 **Keep in Mind:**
 
