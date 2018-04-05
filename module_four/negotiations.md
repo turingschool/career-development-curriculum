@@ -34,20 +34,7 @@ Recap External Review:
 
 * As our mission states, we aim to unlock human potential by training a diverse, inclusive student body to **succeed in high-fulfillment technical careers.** As part of that high-fulfillment piece, we aim to provide you with the tools to navigate offer negotiations. It's up to you to use these tools, but keep in mind that companies will low-ball you with their first offer because they *expect you to negotiate.*
 
-* A negotiation conversation could take as little as 5 minutes. Think about that. You generally can’t do 5 minutes of work this year and have your boss give you an extra $10,000. But you can pick up $10,000 in salary negotiations just by having a conversation about your compensation. That makes your negotiation five very important minutes so that no money is left on the table. You can't afford to *not* negotiate. Not only that, but when our alumni have used these negotiations tools, they've been able to get more of what they deserve:
-
-	* One alum received an offer for $60k, 100%-paid benefits package, 401K, 20 PTO days (4 weeks). This student was worried that the offer was quite low and discussed it with Ian. The perception was that the company was unaware of market rates for entry-level devs. So, the student worked with Ian and sent this to them at 3pm that day:
-
-	```Thanks, (manager name removed).
-	I really appreciate this offer, thank you for sending it over. (company) is by far my first choice of companies to 	   work at. The other company that I have interviewed with has offered me $85k. My classmates at Turing are getting 	    offers in the $75k-$80k range.  Would it be possible for (company) to come closer to the $75k-$80k range? I'm open  	to discussion on it!
-	Thank you much,
-	(student)```
-
-	The manager called her back at 5pm with an updated offer:
-	```(manager from company) Just called, 75k!!!!```
-
-
-If you're ever given an offer that you're not sure how to negotiate, bring it to the staff and we'll help. 
+* A negotiation conversation could take as little as 5 minutes. Think about that. You generally can’t do 5 minutes of work this year and have your boss give you an extra $10,000. But you can pick up $10,000 in salary negotiations just by having a conversation about your compensation. That makes your negotiation five very important minutes so that no money is left on the table. You can't afford to *not* negotiate. Not only that, but when our alumni have used these negotiations tools, they've been able to get more of what they deserve. We'll look at some examples later in this session. If you're ever given an offer that you're not sure how to negotiate, bring it to the staff and we'll help. 
 
 * Keep in mind that the [wage gap](http://www.latimes.com/business/technology/la-fi-tn-0323-pay-gap-20160323-story.html) in [tech](http://www.payscale.com/data-packages/gender-pay-gap/women-in-tech) is very real. Creating transparency around salaries is an important step in closing that gap, and that transparency starts with negotiations. Do not let money stay on the table that could be yours.
 
@@ -111,6 +98,32 @@ Once you've asked for more context and you're given an offer, take these next st
 			* If PTO is important, you need to be able to explain why personal rest time is important without sounding "lazy" or that work is a burden; you can emphasize travel/family/what you would trade for it. 
 			* If working remotely is important, find out if that something that's part of the company culture. If they allow for it, how much will they allow? Will they reimburse internet at home? Will they reimburse a co-working space? You could mention working with clients, other teammates, for a selling point
 		* "If you can do this, then I'm on board." 
+		
+#### Alumni Examples
+Here are a few examples of how alumni have approached the negotiations conversation -- remember, you can reach out to Turing staff for coaching when it comes to negotiating an offer:
+
+	* One alum received an offer for $60k, 100%-paid benefits package, 401K, 20 PTO days (4 weeks). This student was worried that the offer was quite low and discussed it with Ian. The perception was that the company was unaware of market rates for entry-level devs. So, the student worked with Ian and sent this to them at 3pm that day:
+
+	```Thanks, (manager name removed).
+	I really appreciate this offer, thank you for sending it over. (company) is by far my first choice of companies to 	   work at. The other company that I have interviewed with has offered me $85k. My classmates at Turing are getting 	    offers in the $75k-$80k range.  Would it be possible for (company) to come closer to the $75k-$80k range? I'm open  	to discussion on it!
+	Thank you much,
+	(student)```
+
+	The manager called her back at 5pm with an updated offer:
+	```(manager from company) Just called, 75k!!!!```
+
+	* Another alum negotiated a $5k signing bonus to pay for healthcare out of their own pocket for their first 90 days. 
+	
+	* Another student got an offer at $55k + some normal benefits (health insurance, conference budget, sick/vacation days, computer gear). We coached them to approach the conversation like this: ```I appreciate everyone's time and effort to work through the interview process, and thanks very much for the offer of employment. Is there some flexibility on the starting salary or perhaps plans to increase the salary closer to market rates in the near term? Other graduates from Turing are seeing offers in the $75k-$80k range, but I know that's a significant increase from your offer, and I'd like to discuss possibilities in this regard.```
+	
+	Here is what they sent to the employer:
+	```I've done a good amount of research and talked with my partner your offer, and I'd like to open a discussion about the base salary. The median starting salary for Turing graduates is $75,000, and my peers are seeing offers ranging from $70,000 to $80,000+. I'm confident my references would be happy to confirm my abilities, teamspersonship, and capacity for growth, relatively to my peers. This—plus the writing skills and professional experience I bring to the table—leads me to value my potential in the middle-to-upper part of that range. I know that's a significant increase from your offer, so I'd like to discuss the possibilities for closing that gap, and getting into that range in the near-term.
+	
+	They heard back 4 days later, and the salary was bumped from $55k to $65k with a bump to $70k after a 90-day period, contingent on a positive review at that time.
+	
+	* 
+
+What do you notice about these examples?
     
 ### Negotiation Demo
 
