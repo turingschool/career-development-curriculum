@@ -163,8 +163,7 @@ Here is my email response to the hiring manager:
     * If they rescind the offer because you were disrespectful, that’s different. *But we don't expect you to be disrespectful*
   
 **Bottom Line: Negotiating is Always Important**
-  
-  * ...even if it’s just to ask clarifying questions!
+ 
   * **It’s important for you to advocate for yourself because there's no guarantee that anyone else will**
 
 ### You Do: Group Discussion
@@ -172,12 +171,12 @@ You receive this offer:
 
 In an area you're not excited about -- longer commute; they say they don't negotiate or it's non-negotiable, how might you handle that? 
 
-`* $65k
-* 2 weeks of PTO
-* $500/yr for PD 
-* 401k with 1% employer match
-* $10k in incentive stock options
-* Full health & dental coverage`
+	* $65k
+	* 2 weeks of PTO
+	* $500/yr for PD 
+	* 401k with 1% employer match
+	* $10k in incentive stock options
+	* Full health & dental coverage
 
 In your small groups, discuss:
 
