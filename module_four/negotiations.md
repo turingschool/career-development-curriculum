@@ -36,7 +36,6 @@ Recap External Review:
 
 * A negotiation conversation could take as little as 5 minutes. Think about that. You generally can’t do 5 minutes of work this year and have your boss give you an extra $10,000. But you can pick up $10,000 in salary negotiations just by having a conversation about your compensation. That makes your negotiation five very important minutes so that no money is left on the table. You can't afford to *not* negotiate. Not only that, but when our alumni have used these negotiations tools, they've been able to get more of what they deserve:
 
-	* Alum Bekah Lundy: when she was applying at Apto, they were going to offer her $55k, unaware of what the going market-rate was for a Turing grad. When she countered with $70k, she got it
 
 If you're ever given an offer that you're not sure how to negotiate, bring it to the staff and we'll help. 
 
