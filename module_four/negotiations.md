@@ -36,6 +36,16 @@ Recap External Review:
 
 * A negotiation conversation could take as little as 5 minutes. Think about that. You generally can’t do 5 minutes of work this year and have your boss give you an extra $10,000. But you can pick up $10,000 in salary negotiations just by having a conversation about your compensation. That makes your negotiation five very important minutes so that no money is left on the table. You can't afford to *not* negotiate. Not only that, but when our alumni have used these negotiations tools, they've been able to get more of what they deserve:
 
+	* One alum received an offer for $60k, 100%-paid benefits package, 401K, 20 PTO days (4 weeks). This student was worried that the offer was quite low and discussed it with Ian. The perception was that the company was unaware of market rates for entry-level devs. So, the student worked with Ian and sent this to them at 3pm that day:
+
+	```Thanks, (manager name removed).
+	I really appreciate this offer, thank you for sending it over. (company) is by far my first choice of companies to 	   work at. The other company that I have interviewed with has offered me $85k. My classmates at Turing are getting 	    offers in the $75k-$80k range.  Would it be possible for (company) to come closer to the $75k-$80k range? I'm open  	to discussion on it!
+	Thank you much,
+	(student)```
+
+	The manager called her back at 5pm with an updated offer:
+	```(manager from company) Just called, 75k!!!!```
+
 
 If you're ever given an offer that you're not sure how to negotiate, bring it to the staff and we'll help. 
 
