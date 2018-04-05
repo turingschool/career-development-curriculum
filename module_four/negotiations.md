@@ -104,31 +104,29 @@ Here are a few examples of how alumni have approached the negotiations conversat
 
 * One alum received an offer for $60k, 100%-paid benefits package, 401K, 20 PTO days (4 weeks). This student was worried that the offer was quite low and discussed it with Ian. The perception was that the company was unaware of market rates for entry-level devs. So, the student worked with Ian and sent this to them at 3pm that day:
 
-	Thanks, (manager name removed).
-	I really appreciate this offer, thank you for sending it over. (company) is by far my first choice of companies to 	   work at. The other company that I have interviewed with has offered me $85k. My classmates at Turing are getting 	    offers in the $75k-$80k range.  Would it be possible for (company) to come closer to the $75k-$80k range? I'm open  	to discussion on it!
-	Thank you much,
-	(student)
+`Thanks, (manager name removed).
+I really appreciate this offer, thank you for sending it over. (company) is by far my first choice of companies to 	   work at. The other company that I have interviewed with has offered me $85k. My classmates at Turing are getting 	    offers in the $75k-$80k range.  Would it be possible for (company) to come closer to the $75k-$80k range? I'm open  	to discussion on it!
+Thank you much,
+(student)`
 
-The manager called her back at 5pm with an updated offer:
-	(manager from company) Just called, 75k!!!!
+The manager called her back at 5pm with an updated offer: `(manager from company) Just called, 75k!!!!`
 
 * Another alum negotiated a $5k signing bonus to pay for healthcare out of their own pocket for their first 90 days. 
 	
 * Another student got an offer at $55k + some normal benefits (health insurance, conference budget, sick/vacation days, computer gear). We coached them to approach the conversation like this: 
 	
-	I appreciate everyone's time and effort to work through the interview process, and thanks very much for the offer of employment. Is there some flexibility on the starting salary or perhaps plans to increase the salary closer to market rates in the near term? Other graduates from Turing are seeing offers in the $75k-$80k range, but I know that's a significant increase from your offer, and I'd like to discuss possibilities in this regard.
+`I appreciate everyone's time and effort to work through the interview process, and thanks very much for the offer of employment. Is there some flexibility on the starting salary or perhaps plans to increase the salary closer to market rates in the near term? Other graduates from Turing are seeing offers in the $75k-$80k range, but I know that's a significant increase from your offer, and I'd like to discuss possibilities in this regard.`
 	
 Here is what they sent to the employer:
 
-	I've done a good amount of research and talked with my partner your offer, and I'd like to open a discussion about the base salary. The median starting salary for Turing graduates is $75,000, and my peers are seeing offers ranging from $70,000 to $80,000+. I'm confident my references would be happy to confirm my abilities, teamspersonship, and capacity for growth, relatively to my peers. This—plus the writing skills and professional experience I bring to the table—leads me to value my potential in the middle-to-upper part of that range. I know that's a significant increase from your offer, so I'd like to discuss the possibilities for closing that gap, and getting into that range in the near-term.
+`I've done a good amount of research and talked with my partner your offer, and I'd like to open a discussion about the base salary. The median starting salary for Turing graduates is $75,000, and my peers are seeing offers ranging from $70,000 to $80,000+. I'm confident my references would be happy to confirm my abilities, teamspersonship, and capacity for growth, relatively to my peers. This—plus the writing skills and professional experience I bring to the table—leads me to value my potential in the middle-to-upper part of that range. I know that's a significant increase from your offer, so I'd like to discuss the possibilities for closing that gap, and getting into that range in the near-term.`
 	
 They heard back 4 days later, and the salary was bumped from $55k to $65k with a bump to $70k after a 90-day period, contingent on a positive review at that time.
 	
 **What do you notice about these examples?**
     
-### Negotiation Demo
-
-Think about professional communication skills ...
+### Negotiation Email Chain Demo
+Read the following chain and think about the professional communication skills at play:
 
 `Hi Brittany -
 Attached you'll find your offer letter to begin work with us on May 1st, 2014 at $90,000/year. Also included are some additional forms to fill out and sign. Please bring these with you on your first day of work along with two forms of ID. Looking forward to having you on board!
