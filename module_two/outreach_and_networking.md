@@ -21,7 +21,7 @@ Time: 60 minutes
 * Research and find a networking event to attend during Module 3
 
 ### Deliverable
-Provide a plan for how you'll utilize outreach and networking during Module Three using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/outreach_networking_guidelines.md) via the [PD submissions repo](https://github.com/turingschool/career-development-curriculum/tree/master/deliverable_submissions)
+Provide a plan for how you'll utilize outreach and networking during Module Three using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/outreach_networking_guidelines.md).
 
 ### Opening
 In the technology industry, even moreso than in other industries, getting ahead in your career comes down to **who you know.** Establishing strong connections with others in the technology community starts while you're at Turing and will be a focal point of your job search. 
@@ -287,19 +287,36 @@ Don't:
 ### Networking 101
 Another way to connect with people and begin relationships is through attending networking events and utilizing social media.
 
-#### Meetups/Events
-Meetups are set up to be both interest groups for you to join and network within and to be a place that hosts regular events for talks and building connections. If you're not as comfortable with writing emails, think about how you can use a networking event to take the place of that initial communication! 
+#### Analyze Comfort Level
+When it comes to networking, you'll want to consider your working style. Where do you fall on the introversion/extroversion spectrum? This will help you understand where you'll be comfortable in networking situations. 
 
-#### Tips for Making Events Work for You:
+Often, people who lean towards extroversion will be more excited about using meetups for networking and outreach opportunities because they're gaining energy from being around a lot of people and conversations. 
+
+Networking for introverts might look different. Here we'll break down some strategies for how you can start networking no matter your working style preference.
+
+#### Networking While Introverted
+One-on-one coffee meetings like we mentioned above might be the place where introverts feel more comfortable. As you think about who you might want to build your network from, consider the network you already have, particularly the "weak" ties and "dormant" ties within it:
+
+* **Weak Ties:** 
+* **Dormant Ties:**
+
+Updates: 
+-Small Talk: Inverse of storytelling
+
+#### Meetups/Events
+For extroverts, Meetups are set up to be both interest groups for you to join and network within and to be a place that hosts regular events for talks and building connections. If you're not as comfortable with writing emails, think about how you can use a networking event to take the place of that initial communication! 
+
+#### Tips for Making Networking Work for You:
 
 * **Research.** As with outreach emails, you'll want to conduct research on the organizers and anyone on the RSVP list ahead of time to get a sense of who you can connect with and why
-* **Prepare for small talk.** Most people don't feel comfortable with small talk, but this is how we break the ice in our conversations. Think of a few initial questions to ask people beyond their name and what they think of the free pizza. Consider:
+* **Rethink Small Talk.** INVERSE OF STORYTELLING       Most people don't feel comfortable with small talk, but this is how we break the ice in our conversations. Beyond asking people their names and what they think of the free pizza, how can you conduct small *with a purpose?* Consider:
 
         * Asking the other person what they do and how they got involved in that particular work
         * Discussing the topic of the event; what was interesting about the talk?
         * Current projects
         * The Denver tech scene 
         * Tell them about yourself -- this is a *great* time to practice that professional story!!
+        
 * **Get a business card.** Find a way to follow up the conversation with this person and don't leave without a call to action -- how will you continue the conversation? 
 
 #### Social Networking 
