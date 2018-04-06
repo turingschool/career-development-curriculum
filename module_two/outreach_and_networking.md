@@ -11,7 +11,7 @@ Time: 60 minutes
 * Crafting the Email (5 mins)
 * Outreach examples (5 mins)
 * Outreach practice (20 mins)
-* Intro to networking (5 mins) Use context section — inverse of storytelling, how to make other person memorable. Hook: tell me something about someone else in your cohort, why do you remember that? Reframe networking as making new friendships 
+* Intro to networking (5 mins) 
 * Networking planning (5 mins)
 * Takeaways/Closing (5 mins)
 
@@ -287,6 +287,8 @@ Don't:
 ### Networking 101
 Another way to connect with people and begin relationships is through attending networking events and utilizing social media.
 
+Whole Group: tell me something about someone else in your cohort, why do you remember that? Reframe networking as making new friendships 
+
 #### Analyze Comfort Level
 When it comes to networking, you'll want to consider your working style. Where do you fall on the introversion/extroversion spectrum? This will help you understand where you'll be comfortable in networking situations. 
 
@@ -301,7 +303,7 @@ One-on-one coffee meetings like we mentioned above might be the place where intr
 * **Dormant Ties:**
 
 Updates: 
--Small Talk: Inverse of storytelling
+-Small Talk: Inverse of storytelling; how to make other person memorable.
 
 #### Meetups/Events
 For extroverts, Meetups are set up to be both interest groups for you to join and network within and to be a place that hosts regular events for talks and building connections. If you're not as comfortable with writing emails, think about how you can use a networking event to take the place of that initial communication! 
@@ -309,7 +311,7 @@ For extroverts, Meetups are set up to be both interest groups for you to join an
 #### Tips for Making Networking Work for You:
 
 * **Research.** As with outreach emails, you'll want to conduct research on the organizers and anyone on the RSVP list ahead of time to get a sense of who you can connect with and why
-* **Rethink Small Talk.** INVERSE OF STORYTELLING       Most people don't feel comfortable with small talk, but this is how we break the ice in our conversations. Beyond asking people their names and what they think of the free pizza, how can you conduct small *with a purpose?* Consider:
+* **Rethink Small Talk.** INVERSE OF STORYTELLING      Most people don't feel comfortable with small talk, but this is how we break the ice in our conversations. Beyond asking people their names and what they think of the free pizza, how can you conduct small *with a purpose?* Consider:
 
         * Asking the other person what they do and how they got involved in that particular work
         * Discussing the topic of the event; what was interesting about the talk?
