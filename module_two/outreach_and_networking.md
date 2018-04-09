@@ -6,7 +6,6 @@
 
 Time: 60 minutes
 
--All about building relationships -- needs a hook
 -Breaking this down into steps -- first you have to reach out to someone; go into ins and outs of cold outreach
    -Where to find people to connect with
       Turing network; meetup.com; guest speakers; dormant ties/weak ties
@@ -22,7 +21,7 @@ Time: 60 minutes
    -Examples/pair practice
 -Planning time
 
-* Opening (5 mins)
+* Opening (6 mins)
 * Intro to outreach (10 mins)
 * Crafting the Email (5 mins)
 * Outreach examples (5 mins)
@@ -49,6 +48,8 @@ In the technology industry, even moreso than in other industries, getting ahead 
 In this session, we'll focus on how you can start building those relationships through utilizing the practices of outreach and networking. 
 
 #### What This Looks Like
+
+
 Building relationships with developers and others in the tech community might feel daunting, so start with smaller steps:
 
 * Turing network: mentors, posses, alumni, student groups, guest speakers 
@@ -62,7 +63,13 @@ Then, move onto bigger steps:
 Embracing outreach and networking will help you both in your initial job search after Turing and in your overall career 
 
 ### Outreach: Step by Step
-#### Warm Outreach
+#### Where to Find Connections
+Let's start with the obvious question: who can you reach out to? 
+
+* **Dormant Ties:**
+* **Weak Ties:**
+
+**Warm Outreach**
 Start with people in the Turing community, such as our mentors. There are two ways to reach out to mentors:
 * Go to the mentors in your posse
 * Use the [mentor database](https://docs.google.com/spreadsheets/d/1oxsATOSIdRZ78-Bj3GQY2LkIp0OV_sCN6GJVjtUuCl0/edit?usp=sharing)
