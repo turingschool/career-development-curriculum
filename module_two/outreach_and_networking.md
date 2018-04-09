@@ -56,17 +56,34 @@ Then, move onto bigger steps:
 Embracing outreach and networking will help you both in your initial job search after Turing and in your overall career 
 
 ### Outreach: Step by Step
-#### Where to Find Connections
-Let's start with the obvious question: who can you reach out to? How will you find these new connections?
+#### Where to Find Connections: The Network You Already Have
+Let's start with the obvious question: who can you reach out to? How will you find these new connections? You already have access to more contacts than you might first realize. 
 
-* **Dormant Ties:**
-* **Weak Ties:**
-* **Meetups:**
+* **Dormant Ties:** These are people you know from other walks of life whom you may not have talked with in a while
+   * Why you should reach out to them: You already know them. You may not have talked to them in a while, but it's not a cold contact. And chances are, you're already connected to them on social media so it's not difficult to reconnect with them. 
+    * What value they bring:
+         * They can introduce you to others in their network. Look at their LinkedIn connections -- do they know people you want to know? 
+    * What value you bring:
+         * You can introduce them to people in the Turing network or talk to them about website design, the tech industry, any number of things that you have learned while at Turing
+* **Weak Ties:** As opposed to strong ties (the people you are closest to), these are people who you are not as close with. They run in different circles than you do, so they know other people to introduce you to
+    * Why you should reach out to them:
+         * Open yourself up to new perspectives and relationships outside of your usual circle
+    * What value they bring:
+         * New people and new connections
+    * What value you bring:
+         * The same -- since you're a weak tie to them, you also have networks and information that is new to them. You're able to share this value equally. 
+* **Meetups:** These events bring together people with shared interests, which is a perfect place to start new relationships. 
+     * Why you should attend these:
+         * Meetups are a true mixture of people from different places in the industry -- from other new devs to seasoned programmers, you'll be able to meet people from all walks of life at a meetup to gain new perspectives and relationships
+     * What value they bring:
+         * A meetup's RSVP list is like a who's who of your new network. It's easy to use these to build an understanding of the people you want to connect with, and you'll end up seeing the same faces at each meetup, which makes it that much easier to capitalize on new relationships
+     * What value you bring:
+         * As a member of the local tech community, you bring fresh ideas and learning into a space that wants to foster just that. Consider giving a talk at a meetup -- you'll not only be able to practice your speaking skills, but you'll provide that meetup's community with a chance to learn from you. 
 * **Turing Network:** 
    * Turing Mentors: If you don't already have a mentor you meet with regularly, you should find one right now. Use the [mentor database](https://docs.google.com/spreadsheets/d/1oxsATOSIdRZ78-Bj3GQY2LkIp0OV_sCN6GJVjtUuCl0/edit?usp=sharing). 
       * Why you should reach out to them:
          * This is *warm outreach* -- they are already in our community and have signed up specifically for students to reach out to them. What are you waiting for? 
-      * What value they can bring:
+      * What value they bring:
          * Project help
          * Drills and homework help
          * Learning about the industry
@@ -78,14 +95,11 @@ Let's start with the obvious question: who can you reach out to? How will you fi
          * Provide them with the opportunity to grow their mentoring skills
    * Turing Alumni (especially any who are not in the mentorship database):
       * Why you should reach out to them:
-      * What value they can bring: 
-
-#### How to Leverage Your Network
-How can you leverage the network you already have? 
-
-* Mentors: if you're already meeting with a mentor, who do they know who would be helpful for you to connect with? 
-* Alumni: what companies do our alumni work for? Who can you contact from those companies?
-* LinkedIn: who works at companies that you're interested in?
+         * They've been in your shoes. They can give you the do's and don'ts of navigating the tech industry based on their own experience as a Turing grad.
+      * What value they bring: 
+         * In addition to their own perspective, they bring connections from the network they've been building since they were students. See who they can introduce you to.
+      * What value you bring:
+         * Community. You're part of the Turing community too and you serve as a connection to the latest information in the Turing community
 
 #### Put the COLD in Cold Outreach
 When creating a completely new relationship, here are some tips:
