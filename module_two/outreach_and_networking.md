@@ -235,11 +235,6 @@ Use the meeting to build a relationship, *see below.*
 
 ### Networking 101
 You've reached out, now what? Let's talk about how you can build on the initial connection
-
-   -Emphasize personal preference; also talk about communities they're already a part of (TJCS, etc.)
-   -Coffee meetings vs. Meetups
-   -Reframing small talk and questions; bringing it back to professional story
-   -Examples/pair practice
    
 #### Analyze Comfort Level
 When it comes to networking, you'll want to consider your working style. Where do you fall on the introversion/extroversion spectrum? This will help you understand where you'll be comfortable in networking situations. 
@@ -250,16 +245,27 @@ One-on-one coffee meetings or using social media might feel more comfortable for
 
 Consider how *you* will feel most comfortable in creating these relationships.
 
-#### Networking While Introverted
+#### Meetups/Events
+* **Research.** As with outreach emails, you'll want to conduct research on the organizers and anyone on the RSVP list ahead of time to get a sense of who you can connect with and why
+* **Rethink Small Talk.** Most people don't feel comfortable with small talk, but this is how we break the ice in our conversations. Beyond asking people their names and what they think of the free pizza, how can you conduct small *with a purpose?* 
 
+You've come prepared to share your story. How can you also learn about the other person's story in a way that makes them memorable? How can go from simply networking to creating a relationship? 
 
-Updates: 
--Small Talk: Inverse of storytelling; how to make other person memorable.
+     Consider:
 
+        * "What are you working on right now?" is a great question to lead with; allows person to answer in a way that speaks to their passions and not just describe their day-to-day
+        * Discussing the topic of the event; what was interesting about the talk?
+        * Current projects
+        * The local tech scene 
+        * Tell them about yourself -- this is a *great* time to practice that professional story!!
+        
+* **Get a business card.** Find a way to follow up the conversation with this person and don't leave without a call to action -- how will you continue the conversation? 
 
+#### Coffee Meetings
 Do:
 
 * Ask questions -- ask about experience, projects, what their company does, where they’d work next, what they’d change about their current role/team, advice for getting started in the industry as a new developer
+   * "What are you working on?"
 * Make eye contact
 * Have your story ready to share
 * Bring pen + paper, leave computer closed
@@ -267,49 +273,43 @@ Do:
 * Offer to buy coffee -- they may buy the coffee themselves, but the offer is a nice touch
 * Afterwards, send a thank you message the same day; *Very few people do this, but it means a lot even if it’s really simple*
 
-Ask about experience, projects, what their company does, where they’d work next, what they’d change about their current role/team, advice for getting started in the industry as a new developer
-
 Don't:
 
 * Ask for a job
 * Pretend you're an expert on something you're not. You're there to ask questions and learn more
 * Talk about yourself too much
-
-### How Else to Build on the Relationship
-* Twitter follows/retweets/messages
-* Connect on LinkedIn
-* With mentors:
-    * Schedule regular meetings
-    * Go to a Meetup with your mentor/utilize their network
-    * If you work with a posse mentor, in what ways could you build the relationship within the posse?
-
-#### Tips for Making Networking Work for You:
-
-* **Research.** As with outreach emails, you'll want to conduct research on the organizers and anyone on the RSVP list ahead of time to get a sense of who you can connect with and why
-* **Rethink Small Talk.** INVERSE OF STORYTELLING      Most people don't feel comfortable with small talk, but this is how we break the ice in our conversations. Beyond asking people their names and what they think of the free pizza, how can you conduct small *with a purpose?* Consider:
-
-        * Asking the other person what they do and how they got involved in that particular work
-        * Discussing the topic of the event; what was interesting about the talk?
-        * Current projects
-        * The Denver tech scene 
-        * Tell them about yourself -- this is a *great* time to practice that professional story!!
-        
-* **Get a business card.** Find a way to follow up the conversation with this person and don't leave without a call to action -- how will you continue the conversation? 
-
+   
 #### Social Networking 
 There are ways to network without even leaving the comfort of your computer screen! Consider how to connect with others using:
 
-* Social media sites (Twitter, LinkedIn, etc.)
-   * Small talk rules apply here -- don't leave a one-off comment...
+* Use your social media sites (Twitter, LinkedIn, etc.)
+  * Connect: follow people on Twitter, connect on LinkedIn
+  * Engage: small talk rules apply here -- don't leave a one-off comment on a thread. Take the time to engage with the thread in a meaningful way. 
 * Blogging
-* Open Source contributions
+* Open Source contributions -- connect with people by showing your work!
 
-### Create a Networking Plan
-Spend 5 minutes looking at upcoming networking events on meetup.com, builtin.com, or other social networking sites to make a plan for 1 that you can attend between now and the end of Module 3 (this is part of your deliverable). To ensure that it's doable for you, make a plan! Decide:
+### Choose Your Own Adventure: Create a Networking Plan
+Spend 10 minutes deciding what networking will look like for you in your job search:
 
-* Why is this particular event interesting to you? How can you connect with others at this event?
-* Who will go with you? Will you attend by yourself?
-* What logistics do you need to figure out in order to attend?
+  * Where will you spend your energy?
+  
+  If you're going to utilize networking events, look at upcoming networking events on meetup.com, builtin.com, or other social networking sites to make a plan for 1 that you can attend between now and the end of Module 3 (this is part of your deliverable). To ensure that it's doable for you, make a plan! Decide:
+
+* Why is this particular event interesting to you? How will you connect with others at this event?
+* What kind of value do you hope to gain? What kind of value can you contribute?
+* How will you capitalize on these relationships?
+
+  If you'll network using coffee meetings:
+  
+ * Who do you aim to meet with and why?
+ * What kind of value do you hope to gain from the experience? What kind of value can you contribute?
+* How will you capitalize on this relationship?
+ 
+ If you'll network mainly using social media or open source contributions
+ 
+ * How will you meet and engage with others (i.e., what projects will you target? What kinds of conversations do you want to engage in?)
+ * What kind of value do you hope to gain from the experience? What kind of value can you contribute?
+ * How will you capitalize on these online relationships?
 
 ### Closing
 Whole Group Questions:
