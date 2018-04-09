@@ -137,7 +137,7 @@ Now that you know who you want to connect with, there are many tools that can he
 * GitHub
 * Personal website  
 
-#### Crafting your Email
+#### Crafting Your Email
 **Whole Group Discussion:** When you're reaching out to people, what is your purpose? Hint: it's not to ask for a job. 
 
 Most common purpose: Research Conversations -- what is the purpose of these conversations? How can you approach this? 
@@ -159,8 +159,8 @@ Develop a template to use. This will help you stay on script and get to the poin
     "Life at [amazing company]" 
     OR
     "Would like to connect"
-    OR
-    "Quick Question"
+    OR 
+    "Turing grad looking for advice"
     
 2. Greeting (simple, not overly formal). Make sure to spell their name right: 
     
@@ -175,6 +175,10 @@ Develop a template to use. This will help you stay on script and get to the poin
     *What interesting experience do I have that might make me worth meeting?*
     
     Before Turing, I taught in Denver Public Schools as a third and fourth grade teacher. 
+    
+    *What are my goals/motives? What value do I bring? How could I potentially help you with your goals?
+    
+    I aim to build software that helps students learn in an intentional way. I'd love to learn more about how I can add to the kind of work that [Company] is doing. 
     
     *Call to action*
     
@@ -197,7 +201,7 @@ Because you've researched your contact, you'll know if there are certain things 
 * ...But not *too* casual
 * Less is more -- keep it on message, longer emails may not be read
 * Double check the spelling of their name and/or their company name 
-* Writing a generic email (make sure to tailor it accordingly)
+* Don't write a generic email (make sure to tailor it accordingly)
 * Don't tell your life story. That can come when you actually meet the person. Keep it short, sweet, and to the point
 * Utilize the subject line
 
