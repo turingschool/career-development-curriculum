@@ -251,13 +251,13 @@ Consider how *you* will feel most comfortable in creating these relationships.
 
 You've come prepared to share your story. How can you also learn about the other person's story in a way that makes them memorable? How can go from simply networking to creating a relationship? 
 
-     Consider:
+ Consider:
 
-        * "What are you working on right now?" is a great question to lead with; allows person to answer in a way that speaks to their passions and not just describe their day-to-day
-        * Discussing the topic of the event; what was interesting about the talk?
-        * Current projects
-        * The local tech scene 
-        * Tell them about yourself -- this is a *great* time to practice that professional story!!
+   * "What are you working on right now?" is a great question to lead with; allows person to answer in a way that speaks to their passions and not just describe their day-to-day
+   * Discussing the topic of the event; what was interesting about the talk?
+   * Current projects
+   * The local tech scene 
+   * Tell them about yourself -- this is a *great* time to practice that professional story!!
         
 * **Get a business card.** Find a way to follow up the conversation with this person and don't leave without a call to action -- how will you continue the conversation? 
 
@@ -293,19 +293,19 @@ Spend 10 minutes deciding what networking will look like for you in your job sea
 
   * Where will you spend your energy?
   
-  If you're going to utilize networking events, look at upcoming networking events on meetup.com, builtin.com, or other social networking sites to make a plan for 1 that you can attend between now and the end of Module 3 (this is part of your deliverable). To ensure that it's doable for you, make a plan! Decide:
+If you're going to utilize networking events, look at upcoming networking events on meetup.com, builtin.com, or other social networking sites to make a plan for 1 that you can attend between now and the end of Module 3 (this is part of your deliverable). To ensure that it's doable for you, make a plan! Decide:
 
 * Why is this particular event interesting to you? How will you connect with others at this event?
 * What kind of value do you hope to gain? What kind of value can you contribute?
 * How will you capitalize on these relationships?
 
-  If you'll network using coffee meetings:
+If you'll network using coffee meetings:
   
  * Who do you aim to meet with and why?
  * What kind of value do you hope to gain from the experience? What kind of value can you contribute?
 * How will you capitalize on this relationship?
  
- If you'll network mainly using social media or open source contributions
+If you'll network mainly using social media or open source contributions
  
  * How will you meet and engage with others (i.e., what projects will you target? What kinds of conversations do you want to engage in?)
  * What kind of value do you hope to gain from the experience? What kind of value can you contribute?
