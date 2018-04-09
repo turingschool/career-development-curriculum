@@ -6,6 +6,22 @@
 
 Time: 60 minutes
 
+-All about building relationships -- needs a hook
+-Breaking this down into steps -- first you have to reach out to someone; go into ins and outs of cold outreach
+   -Where to find people to connect with
+      Turing network; meetup.com; guest speakers; dormant ties/weak ties
+   -Email
+   -Slack
+   -LinkedIn (caution)
+   -Social Media
+   -Examples/pair practice
+-Networking: you've reached out, now you need to build on the initial connection
+   -Emphasize personal preference; also talk about communities they're already a part of (TJCS, etc.)
+   -Coffee meetings vs. Meetups
+   -Reframing small talk and questions; bringing it back to professional story
+   -Examples/pair practice
+-Planning time
+
 * Opening (5 mins)
 * Intro to outreach (10 mins)
 * Crafting the Email (5 mins)
@@ -17,13 +33,17 @@ Time: 60 minutes
 
 ### Objectives
 * Understand why outreach and networking are effective strategies for the job search
-* Discover and implement strategies to research and contact mentors, alumni, or professional contacts who you'd like to meet
-* Research and find a networking event to attend during Module 3
+* Discover and implement cold outreach strategies
+* Decide on your preferred networking style and leverage effective networking strategies
 
 ### Deliverable
 Provide a plan for how you'll utilize outreach and networking during Module Three using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/outreach_networking_guidelines.md).
 
 ### Opening
+**Hook:** Who can remember something unique about someone else in this room that you'd like to share? Why do you remember that? What value could that information potentially provide you? What value can you provide to others in this room?
+
+That's networking -- building relationships that provide mutual value. Hopefully, this takes away some of the stigma or uncomfortable feelings associated with "networking" and instead begins to help you reframe networking as nothing more than making new relationships.
+
 In the technology industry, even moreso than in other industries, getting ahead in your career comes down to **who you know.** Establishing strong connections with others in the technology community starts while you're at Turing and will be a focal point of your job search. 
 
 In this session, we'll focus on how you can start building those relationships through utilizing the practices of outreach and networking. 
@@ -286,8 +306,6 @@ Don't:
 
 ### Networking 101
 Another way to connect with people and begin relationships is through attending networking events and utilizing social media.
-
-Whole Group: tell me something about someone else in your cohort, why do you remember that? Reframe networking as making new friendships 
 
 #### Analyze Comfort Level
 When it comes to networking, you'll want to consider your working style. Where do you fall on the introversion/extroversion spectrum? This will help you understand where you'll be comfortable in networking situations. 
