@@ -293,19 +293,21 @@ Spend 10 minutes deciding what networking will look like for you in your job sea
 
   * Where will you spend your energy?
   
-If you're going to utilize networking events, look at upcoming networking events on meetup.com, builtin.com, or other social networking sites to make a plan for 1 that you can attend between now and the end of Module 3 (this is part of your deliverable). To ensure that it's doable for you, make a plan! Decide:
+Pick one of the options below:
+  
+1. If you're going to utilize networking events, look at upcoming networking events on meetup.com, builtin.com, or other social networking sites to make a plan for 1 that you can attend between now and the end of Module 3. Decide:
 
 * Why is this particular event interesting to you? How will you connect with others at this event?
 * What kind of value do you hope to gain? What kind of value can you contribute?
 * How will you capitalize on these relationships?
 
-If you'll network using coffee meetings:
+2. If you'll network using coffee meetings:
   
  * Who do you aim to meet with and why?
  * What kind of value do you hope to gain from the experience? What kind of value can you contribute?
 * How will you capitalize on this relationship?
  
-If you'll network mainly using social media or open source contributions
+3. If you'll network mainly using social media or open source contributions:
  
  * How will you meet and engage with others (i.e., what projects will you target? What kinds of conversations do you want to engage in?)
  * What kind of value do you hope to gain from the experience? What kind of value can you contribute?
