@@ -6,24 +6,13 @@
 
 Time: 60 minutes
 
--Breaking this down into steps -- first you have to reach out to someone; go into ins and outs of cold outreach
-   -Where to find people to connect with
-      Turing network; meetup.com; guest speakers; dormant ties/weak ties
-   -Email
-   -Slack
-   -LinkedIn (caution)
-   -Social Media
-   -Examples/pair practice
-
-
 * Opening (6 mins)
-* Intro to outreach (10 mins)
+* Intro to Outreach (10 mins)
 * Crafting the Email (5 mins)
-* Outreach examples (5 mins)
-* Outreach practice (20 mins)
-* Intro to networking (5 mins) 
+* Outreach practice (15 mins)
+* Intro to networking (10 mins) 
 * Planning (10 mins)
-* Takeaways/Closing (5 mins)
+* Takeaways/Closing (4 mins)
 
 ### Objectives
 * Understand why outreach and networking are effective strategies for the job search
@@ -205,54 +194,11 @@ Because you've researched your contact, you'll know if there are certain things 
 * Don't tell your life story. That can come when you actually meet the person. Keep it short, sweet, and to the point
 * Utilize the subject line
 
-### Outreach Practice
-Let's discuss each example email below as a whole group. 
-
-**Examples**:
-
-Example #1 (warm outreach):
-
-    Hi Jose,
-
-    I'm in Mod 2 in the Front End program at Turing. I'm starting to learn React and figured 
-    it's about time I find a mentor. Since you work in React too, I'd love to pick your brain 
-    about it and discuss my project with you. Like you, I'm originally from Chicago and hope 
-    to move back there after I graduate. I'd also love to discuss the tech scene there with you and any 
-    advice you have for my job search. 
-    
-    I saw on the mentor schedule that you are available Wednesdays at 5pm -- are you free next 
-    Wednesday the 28th? If that date/time doesn't work, please let me know a time that's better 
-    for you. 
-
-    Thanks,
-    Gaby Martinez
-    
-What do you notice about this email? What is working well? What would you do differently?
-
-Example #2 (cold outreach):
-
-    Hi Mark,
-    
-    My name is Katrina, and I'm a back end student at Turing. I recently talked with Shauna Williams about
-    Tech Choice, and she recommended that I reach out to ask you about your work there. I'm very interested 
-    in pursuing work at a start-up like that and would really appreciate any advice you have for me as I begin 
-    my career as a junior dev. I saw that you posted on Twitter about senior positions 
-    opening up at Tech Choice. Any chance you'll be hiring junior devs soon? I'd love to talk with you about 
-    that too. Would you be able to hop on a call next week? I am free on Tuesday afternoon. 
-
-    Thanks,
-    Katrina Johnson
-    @katrina
-    katrinajohnson.com
-    303-123-4567
-
-What do you notice about this email? What is working well? What would you do differently?
-
 ### Practice & Group Feedback
 Spend 10 minutes finding someone to reach out to. This could be from:
 
-* Warm Outreach (mentors, alumni, other Turing contacts)
-* Cold Outreach (anyone from a company you're interested in learning more about)
+* Warm Outreach (dormant/weak ties, mentors, alumni, other Turing contacts)
+* Cold Outreach (anyone in the tech industry you'd like to connect with)
 
 Then, draft your message to them. Be sure to include:
 
@@ -261,7 +207,7 @@ Then, draft your message to them. Be sure to include:
 * Call to action with a specific date and time -- Suggest a few dates and times for the this week and the following; ask for 30 minutes to an hour. Offer a video hang-out as an option.
 
 **Pair & Share:**
-Form groups of 3-4 (4 max) and spend 10 minutes giving and receiving positive feedback and suggestions for improvement. Person A will read email and person B & C will both give:
+Find a partner and spend 5 minutes giving and receiving feedback and suggestions for improvement. You should provide:
 
 * 1 specific piece of appreciative feedback
 * 1 constructive recommendation for improvement
@@ -289,22 +235,23 @@ Use the meeting to build a relationship, *see below.*
 
 ### Networking 101
 You've reached out, now what? Let's talk about how you can build on the initial connection
+
    -Emphasize personal preference; also talk about communities they're already a part of (TJCS, etc.)
    -Coffee meetings vs. Meetups
    -Reframing small talk and questions; bringing it back to professional story
    -Examples/pair practice
+   
 #### Analyze Comfort Level
 When it comes to networking, you'll want to consider your working style. Where do you fall on the introversion/extroversion spectrum? This will help you understand where you'll be comfortable in networking situations. 
 
 Often, people who lean towards extroversion will be more excited about using meetups for networking and outreach opportunities because they're gaining energy from being around a lot of people and conversations. 
 
-Networking for introverts might look different. Here we'll break down some strategies for how you can start networking no matter your working style preference.
+One-on-one coffee meetings or using social media might feel more comfortable for introverts.
+
+Consider how *you* will feel most comfortable in creating these relationships.
 
 #### Networking While Introverted
-One-on-one coffee meetings like we mentioned above might be the place where introverts feel more comfortable. As you think about who you might want to build your network from, consider the network you already have, particularly the "weak" ties and "dormant" ties within it:
 
-* **Weak Ties:** 
-* **Dormant Ties:**
 
 Updates: 
 -Small Talk: Inverse of storytelling; how to make other person memorable.
@@ -320,6 +267,8 @@ Do:
 * Offer to buy coffee -- they may buy the coffee themselves, but the offer is a nice touch
 * Afterwards, send a thank you message the same day; *Very few people do this, but it means a lot even if it’s really simple*
 
+Ask about experience, projects, what their company does, where they’d work next, what they’d change about their current role/team, advice for getting started in the industry as a new developer
+
 Don't:
 
 * Ask for a job
@@ -333,9 +282,6 @@ Don't:
     * Schedule regular meetings
     * Go to a Meetup with your mentor/utilize their network
     * If you work with a posse mentor, in what ways could you build the relationship within the posse?
-
-#### Meetups/Events
-For extroverts, Meetups are set up to be both interest groups for you to join and network within and to be a place that hosts regular events for talks and building connections. If you're not as comfortable with writing emails, think about how you can use a networking event to take the place of that initial communication! 
 
 #### Tips for Making Networking Work for You:
 
