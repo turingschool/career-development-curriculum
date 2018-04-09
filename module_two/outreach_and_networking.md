@@ -57,7 +57,7 @@ Embracing outreach and networking will help you both in your initial job search 
 
 ### Outreach: Step by Step
 #### Where to Find Connections: The Network You Already Have
-Let's start with the obvious question: who can you reach out to? How will you find these new connections? You already have access to more contacts than you might first realize. 
+Let's start with the obvious question: who can you reach out to? How will you find these new connections? You already have access to more contacts than you might first realize.
 
 * **Dormant Ties:** These are people you know from other walks of life whom you may not have talked with in a while
    * Why you should reach out to them: You already know them. You may not have talked to them in a while, but it's not a cold contact. And chances are, you're already connected to them on social media so it's not difficult to reconnect with them. 
@@ -100,41 +100,40 @@ Let's start with the obvious question: who can you reach out to? How will you fi
          * In addition to their own perspective, they bring connections from the network they've been building since they were students. See who they can introduce you to.
       * What value you bring:
          * Community. You're part of the Turing community too and you serve as a connection to the latest information in the Turing community
+         
+For a more in-depth perspective on the network that you already have, check out Wharton professor and author of *Give and Take: A Revolutionary Approach to Success* Adam Grant's post [Finding the Hidden Value in Your Network](https://www.huffingtonpost.com/adam-grant/finding-the-hidden-value-_1_b_3458536.html)
 
 #### Put the COLD in Cold Outreach
 When creating a completely new relationship, here are some tips:
 
-* No reaching out to Turing/gSchool/HA alumni
-* Try to avoid companies where alums are working
-* Someone you've met but not worked with is OK
+* Look outside of the Turing community and try to avoid companies where alums are working
 * Where are alumni already working? Here is a quick list (but not exhaustive) of companies that you should skip:
 
 8th Light, Active Network, AdHawk, Advantage Integrated, Agilion, Allstate, American Thrombosis and Hemotosis Network, Aurigae, Blue Apron, Bonobos, Brandfolder, CA Technologies, Captain U, CareZone, Cirro, Coders Workshop, Cognizant Quick Left, CustomInk, DHR.net, Democracy Works, Digital Ocean, DispatchHealth, Ello, Equal Opportunity Schools, FanDuel Inc, Gitlab, Glassbreakers, GoSpotCheck, Gramercy Tech, Granicus, Guild Education, Harry Fox Agency (aka SESAC/Rumblefish), Huron, Impekable, Influx Data, Inquicker, Inspirato, Instacart, Invoca, Kite, Muve Health, NextRequest, Optum, Oracle, Politech, Procore, Real Geeks, Rumblefish, Shopify, Splice, Stitch Fix, TEKSystems, Tack Mobile, Tendril, Trelora, United Health Group, Vermont Public Radio, Vulk Coop, Wazee Digital, WellMatch/Aetna, Welltok Inc, Western Union, Wombat Security, eGauge Systems, iCentris, iTrellis
 
-#### Do Some Research
-What do you know about the person you're contacting? 
-
-Find out where their interests lie. Read their Medium blog posts, sign up for their newsletters, and check out their websites. Some other resources:
-
-* Research their projects on GitHub
-* Find individuals on GitHub
-* Look for community builders (events, sponsors, etc)
-* Mine Meetup
-* [Built in Colorado](http://www.builtincolorado.com/companies): find more companies
-* [Slacklist](http://www.slacklist.info/) 
-* [AngelList](https://angel.co/)
-* [CrunchBase](https://www.crunchbase.com/#/home/index) 
+* Do some research: what do you know about the person you're contacting? 
+   * Find out where their interests lie. Read their Medium blog posts, sign up for their newsletters, and check out their websites. Some other resources:
+   * Research their projects on GitHub
+   * Look for community builders (events, sponsors, etc)
+   * Again, use Meetup -- where do these contacts spend their time?
+   * More sites for research:
+      * [Built in Colorado](http://www.builtincolorado.com/companies): find more companies
+      * [Slacklist](http://www.slacklist.info/) 
+      * [AngelList](https://angel.co/)
+      * [CrunchBase](https://www.crunchbase.com/#/home/index) 
 
 You need to understand your contact's goals as much as you want them to know yours.
 
 #### Finding Contact Info
-Tools:
+Now that you know who you want to connect with, there are many tools that can help you find contact information if you don't already have it. Check out these tools:
 
 * [Email Hunter](https://emailhunter.co/)
 * [Find That Lead](https://findthatlead.com/)
 * [Find That Email](https://findthat.email/)
 * [MatterMark](https://mattermark.com/)
 * [Skrapp.io](https://www.skrapp.io/)
+* [Hunter.io](https://hunter.io/)
+* [Quickmail.io](https://quickmail.io/)
 * GitHub
 * Personal website  
 
