@@ -36,7 +36,7 @@ Provide a plan for how you'll utilize outreach and networking during Module Thre
 ### Opening
 **Hook:** Who can remember something unique about someone else in this room that you'd like to share? Why do you remember that? What value could that information potentially provide you? What value can you provide to others in this room?
 
-That's networking -- building relationships that provide mutual value. Hopefully, this takes away some of the stigma or uncomfortable feelings associated with "networking" and instead begins to help you reframe networking as nothing more than making new relationships.
+That's networking -- building relationships that provide mutual value. Hopefully, this takes away some of the stigma or uncomfortable feelings associated with "networking" and instead begins to help you reframe networking as nothing more than making new relationships. 
 
 In the technology industry, even moreso than in other industries, getting ahead in your career comes down to **who you know.** Establishing strong connections with others in the technology community starts while you're at Turing and will be a focal point of your job search. 
 
@@ -76,21 +76,9 @@ Let's start with the obvious question: who can you reach out to? How will you fi
          * Learning about the tech scene in a certain location
       * What value you bring:
          * Provide them with the opportunity to grow their mentoring skills
-         
-
-**Warm Outreach*
-
-
-Answering these questions could lead you to a long list of ideas -- this is totally fine. But take time to prioritize your needs that are the most pressing right now. Start with that highest priority. 
-
-Now, go to the [mentorship spreadsheet](https://docs.google.com/spreadsheets/d/1oxsATOSIdRZ78-Bj3GQY2LkIp0OV_sCN6GJVjtUuCl0/edit?usp=sharing) to find 1-3 people who fit your answer(s). 
-
-Other things to keep in mind:
-
-* Is your contact in Denver or remote?
-* Does their schedule match up with yours?
-
-Have an idea of how you would set up a meeting with a mentor before you contact them. 
+   * Turing Alumni (especially any who are not in the mentorship database):
+      * Why you should reach out to them:
+      * What value they can bring: 
 
 #### How to Leverage Your Network
 How can you leverage the network you already have? 
