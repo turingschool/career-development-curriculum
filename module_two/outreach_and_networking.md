@@ -14,12 +14,7 @@ Time: 60 minutes
    -LinkedIn (caution)
    -Social Media
    -Examples/pair practice
--Networking: you've reached out, now you need to build on the initial connection
-   -Emphasize personal preference; also talk about communities they're already a part of (TJCS, etc.)
-   -Coffee meetings vs. Meetups
-   -Reframing small talk and questions; bringing it back to professional story
-   -Examples/pair practice
--Planning time
+
 
 * Opening (6 mins)
 * Intro to outreach (10 mins)
@@ -27,7 +22,7 @@ Time: 60 minutes
 * Outreach examples (5 mins)
 * Outreach practice (20 mins)
 * Intro to networking (5 mins) 
-* Networking planning (5 mins)
+* Planning (10 mins)
 * Takeaways/Closing (5 mins)
 
 ### Objectives
@@ -48,8 +43,6 @@ In the technology industry, even moreso than in other industries, getting ahead 
 In this session, we'll focus on how you can start building those relationships through utilizing the practices of outreach and networking. 
 
 #### What This Looks Like
-
-
 Building relationships with developers and others in the tech community might feel daunting, so start with smaller steps:
 
 * Turing network: mentors, posses, alumni, student groups, guest speakers 
@@ -64,27 +57,29 @@ Embracing outreach and networking will help you both in your initial job search 
 
 ### Outreach: Step by Step
 #### Where to Find Connections
-Let's start with the obvious question: who can you reach out to? 
+Let's start with the obvious question: who can you reach out to? How will you find these new connections?
 
 * **Dormant Ties:**
 * **Weak Ties:**
+* **Meetups:**
+* **Turing Network:** 
+   * Turing Mentors: If you don't already have a mentor you meet with regularly, you should find one right now. Use the [mentor database](https://docs.google.com/spreadsheets/d/1oxsATOSIdRZ78-Bj3GQY2LkIp0OV_sCN6GJVjtUuCl0/edit?usp=sharing). 
+      * Why you should reach out to them:
+         * This is *warm outreach* -- they are already in our community and have signed up specifically for students to reach out to them. What are you waiting for? 
+      * What value they can bring:
+         * Project help
+         * Drills and homework help
+         * Learning about the industry
+         * Technical and/or behavioral prep
+         * Emotional support 
+         * Learning about specific jobs/companies
+         * Learning about the tech scene in a certain location
+      * What value you bring:
+         * Provide them with the opportunity to grow their mentoring skills
+         
 
-**Warm Outreach**
-Start with people in the Turing community, such as our mentors. There are two ways to reach out to mentors:
-* Go to the mentors in your posse
-* Use the [mentor database](https://docs.google.com/spreadsheets/d/1oxsATOSIdRZ78-Bj3GQY2LkIp0OV_sCN6GJVjtUuCl0/edit?usp=sharing)
+**Warm Outreach*
 
-Before you start reaching out to just anyone, ask yourself *"what would I like to get out of a mentor relationship?"*
-
-Possible answers:
-
-* Project help
-* Drills and homework help
-* Learning about the industry
-* Technical and/or behavioral prep
-* Emotional support 
-* Learning about specific jobs/companies
-* Learning about the tech scene in a certain location
 
 Answering these questions could lead you to a long list of ideas -- this is totally fine. But take time to prioritize your needs that are the most pressing right now. Start with that highest priority. 
 
@@ -285,7 +280,30 @@ If you receive a response saying they're too busy to meet that week or something
 *YOU* should respond to emails as quickly as possible so that you can keep the conversation momentum going.
 
 **What if they do respond?**
-Use the meeting to build a relationship. 
+Use the meeting to build a relationship, *see below.* 
+
+### Networking 101
+You've reached out, now what? Let's talk about how you can build on the initial connection
+   -Emphasize personal preference; also talk about communities they're already a part of (TJCS, etc.)
+   -Coffee meetings vs. Meetups
+   -Reframing small talk and questions; bringing it back to professional story
+   -Examples/pair practice
+#### Analyze Comfort Level
+When it comes to networking, you'll want to consider your working style. Where do you fall on the introversion/extroversion spectrum? This will help you understand where you'll be comfortable in networking situations. 
+
+Often, people who lean towards extroversion will be more excited about using meetups for networking and outreach opportunities because they're gaining energy from being around a lot of people and conversations. 
+
+Networking for introverts might look different. Here we'll break down some strategies for how you can start networking no matter your working style preference.
+
+#### Networking While Introverted
+One-on-one coffee meetings like we mentioned above might be the place where introverts feel more comfortable. As you think about who you might want to build your network from, consider the network you already have, particularly the "weak" ties and "dormant" ties within it:
+
+* **Weak Ties:** 
+* **Dormant Ties:**
+
+Updates: 
+-Small Talk: Inverse of storytelling; how to make other person memorable.
+
 
 Do:
 
@@ -309,26 +327,7 @@ Don't:
 * With mentors:
     * Schedule regular meetings
     * Go to a Meetup with your mentor/utilize their network
-    * If you work with a posse mentor, in what ways could you build the relationship within the posse? 
-
-### Networking 101
-Another way to connect with people and begin relationships is through attending networking events and utilizing social media.
-
-#### Analyze Comfort Level
-When it comes to networking, you'll want to consider your working style. Where do you fall on the introversion/extroversion spectrum? This will help you understand where you'll be comfortable in networking situations. 
-
-Often, people who lean towards extroversion will be more excited about using meetups for networking and outreach opportunities because they're gaining energy from being around a lot of people and conversations. 
-
-Networking for introverts might look different. Here we'll break down some strategies for how you can start networking no matter your working style preference.
-
-#### Networking While Introverted
-One-on-one coffee meetings like we mentioned above might be the place where introverts feel more comfortable. As you think about who you might want to build your network from, consider the network you already have, particularly the "weak" ties and "dormant" ties within it:
-
-* **Weak Ties:** 
-* **Dormant Ties:**
-
-Updates: 
--Small Talk: Inverse of storytelling; how to make other person memorable.
+    * If you work with a posse mentor, in what ways could you build the relationship within the posse?
 
 #### Meetups/Events
 For extroverts, Meetups are set up to be both interest groups for you to join and network within and to be a place that hosts regular events for talks and building connections. If you're not as comfortable with writing emails, think about how you can use a networking event to take the place of that initial communication! 
@@ -350,6 +349,7 @@ For extroverts, Meetups are set up to be both interest groups for you to join an
 There are ways to network without even leaving the comfort of your computer screen! Consider how to connect with others using:
 
 * Social media sites (Twitter, LinkedIn, etc.)
+   * Small talk rules apply here -- don't leave a one-off comment...
 * Blogging
 * Open Source contributions
 
