@@ -118,7 +118,7 @@ Start with a network of at least 50 connections (but always aim for 500+ quality
 |           [Leta Keane](https://www.linkedin.com/in/letakeane/)           |  [Nathaniel Foster](https://www.linkedin.com/in/nathanielfosterofficial/)  |      [Pam Lovett](https://www.linkedin.com/in/thatpamiam/)     |
 |     [Cory Westerfield](https://www.linkedin.com/in/corywesterfield/)     |        [David Whitaker](https://www.linkedin.com/in/david-whitaker/)       |  [Amy Holt](https://www.linkedin.com/in/amyelizabethholt/)  |
 |        [Ali Schlereth](https://www.linkedin.com/in/alischlereth/)        | [Erin Williams](https://www.linkedin.com/in/erin-neill-williams-793696a8/) |     [Kayt Hensley](https://www.linkedin.com/in/klhensley/)     |
-| [Rachel Martinez](https://www.linkedin.com/in/rachel-martinez-16693956/) |          [Rachel Warbelow](https://www.linkedin.com/in/rwarbelow/)         |                                                                |
+| [Rachel Martinez](https://www.linkedin.com/in/rachel-martinez-16693956/) |          [Rachel Warbelow](https://www.linkedin.com/in/rwarbelow/)         |         [Brian Zanti](https://www.linkedin.com/in/brian-zanti-ba906057/)                                                       |
 
 * Engage with your connections by liking, commenting on, and/or sharing their updates.
 * As you continue to grow in your development at Turing, share your own updates, whether they be blog posts or links to projects.
