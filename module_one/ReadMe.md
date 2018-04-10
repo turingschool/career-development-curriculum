@@ -33,6 +33,3 @@ In order to fulfill the requirements of module one, students will submit these d
 * Create/Update LinkedIn, GitHub, Twitter, and Stack Overflow profiles and input them into Census
 
 You'll submit your DTR Memo and Storytelling reflection [here](https://goo.gl/forms/HILyYTTzy5eJWJyI3). Your profiles will be submitted by setting up your Census account, and your partner feedback will be submitted in the surveys you receive. 
-
-### For Students Repeating the Module
-If you're repeating the module, you have options for each professional development session depending on your confidence levels and staff feedback in each area. 
