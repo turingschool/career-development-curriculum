@@ -140,6 +140,31 @@ The people you want to connect with are using Twitter, so if you're not on the s
 - Add to the conversation
 * Post links....
 
+#### Follow
+From this post [15 Twitter Accounts Every Web Developer Should Follow](https://blog.planetargon.com/entries/15-twitter-accounts-every-web-developer-should-follow):
+
+**Front End Developers:**
+* Catt Small (@cattsmall)
+* Harry Roberts (@csswizardry)
+* CSS Tricks (@Real_CSS_Tricks)
+* Jen Simmons (@jensimmons)
+* Rachel Andrew (@rachelandrew)
+* Nathan Yau (@flowingdata)
+
+**Ruby on Rails Developers:**
+* DHH (@dhh)
+* Justin Searls (@searls)
+* Sarah Mei (@sarahmei)
+* Colin Jones (@trptcolin)
+* Thomas Fuchs (@thomasfuchs)
+
+**General Development:**
+* Trek Glowacki (@trek)
+* Egghead.io (@eggheadio)
+* Jason Fried (@jasonfried)
+* Free Code Camp (@freecodecamp)
+* The Practical Dev (@ThePracticalDev)
+
 ### GitHub Overview
 - Add a headshot photo rather than using the avatar - CTOs will think you're an amateur otherwise
 - Complete GitHub profile with:
