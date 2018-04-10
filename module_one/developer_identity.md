@@ -124,7 +124,7 @@ Start with a network of at least 50 connections (but always aim for 500+ quality
 * As you continue to grow in your development at Turing, share your own updates, whether they be blog posts or links to projects.
 
 ### Twitter Overview
-Professionals in the tech industry 
+The people you want to connect with are using Twitter, so if you're not on the site yet, you should create a profile today. 
 
 - Display your brand visually and through written content
 - Engage in conversations that reinforce your personal brand
@@ -138,6 +138,7 @@ Professionals in the tech industry
 - Search for topics interesting to you ("webdev", "edtech", "diversity in tech")
 - Consider how you would approach a conversation at a party. Listen, observe, then evaluate when is appropriate to interject with your opinion, perspective, knowledge.
 - Add to the conversation
+* Post links....
 
 ### GitHub Overview
 - Add a headshot photo rather than using the avatar - CTOs will think you're an amateur otherwise
