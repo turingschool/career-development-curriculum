@@ -7,14 +7,11 @@
 
 Length: 60 minutes
 
--Add: How to use Twitter
-
--Spend more time emphasizing LinkedIn, provide worktime?
-
 * Opening (15 mins)
 * LinkedIn (20 mins)
 * Twitter (10 mins)
 * GitHub (5 mins)
+* Work Time/Q&A (5 mins)
 * Closing: Upcoming Tools: Resumes, Portfolios (5 mins)
 
 ### Objectives
