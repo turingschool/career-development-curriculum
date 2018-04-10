@@ -7,13 +7,15 @@
 
 Length: 60 minutes
 
+-Add: How to use Twitter
+-Take out: Stack Overflow
+-Spend more time emphasizing LinkedIn, provide worktime?
+
 * Opening (15 mins)
 * LinkedIn (20 mins)
-* Twitter (5 mins)
+* Twitter (10 mins)
 * GitHub (5 mins)
-* Stack Overflow (5 mins)
 * Closing: Upcoming Tools: Resumes, Portfolios (5 mins)
-* Q&A (5 mins)
 
 ### Objectives
 
@@ -111,10 +113,10 @@ Start with a network of at least 50 connections (but always aim for 500+ quality
 |    [Allison Reu Singer](https://www.linkedin.com/in/allisonreusinger/)   |            [Jeff Casimir](https://www.linkedin.com/in/jcasimir/)           | [Ellen Mary Hickmann](https://www.linkedin.com/in/emhickmann/) |
 |          [Joanne Liu](https://www.linkedin.com/in/joannemwliu/)          |        [Louisa Barrett](https://www.linkedin.com/in/louisabarrett/)        |    [Sal Espinosa](https://www.linkedin.com/in/salespinosa/)    |
 |           [Josh Mejia](https://www.linkedin.com/in/joshmejia/)           |          [Ian Douglas](https://www.linkedin.com/in/iandouglas736/)         |       [Mike Dao](https://www.linkedin.com/in/michaeldao/)      |
-|           [Ilana Corson](https://www.linkedin.com/in/icorson3/)          |          [Lauren Fazah](https://www.linkedin.com/in/laurenfazah/)          |    [Jhun de Andres](https://www.linkedin.com/in/joshuajhun/)   |
+|           [Ilana Corson](https://www.linkedin.com/in/icorson3/)          |          [Christie Lynam](https://www.linkedin.com/in/christie-lynam/)          |    [Jhun de Andres](https://www.linkedin.com/in/joshuajhun/)   |
 |      [Brittany Storoz](https://www.linkedin.com/in/brittanystoroz/)      |         [Robbie Jaeger](https://www.linkedin.com/in/robertjaeger0/)        |    [Will Mitchell](https://www.linkedin.com/in/wvmitchell/)    |
 |           [Leta Keane](https://www.linkedin.com/in/letakeane/)           |  [Nathaniel Foster](https://www.linkedin.com/in/nathanielfosterofficial/)  |      [Pam Lovett](https://www.linkedin.com/in/thatpamiam/)     |
-|     [Cory Westerfield](https://www.linkedin.com/in/corywesterfield/)     |        [David Whitaker](https://www.linkedin.com/in/david-whitaker/)       |  [Victoria Vasys](https://www.linkedin.com/in/victoriavasys/)  |
+|     [Cory Westerfield](https://www.linkedin.com/in/corywesterfield/)     |        [David Whitaker](https://www.linkedin.com/in/david-whitaker/)       |  [Amy Holt](https://www.linkedin.com/in/amyelizabethholt/)  |
 |        [Ali Schlereth](https://www.linkedin.com/in/alischlereth/)        | [Erin Williams](https://www.linkedin.com/in/erin-neill-williams-793696a8/) |     [Kayt Hensley](https://www.linkedin.com/in/klhensley/)     |
 | [Rachel Martinez](https://www.linkedin.com/in/rachel-martinez-16693956/) |          [Rachel Warbelow](https://www.linkedin.com/in/rwarbelow/)         |                                                                |
 
@@ -122,6 +124,8 @@ Start with a network of at least 50 connections (but always aim for 500+ quality
 * As you continue to grow in your development at Turing, share your own updates, whether they be blog posts or links to projects.
 
 ### Twitter Overview
+Professionals in the tech industry 
+
 - Display your brand visually and through written content
 - Engage in conversations that reinforce your personal brand
 
@@ -146,14 +150,6 @@ Start with a network of at least 50 connections (but always aim for 500+ quality
 #### Complete Profile
 - Share your email address, personal website, location, headshot
 - Never block someone from connecting with you while you are job searching -- the more information the better
-
-### Stack Overflow
-Same rules:
-
-* Use the same photo
-* Tell your story
-* Include links to your Twitter, GitHub, LinkedIn
-* Location
 
 ### What's Coming Next
 In Module 3, we'll work on:
