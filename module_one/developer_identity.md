@@ -8,7 +8,7 @@
 Length: 60 minutes
 
 -Add: How to use Twitter
--Take out: Stack Overflow
+
 -Spend more time emphasizing LinkedIn, provide worktime?
 
 * Opening (15 mins)
@@ -69,7 +69,7 @@ When a recruiter or potential employer clicks on your profile, they see 4 initia
 * **The first few sentences of your summary:** This is why it's so important. Make those first 100 words stand out. 
 
 **Summary:** 
-This is the story that you're telling: who you are (as a developer, worker, teammate, individual, etc.), how you got here (why software development, why now), what's next (what are your longterm career goals/ambitions). Your story is one of the few places in the profile where you can introduce yourself as a whole person. Your story should be told from a high level
+This is the story that you're telling: who you are (as a developer, worker, teammate, individual, etc.), how you got here (why software development, why now), what's next (what are your longterm career goals/ambitions). Your story is one of the few places in the profile where you can introduce yourself as a whole person and should be told from a high level.
 
 Tips for an effective summary:
 
@@ -138,7 +138,10 @@ The people you want to connect with are using Twitter, so if you're not on the s
 - Search for topics interesting to you ("webdev", "edtech", "diversity in tech")
 - Consider how you would approach a conversation at a party. Listen, observe, then evaluate when is appropriate to interject with your opinion, perspective, knowledge.
 - Add to the conversation
-* Post links....
+* Start your own conversations
+	* What's important to you?
+	* What content can you share?
+	* This isn't about self-promotion per se, it's about connection
 
 #### Follow
 From this post [15 Twitter Accounts Every Web Developer Should Follow](https://blog.planetargon.com/entries/15-twitter-accounts-every-web-developer-should-follow):
@@ -172,10 +175,9 @@ From this post [15 Twitter Accounts Every Web Developer Should Follow](https://b
 	- Location
 	- Link to personal site once you have one
 	- Twitter handle
-
-#### Complete Profile
-- Share your email address, personal website, location, headshot
-- Never block someone from connecting with you while you are job searching -- the more information the better
+	* Include your email address so that anyone who sees your profile can immediately reach out to you
+* Pin your best projects to your profile page and keep it up-to-date
+* File issues on all your repos for things that need fixing up
 
 ### What's Coming Next
 In Module 3, we'll work on:
