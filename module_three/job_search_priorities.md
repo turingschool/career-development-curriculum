@@ -7,16 +7,16 @@ Session Time: 60 minutes
 
 Structure:
 * Opening (5 mins)
-* Priorities (20 mins)
-* Expertise (20 mins)
-* Future Contributions (25 mins)
-* Job search logistics (10 mins)
-* Closing (5 mins)
+* Priorities (12 mins)
+* Expertise (15 mins)
+* Future Contributions (20 mins)
+* Job search logistics (6 mins)
+* Closing (2 mins)
 * Extra time: students can spend time working on their deliverables (potentially 10 mins)
 
-WORK TIME FOR PORTFOLIOS
-
 ### Opening
+Hook: How many of you plan to apply to jobs that you're not interested in? How many of you plan to spend over 3 months on your job search? Probably not many of you will raise your handS. No one usually *plans* for these things to happen, but they do happen when we don't make plans for our job search the first place. Today we're going to make sure that you are able to prioritize your job search in Mod 4 to ensure that you spend time the way you need to.
+
 This job search brings up a lot of questions:
 
 * What do you want to do?
@@ -45,7 +45,7 @@ Trying to answer all of these questions at once can feel overwhelming, but in th
 * Complete PD Peer Groups Survey
 
 ### Decide on Priorities: What do you want to do (longterm)? 
-What bullet points stick out to you as most important in describing who you are? How can you take the most important bullets and combine them into a career you love?
+In Week 2, you worked on the Flower Exercise to clarify what's important to you in your career, and you've synthesized that information into bulleted statements. What bullet points stick out to you as most important for you? How can you take the most important bullets and combine them into a career you love?
 
 ### Your Turn
 **Write:** Spend five minutes analyzing your biggest priorities in the job search based on what you've discovered. 
@@ -110,6 +110,8 @@ By attending this program, you are making a place for yourself in the software i
 * Why might it be important to contribute to the industry outside of writing code for your job? 
 * How could this help you with your job search?
 * How could you seek out resources to help you with the parts that make you uncomfortable? 
+
+*These are the kinds of discussions you'll want to have regularly in M4 -- practice them now!*
 
 ### Job Search Logistics: Get Practical
 Finally, let's think about what you need from the job search in terms of how quickly you need a job and what steps you will take to make that happen. 
