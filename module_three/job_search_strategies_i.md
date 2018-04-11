@@ -1,4 +1,5 @@
-# Job Search Strategies I
+# Job Search Strategies 
+## Prepping for the M4 Job Search
 
 Session Time: 60 minutes
 
@@ -30,7 +31,7 @@ This job search brings up a lot of questions:
 	* When do you need a job by? 
 	* What steps do you need to take to secure that job?
 
-Trying to answer all of these questions at once can feel overwhelming, but in this session, we'll discuss how you can pull together all the professional development pieces you've worked on this module (your resume, your professional story, your flower exercise week 5, your research, your job shadowing experience week 4) to help you answer these questions one by one.
+Trying to answer all of these questions at once can feel overwhelming, but in this session, we'll discuss how you can pull together all the professional development pieces you've worked on this module (your resume, your professional story, your flower exercise, your research, your job shadowing experience) to help you answer these questions one by one.
 
 ### Objectives
 * Identify your top priorities in your job search
@@ -44,7 +45,7 @@ Trying to answer all of these questions at once can feel overwhelming, but in th
 * Complete PD Peer Groups Survey
 
 ### Decide on Priorities: What do you want to do (longterm)? 
-. What bullet points stick out to you as most important in describing who you are? How can you take the most important bullets and combine them into a career you love?
+What bullet points stick out to you as most important in describing who you are? How can you take the most important bullets and combine them into a career you love?
 
 ### Your Turn
 **Write:** Spend five minutes analyzing your biggest priorities in the job search based on what you've discovered. 
@@ -122,7 +123,7 @@ Work backwards from that date to consider these questions for yourself:
 * If I need a job by X date, what do I need to do each month/week/day to make that happen?
 * Who will I rely for support? Who will I use for resources? 
 
-### Your Turn in Week 5
+### Your Turn
 Decide for yourself answers to the above questions, and fill out the survey for Module 4 PD Peer Groups.
 
 ### Closing
