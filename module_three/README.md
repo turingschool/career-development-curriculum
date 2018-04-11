@@ -21,7 +21,7 @@ Students will leave Module Three with a clear blueprint for their job search by 
 * [What Color is Your Parachute: Flower Exercise](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/flower_exercise.md)
 * [Finding Opportunities](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/finding_opportunities.md)
 * [Resume Review Workshop](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/m3_resume_review.md)
-* [Job Search Strategies I](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/job_search_strategies_i.md)
+* [Job Search Priorities](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/job_search_priorities.md)
 
 ### Deliverables
 In order to fulfill the requirements of module three, students will submit these deliverables:
