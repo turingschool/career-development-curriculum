@@ -1,4 +1,4 @@
-# Job Search Strategies 
+# Job Search Priorities
 ## Prepping for the M4 Job Search
 
 Session Time: 60 minutes
