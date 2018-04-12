@@ -121,7 +121,6 @@ Now that you know who you want to connect with, there are many tools that can he
 * [Find That Email](https://findthat.email/)
 * [MatterMark](https://mattermark.com/)
 * [Skrapp.io](https://www.skrapp.io/)
-* [Hunter.io](https://hunter.io/)
 * [Quickmail.io](https://quickmail.io/)
 * GitHub
 * Personal website  
