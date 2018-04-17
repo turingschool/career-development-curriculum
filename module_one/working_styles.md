@@ -58,8 +58,8 @@ In your new groups, discuss these questions:
 
 ## Whole Group Share 
 
-* What have you learned about your own style today? 
-* What have you learned about the opposing style? 
+* What are areas between these working styles that could cause conflict?
+* How could you address these differences in your work?
 
 ### Individual Reflection
 In your notebook, please respond to these two questions.
