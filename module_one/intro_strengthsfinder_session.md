@@ -188,7 +188,7 @@ What do you notice about this example? What is effective? What might you do diff
 You Do: Spend 5 minutes now crafting your message to your mentor. You will probably add to it once you know who your mentor is, including information you learn about them from the spreadsheet, but creating a template will help you get started. 
 
 ## Further Reflection
-Using the other two reports, take time to individually reflect on the results and begin to make both short-term and longterm goals for both Turing and your new career path using your strengths. Answer the rest of the questions on the [template](https://github.com/turingschool/career-development-curriculum/edit/master/module_one/strengths_reflection_guidelines.md) in your own gist. 
+Using the other two reports, take time to individually reflect on the results and begin to make both short-term and longterm goals for both Turing and your new career path using your strengths. Answer the rest of the questions on the [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/strengths_reflection_guidelines.md) in your own gist. 
   
 ## Next Steps & Coaching
 StrengthsFinder will be a helpful tool we'll use throughout your career development sessions at Turing. If you would like support in building your strengths individually or just want someone to talk with about your goals or how to be successful at Turing, please reach out to Allison to set up a 1-on-1 meeting.
