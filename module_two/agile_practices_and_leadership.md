@@ -224,11 +224,11 @@ Now that you understand these leadership styles look like, let's discuss how the
 * How does this cycle relate to agile systems?
 
 #### Project Team Discussion
-Get in your current project teams to discuss the following questions:
+You're about to kick off your next team/paired project. Get into the groups listed on the slide to discuss the following questions:
 
 * Share your strengths with each other -- what do they mean? How do you interpret these strengths in your day-to-day work? 
-* Describe a “high point” moment as a team so far -- when has your team worked at its absolute best? How have you moved through Tuckman's stages?
-* What are your domains of strengths? How have you seen these in action working together so far? What are the impacts of these domains on the team? 
+* How can you move through Tuckman's stages as a team?
+* What are your domains of strengths? How could these strengths work together to make a successful team? 
 * How might your team come into conflict with each other? How will you resolve that conflict if it occurs?
 * What domains are not covered as much in your current team? How does that affect your team’s performance? 
 
