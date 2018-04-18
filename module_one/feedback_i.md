@@ -163,11 +163,11 @@ The [Center for Creative Leadership](https://www.ccl.org/) developed the SBI Fee
 	* "During work time yesterday, when you completed that feature, you did not ask me to review your PR before pushing your code. We had written in our DTR memo that we would review each other's code as part of our workflow. I'm concerned that not taking time to review our code could result in more bugs. I also wish I could've learned more about the code from reviewing it."
 	* "At the check-in with the instructor on Monday afternoon, I saw you point out the code that I wrote, and you mentioned that you learned a lot from it. I really appreciate that you took the time to acknowledge what I did, and I'm glad I was able to help you learn too." 
 	
-Using a framework like SBI can help you get down to 
-	
 Other guiding principles for deciding on what feedback to give:
 * What feedback will be helpful for my partner's learning and coding career? 
-* What 
+* What should my partner consider when working with someone like me in the future? 
+* What should my partner consider when working with someone who is different from me in the future? 
+* How could my partner build on what they're doing well?
 
 ### Example of Written Feedback
 
