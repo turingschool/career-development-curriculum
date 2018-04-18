@@ -19,7 +19,7 @@ This is the first of 3 different feedback sessions you'll receive at Turing alon
 
 ### Deliverable
 
-You will submit feedback for each of your project partners this module by sending a paragraph of written feedback intended for your partner in a DM to Allison. She will review your feedback and send you any follow-up notes before the feedback is passed on to your partner. Feedback will also be shared with your instructors. 
+You will submit feedback for each of your project partners this module by sending a paragraph of written feedback intended for your partner in a survey. Your feedback will be reviewed and you may be asked to update the feedback before it is passed on to your partner. Feedback will also be shared with your instructors. 
 
 Back End: this review will happen *twice* in the module.
 Front End: this review will happen *three times* in the module. 
@@ -31,7 +31,6 @@ Front End: this review will happen *three times* in the module.
 * Intent vs. Impact & Blind Spots (16 mins)
 * Example (5 mins)
 * Writing (8 mins)
-
 
 #### Opening
 Why are we talking about this? 
@@ -51,7 +50,6 @@ Think of a couple of pieces of feedback in the recent past that you found tough 
 * How would you describe your experience in relation to the three triggers (truth, relationship, identity)? 
 * Which of the three triggers do you find most perplexing and why? 
 * What might help you manage these triggers?
-
 
 **Turn & Talk:** Share your experience with a partner
 
@@ -89,10 +87,6 @@ In order to better recognize our triggers, we need to first understand what kind
 
 * Ask for the type of feedback you want
 * At Turing, you should give and receive appreciation and coaching
-
-#### Turn & Talk
-* Which type(s) of feedback will be more difficult for you to give?
-* Which type(s) of feedback will be more difficult for you to hear? Are there any triggers that come up?
 
 Here's more on why feedback can create triggers...
 
@@ -142,14 +136,38 @@ Discuss these examples with your partner:
 | I think the project went fine overall. But I think you should work on your organization skills. You were late to most meetings. | The project got finished, but my partner should know that tardiness is affecting their pairing abilities | This is so harsh. Didn’t I do anything right? |
 | You're making a lot of strides with TDD. You got a 3 on testing again this project | Few people ever get a 4, and you got a 3 twice in a row. This is impressive! | I worked even harder than last project, and I still got a 4. This instructor is too hard on me. |
 
-### Being Intentional in Giving Feedback
-Clarify your intent by following these 3 guidelines:
+### Being Intentional in Giving Feedback: So Many Frameworks!
+In [Learning to Pair](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/learning_to_pair.md), we discussed the Crucial Conversations framework, which is mean to establish safety and respect in your conversation by establishing:
 
-* Specific
-* Actionable
-* Kind
+* Facts
+* Feelings
+* Dialogue: ask for the other person's position
 
-What does this look like in action? Generate some norms as a group. 
+Feedback conversations can follow a similar framework. When thinking about what feedback to give your partner, stick to these principles:
+
+* Make it **specific**
+* Make it **actionable**
+* Make it **kind**
+
+Now, how can you actually do that? Similar to using Crucial Conversations, the Situation-Behavior-Impact framework can help you clarify the feedback you need to deliver. 
+
+The [Center for Creative Leadership](https://www.ccl.org/) developed the SBI Feedback tool to help managers deliver clear, specific feedback. You can apply it to your partnerships at Turing too!
+
+* **Situation:** When you're giving feedback, first define the when and where of the situation you're referring to. This puts the feedback into context, and gives the other person a specific setting as a reference.
+	* "During work time yesterday, when you completed that feature..."
+	* "At the check-in with the instructor on Monday afternoon..."
+* **Behavior:** Your next step is to describe the specific behaviors that you want to address. This is the most challenging part of the process, because you must communicate *only* the behaviors that you observed directly. You must not make assumptions or subjective judgments about those behaviors. These could be wrong, which could cause a truth trigger and undermine your feedback.
+	* "During work time yesterday, when you completed that feature, you did not ask me to review your PR before pushing your code. We had written in our DTR memo that we would review each other's code as part of our workflow."
+	* "At the check-in with the instructor on Monday afternoon, I saw you point out the code that I wrote, and you mentioned that you learned a lot from it."
+* **Impact:** The last step is to describe the impact that the behavior had on you and the project. Try to use "I" statements when referring to yourself. As you discuss the impact, make it actionable for what your team member could do to change or build on the behavior for the future. 
+	* "During work time yesterday, when you completed that feature, you did not ask me to review your PR before pushing your code. We had written in our DTR memo that we would review each other's code as part of our workflow. I'm concerned that not taking time to review our code could result in more bugs. I also wish I could've learned more about the code from reviewing it."
+	* "At the check-in with the instructor on Monday afternoon, I saw you point out the code that I wrote, and you mentioned that you learned a lot from it. I really appreciate that you took the time to acknowledge what I did, and I'm glad I was able to help you learn too." 
+	
+Using a framework like SBI can help you get down to 
+	
+Other guiding principles for deciding on what feedback to give:
+* What feedback will be helpful for my partner's learning and coding career? 
+* What 
 
 ### Example of Written Feedback
 
