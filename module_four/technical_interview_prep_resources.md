@@ -29,6 +29,7 @@ Ian Douglas has published [this handy guide](https://docs.google.com/document/d/
     * [Apple Store](https://itunes.apple.com/us/app/flashcardfe/id1225364104?ls=1&mt=8)
     * [Google Play Store](https://play.google.com/store/apps/details?id=com.grahamnessler.bookmarker&hl=en)
 * Attend a [Denver Tech Interview Meetup](https://www.meetup.com/denver-tech-interview-meetup/) -- they are held twice a month, either downtown or in the Denver Tech Center.
+* [Top 50 React Interview Prep Questions](https://www.edureka.co/blog/interview-questions/react-interview-questions/?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
 
 ### Follow Up
 Join Ian Douglas's mailing list at [his site](https://iandouglas.com/technical-coaching/) for interview prep emails.
