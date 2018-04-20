@@ -34,11 +34,11 @@ You can choose from the options below to decide how you want to
 #### Gear Ups 
 You are expected to attend **all** Gear Ups, and you are encouraged to take on a leadership/facilitator role in group discussions. Sessions:
 
-    * Week 1: Health & Wellness
-      * Option 1:
-    * Week 3: Code: Debugging the Gender Gap
-      * Option
-    * Week 5: Mod 4-led Choice session 
+* Week 1: Health & Wellness
+ * Option 1:
+* Week 3: Code: Debugging the Gender Gap
+ * Option
+* Week 5: Mod 4-led Choice session 
     
  
 ### Options for Deliverables
