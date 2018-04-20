@@ -4,8 +4,8 @@
 Using the guidelines below, create a plan for your professional development during your Mod 1 repeat based on requirements that you may still need to meet and identify areas in which you'd like to grow for your professional and personal development. 
 
 * Decide on an option for each session
-* Decide on deliverable options
-* In a secret gist, outline what your role will be and what your plan is to execute these options
+* Decide on what deliverables you'll complete this module
+* In a secret gist, outline what your role will be and what your plan is to execute these options. You'll submit this gist to Allison. 
 
 ### Expectations & Options for Structuring the Module
 You can choose from the options below to decide how you want to 
