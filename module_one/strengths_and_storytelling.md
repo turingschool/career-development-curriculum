@@ -25,7 +25,7 @@ Length: 90 mins
 * Practice sharing stories to better understand each other and build our storytelling skills
 
 #### Deliverables
-* Complete the [Strengths & Storytelling Reflection](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/strengths_storytelling_reflection.md) for your M1 PD deliverables that you'll submit [here](https://github.com/turingschool/career-development-curriculum/tree/master/deliverable_submissions)
+* Complete the [Strengths & Storytelling Reflection](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/strengths_storytelling_reflection.md) for your M1 PD deliverables
 
 #### The Why: Why Telling Your Story is Important
 Stories are how we connect with each other. From fairy tales to novels to movies to podcasts, stories provide a way for people to share their experiences with others, building empathy and awareness of our universal experiences.
