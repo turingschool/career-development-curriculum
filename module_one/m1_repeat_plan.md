@@ -33,15 +33,15 @@ As you make your plan, think about how you can push yourself to grow in these ar
 You are expected to attend **all** Gear Ups, and you are encouraged to take on a leadership/facilitator role in group discussions. Sessions:
 
 * Week 1: Health & Wellness
- * Option 1:
- * Option 2:
- * Option 3:
+    * Option 1:
+    * Option 2:
+     * Option 3:
 * Week 3: Code: Debugging the Gender Gap
- * Option 1:
- * Option 2:
- * Option 3:
+     * Option 1:
+     * Option 2:
+     * Option 3:
 * Week 5: Mod 4-led Choice session 
- * This session will be different than the session you attended last mod, and there are no alternative options for you to choose here
+     * This session will be different than the session you attended last mod, and there are no alternative options for you to choose here
     
  
 ### Outline for Plan
