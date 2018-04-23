@@ -1,4 +1,4 @@
-# Job Search Priorities
+# Job Search Workshop
 ## Prepping for the M4 Job Search
 
 Session Time: 60 minutes
