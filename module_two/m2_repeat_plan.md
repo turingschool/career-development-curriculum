@@ -12,22 +12,65 @@ In order to fulfill those criteria, you need decide on an option to meet each of
 #### Professional Development
 Mod 2 professional development is focused on these areas:
 
-* 
+* Cultivate empathy when working with others
+* Building teamwork competencies using agile practices
+* Applying personal strengths to a teamwork setting
+* Building professional relationships both with cohortmates and mentors
+* Conduct conversations around feedback
+* Use feedback from teammates to improve own practices
 
 As you make your plan, think about how you can push yourself to grow in these areas further.
 
+* **Week 1:**
+   * **Session(s):** [Agile Practices & Leadership](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/agile_practices_and_leadership.md)
+   * **Focus:** 
+   * **Deliverable(s):** 
+   * **Repeating Requirements:** 
+   * **Additional Options:** Consider how .... Suggestions:
+      1. 
 
+* **Week 2:**
+   * **Session(s):** [Feedback II](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/feedback_ii.md)
+   * **Focus:** 
+   * **Deliverable(s):** 
+   * **Repeating Requirements:** 
+   * **Additional Options:** Consider how .... Suggestions:
+      1. 
+
+* **Week 3:**
+   * **Session(s):** [Professional Storytelling II](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/professional_storytelling_ii.md)
+   * **Focus:** 
+   * **Deliverable(s):** 
+   * **Repeating Requirements:** 
+   * **Additional Options:** Consider how .... Suggestions:
+      1. 
+
+* **Week 4:**
+   * **Session(s):** [Feedback III](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/feedback_iii.md)
+   * **Focus:** 
+   * **Deliverable(s):** 
+   * **Repeating Requirements:** 
+   * **Additional Options:** Consider how .... Suggestions:
+      1. 
+
+* **Week 5:**
+   * **Session(s):** [Outreach & Networking](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/outreach_and_networking.md)
+   * **Focus:** 
+   * **Deliverable(s):** 
+   * **Repeating Requirements:** 
+   * **Additional Options:** Consider how .... Suggestions:
+      1. 
 
 #### Gear Ups 
 You are expected to attend **all** Gear Ups, and you are encouraged to take on a leadership/facilitator role in group discussions. Sessions:
 
-* Week 1: [Empathy and Privilege](https://github.com/turingschool/gear-up/blob/master/Mod2_Week1_Empathy_and_Privilege.markdown)
-    * Option 1: 
-    * Option 2:
+* **Week 1:** [Empathy and Privilege](https://github.com/turingschool/gear-up/blob/master/Mod2_Week1_Empathy_and_Privilege.markdown)
+    * **Option 1:** 
+    * **Option 2:**
     * Option 3: 
-* Week 3: Rotation session
+* **Week 3:** Rotation session
      * This session will be different than the session you attended last mod, and there are no alternative options for you to choose here
-* Week 5: Mod 4-led Choice session 
+* **Week 5:** Mod 4-led Choice session 
      * This session will be different than the session you attended last mod, and there are no alternative options for you to choose here
 
 ### Outline for Plan
@@ -41,7 +84,7 @@ Copy this outline into the gist you'll submit and fill it out according to your 
 
 3. What requirements will you complete this module (Note: If you did not meet all requirements at the end of last module, you will need to fulfill them this module)?
 
-4. What additional options do you want to take on this module to further your professional development?
+4. What additional options do you want to take on this module to further your professional development? Are there any options in these key areas that you'd like to take on that weren't listed?
 
 5. How will you know at the end of this module that you have successfully completed your professional development goals?
 
