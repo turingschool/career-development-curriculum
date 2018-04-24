@@ -32,21 +32,27 @@ As you make your plan, think about how you can push yourself to grow in these ar
 #### Gear Ups 
 You are expected to attend **all** Gear Ups, and you are encouraged to take on a leadership/facilitator role in group discussions. Sessions:
 
-* Week 1: Health & Wellness
-    * Option 1:
-    * Option 2:
-     * Option 3:
-* Week 3: Code: Debugging the Gender Gap
-     * Option 1:
-     * Option 2:
-     * Option 3:
+* Week 1: [Health & Wellness](https://github.com/turingschool/gear-up/blob/master/Mod1_Week1_mental_health_101.md)
+    * Option 1: Take the lead on your group's self-care toolkits discussion
+    * Option 2: Decide on a way to remind your cohort about self-care throughout the module. Example: Share what you and your accountabilibuddy are doing for self-care with the entire cohort.
+    * Option 3: Organize 1-2 wellness activities to do with your cohort during the module. Consider teaming up with another person repeating in your module. 
+* Week 3: Code: [Debugging the Gender Gap](https://github.com/turingschool/gear-up/blob/master/Mod1_Week3_Code_debugging_compact_version.md)
+     * Option 1: Take the lead in your breakout group's discussion.
+     * Option 2: Organize follow-up discussions on diversity issues in tech in your cohort. Consider teaming up with another person repeating in your module.
 * Week 5: Mod 4-led Choice session 
      * This session will be different than the session you attended last mod, and there are no alternative options for you to choose here
-    
  
 ### Outline for Plan
-Copy this outline into the gist you'll submit and fill it out according to your goals
+Copy this outline into the gist you'll submit and fill it out according to your goals and requirements.
 
 #### PD Focus
+
+1. What requirements will you complete this module (Note: If you did not meet all requirements at the end of last module, you will need to fulfill them this module)?
+
+2. What options do you want to take on this module to further your professional development?
+
+3. Which sessions will you attend?
+
+4. 
 
 #### Gear Up Focus
