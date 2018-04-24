@@ -28,6 +28,8 @@ In this repo, you'll find all of the curriculum for career development, includin
 * Module One deliverables should submitted [here](https://docs.google.com/forms/d/1XGgtEs30A6l38jIe4zSWyjSGH2jJokRblt-UJEIXNoM/edit)
 * Module Two deliverables should be submitted [here](https://goo.gl/forms/KkVjm4ja147Nk6Zm1)
 
+Modules Three & Four deliverables will be checked during portfolio reviews.
+
 ### Career Development Team at Turing
 Your career development team consists of:
 
