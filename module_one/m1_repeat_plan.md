@@ -22,6 +22,43 @@ Mod 1 professional development is focused on these areas:
 
 As you make your plan, think about how you can push yourself to grow in these areas further.
 
+* **Week 1:**
+   * **Session(s):** [StrengthsFinder](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/intro_strengthsfinder_session.md)
+   * **Focus:** Identifying strengths & areas of growth
+   * **Deliverable(s):** Optional reflection using [this template](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/strengths_reflection_guidelines.md)
+   * **Repeating Requirements:** Put your SF themes in the new cohort spreadsheet
+   * **Additional Options:** Consider how you want to continue building your strengths and your awareness around your strengths. Suggestions:
+      1. Take one of your top SF strengths and create a goal for how you will further develop it this module, using concrete action steps and benchmarks to measure your progress. If it's helpful, schedule a 1:1 with Allison to discuss it further!
+      2. Organize a group discussion around shared strengths in your cohort -- for anyone who has a strength in common with you, how can you share knowledge and resources to continue building it?
+      
+* **Week 2:**
+   * **Session(s):** 
+   * **Focus:** 
+   * **Deliverable(s):** 
+   * **Repeating Requirements:** 
+   * **Additional Options:** 
+   
+* **Week 3:**
+   * **Session(s):** 
+   * **Focus:** 
+   * **Deliverable(s):** 
+   * **Repeating Requirements:** 
+   * **Additional Options:** 
+   
+* **Week 4:**
+   * **Session(s):** 
+   * **Focus:** 
+   * **Deliverable(s):** 
+   * **Repeating Requirements:** 
+   * **Additional Options:** 
+   
+* **Week 5:**
+   * **Session(s):** 
+   * **Focus:** 
+   * **Deliverable(s):** 
+   * **Repeating Requirements:** 
+   * **Additional Options:** 
+
 | Week 	| Session(s) 	| Focus 	| Deliverable(s) 	| Repeating Requirements 	|  Additional Options *(as this suggests, it's optional if you've already fulfilled module requirements)* 	|
 |------	|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|----------------------------------------------------------------------------------------	|--------------------------------------------------------------------------------------------------------------------------------------------------------------------	|---------------------------------------------------------------------------------	|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
 | 1 	| [StrengthsFinder](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/intro_strengthsfinder_session.md) 	| Identifying strengths & areas of growth 	| Optional reflection using [this template](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/strengths_reflection_guidelines.md) 	| Put your SF themes in the new cohort spreadsheet 	| Consider how you want to continue building your strengths and your awareness around your strengths. Suggestions:  1. Take one of your top SF strengths and create a goal for how you will further develop it this module, using concrete action steps and benchmarks to measure your progress. If it's helpful, schedule a 1:1 with Allison to discuss it further!  2. Organize a group discussion around shared strengths in your cohort -- for anyone who has a strength in common with you, how can you share knowledge and resources to continue building it? 	|
@@ -32,14 +69,14 @@ As you make your plan, think about how you can push yourself to grow in these ar
 #### Gear Ups 
 You are expected to attend **all** Gear Ups, and you are encouraged to take on a leadership/facilitator role in group discussions. Sessions:
 
-* Week 1: [Health & Wellness](https://github.com/turingschool/gear-up/blob/master/Mod1_Week1_mental_health_101.md)
-    * Option 1: Take the lead on your group's self-care toolkits discussion
-    * Option 2: Decide on a way to remind your cohort about self-care throughout the module. Example: Share what you and your accountabilibuddy are doing for self-care with the entire cohort.
-    * Option 3: Organize 1-2 wellness activities to do with your cohort during the module. Consider teaming up with another person repeating in your module. 
-* Week 3: Code: [Debugging the Gender Gap](https://github.com/turingschool/gear-up/blob/master/Mod1_Week3_Code_debugging_compact_version.md)
-     * Option 1: Take the lead in your breakout group's discussion.
-     * Option 2: Organize follow-up discussions on diversity issues in tech in your cohort. Consider teaming up with another person repeating in your module.
-* Week 5: Mod 4-led Choice session 
+* **Week 1:** [Health & Wellness](https://github.com/turingschool/gear-up/blob/master/Mod1_Week1_mental_health_101.md)
+    * **Option 1:** Take the lead on your group's self-care toolkits discussion
+    * **Option 2:** Decide on a way to remind your cohort about self-care throughout the module. Example: Share what you and your accountabilibuddy are doing for self-care with the entire cohort.
+    * **Option 3:** Organize 1-2 wellness activities to do with your cohort during the module. Consider teaming up with another person repeating in your module. 
+* **Week 3:** Code: [Debugging the Gender Gap](https://github.com/turingschool/gear-up/blob/master/Mod1_Week3_Code_debugging_compact_version.md)
+     * **Option 1:** Take the lead in your breakout group's discussion.
+     * **Option 2:** Organize follow-up discussions on diversity issues in tech in your cohort. Consider teaming up with another person repeating in your module.
+* **Week 5:** Mod 4-led Choice session 
      * This session will be different than the session you attended last mod, and there are no alternative options for you to choose here
  
 ### Outline for Plan
