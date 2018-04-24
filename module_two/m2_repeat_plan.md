@@ -47,7 +47,7 @@ Copy this outline into the gist you'll submit and fill it out according to your 
 
 #### Gear Up Focus
 
-1. What role will you take on for the Empathy session? 
+1. What role will you take on for the Empathy & Privilege Gear Up? 
 
 2. How else would you like to contribute to Gear Up discussions this module?
 
