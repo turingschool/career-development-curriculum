@@ -15,7 +15,7 @@ Mod 2 professional development is focused on these areas:
 * Cultivate empathy when working with others
 * Building teamwork competencies using agile practices
 * Applying personal strengths to a teamwork setting
-* Building professional relationships both with cohortmates and mentors
+* Building relationships both with cohortmates and professionals in the industry
 * Conduct conversations around feedback
 * Use feedback from teammates to improve own practices
 
@@ -23,17 +23,23 @@ As you make your plan, think about how you can push yourself to grow in these ar
 
 * **Week 1:**
    * **Session(s):** [Agile Practices & Leadership](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/agile_practices_and_leadership.md)
-   * **Focus:** 
-   * **Deliverable(s):** 
-   * **Repeating Requirements:** 
-   * **Additional Options:** Consider how .... Suggestions:
+   * **Focus:** Understanding and applying agile practices to team projects; using strengths in teamwork setting
+   * **Deliverable(s):** Gist describing:
+      * How you've used agile as a process at Turing and what kind of project management tools you utilized. Address these questions:
+        * What were you already doing?
+        * What did you put into place in Module Two?
+        * What was effective?
+        * What do you want to improve on in future projects?
+      * Description of the role you played in your pair/group projects this module -- what was your role as a teammate? How did you utilize your strengths and leadership skills?
+   * **Repeating Requirements:** Submit the above gist if you haven't yet; participate in the teamwork discussion portion of the session.
+   * **Additional Options:** Consider how you'd like to build your understanding of agile by implementing new tools or emphasizing agile teamwork in a new way. Suggestions:
       1. 
 
 * **Week 2:**
    * **Session(s):** [Feedback II](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/feedback_ii.md)
    * **Focus:** 
-   * **Deliverable(s):** 
-   * **Repeating Requirements:** 
+   * **Deliverable(s):** In-person feedback conversation following these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/feedback_conversation_reflection_guidelines.md)
+   * **Repeating Requirements:** In-person feedback conversation following these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/feedback_conversation_reflection_guidelines.md)
    * **Additional Options:** Consider how .... Suggestions:
       1. 
 
@@ -41,9 +47,10 @@ As you make your plan, think about how you can push yourself to grow in these ar
    * **Session(s):** [Professional Storytelling II](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/professional_storytelling_ii.md)
    * **Focus:** 
    * **Deliverable(s):** 
-   * **Repeating Requirements:** 
-   * **Additional Options:** Consider how .... Suggestions:
-      1. 
+   * **Repeating Requirements:** If you haven't already submitted a draft of your story, you will need to submit one this module. Please double check it for spelling and grammatical errors.
+   * **Additional Options:** Consider how to revise your first draft of your professional story. Suggestions:
+      1. Write your story from a different angle, focusing on details that tell a different side of who you are.
+      2. Practice telling your story with others  
 
 * **Week 4:**
    * **Session(s):** [Feedback III](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/feedback_iii.md)
