@@ -33,31 +33,49 @@ As you make your plan, think about how you can push yourself to grow in these ar
       
 * **Week 2:**
    * **Session(s):** 
-   * **Focus:** 
-   * **Deliverable(s):** 
-   * **Repeating Requirements:** 
-   * **Additional Options:** 
+      * [Working Styles](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/working_styles.md) 
+      * [Learning to Pair](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/learning_to_pair.md)
+   * **Focus:** Identifying how you work best and how to communicate effectively with project partners
+   * **Deliverable(s):** DTR Memo using [this template](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/dtr_guidelines_memo.md)
+   * **Repeating Requirements:** Participate in/drive the DTR with project partners; submit DTR memo if not previously submitted
+   * **Additional Options:** Consider your abilities as a collaborator. What do you want to improve? Suggestions:
+      1. Do the opposite of what you did in your most recent paired project, i.e., if you were the driver, be the navigator, or vice versa. If you usually take the lead in discussing a problem, listen to your partner's ideas first. Switching up your role frequently will allow you to build different skills.
+      2. Push yourself to learn something new and teach it to your partner in regards to the project. 
+      3. Based on the DTR with your partner, create a plan to help your partner with an area they identify as a weakness in the project. 
    
 * **Week 3:**
-   * **Session(s):** 
-   * **Focus:** 
-   * **Deliverable(s):** 
-   * **Repeating Requirements:** 
+   * **Session(s):** [Feedback I](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/feedback_i.md)
+   * **Focus:** Communicating written feedback effectively
+   * **Deliverable(s):** Appreciation & Coaching feedback for each project partner
+   * **Repeating Requirements:** Appreciation & Coaching feedback for each project partner
    * **Additional Options:** 
+    * Consider any weak points you have in communicating feedback -- is there anything you'd like to work on to get better here? How do you want to do that? Suggestions:
+      1. Write down all your feedback for your partner in whatever words come most naturally. Then, analyze each phrase to see how you can reword it to come even closer to your intent and match with the principles of being specific, actionable, and kind before sending it in.
+      2. Schedule a follow-up conversation with your partner to break down the feedback in person. 
+    * Reflect on your reactions to feedback and make a plan to build that skill. Suggestions:
+      1. Each time you receive feedback on a project, create one concrete goal that you will work towards to improve in the skills mentioned in the feedback. Decide what next steps you will take to improve and when you hope to achieve that goal by.
+      2. Recognize when you're feeling triggered and make a plan for managing those emotions to help you discover the root cause underneath that triggering feeling. 
    
 * **Week 4:**
-   * **Session(s):** 
-   * **Focus:** 
-   * **Deliverable(s):** 
-   * **Repeating Requirements:** 
-   * **Additional Options:** 
+   * **Session(s):** [Strengths & Storytelling](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/strengths_and_storytelling.md)
+   * **Focus:** Reflecting on successes and struggles; telling your own story
+   * **Deliverable(s):** Reflection using [this template](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/strengths_storytelling_reflection.md)
+   * **Repeating Requirements:** Submit deliverable reflection if not previously submitted
+   * **Additional Options:** Consider your storytelling abilities and where you'd like to grow in your ability to communicate about yourself. Suggestions:
+      1. Complete this [new reflection](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/strengths_storytelling_follow-up.md).
+      2. Sign up to do an additional lightning talk at Wrap Up or during your group retro to work on your speaking skills.
+      3. Lead a discussion/activity during your group retro that will help you and your cohortmates get to know each other better. 
    
 * **Week 5:**
-   * **Session(s):** 
-   * **Focus:** 
-   * **Deliverable(s):** 
-   * **Repeating Requirements:** 
-   * **Additional Options:** 
+   * **Session(s):** [Developer Identity](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/developer_identity.md)
+   * **Focus:** Creating an effective brand to tell your professional story
+   * **Deliverable(s):**
+      * Updated LinkedIn profile, including headshot, headline, summary, and Turing listed
+      * Census profile created
+   * **Repeating Requirements:** LinkedIn must be updated with everything listed; Census profile must be created
+   * **Additional Options:** Consider how you can continue to build your brand. Suggestions:
+      1. Decide on an additional branding tool and make a plan to start building it out this module (Twitter/social media, blog, personal site, add to LinkedIn, etc.).
+      2. On LinkedIn, endorse the skills of those in your cohort and write a recommendation for someone you've worked with. Ask them to write a recommendation/endorse you in return.
 
 | Week 	| Session(s) 	| Focus 	| Deliverable(s) 	| Repeating Requirements 	|  Additional Options *(as this suggests, it's optional if you've already fulfilled module requirements)* 	|
 |------	|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|----------------------------------------------------------------------------------------	|--------------------------------------------------------------------------------------------------------------------------------------------------------------------	|---------------------------------------------------------------------------------	|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
