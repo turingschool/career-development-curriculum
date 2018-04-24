@@ -5,7 +5,7 @@ In Module Two, career development builds off of strategies on how to be successf
 * Cultivate empathy when working with others
 * Building teamwork competencies using agile practices
 * Applying personal strengths to a teamwork setting
-* Building professional relationships both with cohortmates and mentors
+* Building relationships both with cohortmates and professionals in the industry
 * Conduct conversations around feedback
 * Use feedback from teammates to improve own practices
 
