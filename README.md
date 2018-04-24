@@ -24,18 +24,14 @@ In this repo, you'll find all of the curriculum for career development, includin
 * [Module Four](https://github.com/turingschool/career-development-curriculum/tree/master/module_four)
 
 ### Deliverables
-In Modules 1 and 2, career development deliverables will be reviewed by Allison through submissions to this survey [here](https://docs.google.com/forms/d/1XGgtEs30A6l38jIe4zSWyjSGH2jJokRblt-UJEIXNoM/edit). 
 
-In Modules 3 and 4, there are different accountability systems put into place to help ensure that you're on track for your job search, including student accountability groups and staff members who will serve as coaches.
+* Module One deliverables should submitted [here](https://docs.google.com/forms/d/1XGgtEs30A6l38jIe4zSWyjSGH2jJokRblt-UJEIXNoM/edit)
+* Module Two deliverables should be submitted [here](https://goo.gl/forms/KkVjm4ja147Nk6Zm1)
 
-### Who Does What
+### Career Development Team at Turing
 Your career development team consists of:
 
-**Allison Reu Singer, Community Affairs Manager, PD Curriculum Lead**
-
-Allison is the lead on all career development sessions outside of Gear Up. If you have any questions on sessions or on deliverables, reach out to her. She checks on and provides any necessary feedback on PD deliverables for Modules 1 and 2, including feedback submissions. She provides resume and Turing portfolio reviews in Module 3, and in Module 4, she provides coaching for accountability groups. She is also available for 1-on-1 professional coaching or support throughout your time at Turing regardless of the need. 
-
-**Ellen Mary Hickmann, Director of Professional Learning**
-
-Ellen Mary creates curriculum and facilitates sessions for Gear Up sessions. Any questions about those sessions or their deliverables can go to her.
+* Allison Reu Singer, Professional Development Lead & Coach
+* Ellen Mary Hickmann, Director of Professional Learning
+* Kayt Hensley, Initiatives Coordinator
 
