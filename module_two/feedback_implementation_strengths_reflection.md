@@ -1,4 +1,4 @@
-# Feedback III Reflection
+# Feedback III Optional Reflection
 
 * What are you doing well as a pair programmer and collaborator?
 
