@@ -22,8 +22,8 @@ Mod 3 professional development is focused on these areas:
 As you make your plan, think about how you can push yourself to grow in these areas further.
 
 * **Week 1:**
-   * **Session(s):** [
-   * **Focus:** 
+   * **Session(s):** [Professional Storytelling III](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/professional_storytelling_iii.md)
+   * **Focus:** Articulate and describe 
    * **Deliverable(s):** 
    * **Repeating Requirements:** 
    * **Additional Options:** Consider how .... Suggestions:
@@ -54,7 +54,7 @@ As you make your plan, think about how you can push yourself to grow in these ar
       1. 
 
 * **Week 5:**
-   * **Session(s):** [
+   * **Session(s):**[
    * **Focus:** 
    * **Deliverable(s):** 
    * **Repeating Requirements:** 
