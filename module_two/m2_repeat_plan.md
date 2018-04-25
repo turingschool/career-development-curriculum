@@ -33,48 +33,51 @@ As you make your plan, think about how you can push yourself to grow in these ar
       * Description of the role you played in your pair/group projects this module -- what was your role as a teammate? How did you utilize your strengths and leadership skills?
    * **Repeating Requirements:** Submit the above gist if you haven't yet; participate in the teamwork discussion portion of the session.
    * **Additional Options:** Consider how you'd like to build your understanding of agile by implementing new tools or emphasizing agile teamwork in a new way. Suggestions:
-      1. 
+      1. Commit to using a new project management tool, research it, and decide how to implement it. Take the lead on integrating it into the project with your partner(s).
+      2. Take on the project manager role in one of your team projects. Delegate and track tasks for the project and reflect on how you function as a leader using your strengths.
 
 * **Week 2:**
    * **Session(s):** [Feedback II](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/feedback_ii.md)
-   * **Focus:** 
+   * **Focus:** Effectively deliver feedback in conversation
    * **Deliverable(s):** In-person feedback conversation following these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/feedback_conversation_reflection_guidelines.md)
    * **Repeating Requirements:** In-person feedback conversation following these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/feedback_conversation_reflection_guidelines.md)
-   * **Additional Options:** Consider how .... Suggestions:
-      1. 
+   * **Additional Options:** Consider how you'd like to work on your communication skills in regards to feedback. Suggestions:
+      1. Conduct a second in-person feedback conversation for another paired/group project.
+      2. Conduct a feedback conversation with your mentor, which may not be in-person but should still be verbal.
+      3. Identify an area of feedback that you feel weaker in (ex: giving coaching feedback) and create a plan for both how you will improve that skill and how you will measure your success.
 
 * **Week 3:**
    * **Session(s):** [Professional Storytelling II](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/professional_storytelling_ii.md)
-   * **Focus:** 
-   * **Deliverable(s):** 
+   * **Focus:** Building relationships with others; Communicating about your strengths and skills
+   * **Deliverable(s):** Draft of professional story
    * **Repeating Requirements:** If you haven't already submitted a draft of your story, you will need to submit one this module. Please double check it for spelling and grammatical errors.
-   * **Additional Options:** Consider how to revise your first draft of your professional story. Suggestions:
+   * **Additional Options:** Consider how to revise your first draft of your professional story and challenge yourself to get better at telling it. Suggestions:
       1. Write your story from a different angle, focusing on details that tell a different side of who you are.
-      2. Practice telling your story with others  
+      2. Set up at least one extra practice for telling your story with one of your cohortmates. Consider setting this up cohort-wide. 
 
 * **Week 4:**
    * **Session(s):** [Feedback III](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/feedback_iii.md)
-   * **Focus:** 
-   * **Deliverable(s):** 
-   * **Repeating Requirements:** 
-   * **Additional Options:** Consider how .... Suggestions:
-      1. 
+   * **Focus:** Analyze and implement feedback you receive
+   * **Deliverable(s):** N/A
+   * **Repeating Requirements:** Fill out the Johari Window for the people you've been assigned this module.
+   * **Additional Option:** Consider how you'd like to implement the feedback given to you in your paired projects and through your Johari Window. Suggestion:
+      1. Complete a reflection using [this template](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/feedback_implementation_reflection.md)
 
 * **Week 5:**
    * **Session(s):** [Outreach & Networking](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/outreach_and_networking.md)
-   * **Focus:** 
-   * **Deliverable(s):** 
-   * **Repeating Requirements:** 
-   * **Additional Options:** Consider how .... Suggestions:
-      1. 
+   * **Focus:** Building relationships with professionals in the industry
+   * **Deliverable(s):** Submit a plan for outreach and networking using [this template](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/outreach_networking_guidelines.md)
+   * **Repeating Requirements:** Submit the plan if you did not submit it last module and/or update the plan that you originally created if relevant details need to be updated (i.e., a meetup has already happened, decide on a new meetup).
+   * **Additional Options:** Consider how to challenge yourself to try out different networking and outreach strategies. Suggestions:
+      1. Commit to a different option for networking than you originally selected for yourself and create a plan to accomplish it.
+      2. Decide on 3 total people to reach out to during Module 3 and make a plan for that outreach.
 
 #### Gear Ups 
 You are expected to attend **all** Gear Ups, and you are encouraged to take on a leadership/facilitator role in group discussions. Sessions:
 
 * **Week 1:** [Empathy and Privilege](https://github.com/turingschool/gear-up/blob/master/Mod2_Week1_Empathy_and_Privilege.markdown)
-    * **Option 1:** 
-    * **Option 2:**
-    * Option 3: 
+    * **Option 1:** Take on the facilitator role in your group discussion during the Gear Up, meaning that you will ensure everyone has equal airtime, the group stays on topic, and you push the group to think critically about the subject matter.
+    * **Option 2:** Lead a conversation within your cohort about diversity and inclusion issues in the tech industry.
 * **Week 3:** Rotation session
      * This session will be different than the session you attended last mod, and there are no alternative options for you to choose here
 * **Week 5:** Mod 4-led Choice session 
