@@ -32,4 +32,7 @@ In order to fulfill the requirements of module one, students will submit these d
 * StrengthsFinder/storytelling reflection using [this template](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/strengths_storytelling_reflection.md)
 * Create/Update LinkedIn, GitHub, Twitter, and Stack Overflow profiles and input them into Census
 
-You'll submit your DTR Memo and Storytelling reflection [here](https://goo.gl/forms/HILyYTTzy5eJWJyI3). Your profiles will be submitted by setting up your Census account, and your partner feedback will be submitted in the surveys you receive. 
+You'll submit your DTR Memo and Storytelling reflection [here](https://goo.gl/forms/HILyYTTzy5eJWJyI3). Your profiles will be submitted by setting up your Census account, and your partner feedback will be submitted in the surveys you receive.
+
+### Repeating the Module
+If you're repeating the module, you'll meet with Allison during Week 1 to discuss an alternate plan for meeting your professional development goals during the repeat module using [these guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/m1_repeat_plan.md). 
