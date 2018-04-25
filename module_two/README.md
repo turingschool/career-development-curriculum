@@ -38,3 +38,6 @@ In order to fulfill the requirements of Module Two, students will submit these d
 * Plan for outreach & networking as you go into Module 3 using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/outreach_networking_guidelines.md)
 
 You'll submit all deliverables [here](https://goo.gl/forms/2FBYw38BmDEudPB22). 
+
+### Repeating the Module
+If you're repeating the module, you'll meet with Allison during Week 1 to discuss an alternate plan for meeting your professional development goals during the repeat module using [these guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/m2_repeat_plan.md). 
