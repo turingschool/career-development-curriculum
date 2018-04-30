@@ -193,7 +193,7 @@ Doing agile vs. Being agile = what's the difference?
 #### StrengthsFinder: Leadership Domains
 Let's consider how our strengths play a part in the types of roles we take on in our project groups. 
 
-Four Domains of Leadership:
+[Four Domains of Leadership](https://docs.google.com/document/d/1N449kYbcOhu22vbORfjUOfjFOIfPoka5w00q_fklipU/edit?usp=sharing):
   * **Executing:** Team members who have a dominant strength in Executing are those you turn to time and again to implement a solution. These people work tirelessly to get something done. People who are strong in the Executing domain have an ability to take an idea and transform it into a reality within the organization they lead
   * **Influencing:** People who are innately good at influencing are always selling the team’s ideas inside and outside the organization. When you need someone to take charge, speak up, and make sure your group is heard, look to someone with Influence.
   * **Relationship Building:** Relationship Builders are the glue that holds a team together. Strengths associated with bringing people together -- whether it is by keeping distractions at bay or keeping the collective energy high -- transform a group of individuals into a team capable of carrying out complex projects and goals.
