@@ -1,7 +1,7 @@
 # Module Four Professional Development Peer Group Guidelines
 
 ## Overview
-Welcome to Module Four! This is when you’ll kick your job search into high gear, and to assist with that, you will meet with your peer group each Tuesday to discuss strategies and find ways to hold each other accountable. A Turing staff member will also be available as a coach to help your group stay on track and offer advice when needed. 
+Welcome to Module Four! This is when you’ll kick your job search into high gear, and to assist with that, you will meet with your peer group each Thursday to discuss strategies and find ways to hold each other accountable. A Turing staff member will also be available as a coach to help your group stay on track and offer advice when needed. 
 
 ## Weekly Meetings:
 
