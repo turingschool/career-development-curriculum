@@ -136,8 +136,11 @@ Cover letters are a perfect way to tell your story when you're applying for a jo
 Here is a template for how to lay out a cover letter:
 
 * **1st paragraph:** Your journey into tech and how this connects to why you care about the industry of the company you're contacting. This paragraph should have a *hook* that immediately connects to the reader. 
-* **2nd paragraph:** Your skills that are applicable to the job post. Also, highlight any additional skills that you think the reader should know about, but this is *not* a rehashing of your resume. What details can you let the hiring manager know about that couldn't fit on your resume? Emphasize how you will not only flourish in this role but you also have the drive and ability to keep growing professionally, take on more responsibility, and benefit the company in ways beyond the initial position for which you're applying. 
-* **3rd paragraph:** How you’re going to apply your background and skills to make great experiences for the company's users/customers. Ultimately, this letter is not about *you* -- it's about the company and how you can build value for them and what they do.
+	* Other things:
+		* Who you’ve talked to from the company
+		* What information you’ve researched to show why you’re applying
+* **2nd paragraph:** Your skills that are applicable to the job post, especially how you've demonstrated these skills through your projects. Also, highlight any additional skills that you think the reader should know about, but this is *not* a rehashing of your resume. What details can you let the hiring manager know about that couldn't fit on your resume? Emphasize how you will not only flourish in this role but you also have the drive and ability to keep growing professionally, take on more responsibility, and benefit the company in ways beyond the initial position for which you're applying. 
+* **3rd paragraph:** Connect first 2 paragraphs. How you’re going to apply your background and skills to make great experiences for the company's users/customers. What can you leave them with that will make them want to contact you?Ultimately, this letter is not about *you* -- it's about the company and how you can build value for them and what they do.
 
 Check out this example to see how professional stories can be told through a cover letter:
 
@@ -152,6 +155,7 @@ Check out this example to see how professional stories can be told through a cov
 
 * Don’t talk about what you’re hoping to get from the company (i.e., mentorship, culture, etc.). The letter should be all about what you’re going to give the company as an employee, not take from their business — mentorship and culture will happen *anyway*, and not mentioning it will make you stand out
 * Interested in a specific company? Consider how to use their tools or libraries in your projects at Turing. When writing your cover letter to them, mention those in the 2nd paragraph of the cover letter. You’ll look like a great candidate if you’re already familiar with the company's tools/libraries. You should also consider how to interact with the company's employees through Pull Requests or GitHub issues. 
+
 
 #### Further Reading on Cover Letters
 
