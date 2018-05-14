@@ -38,7 +38,12 @@ Use this checklist for the final review of M3 resumes after they've gone through
 - [ ] No grammatical or spelling errors
 
 ## Experience
+- [ ] Turing is listed either here or under Education
+- [ ] Amount of space "Experience" section takes up on the page is less than that of the "Projects" section
+- [ ] 
 - [ ] No grammatical or spelling errors
 
 ## Education
+- [ ] Turing is listed either here or under Experience
+- [ ] Brief description of area of study or skills that can relate to software development or specific job being applied to
 - [ ] No grammatical or spelling errors
