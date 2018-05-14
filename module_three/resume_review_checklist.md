@@ -51,5 +51,8 @@ Use this checklist for the final review of M3 resumes after they've gone through
 
 ## Layout
 - [ ] Clean, easy-to-follow
+- [ ] If color is used, it is easy to read and distinguish all parts of the resume 
 - [ ] Printable version
-- [ ] 
+- [ ] No photo
+- [ ] No extraneous details/sections
+- [ ] Resume is only one page (unless this is a master copy)
