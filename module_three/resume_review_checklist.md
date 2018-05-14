@@ -41,10 +41,15 @@ Use this checklist for the final review of M3 resumes after they've gone through
 - [ ] Turing is listed either here or under Education
 - [ ] Amount of space "Experience" section takes up on the page is less than that of the "Projects" section
 - [ ] Formatted with job title followed by company name
-- [ ] Brief description of 
+- [ ] Brief description of role and what value they brought to the company
 - [ ] No grammatical or spelling errors
 
 ## Education
 - [ ] Turing is listed either here or under Experience
 - [ ] Brief description of area of study or skills that can relate to software development or specific job being applied to
 - [ ] No grammatical or spelling errors
+
+## Layout
+- [ ] Clean, easy-to-follow
+- [ ] Printable version
+- [ ] 
