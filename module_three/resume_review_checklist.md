@@ -32,7 +32,7 @@ Use this checklist for the final review of M3 resumes after they've gone through
 - [ ] At least 3 projects are listed
 - [ ] Title is included
 - [ ] Technologies, frameworks, testing suite, etc. are all listed
-- [ ] Brief description of the project is provided, including what the project does/what problem it solves, how it works, how many work hours it took to build, whether it was a solo or group project, and other pertinent details
+- [ ] Brief description of the project is provided, including a high level overview of what the project does and/or what problem it solves, how it works, how many work hours it took to build, whether it was a solo or group project, and other pertinent details
 - [ ] Active link to project repository
 - [ ] Active link to deployed application
 - [ ] No grammatical or spelling errors
@@ -40,7 +40,8 @@ Use this checklist for the final review of M3 resumes after they've gone through
 ## Experience
 - [ ] Turing is listed either here or under Education
 - [ ] Amount of space "Experience" section takes up on the page is less than that of the "Projects" section
-- [ ] 
+- [ ] Formatted with job title followed by company name
+- [ ] Brief description of 
 - [ ] No grammatical or spelling errors
 
 ## Education
