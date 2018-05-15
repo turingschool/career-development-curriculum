@@ -10,8 +10,8 @@ Use this checklist for the final review of M3 resumes after they've gone through
 - [ ] Title: "software developer/front end engineer/back end engineer," stand outs, easy to read, comparable in size to name 
 - [ ] Email address
 - [ ] Phone number
-- [ ] GitHub link
-- [ ] LinkedIn link
+- [ ] GitHub link 
+- [ ] LinkedIn link 
 - [ ] Personal website (optional)
 
 ## Summary/Profile
@@ -33,8 +33,8 @@ Use this checklist for the final review of M3 resumes after they've gone through
 - [ ] Title is included
 - [ ] Technologies, frameworks, testing suite, etc. are all listed
 - [ ] Brief description of the project is provided, including a high level overview of what the project does and/or what problem it solves, how it works, how many work hours it took to build, whether it was a solo or group project, and other pertinent details
-- [ ] Active link to project repository
-- [ ] Active link to deployed application
+- [ ] Active link to project repository with a visual cue that it's a link
+- [ ] Active link to deployed application with a visual cue that it's a link
 - [ ] No grammatical or spelling errors
 
 ## Experience
