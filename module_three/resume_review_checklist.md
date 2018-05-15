@@ -31,7 +31,7 @@ Use this checklist for the final review of M3 resumes after they've gone through
 ## Projects
 - [ ] At least 3 projects are listed
 - [ ] Title is included
-- [ ] Technologies, frameworks, testing suite, etc. are all listed
+- [ ] Technologies, frameworks, testing suite, etc. are all listed as bulletpoints
 - [ ] 1-2 sentences of a brief description of the project is provided, which is a high level overview of what the project is and how it works
 - [ ] Active link to project repository with a visual cue that it's a link
 - [ ] Active link to deployed application with a visual cue that it's a link
