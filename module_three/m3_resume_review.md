@@ -7,8 +7,8 @@ Length: 90 mins
 
 * Kick-off in Clarke Hall: Overview and find groups (5 mins)
 * Transition to locations (5 mins)
-* Workshop (40 mins)
-* Revisions & Submit final draft (40 mins)
+* Workshop (50-60 mins)
+* Revisions & Submit final draft (20-30 mins)
 
 ## Workshop Overview
 Each student should have 10 minutes for their workshop. Go around the group for quick intros and decide who will go first. The student who is presenting should come prepared to:
