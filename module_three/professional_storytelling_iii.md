@@ -82,7 +82,6 @@ You can choose to set up a traditional resume use a template like this [traditio
 
 * [Creddle](http://creddle.io/)
 * [Canva](https://www.canva.com/)
-* [I Need a Resume](http://ineedaresu.me/#/)
 * [Standard Resume](https://standardresume.co/)
 * [Kick Resume](https://www.kickresume.com/)
 * Find even more sites [here](https://www.producthunt.com/e/create-a-beautiful-resume)
