@@ -35,6 +35,7 @@ Use this checklist for the final review of M3 resumes after they've gone through
 - [ ] 1-2 sentences of a brief description of the project is provided, which is a high level overview of what the project is and how it works
 - [ ] Active link to project repository with a visual cue that it's a link
 - [ ] Active link to deployed application with a visual cue that it's a link
+- [ ] Links should go to student's own version of repo and not their project partner's, if applicable
 - [ ] No grammatical or spelling errors
 
 ## Experience
