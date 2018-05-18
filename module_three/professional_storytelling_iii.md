@@ -100,15 +100,14 @@ You can choose to set up a traditional resume use a template like this [traditio
 * **Skills:** Continue to add to this area outlining your technical specialties (languages, frameworks, testing and tools). Ideally you want 12-20 items by the end of the program. 
 	* Highlight your dev/technical skills here. Include any transferable and/or professional skills in the experience section (see below).
 
-* **Projects:** Follow skills with a project section that includes 2-3 of your favorite projects. What are you proud of? Show it off! Answer the following questions:
+* **Projects:** Follow skills with a project section that includes 2-3 of your favorite projects. What are you proud of? Show it off! Provide a 1-2 sentence overview of the project. Consider answering these questions:
 	* What does your application do? What problem does it solve? 
 	* Who is it built for? What does it allow the user to do? 
-	* What is the high level overview of the project? 
 	* What technologies did you use? Dive into what API's, frameworks and languages you incorporated.
 	* In what period of time was it built? This helps set folks' expectations appropriately. A product built in two months should look a lot more polished than one built in two weeks.
-	* If you worked in a group, what was role in the project?
+	* If you worked in a group, what was your role in the project?
 
-Does each project on your resume link to a GitHub repo? Does the ReadMe for each project include screenshots of the application in action? Include clickable web addresses. 
+* Include both a clickable link to your project repo and to the launched application. The repo should include a ReadMe. If the project lives on a partner's GitHub, make sure to clone down your own version and include that link instead. 
 
 * **Experience:** Follow Projects with Experience
 	* Title as "Experience" rather than "Employment"
