@@ -31,7 +31,7 @@ What value is there in using feedback for personal growth? Why is this something
 * Create goals for how to improve your collaboration practices
 
 ### Optional Deliverable
-Use your Johari Windows and to complete [this reflection](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/feedback_implementation_strengths_reflection.md) 
+Use your Johari Windows and to complete [this reflection](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/feedback_implementation_reflection.md) 
 
 ### Taking Feedback
 Reflect on these questions in your journal and then **Turn & Talk** to discuss your ideas with a partner:
