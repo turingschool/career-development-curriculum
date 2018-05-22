@@ -11,9 +11,10 @@ Length: 90 mins
 * Turn & Talk (5 mins)
 * Discussion of storytelling elements (5 mins)
 * Backstories: who are you? (15 mins)
-* Current struggles and successes: why are you here? (15 mins)
+* Pomodoro Break (5 mins)
+* Current struggles and successes: why are you here? (20 mins)
 * Futures: what's next? (10 mins)
-* Group Discussions (25 mins)
+* Group Discussions (15 mins)
 * Closing: Whole Group Takeaways (10 min)
 
 ### Opening 
@@ -32,7 +33,7 @@ Stories are how we connect with each other. From fairy tales to novels to movies
 
 Storytelling is our first step in the job search at Turing. You are a member of the software industry now, and as you start connecting with others in the industry, you need to be able to tell the story of your transition -- how did you get here? How do you uniquely make up a part of this industry? 
 
-In this session and throughout your career development at Turing, we'll focus on how you can craft a compelling story to describe who you are, how you came to this industry, and where you see yourself going. This is a story that you'll tell employers, colleagues at networking events, and even your Turing community. A long, long time from now, when you are ready to graduate, you will give a lightning talk about your experiences at Turing. Today we are going to start that lightning talk by sharing more about what brought you here and what you hope to accomplish. This is the start of you being able to tell your story professionally and find the right match for your future career.
+In this session and throughout your career development at Turing, we'll focus on how you can craft a compelling story to describe who you are, how you came to this industry, and where you see yourself going. This is a story that you'll tell employers, colleagues at networking events, and even your Turing community. This is the start of you being able to tell your story professionally and find the right match for your future career.
 
 Let's start by thinking about stories. What do you love about stories? Emma Coats, a former story artist for Pixar, published [this post](http://storyshots.tumblr.com/post/25032057278/22-storybasics-ive-picked-up-in-my-time-at-pixar) with her 22 rules for storytelling. We're going to start with rule #10:
 
@@ -53,7 +54,7 @@ Sharing from 1-2 people:
 
 This brings us to the elements that make up a good story -- what are they?
 
-Possible answers: consistent theme, protagonist who faces and overcomes challenges, a journey of some kind, sequential plot that shows a beginning middle and end.
+Possible answers: consistent theme, protagonist who faces and overcomes challenges, a journey of some kind, sequential plot that shows a beginning, middle, and end.
 
 When it comes to character, what does it mean to be the hero of the story? What are the typical characteristics of a hero? 
 
@@ -76,6 +77,8 @@ Where have you come from? What lenses do you view the world through? We'll answe
 **I Do:** Facilitator shows off their life map to demonstrate how to outline one's backstory. Note: this is an opportunity to share information about your backstory and how your highs and lows have shaped your pathway here.
 
 **You Do:** Students spend 10 minutes creating their life maps using the paper and markers provided. 
+
+### Pomodoro Break
 
 ### Current Struggles and Successes: Why Are You Here?
 In this stage of storytelling, let's examine our struggles, our identifying characteristics, and our successes. 
@@ -127,8 +130,7 @@ In order to tell the arc of our characterization at Turing, we need to be able t
 
 **Small Group Discussions:** In groups of 4, share the following:
 
-* What is a struggle you’ve had at Turing so far?
-* How have you managed it?
+* What is a struggle you’ve had at Turing so far? How have you managed it?
 * What are your StrengthsFinder strengths?
 * How have you seen yourself use these strengths at Turing?
 * How can you use your strengths to help you overcome future struggles?
@@ -137,25 +139,15 @@ In order to tell the arc of our characterization at Turing, we need to be able t
 * What is a struggle that your group discussed? How does this help you relate to/understand that person more?
 
 ### Future Vision: What's Next?
-When you think of influential people in tech (aka our heroes), who do you think of? How do you compare to these heroes?
+**Whole Group Discussion:** 
 
-How can we start to create new heroes? How can you become a hero, lending your own perspective, become a role model for someone who is like you? For someone who is different from you?  
-
-Discuss:
-- Heroes
-- Differences/Perspectives to add to tech
-- Role Models
-- What is your place in this industry? aka what's next/what's your vision? 
-
-Think back to why you applied to Turing; what dreams do you envision for yourself? Where does your Turing story end?
-
-Solicit responses from 3-4 people.
+* When you think of influential people in tech (aka our heroes), who do you think of? What do we know about their stories? How do you compare to these heroes?
+* How can we start to create new heroes? How can you become a hero, lending your own perspective, become a role model for someone who is like you? For someone who is different from you?  
+* Think back to why you applied to Turing; what dreams do you envision for yourself? Where does your Turing story end?
 
 Let's make these dreams a reality by creating a vision statement. This statement should utilize the first person ("I will...") and include concrete details to fully express where you want to go. 
 
 **You Do:** Students spend 6 minutes writing or drawing out a vision statement. 
-
-
 
 ### Small Group Share
 Students will get into groups of 4 to share as much as they're comfortable from each section of their personal stories. Each group member should get 5 minutes to share, and then as a group, answer this question:
@@ -178,4 +170,6 @@ It's important to remember that each of these pieces of your story is a draft. Y
 **Looking Ahead:** 
 * Module Two: Dive more deeply into your *professional* story
 * Module Three: Tell your story through resumes, cover letters, and the Turing portfolio
-* Module Four: Tell your Turing story through end-of-module lightning talks; On graduation day, cohorts have the opportunity to share their reflections on their time here.  Over and over again, students comment that they wish they had shared more of their stories sooner, that they wish they had spent more time understanding each other and what experiences brought each person here. Consider ways that you can share your stories, the things that you value, and what you are hoping for in the upcoming weeks. The more connections you can make, the better you will be able to work together towards success.  
+* Module Four: Tell your Turing story through an end-of-Turing presentation for a panel
+
+During the rest of your time here, consider ways that you can share your stories, the things that you value, and what you are hoping for in the upcoming weeks. The more connections you can make, the better you will be able to work together towards success.  
