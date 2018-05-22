@@ -55,8 +55,10 @@ This brings us to the elements that make up a good story -- what are they?
 
 Possible answers: consistent theme, protagonist who faces and overcomes challenges, a journey of some kind, sequential plot that shows a beginning middle and end.
 
+When it comes to character, what does it mean to be the hero of the story? What are the typical characteristics of a hero? 
+
 **Connection to You:**
-These elements are present in your story as well. You are the main character, undergoing challenges, experiencing a journey, and revealing the narrative thread through your own theme.
+These elements are present in your story as well. You are the main character, the hero, undergoing challenges, experiencing a journey, and revealing the narrative thread through your own theme.
 
 There are 3 main questions to help us understand our own stories and our character arcs:
 * Who are you?
@@ -123,13 +125,28 @@ In order to tell the arc of our characterization at Turing, we need to be able t
 
 **I Do:** Facilitator models a reflection on one of their StrengthsFinder strengths to discuss how it's helped them overcome a challenge.
 
-**You Do:** Spend 5 minutes answering these questions that are part of your deliverable reflection:
+**Small Group Discussions:** In groups of 4, share the following:
 
-* Write 1-2 paragraphs about your StrengthsFinder themes: How have you seen yourself using these strengths at Turing? Has your understanding of these strengths changed since you first reflected on them? If so, how?
+* What is a struggle you’ve had at Turing so far?
+* How have you managed it?
+* What are your StrengthsFinder strengths?
+* How have you seen yourself use these strengths at Turing?
+* How can you use your strengths to help you overcome future struggles?
 
-* Write a story about your Turing experience so far: When have you struggled? How have you dealt with struggle? When have you succeeded at Turing? How did you accomplish those successes?
+**Whole Group Debrief:**
+* What is a struggle that your group discussed? How does this help you relate to/understand that person more?
 
 ### Future Vision: What's Next?
+When you think of influential people in tech (aka our heroes), who do you think of? How do you compare to these heroes?
+
+How can we start to create new heroes? How can you become a hero, lending your own perspective, become a role model for someone who is like you? For someone who is different from you?  
+
+Discuss:
+- Heroes
+- Differences/Perspectives to add to tech
+- Role Models
+- What is your place in this industry? aka what's next/what's your vision? 
+
 Think back to why you applied to Turing; what dreams do you envision for yourself? Where does your Turing story end?
 
 Solicit responses from 3-4 people.
@@ -138,9 +155,10 @@ Let's make these dreams a reality by creating a vision statement. This statement
 
 **You Do:** Students spend 6 minutes writing or drawing out a vision statement. 
 
-### Small Group Share
 
-Students will get into groups of 4 to share as much as their comfortable from each section of their personal stories. Each group member should get 5 minutes to share, and then as a group, answer this question:
+
+### Small Group Share
+Students will get into groups of 4 to share as much as they're comfortable from each section of their personal stories. Each group member should get 5 minutes to share, and then as a group, answer this question:
 
 * By sharing our stories with one another, how can we as a community build on our similarities and learn from our differences?
 
