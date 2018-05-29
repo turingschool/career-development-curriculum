@@ -55,6 +55,7 @@ Now, develop a "broaden and build" action plan to accompany your positive words,
 
 ### Reconnect to Positive State
 Using your positive words and one of the broadening strategies listed above, imagine again the positive state you considered in step 2 keeping these actions in mind. 
+
     * Do you feel more confident than the first time you imagined it? 
     * Is there anything holding you back from seeing this as a positive state?
 
