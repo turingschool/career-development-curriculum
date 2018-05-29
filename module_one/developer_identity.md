@@ -42,7 +42,14 @@ Last week, we spent time talking about our stories in terms of our identities, v
 
 Personal branding is all about telling a consistent story about yourself, building out the details of this story with each profile. As you start this new career, telling your story as a new member of the software industry in as many consistent ways as possible will help you stand out and embrace that identity even more. 
 
-Today, we'll look at a few tools you should use to define and build your personal brand. 
+Today, we'll look at a few tools you should use to define and build your personal brand online. 
+
+Why is this important? According to the online reputation management consultantcy, [BrandYourself](https://brandyourself.com/):
+
+* 82% of business decision makers said that presence in search results was an influential factor when vetting people online.
+* 42% of US adults looked someone up before deciding to do business with them.
+* 27% have searched for someone they met in a professional setting, such as a networking event.
+* 23% of US adults have looked up a coworker. 
 
 ### LinkedIn
 If you don't already have a LinkedIn profile, now is time to set one up [here](https://www.linkedin.com/). As we look at LinkedIn today, we'll talk about how you can passively use it for your job search -- how do people find you? How do they know who you are? It all has to do with how you tell your stories and the particular keywords that you're using.
@@ -102,6 +109,9 @@ If your name is taken, use your middle name, etc. but it should be consistent ac
 * Skills: list all the technologies you use even if you haven't been endorsed for them, but they should be in the lower part
 * You can make your LinkedIn in multiple languages to address and attract different communities. This is effective if you'd like to work abroad
 
+**Career Interests Button:**
+Below your summary, on your personal dashboard, there is an option to update your career interests to let recruiters know if you're actively, passively, or not looking for opportunities. You can update this if you'd like to let recruiters know more specifically about your interests. Be warned -- you may open yourself up to lots of contacts if you click it on, and they may not always be helpful. But this would also increase your conversations with recruiters, which at the very least could be a good learning opportunity. 
+
 #### Add Connections
 Start with a network of at least 50 connections (but always aim for 500+ quality connections). Don't forget to add Turing staff:
 
@@ -114,7 +124,7 @@ Start with a network of at least 50 connections (but always aim for 500+ quality
 |      [Brittany Storoz](https://www.linkedin.com/in/brittanystoroz/)      |         [Robbie Jaeger](https://www.linkedin.com/in/robertjaeger0/)        |    [Will Mitchell](https://www.linkedin.com/in/wvmitchell/)    |
 |           [Leta Keane](https://www.linkedin.com/in/letakeane/)           |  [Nathaniel Foster](https://www.linkedin.com/in/nathanielfosterofficial/)  |      [Pam Lovett](https://www.linkedin.com/in/thatpamiam/)     |
 |     [Cory Westerfield](https://www.linkedin.com/in/corywesterfield/)     |        [David Whitaker](https://www.linkedin.com/in/david-whitaker/)       |  [Amy Holt](https://www.linkedin.com/in/amyelizabethholt/)  |
-|        [Ali Schlereth](https://www.linkedin.com/in/alischlereth/)        | [Erin Williams](https://www.linkedin.com/in/erin-neill-williams-793696a8/) |     [Kayt Hensley](https://www.linkedin.com/in/klhensley/)     |
+|        [Dione Wilson](https://www.linkedin.com/in/dionewilson/)        | [Erin Williams](https://www.linkedin.com/in/erin-neill-williams-793696a8/) |     [Kayt Hensley](https://www.linkedin.com/in/klhensley/)     |
 | [Rachel Martinez](https://www.linkedin.com/in/rachel-martinez-16693956/) |          [Rachel Warbelow](https://www.linkedin.com/in/rwarbelow/)         |         [Brian Zanti](https://www.linkedin.com/in/brian-zanti-ba906057/)                                                       |
 
 * Engage with your connections by liking, commenting on, and/or sharing their updates.
