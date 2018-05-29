@@ -19,9 +19,16 @@ Those students should:
 These students should:
 * Find a calendar system that they'll use, such as Google Calendar
 * Set up the calendar by creating timeboxes for how to spend their time during the first 4 weeks post-Turing
-* Add meetups, Mod 5 sessions (when applicable), 
+* Add meetups, Mod 5 sessions (when applicable), Jeff's office hours
 
 ## Part Two
 All students make goals for what they need to work on during those 30 days, such as:
 * Updating ReadMes
+* Refactoring projects
 * 
+
+### Survey
+
+
+### Share Out
+3-4 students share out highlights from their plans with the whole group
