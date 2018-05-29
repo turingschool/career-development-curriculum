@@ -11,15 +11,17 @@ Session Timing: 60 mins
 ## Part One
 Note for Facilitator: Split the students up into groups based on their comfort level with creating schedules
 ### Already Organized Group
-Have these students:
+Those students should:
 * Map out the intermission week schedule on the board in Clarke Hall and have them add events/meetups and sessions that they can lead and review with each other during that time
-* 
+* Discuss how they 
 
 ### Not Organized Group
-Have these students:
-* 
-
-Then during week 1, we’ll hold our first M5 session and know we’ll cover specific session and then weeks 2-5, work on other events that they’ve already been working on
+These students should:
+* Find a calendar system that they'll use, such as Google Calendar
+* Set up the calendar by creating timeboxes for how to spend their time during the first 4 weeks post-Turing
+* Add meetups, Mod 5 sessions (when applicable), 
 
 ## Part Two
-All students make goals for what they need to work on
+All students make goals for what they need to work on during those 30 days, such as:
+* Updating ReadMes
+* 
