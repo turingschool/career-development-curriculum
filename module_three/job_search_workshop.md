@@ -1,9 +1,23 @@
 # Job Search Workshop
-## Prepping for the M4 Job Search
+## Putting it All Together
 
 Session Time: 60 minutes
 
 [Slides for this lesson](https://docs.google.com/presentation/d/1ncfDn8PO3bRTwZbNPU01w0kbHGvofLjupUzYBQZ_IVI/edit?usp=sharing)
+
+Updates:
+Change to workshop-style with interview question-themed stations
+Brainstorm for 5 mins for each interview question, then pair up to answer them for each other:
+
+3-5 most common interview questions:
+-Tell me about yourself
+-What’s a time you’ve failed/ had a challenge?
+-What is it like working with a team for you?
+-What’s an area you are working on growing in?
+
+1. Discuss StrengthsFinder and how it plays out for you in a team, how it describes you 
+2. Connect to feedback you’ve gotten from partners
+3. Connect to prior experience / values / reflections
 
 Structure:
 * Opening (5 mins)
