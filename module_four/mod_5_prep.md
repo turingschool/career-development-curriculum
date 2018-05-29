@@ -8,10 +8,8 @@ Session Timing: 60 mins
 * 5 mins: Take survey on Mod 5 topics
 * 5 mins: Students share out their plans
 
-### Directions for Facilitator
-* Split the students up into groups based on their comfort level with creating schedules
-
 ## Part One
+Note for Facilitator: Split the students up into groups based on their comfort level with creating schedules
 ### Already Organized Group
 Have these students:
 * Map out the intermission week schedule on the board in Clarke Hall and have them add events/meetups and sessions that they can lead and review with each other during that time
