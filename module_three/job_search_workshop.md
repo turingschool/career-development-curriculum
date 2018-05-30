@@ -33,16 +33,22 @@ In this session, you'll focus on combining all the professional development piec
 * Complete your Turing portfolio
 * Complete PD Peer Groups Survey
 
-### 
-
 #### Modeling the Process
-
+What have you learned about yourself that you can pull from in these answers?
 1. Discuss StrengthsFinder and how it plays out for you in a team, how it describes you 
 2. Connect to feedback you’ve gotten from partners
 3. Connect to prior experience / values / reflections
 
+### Stations
+Directions:
+
+### Whole Group Debrief
+* What are your takeaways from this practice?
+* What will you focus on in your continued interview prep?
+* What do you need support on in Mod 4?
+
 ### Prep for Mod 4
-Decide for yourself answers to the above questions, and fill out the survey for Module 4 PD Peer Groups.
+Using the practice from today, think about your job search that starts next mod, and fill out the survey for Module 4 PD Peer Groups.
 
 ### Closing
 Create a plan to get your resume and Turing portfolio finished by next week's portfolio review. 
