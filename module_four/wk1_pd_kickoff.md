@@ -14,7 +14,11 @@ Updates:
 	* As intros: Everyone in group gives pitch and receives feedback on how to tighten it
 * Goals:
 	* Assess level of completeness/additional updates to LinkedIn, alumni portfolio, GitHub/Project ReadMes
+* Decide on how group support will look throughout the coming weeks
+	* Stand Up
+	* Reviews in channels
 	* 
+* Close with Outline of how to prep for Week 2 session on entire job application process, including resume and cover letter
 
 
 * Hook Turn & Talk: Imagine Your Dream First Job (5 mins)
