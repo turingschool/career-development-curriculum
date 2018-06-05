@@ -6,22 +6,28 @@ Session Time: 60 minutes
 [Slides for this lesson](https://docs.google.com/presentation/d/1ncfDn8PO3bRTwZbNPU01w0kbHGvofLjupUzYBQZ_IVI/edit?usp=sharing)
 
 Structure:
-* Opening (5 mins)
-* Station rotations (15 mins each; 45 mins total)
-	* 5 mins brainstorm
-	* 3 mins providing response with partner
-	* 1 min of feedback from partner
-	* 1 min of putting feedback into place
-	* 3 mins of response from partner
-	* 1 min of feedback for partner
-	* 1 min of putting feedback into place
-* Survey (5 mins)
-* Closing (5 mins)
+* Opening & Demo & Find partners (10 mins)
+* Individual Prep for Question #1 (5 mins)
+* Partners/Small Groups Feedback Loop #1; Discuss how to incorporate feedback (prompting questions); whole group share (10 mins)
+* Individual Prep for Question #2 (5 mins)
+* Partners/Small Groups Feedback Loop #2; Discuss how to incorporate feedback (prompting questions); whole group share (10 mins)
+* Individual Prep for Question #3 (5 mins)
+* Partners/Small Groups Feedback Loop #3; Discuss how to incorporate feedback (prompting questions); whole group share (10 mins)
+* Survey & Closing (5 mins)
+
+Questions:
+* Why do you want to be a software developer?
+* Describe a successful idea or project you worked on. What are some of the challenges you had to overcome? What made it a success?
+* Describe a project that failed, a project you had to give up on or a time you worked really hard on a project and it just didn’t pan out as expected. What happened? How did you make the decisions that you made?
+* What is your approach to working on a team?
+* What is an area of growth for you?
+* Describe your strengths. How have you seen these in practice as a developer?
+
 
 ### Opening
-Why do you want to be a software developer? Describe a time when you've failed; what happened and how did you manage that failure? What is your approach to working on a team? How would you describe yourself? What is an area of growth for you? What are your strengths and how have you seen them in practice?
+How prepared do you feel for the job search? 
 
-In this session, you'll focus on combining all the professional development pieces you've worked on this module (your resume, your professional story, your flower exercise, your research, your job shadowing experience) and in previous modules to help you answer these questions one by one.
+In this session, you'll focus on combining all the professional development pieces you've worked on this module (your resume, your professional story, your flower exercise, your research, your job shadowing experience) and in previous modules to help you answer common interview questions. 
 
 ### Objectives
 * Practice answering common culture interview questions
@@ -35,20 +41,26 @@ In this session, you'll focus on combining all the professional development piec
 * Complete PD Peer Groups Survey
 
 #### Modeling the Process
+How would you answer one of the following questions?
+
+* Why do you want to be a software developer?
+* Describe a successful idea or project you worked on. What are some of the challenges you had to overcome? What made it a success?
+* Describe a project that failed, a project you had to give up on or a time you worked really hard on a project and it just didn’t pan out as expected. What happened? How did you make the decisions that you made?
+* What is your approach to working on a team?
+* What is an area of growth for you?
+* Describe your strengths. How have you seen these in practice as a developer?
+
 What have you learned about yourself that you can pull from in these answers?
 
 * Discuss StrengthsFinder -- how do these results play out for you in teams? How do they describe you?
 * Connect to feedback you’ve gotten from partners -- how have you used this feedback to grow?
 * Connect to prior experience / values / reflections
 
-### Stations
-Directions:
-* Pick 3 of the following questions to focus on today
-* You’ll have 15 mins at each station:
-  * 5 mins of prep
-  * 3 mins to answer question x2 
-  * 1 min of feedback from partner x2
-  * 1 min to put feedback into practice x2
+
+Find a partner or group of 3 to work through questions of your choice *(you don't have to work on the same question as your partner).* 
+
+### Question #1 Prep
+**You Do:** Take 5 minutes to write or think through your answer to one of the questions
 
 ### Whole Group Debrief
 * What are your takeaways from this practice?
