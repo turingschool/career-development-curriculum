@@ -1,4 +1,4 @@
-# Job Search Workshop
+# Interview Workshop
 ## Putting it All Together
 
 Session Time: 60 minutes
