@@ -62,16 +62,17 @@ Now that you've fleshed out your story into an easily told format, let's focus o
 #### Research: Turn & Talk
 With a partner, take a look at 2-3 examples from past Turing alumni. What do you notice about these resumes? What sticks out to you? What would you do differently? You'll have 6 minutes to discuss with your partner.
 
- - [Josh Cass Resume](https://www.turing.io/sites/default/files/resumes/josh_cass.pdf)
- - [Rose Kohn Resume](https://www.turing.io/sites/default/files/resumes/rose_a_kohn.pdf)
- - [Kinan Whyte Resume](https://github.com/turingschool/career-development-curriculum/blob/master/files/Resume%20ex%201.pdf)
- - [Ryan Flach Resume](https://github.com/turingschool/career-development-curriculum/blob/master/files/Resume%20ex%202.pdf) 
- - [Erin Pintozzi Resume](https://github.com/turingschool/career-development-curriculum/blob/master/files/Resume%20ex%203.pdf)
- - [Kirsten Swanson Resume](https://github.com/turingschool/career-development-curriculum/blob/master/files/Kirsten%20Swanson%20Resume.pdf)
- - [Molly Brown Resume](https://github.com/turingschool/career-development-curriculum/blob/master/files/Molly%20Brown%20Resume.pdf)
- - [Sam Landfried Resume](https://github.com/turingschool/career-development-curriculum/blob/master/files/Sam%20Landfried%20Resume.pdf)
- - [Justyna Winiarska-Field Resume](https://github.com/turingschool/career-development-curriculum/blob/master/files/Justyna%20Winiarska-Field%20Resume.pdf)
- - Don't be afraid to think outside of the box...Check out this [epic resume.](http://www.rleonardi.com/interactive-resume/)
+* [Josh Cass Resume](https://www.turing.io/sites/default/files/resumes/josh_cass.pdf)
+* [Rose Kohn Resume](https://www.turing.io/sites/default/files/resumes/rose_a_kohn.pdf)
+* [Kelley Jenkins Resume](https://www.turing.io/sites/default/files/resumes/Kelley%20Jenkins%20Resume%205.3.18pdf.pdf)
+* [Evan Miller](https://www.turing.io/sites/default/files/resumes/miller_evan_resume_110117.pdf)
+* [Erin Pintozzi Resume](https://www.turing.io/sites/default/files/resumes/Erin%27s%20Resume%20020917.pdf)
+* [Ricardo Viera](https://www.turing.io/sites/default/files/resumes/RicardoViera_0.pdf)
+* [Laura Turk](https://www.turing.io/sites/default/files/resumes/LauraTurk-FE_DEV-2017.pdf)
+* [Jason Lucas](https://www.turing.io/sites/default/files/resumes/Jason%20Lucas%20Resume%20.pdf)
+* [Natalia Colome](https://www.turing.io/sites/default/files/resumes/NMCA_styled_resume.pdf)
+* [James Sullivan](https://www.turing.io/sites/default/files/resumes/JamesSullivanResume.pdf)
+* Don't be afraid to think outside of the box...Check out this [epic resume.](http://www.rleonardi.com/interactive-resume/)
 
 **Whole Group Debrief:**
 
