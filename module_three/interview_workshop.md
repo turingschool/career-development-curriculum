@@ -16,7 +16,9 @@ Structure:
 * Survey & Closing (5 mins)
 
 ### Opening
-How prepared do you feel for the job search? 
+Let's start by thinking about this question: *how well do you know yourself?*
+
+That question is the essence of the non-technical interview. To ace this part of the interview, you want to bring a level of self-awareness to the process so that you can confidently answer any question asked of you. 
 
 In this session, you'll focus on combining all the professional development pieces you've worked on this module (your resume, your professional story, your flower exercise, your research, your job shadowing experience) and in previous modules to help you answer common interview questions. 
 
@@ -24,7 +26,7 @@ In this session, you'll focus on combining all the professional development piec
 * Practice answering common culture interview questions
 * Provide effective feedback for each other on responses
 * Put feedback into practice
-* Come away from this session with a clear plan on how to improve your interview process
+* Come away from this session with a clear plan on how to improve your interviewing process
 
 ### Deliverables
 * Complete your resume edits
@@ -52,12 +54,19 @@ As a class, talk through the following question and think about how you could an
 
 **What makes you stand out compared to other junior developers?**
 
+Consider:
+* What is this question asking you to do?
+* What are the components that go into answering this question?
+* What background knowledge about yourself could you bring in here?
+* Anything else to keep in mind when answering this question?
 
 ### Transition
 Now, find a partner or group of 3 to work through questions of your choice *(you don't have to work on the same question as your partner).* 
 
-### Question #1 Prep
-**You Do:** Take 5 minutes to write or think through your answer to one of the questions
+### Three Rounds of Questions
+Step 1: Prep. Take 5 minutes to write or think through your answer to one of the questions
+Step 2: Answer the questions with your partner(s). Provide feedback on the answers. Remember to be *specific, actionable, and kind*. 
+Step 3: Discuss how you will incorporate the feedback to improve your answer.
 
 ### Whole Group Debrief
 * What are your takeaways from this practice?
@@ -70,10 +79,4 @@ Using the practice from today, think about your job search that starts next mod,
 ### Closing
 Create a plan to get your resume and Turing portfolio finished by next week's portfolio review. 
 
-As you finish up Module 3, come back to these questions that we posed at the beginning of the session. Assess how confident you feel to answer any of these as you keep going with your job search:
-* Why do you want to be a software developer?
-* Describe a time when you've failed; what happened and how did you manage that failure?
-* What is your approach to working on a team? 
-* How would you describe yourself? 
-* What is an area of growth for you? 
-* What are your strengths and how have you seen them in practice?
+As you finish up Module 3, come back to these questions that we posed at the beginning of the session. Assess how confident you feel to answer any of these as you keep going with your job search.
