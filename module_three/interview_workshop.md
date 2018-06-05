@@ -8,11 +8,11 @@ Session Time: 60 minutes
 Structure:
 * Opening & Demo & Find partners (10 mins)
 * Individual Prep for Question #1 (5 mins)
-* Partners/Small Groups Feedback Loop #1; Discuss how to incorporate feedback (prompting questions); whole group share (10 mins)
+* Partners/Small Groups Feedback Loop #1 (10 mins)
 * Individual Prep for Question #2 (5 mins)
-* Partners/Small Groups Feedback Loop #2; Discuss how to incorporate feedback (prompting questions); whole group share (10 mins)
+* Partners/Small Groups Feedback Loop #2 (10 mins)
 * Individual Prep for Question #3 (5 mins)
-* Partners/Small Groups Feedback Loop #3; Discuss how to incorporate feedback (prompting questions); whole group share (10 mins)
+* Partners/Small Groups Feedback Loop #3 (10 mins)
 * Survey & Closing (5 mins)
 
 ### Opening
