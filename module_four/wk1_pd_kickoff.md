@@ -1,4 +1,4 @@
-# Module 4 Professional Development Kickoff
+# Week 1: Module 4 Professional Development Kickoff
 
 ## Setting You Up for Success in the Module 4 Job Search
 
@@ -6,6 +6,16 @@
 
 ### Session Structure:
 Time: 60 mins
+
+Updates:
+* Logistics -- spend 3-5 mins. walking through the additional resources and having students bookmark them; discuss all 5 weeks; discuss post-grad plan (8 mins)
+* Group DTR & Expectation-Setting (have coaches outline their plan for the groups during the 5 weeks)
+* Story Pitch Time (part of getting to know each other, and getting set up for the mod by defining your goals
+	* As intros: Everyone in group gives pitch and receives feedback on how to tighten it
+* Goals:
+	* Assess level of completeness/additional updates to LinkedIn, alumni portfolio, GitHub/Project ReadMes
+	* 
+
 
 * Hook Turn & Talk: Imagine Your Dream First Job (5 mins)
 * Opening: objectives, scope & sequence of M4 PD. Introduction to PD groups and resources, breakdown of week by week, and discussion of 30-day plan (10 mins)
