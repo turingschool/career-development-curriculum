@@ -65,13 +65,12 @@ With a partner, take a look at 2-3 examples from past Turing alumni. What do you
 * [Josh Cass Resume](https://www.turing.io/sites/default/files/resumes/josh_cass.pdf)
 * [Rose Kohn Resume](https://www.turing.io/sites/default/files/resumes/rose_a_kohn.pdf)
 * [Kelley Jenkins Resume](https://www.turing.io/sites/default/files/resumes/Kelley%20Jenkins%20Resume%205.3.18pdf.pdf)
-* [Evan Miller](https://www.turing.io/sites/default/files/resumes/miller_evan_resume_110117.pdf)
+* [Evan Miller Resume](https://www.turing.io/sites/default/files/resumes/miller_evan_resume_110117.pdf)
 * [Erin Pintozzi Resume](https://www.turing.io/sites/default/files/resumes/Erin%27s%20Resume%20020917.pdf)
-* [Ricardo Viera](https://www.turing.io/sites/default/files/resumes/RicardoViera_0.pdf)
-* [Laura Turk](https://www.turing.io/sites/default/files/resumes/LauraTurk-FE_DEV-2017.pdf)
-* [Jason Lucas](https://www.turing.io/sites/default/files/resumes/Jason%20Lucas%20Resume%20.pdf)
-* [Natalia Colome](https://www.turing.io/sites/default/files/resumes/NMCA_styled_resume.pdf)
-* [James Sullivan](https://www.turing.io/sites/default/files/resumes/JamesSullivanResume.pdf)
+* [Ricardo Viera Resume](https://www.turing.io/sites/default/files/resumes/RicardoViera_0.pdf)
+* [Laura Turk Resume](https://www.turing.io/sites/default/files/resumes/LauraTurk-FE_DEV-2017.pdf)
+* [Jason Lucas Resume](https://www.turing.io/sites/default/files/resumes/Jason%20Lucas%20Resume%20.pdf)
+* [Natalia Colome Resume](https://www.turing.io/sites/default/files/resumes/NMCA_styled_resume.pdf)
 * Don't be afraid to think outside of the box...Check out this [epic resume.](http://www.rleonardi.com/interactive-resume/)
 
 **Whole Group Debrief:**
