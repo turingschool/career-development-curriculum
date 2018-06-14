@@ -3,20 +3,24 @@ Repeating the module is an opportunity to not only solidify technical skills but
 
 Here's the breakdown of expectations for this module:
 
-* You are not required to come to professional development sessions. You can choose to come to sessions if you feel that you would benefit from the information. Refresher on the sessions:
+### Sessions
+* You **are not required** to attend professional development sessions. You can choose to come to sessions if you feel that you would benefit from the information. Reminder on what sessions are offered this mod:
     * [Professional Storytelling III](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/professional_storytelling_iii.md)
-    * [Flower Exercise]
-    * [Job Search Strategies]
-    * [Resume Review Workshop]
-    * [Interview Prep]
-* You are required to attend Gear Up sessions (see info below)
+    * [Flower Exercise](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/flower_exercise.md)
+    * [Job Search Strategies](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/job_search_strategies.md)
+    * [Resume Review Workshop](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/m3_resume_review.md)
+    * [Interview Prep](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/interview_workshop.md)
+* You **are required** to attend all Gear Up sessions, and you are encouraged to take on a leadership/facilitator role in group discussions. Only 1 session will be repeat content:
+    * Week 1: [Microaggressions](https://github.com/turingschool/gear-up/blob/master/Mod3_Week1_Microaggressions_update.md)
+    * Week 3: Rotation session, see the options in the Gear Up repo [here](https://github.com/turingschool/gear-up)
+    * Week 5: Mod 4-led Choice session, look for the survey posted in your channel from Ellen Mary
+    
+### Deliverables
+* You **are required** to have your Turing alumni portfolio up on [turing.io/alumni](https://turing.io/alumni) with your updated resume included and at least 1 project
+* Options for additional deliverables (choose **at least 2** that you will complete during the module):
+   * 
 
-### Professional Development Plan
 
-
-### Objectives & Sessions
-
-### Choose Your Own Adventure
 
 
 ### Gear Up
