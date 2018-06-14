@@ -1,4 +1,4 @@
-# Finding Opportunities: Jump Starting Your Job Search
+# Job Search Strategies
 
 [Slides for this session](https://docs.google.com/presentation/d/1cMJwVIn7QY4txtLLUfGrb-gF1A9PuWxyVfJuSqeKE4U/edit?usp=sharing)
 
