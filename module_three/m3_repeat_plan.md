@@ -1,4 +1,49 @@
 # PD & Gear Up Plan for Repeating Module Three
+Repeating the module is an opportunity to not only solidify technical skills but also take advantage of extra time to work on your professional development and take concrete steps for your job search. 
+
+Here's the breakdown of expectations for this module:
+
+* You are not required to come to professional development sessions. You can choose to come to sessions if you feel that you would benefit from the information. Refresher on the sessions:
+    * [Professional Storytelling III](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/professional_storytelling_iii.md)
+    * [Flower Exercise]
+    * [Job Search Strategies]
+    * [Resume Review Workshop]
+    * [Interview Prep]
+* You are required to attend Gear Up sessions (see info below)
+
+### Professional Development Plan
+
+
+### Objectives & Sessions
+
+### Choose Your Own Adventure
+
+
+### Gear Up
+You are expected to attend **all** Gear Ups, and you are encouraged to take on a leadership/facilitator role in group discussions. Sessions:
+
+* **Week 1:** [Microaggressions](https://github.com/turingschool/gear-up/blob/master/Mod3_Week1_Microaggressions_update.md)
+    * **Option 1:** 
+    * **Option 2:**
+    * **Option 3:** 
+* **Week 3:** Rotation session
+     * This session will be different than the session you attended last mod, and there are no alternative options for you to choose here
+* **Week 5:** Mod 4-led Choice session 
+     * This session will be different than the session you attended last mod, and there are no alternative options for you to choose here
+
+
+
+Objectives:
+* Complete a Mock Interview; link to the interview prep resources & mentors
+* Participate in resume review -- bring questions about resume OR bring a cover letter draft
+* Identify plan for outreach/networking -- measurable and actionable
+* Upload alumni portfolio and/or update it
+* 
+
+
+
+
+
 
 ### Instructions & Expectations for Structuring the Module
 Using the guidelines below, create a plan for your professional development during your Mod 3 repeat based on:
