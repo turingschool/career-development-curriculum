@@ -28,9 +28,10 @@ Here's the breakdown of expectations for repeating the module:
 * You **are required** to have your Turing alumni portfolio up on [turing.io/alumni](https://turing.io/alumni) with your updated resume included and at least 1 project
 * Options for additional deliverables (choose **at least 2** that you will complete during the module):
    * Complete a mock technical interview with one of the mentors listed [here](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/technical_interview_prep_resources.md)
+   * Complete a mock cultural interview with Allison
    * Participate in resume review workshop by bringing a resume tailored to a specific position OR bring a cover letter draft for that position
    * Attend a Meetup -- be specific on which meetup in your plan below
-   * Initiate cold outreach with someone through email and set up a coffee meeting
+   * Initiate cold outreach with a new contact and set up a coffee meeting with them
    * Update LinkedIn profile with additional projects and skills and polish your professional summary
    * Write a blog post
    * Contribute a pull request to an open source project
