@@ -27,30 +27,26 @@ Here's the breakdown of expectations for repeating the module:
 ### Deliverables
 * You **are required** to have your Turing alumni portfolio up on [turing.io/alumni](https://turing.io/alumni) with your updated resume included and at least 1 project
 * Options for additional deliverables (choose **at least 2** that you will complete during the module):
-   * Complete a Mock Interview with one of the mentors listed [here](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/technical_interview_prep_resources.md)
-   * Participate in resume review -- bring questions about resume OR bring a cover letter draft
-   * Identify plan for outreach/networking -- measurable and actionable
+   * Complete a mock technical interview with one of the mentors listed [here](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/technical_interview_prep_resources.md)
+   * Participate in resume review workshop by bringing a resume tailored to a specific position OR bring a cover letter draft for that position
+   * Attend a Meetup -- be specific on which meetup in your plan below
+   * Initiate cold outreach with someone through email and set up a coffee meeting
    * Update LinkedIn profile with additional projects and skills and polish your professional summary
    * Write a blog post
+   * Contribute a pull request to an open source project
+   * Other: propose another professional development action step that you will take during your repeat module
 
 ### Outline of Your PD & Gear Up Plan:
 **Directions:** Write your answers to the questions below in a secret gist that you'll submit to Allison. 
 
 1. Are you going to attend any PD sessions? If so, which ones? List below.
 
-2. 
+2. In addition to ensuring your alumni portfolio is in good shape, which 2 options will you choose to work on this mod to further your professional development?
 
-2. How do you plan to challenge yourself this module to grow in your professional development? What next steps do you need to take to accomplish that?
+3. How will you know at the end of this module that you have successfully completed your professional development goals?
 
-3. What requirements will you complete this module (Note: If you did not meet all requirements at the end of last module, you will need to fulfill them this module)?
+4. How will you contribute to the Microaggressions Gear Up? 
 
-4. What additional options do you want to take on this module to further your professional development? Are there any options in these key areas that you'd like to take on that weren't listed?
+5. How else would you like to contribute to Gear Up discussions this module?
 
-5. How will you know at the end of this module that you have successfully completed your professional development goals?
-
-#### Gear Up Focus
-
-1. What role will you take on for the Microaggressions Gear Up? 
-
-2. How else would you like to contribute to Gear Up discussions this module?
-
+*Allison will review all plans and may follow up with you on your goals throughout the module.* 
