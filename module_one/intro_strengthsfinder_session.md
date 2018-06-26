@@ -127,6 +127,22 @@ Allison will model how she would reflect on her results:
     * What one action step do I want to commit to in order to help me with my goals?
     * How can I maximize my time to ensure that I complete this action step?
     * How will I know that I’ve successfully completed this action step?
+    
+ Example from Allison:
+ * What are some synonyms for each of these themes?
+      * Strategic = detail-oriented
+      * Empathy = observant
+      * Intellection = introspective
+      * Developer = coach
+      * Input = curious
+  * How do I see myself using these strengths?
+      * Strategic = create thorough plans
+      * Empathy = give support
+      * Intellection = consider multiple perspectives
+      * Developer = provide motivation and resources
+      * Input = base decisions in facts
+  * When would I want to tone down my strengths?
+  * How could I grow in my strengths?
 
 ## Getting to Know Each Other Through Strengths
 1. Using just the Signature Themes Report (the report with the 5 definitions on it), familiarize yourself with how StrengthsFinder defines your top 5 themes and then answer these questions from the [template](https://github.com/turingschool/career-development-curriculum/edit/master/module_one/strengths_reflection_guidelines.md) in your own copy that you'll put in a gist:
@@ -136,13 +152,14 @@ Allison will model how she would reflect on her results:
 
 2. Fill in your top 5 on the cohort chart that your instructor will post in your channel. 
 
-3. Find a partner to introduce yourself using these strengths. We'll do 3 rounds of this so you can start to get to know others in your cohort according to your strengths. Here are some things you can discuss with each other:
+3. Find a group of 4 and introduce your top 5 themes
 
-   * What do your top 5 strengths mean to you? How do they create a picture of you as a person?
-   * If you and your partner have the same strength(s) in common, how is your understanding of the strength the same? How does it differ?
-   * How could you and your partner learn from each other's strengths? 
-   
-**Whole Group Debrief:** How did it feel to talk about yourself? 
+* What do your top 5 strengths mean to you? How do they describe you?
+* When have you seen yourself using these strengths in your life/work experience?
+* If anyone in the group has strength(s) in common, how is your understanding of the strength the same? How does it differ?
+* How could your group learn from each other's strengths? 
+  
+**Whole Group Debrief:** How did it feel to talk about yourself? Volunteers discuss what their strengths mean and how they've seen themselves using them. 
 
 ## Application: Prepare for your mentor introductions
 This will be your first opportunity to create a professional relationship in the industry. Think about how your strengths can help you create an effective relationship with your mentor.
