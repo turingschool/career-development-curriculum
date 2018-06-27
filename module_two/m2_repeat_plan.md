@@ -48,7 +48,7 @@ Here's the breakdown of expectations for repeating the module:
 
 3. How will you know at the end of this module that you have successfully completed your professional development goals?
 
-4. How will you contribute to the Empathy & Privilege? 
+4. How will you contribute to the Empathy & Privilege Gear Up? 
 
 5. How will you contribute to other Gear Ups?
 
