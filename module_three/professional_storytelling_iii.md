@@ -32,7 +32,7 @@ This is the first of your PD sessions this module. Module Three is the module in
 
 ### Deliverables
 * You'll need a draft of your resume ready by Week 3 for review from staff coaches
-* You'll submit your revised draft of your resume to the Career Development Team (Allison, Ellen Mary, or Kayt) by the end of Week 4
+* You'll submit your revised draft of your resume to the Career Development Team (Allison, Ellen Mary, or Kayt) by the end of Week 3
 * You'll need to have your [Turing portfolio](https://www.turing.io/alumni) finished and published on the Turing website by Monday of Week 6 with your final draft of your resume uploaded 
 
 ### Opening
