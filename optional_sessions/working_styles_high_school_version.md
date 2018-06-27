@@ -2,7 +2,7 @@
 
 ## Introverts, Extroverts, and Everything In Between
 
-[Slides for this session](https://docs.google.com/presentation/d/1Dv3pkCbDjEGilq9tPq5ABHySQIQ3zBs489fetFvcZno/edit#slide=id.g1eee055cc6_1_92)
+[Slides for this session](https://docs.google.com/presentation/d/1giT1GOX08G2Rifb9akXc8xhq_HTp1lNm86MSqbAJOpI/edit?usp=sharing)
 
 Session Length: 45 mins
 
