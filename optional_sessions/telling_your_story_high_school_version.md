@@ -2,7 +2,7 @@
 
 ## Crafting Your Personal Narrative
 
-[Slides for this session](https://docs.google.com/presentation/d/1G1kDWESHQXZI0DeY8pxAyHfK_CMrk4wj9Sv7rZ2nMn8/edit?usp=sharing)
+[Slides for this session](https://docs.google.com/presentation/d/1N7noWgsmeepQpW_5SgF3s7LroeyGi5y5kRxi2A1wBwM/edit?usp=sharing)
 
 ### Session Structure
 
