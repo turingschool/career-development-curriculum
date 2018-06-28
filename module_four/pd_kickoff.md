@@ -8,12 +8,7 @@
 Time: 60 mins
 
 Updates:
-* Objectives/Go over expectations/questions (8 mins)
-* Individual Reflection/Goal-Planning (8 mins)
-* Groups:
-	* Intros by giving pitch of professional story, overall goals, and 1 thing they will need support with (5 mins. 1 min. of feedback) (30-35 mins)
-	* DTR/expectation-setting
-	* Decide on group support
+
 
 * Group DTR & Expectation-Setting (have coaches outline their plan for the groups during the 5 weeks)
 * Story Pitch Time (part of getting to know each other, and getting set up for the mod by defining your goals
@@ -69,8 +64,6 @@ You'll be expected to:
 **You Do:** Students skim over the plan and ask any questions that come up (5 mins) 
 
 ## Individual Planning: Defining Your Module Goals
-
-**You Do:**
 Individually, reflect in your journal on these questions:
 
 * What are your strengths in the job search? What are you doing well?
@@ -82,44 +75,30 @@ Additionally, prepare to give your professional story pitch, which is a shortene
 ## Professional Development Peer Groups & Coaches
 It's important to communicate your goals and what you need support with during this process as much as possible so that your group can hold you accountable. That's the overall purpose of these groups this module -- to help each other realize our job search goals. 
 
-
 DTR in your groups:
-
 * Introduce yourselves
-	* Students: Give a shortened version of your professional story 
+	* Students: Give a shortened version of your professional story, along with:
+		* 1 strength you bring to your job search
+		* 1 thing you need support from the group on
+		* 1 thing you can support others with
 	* Coaches: What are your strengths and areas of expertise to help students?
+	* Everyone will provide feedback on each other's stories
 * [Reference these guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/guidelines_for_peer_groups.md) to understand group expectations and regular deliverables
 	* Coaches: set expectations
 	* Students: ask any clarifying questions
-	
-Share: 
-* What are your goals for the module?
-* What is one action step you will take in the next week to help you realize your goals?
-* How will you hold each other accountable in this group?
-
-Decide as a group how you will help each other and what action steps you're committing to. Post your action steps on your chart paper and start a Slack channel for your group to hold each other accountable.
  
 **Whole Group Share-Out:**
 Each group will share out what their focuses will be and what action steps they will be taking in their groups to hear how we're holding each other accountable. 
 
-## Work Time: Start on your Action Steps!
-In these 15 minutes, you could:
-
-* Send at least 1 outreach email
-* Block out time on your calendar for all job-related things this module
-* Schedule a mock interview with a mentor or Ian
-* Start revising your resume
-* Update your LinkedIn
-* Start on a cover letter
-* Ask for feedback on something from your coach or fellow group members
-
 ### Closing: Discuss Next Steps & Homework
 Next week, bring:
 
-* Status updates on your action steps
-* 1 helpful tip for someone else in your group
-* Tailored resume for 1 position
-* Tailored cover letter for same position
+* Job Posting
+* Plan for your application process, including:
+   * Tailored resume
+   * Tailored cover letter draft
+   * 1 person you will reach out to
+   * What you plan to say in that outreach email
 
 **Remember Your Resources:**
 
@@ -127,5 +106,3 @@ Next week, bring:
 * #salaries
 * #cold-outreach
 * DM your coach as needed
-* Jeff’s office hours: look for posts in #job-hunt
-* Ian’s office hours: Tuesdays, 1-2pm
