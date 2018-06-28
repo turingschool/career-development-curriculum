@@ -8,7 +8,13 @@
 Time: 60 mins
 
 Updates:
-* Logistics -- spend 3-5 mins. walking through the additional resources and having students bookmark them; discuss all 5 weeks; discuss post-grad plan (8 mins)
+* Objectives/Go over expectations/questions (8 mins)
+* Individual Reflection/Goal-Planning (8 mins)
+* Groups:
+	* Intros by giving pitch of professional story, overall goals, and 1 thing they will need support with (5 mins. 1 min. of feedback) (30-35 mins)
+	* DTR/expectation-setting
+	* Decide on group support
+
 * Group DTR & Expectation-Setting (have coaches outline their plan for the groups during the 5 weeks)
 * Story Pitch Time (part of getting to know each other, and getting set up for the mod by defining your goals
 	* As intros: Everyone in group gives pitch and receives feedback on how to tighten it
@@ -20,8 +26,6 @@ Updates:
 	* 
 * Close with Outline of how to prep for Week 2 session on entire job application process, including resume and cover letter
 
-
-* Hook Turn & Talk: Imagine Your Dream First Job (5 mins)
 * Opening: objectives, scope & sequence of M4 PD. Introduction to PD groups and resources, breakdown of week by week, and discussion of 30-day plan (10 mins)
 * Individual Reflections (8 mins) 
 * Group Discussions: DTR and Making Plans (15 mins)
@@ -32,13 +36,6 @@ Updates:
 ## Opening: The Big Picture
 ### Find Your Peer Groups Listed on the Slide
 You are assigned to a peer group made up of other students and one staff member who will be your coach. You'll meet with your groups every Thursday at 1pm. **You've been grouped according to the timeline by which you said you'd need a job.** Keep this in mind as you plan together.
-
-### Embarking on the Mod 4 Job Search: Dream Big
-Close your eyes and imagine that you’re in your dream job; what is it like? What are you doing? What does the company do? Who do you work with? Who are your users? Why is this a dream job for you — do you get to do what you like? Are you using your strengths? Do you get mentorship?
-
-Now open your eyes. Turn & Talk to the person next to you to describe what you imagine and what barriers seem to be in the way of you achieving that dream job. 2-3 groups share out the whole group.
-
-It's important to articulate what you are looking for not just once, but over and over so that you have a clear idea of what you want to be pursuing. And talking about it with your group members will help them hold you accountable to those goals. That's the overall purpose of these groups this module -- to help each other realize our job search goals. 
 
 ### Objectives
 * Understand the scope and sequence of Module 4 Professional Development and what support looks like this module
@@ -53,7 +50,7 @@ You're starting your final module at Turing, and we aim to set you up with struc
 Here is the PD layout of week-by-week in Module 4:
 
 * Week 1: PD Kickoff
-* Week 2: Resume, Cover Letters, LinkedIn, and Portfolio reviews
+* Week 2: Internal Review: Come prepared to discuss your entire process for a job posting; Resume, Cover Letters, Outreach, etc.
 * Week 3: External Review: mentors and alumni will meet with PD groups to go through resumes, cover letters, and give feedback on pitches
 * Week 4: Negotiations discussion
 * Week 5: 30-day Post-Grad Plan Workshop
@@ -72,54 +69,24 @@ You'll be expected to:
 **You Do:** Students skim over the plan and ask any questions that come up (5 mins) 
 
 ## Individual Planning: Defining Your Module Goals
-Go back to the dream job you shared with your partner earlier. Is there anything standing in your way from getting that job? 
-
-### (Perceived) Barriers to your Job Search
-We can sometimes talk ourselves out of opportunities before we even give them a chance, and we create our own barriers to success.
-
-* Examples of barriers:
-	* "I talk myself out of applying to certain jobs because I don’t meet enough of the listed qualifications."
-*This is common among women.*
-	* "I don’t feel comfortable networking. It feels forced, and I don’t want to do something that doesn’t feel genuine, so I stay home from meet-ups."
-	* "Interviews make me really nervous, so I end up performing badly. It’s hard for me to code or communicate on the spot."
-	* "I just want a job." When you don't clarify what you want, it can cause your job search to meander, and this could be a barrier for what you really want. 
-
-What are some barriers you might carry with you? Think about these areas:
-
-* Entering the Software Industry
-* Outreach
-* Networking
-* Interviewing (either technical or culture-based questions)
-* Personal Branding for yourself
-* Balancing the workload of Module 4 and the job search
-* Other -- what other anxieties do you have that aren't covered in the other categories? 
-
-These barriers are another form of Impostor's Syndrome, and they are best counteracted through recognizing your strengths and creating actionable goals.
 
 **You Do:**
 Individually, reflect in your journal on these questions:
 
-* What next steps do you need to take for getting that job you want?
-* What strengths can you use to help you in your job search? What do you feel confident in?
-* What barriers might you put on yourself in your job search? 
-* What kind of support could you use from your peer group and coach to help you move past these barriers? 
+* What are your strengths in the job search? What are you doing well?
+* What could you use support with from your group members?
+* What kind of support can you provide for your group members?
 
-Now that you’ve named potential obstacles, you can begin to work past them. Start by thinking back to that dream job and creating concrete goals to get it. Now reflect on these questions:
-
-* What feels doable during this module to move forward in your job search? What would be a stretch?
-* Write out 3 SMART goals that you will work towards in your job search this module
-	* SMART = Specific, Measurable, Achievable, Relevant, Time-bound
-* What is 1 action step you will take in the next week to help you make progress towards achieving your goals? 
-
-Be prepared to share these action steps with your group. 
+Additionally, prepare to give your professional story pitch, which is a shortened version of your professional story, to your group to let them know who you are and what your goals are in this job search. 
 
 ## Professional Development Peer Groups & Coaches
-One of the goals of today's session is for you and your group to get to know each other in a way that will create a support system for the rest of the module.
+It's important to communicate your goals and what you need support with during this process as much as possible so that your group can hold you accountable. That's the overall purpose of these groups this module -- to help each other realize our job search goals. 
+
 
 DTR in your groups:
 
-* Introduce yourselves and take this time to say some of your professional story
-	* Students: Where are you in the job search currently?
+* Introduce yourselves
+	* Students: Give a shortened version of your professional story 
 	* Coaches: What are your strengths and areas of expertise to help students?
 * [Reference these guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/guidelines_for_peer_groups.md) to understand group expectations and regular deliverables
 	* Coaches: set expectations
