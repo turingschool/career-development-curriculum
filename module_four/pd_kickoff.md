@@ -7,25 +7,10 @@
 ### Session Structure:
 Time: 60 mins
 
-Updates:
-
-
-* Group DTR & Expectation-Setting (have coaches outline their plan for the groups during the 5 weeks)
-* Story Pitch Time (part of getting to know each other, and getting set up for the mod by defining your goals
-	* As intros: Everyone in group gives pitch and receives feedback on how to tighten it
-* Goals:
-	* Assess level of completeness/additional updates to LinkedIn, alumni portfolio, GitHub/Project ReadMes
-* Decide on how group support will look throughout the coming weeks
-	* Stand Up
-	* Reviews in channels
-	* 
-* Close with Outline of how to prep for Week 2 session on entire job application process, including resume and cover letter
-
-* Opening: objectives, scope & sequence of M4 PD. Introduction to PD groups and resources, breakdown of week by week, and discussion of 30-day plan (10 mins)
+* Opening: objectives, scope & sequence of M4 PD. Introduction to PD groups and resources, breakdown of week by week, and discussion of 30-day plan (8 mins)
 * Individual Reflections (8 mins) 
-* Group Discussions: DTR and Making Plans (15 mins)
+* Group Discussions: DTR and Making Plans (30-35 mins)
 * Group share outs (5 mins)
-* Work Time (15 mins) 
 * Closing: Reminder of HW (2 mins)
 
 ## Opening: The Big Picture
