@@ -74,7 +74,8 @@ Students:
 ### Whole Group Share-Out
 Solicit students who want to share anything about either their life maps or their character portraits. Guiding questions:
 
-* How do you think your background influences your future?
+* How do you think your background drives you towards your future? 
+* What are you proud of in your backstory?
 * When you think about yourself as a character, what makes you someone that others want to root for?
 
 ### Activity: Write your story (5 mins)
