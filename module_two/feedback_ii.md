@@ -138,7 +138,7 @@ All of these steps of reflection should take place *before* you have the feedbac
 #### Turn & Talk
 Find a partner to discuss the following scenarios and come up with an alternative way of phrasing these pieces of feedback:
 
-**Scenario #1: "Don't be so quiet"**
+**Scenario #1: "You should have more confidence."**
 
 **Scenario #2: "I feel inadequate because when I've brought up ideas you haven't been willing to try any of them out today."**
 
