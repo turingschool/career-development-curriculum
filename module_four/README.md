@@ -22,7 +22,7 @@ By achieving the objectives listed above, students will be prepared for a succes
 * Week 2: Internal Review of resumes, cover letters, inkedIn, Turing portfolios, professional stories by peer groups
 * Week 3: External Professional Review of resumes, cover letters, LinkedIn, Turing portfolios, professional stories by mentors and potential employers
 * Week 4: [Negotiations](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/wk4_negotiations.md)
-* Week 5: [ ]
+* Week 5: [Post Grad Prep](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/mod_5_prep.md)
 
 Additional Professional Development Opportunities:
 
