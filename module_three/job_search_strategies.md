@@ -134,9 +134,10 @@ In order to find job postings and begin conducting research, here are some tools
    * Tips: Search for groups local to the area you’re interested in working and in topics that you're interested in pursuing (i.e. Ruby, JavaScript, etc.). Be sure to select "Groups" (not "Calendar"). On the group page, there are two things that will be very useful to your job search:
       * Organizers list: who are they? Where do they work? What other meetups are they active in?
       * Upcoming events: look at the RSVP list; Who else is going? What companies do they work for? 
-
-* [Tech Ladies](https://www.hiretechladies.com/) is a community for women and non-binary folks. You have to apply to join, but once accepted, you'll have access to jobs from partnering companies
-* [Lesbians Who Tech](https://lesbianswhotech.org/)
+* [BeVisible](https://www.bevisible.soy/) is a career network for Latinxs.
+* [Lesbians Who Tech](https://lesbianswhotech.org/) is a career network for lesbians. 
+* [Tech Ladies](https://www.hiretechladies.com/) is a community for women and non-binary folks. You have to apply to join, but once accepted, you'll have access to jobs from partnering companies.
+* [Trans Tech Social Enterprises](https://www.transtechsocial.org/) is an incubator for LGBTQ Talent with a focus on economically empowering transgender people. 
 
 
 
