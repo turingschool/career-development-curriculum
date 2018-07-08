@@ -10,17 +10,17 @@ Session length: 60 minutes
 
 * Opening (6 mins)
 * Jobtrack.io Tutorial & Set Up (15 mins)
-* Discuss Job Searching Tools (20 mins)
-* Group Practice: Demo (8 mins)
-* You Do: Work Time (10 mins)
-* Closing (1 min)
+* Tools (10 mins)
+* Demo: Walking Through an Application (10 mins)
+* You Do: Work Time (15 mins)
+* Share Out & Closing (4 mins)
 
 ### Opening  
 The traditional way to look for jobs isn't necessarily the best route. 
 
 Applying for jobs on sites like monster.com, Indeed, and other career listing sites can be discouraging and ineffective. As little as [20-30% of job listings](http://www.npr.org/2011/02/08/133474431/a-successful-job-search-its-all-about-networking) are being posted online. That means that when you're only looking at company job postings, you are decreasing your chances of finding a job significantly. 
 
-In contrast, [referral candidates](http://www.careerxroads.com/news/SourcesOfHire2013.pdf) are 3-4 times more likely to be hired than non-referral candidates. To add yourself to those numbers, today we'll talk about how to find a job without relying on your resume or job postings.
+In contrast, [referral candidates](http://www.careerxroads.com/news/SourcesOfHire2013.pdf) are 3-4 times more likely to be hired than non-referral candidates. To add yourself to those numbers, today we'll talk about how to find a job without relying on just a job application. 
 
 #### Turn & Talk
 At the end of last mod, you were asked to create a networking and outreach plan to execute during this mod. The goal of this plan was to start your job search by creating connections. Turn and talk to provide your partner with an update on this plan:
@@ -33,18 +33,16 @@ A few groups will share out.
 
 #### Objectives
 
-* Pivot job search priorities to focus on finding people and companies you're interested in
+* Describe a step-by-step plan for a job application, including research, outreach, and follow-up
 * Create and effectively use a [jobtrack.io](https://jobtrack.io/) account for your job search
-* Discuss how to use tools such as Meetup, LinkedIn, BuiltIn, and other sites to find opportunities
-* Redefine how to use job boards or job listings to capitalize on opportunities
-* Begin research on companies and jobs to jumpstart your job search
+* Start a list of companies and jobs to research
 
 ### Prep for Your Job Search: Using Jobtrack.io
 The first step to a successful job search is to utilize a tracking system, which we'll set up today with [jobtrack.io](https://jobtrack.io/). Having this system to keep track of everything from companies you're interested in to notes from coffee meetings will be highly beneficial in helping you stay organized in the job search. In order to successfully pass your Module 4 portfolio, you'll need to discuss how you're using Jobtrack in your portfolio review in your PD deliverable, found [here](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md). 
 
 [Jobtrack.io](https://jobtrack.io) was built specifically for job seekers. It allows you to track relationships with companies and where you are in the process, pulling in data about companies intuitively through its free Chrome extension. You are also able to manage versions of your resume and cover letters within the tool, and it will send you reminders to proceed in different steps of the process with companies. 
 
-Let's walk through how to set up and use Jobtrack. 
+Demo: Let's walk through how to set up and use Jobtrack. 
 
 **Tips:**
 
@@ -91,16 +89,28 @@ Let's start with these tools:
 * [Mashable's Job Board](http://jobs.mashable.com/jobs/search/results)
 * [Angel List](https://angel.co/jobs)
 * [Hired](https://hired.com/)
+* [Dice](https://www.dice.com/#)
 * [Stack Overflow Job Board](http://careers.stackoverflow.com/jobs)
+* [Product Hunt](https://www.producthunt.com/jobs)
 * [Hacker News](https://news.ycombinator.com/jobs)
-* [Craigslist](https://denver.craigslist.org/d/software-qa-dba-etc/search/sof) - *this link is specific to Denver, but you can use this with any city*
+* [Authentic Jobs](https://authenticjobs.com/)
+* [Krop](https://www.krop.com/)
+* [The Muse}(https://www.themuse.com/jobs)
+* [Craigslist](https://denver.craigslist.org/d/software-qa-dba-etc/search/sof) 
 * [Top Ruby Jobs](https://toprubyjobs.com/)
 * [Ruby Weekly](http://rubyweekly.com/)
+* [Ruby Now](https://jobs.rubynow.com/)
 * [JavaScript Weekly](http://javascriptweekly.com/)
 * [gun.io](https://gun.io/)
+* [Startupers](https://www.startupers.com/)
+* [Working Nomads](https://www.workingnomads.co/jobs)
 * [Ars Technica Job Board](http://arstechnica.com/jobs/)
 * [We Work Remotely Job Board](https://weworkremotely.com/)
 * [Current Listing of Remote Dev Jobs](https://remoteok.io/remote-dev-jobs)
+* [Flex Jobs](https://www.flexjobs.com/)
+* [Power to Fly](https://powertofly.com/jobs/) is a job site specifically for women
+* [Find My Flock](https://www.findmyflock.com/) is a job site built specifically for underrepresented groups in tech
+* [Hire Tech Ladies](https://www.hiretechladies.com/) is a community for women and non-binary folks. You have to apply to join, but once accepted, you'll have access to jobs from partnering companies. 
 
 #### Social Media Resources for your Job Search:
 
