@@ -53,29 +53,34 @@ Demo: Let's walk through how to set up and use Jobtrack.
 Take 5 minutes to set up your Jobtrack account and install the chrome extension. We'll come back to logging in more information later in the session. 
 
 ### The Process
-So if you aren't going to just apply to a posting on a job board, what should you do to start your job search?
+So if you aren't going to just apply to a posting on a job board, what is your process?
 
 Here are helpful tips for the process:
 1. Find a job posting that interests you
   * Use one of the job searching tools below
 2. Conduct research
-  * Go to the company's site and find out about their mission, product, customer base
+  * Go to the company's site and find out about their mission, product, customer base, blog posts
   * Conduct a Google search on articles or other information about the company
+  * If the company has any open source projects on GitHub, check them out
   * Find people who work at the company using LinkedIn
-  * 
 3. Do some cold outreach
-4. Get Ready to Apply
+  * Who do you reach out to?
+    * Developers: Both juniors and seniors will be helpful to talk to and find out information about the company, what it's like to work there, and what to expect in the interview process
+    * Use LinkedIn to see if you have any mutual connections who can make an introduction
+  * Set up a coffee meeting or phone call
+    * Ask questions! Gather information to use in your cover letter and resume
+4. Complete the Application
   * Customize your resume for the position
   * Write a tailored cover letter
-  
-5. 
+  * Mention the contact you met
+5. Go back to your Contact
+  * Let them know you've applied
 
+Update Jobtrack in every step of the process. 
 
 ### Where to Begin: Your Job Search Tools
-* [Meetup](http://www.meetup.com/)
-   * Tips: Search for groups local to the area you’re interested in working and in topics that you're interested in pursuing (i.e. Ruby, JavaScript, etc.). Be sure to select "Groups" (not "Calendar"). On the group page, there are two things that will be very useful to your job search:
-      * Organizers list: who are they? Where do they work? What other meetups are they active in?
-      * Upcoming events: look at the RSVP list; Who else is going? What companies do they work for? 
+In order to find job postings and begin conducting research, here are some tools you should check out:
+
 * [LinkedIn](http://www.linkedin.com/)
    * Tips: 
       * Use the "Advanced Search" tool to find people based on skillset, location, and industry OR names of companies and select the "People who work at..." option
@@ -84,21 +89,7 @@ Here are helpful tips for the process:
       * In "Industry" select "computer software"
       * Search: Of those profiles that return, look at their profiles to see the list of companies they've worked for throughout their experience. What companies do you want to continue to research? Who do you want to connect with? 
       * You can also click on the company’s page and on the right side, view "Similar Companies" where your connections work
-* [Google](http://www.google.com/)
-    * Tips:  
-      * Search “top tech companies in [location]” / "top workplaces in [industry (edtech, fintech, etc.)]" and look for a journalist-generated list of companies that are recommended in that area
-      * Pick a couple companies to look into and walk through their website, including their careers page and team page
-      * Research these people on LinkedIn, Twitter, and look for a personal blog 
-    * Other Resources:
-      * [25 Killer Combos for Google's Site: Operator](https://moz.com/blog/25-killer-combos-for-googles-site-operator)
-      * [How to Use Google Search More Effectively](http://mashable.com/2011/11/24/google-search-infographic/)
-* [BuiltIn](http://builtin.com/)
-    * Tips:
-      * Located in Austin, Boston, Chicago, Colorado, LA, New York
-      * Create a profile -- there are 150 companies that are hiring in Colorado alone!
-* [Training on LinkedIn from Skillful](https://www.linkedin.com/training)
-    * Tips:
-      * Use the "See Jobs" button to generate a list of companies to learn about 
+* [BuiltIn](http://builtin.com/) is located in Austin, Boston, Chicago, Colorado, LA, and New York 
 * [Github’s Job Board](https://jobs.github.com/)
 * [Glassdoor](https://www.glassdoor.com/index.htm)
 * [Techstars Listing of Companies](https://www.techstars.com/companies/)
@@ -127,10 +118,28 @@ Here are helpful tips for the process:
 * [Flex Jobs](https://www.flexjobs.com/)
 * [Power to Fly](https://powertofly.com/jobs/) is a job site specifically for women
 * [Find My Flock](https://www.findmyflock.com/) is a job site built specifically for underrepresented groups in tech
+* [Google](http://www.google.com/)
+    * Tips:  
+      * Search “top tech companies in [location]” / "top workplaces in [industry (edtech, fintech, etc.)]" and look for a journalist-generated list of companies that are recommended in that area
+      * Pick a couple companies to look into and walk through their website, including their careers page and team page
+      * Research these people on LinkedIn, Twitter, and look for a personal blog 
+    * Other Resources:
+      * [25 Killer Combos for Google's Site: Operator](https://moz.com/blog/25-killer-combos-for-googles-site-operator)
+      * [How to Use Google Search More Effectively](http://mashable.com/2011/11/24/google-search-infographic/)
 
-#### Add to Your Network: Tech Communities
+#### The Essential Step: Building Your Network & Conducting Outreach
+
+
+* [Meetup](http://www.meetup.com/)
+   * Tips: Search for groups local to the area you’re interested in working and in topics that you're interested in pursuing (i.e. Ruby, JavaScript, etc.). Be sure to select "Groups" (not "Calendar"). On the group page, there are two things that will be very useful to your job search:
+      * Organizers list: who are they? Where do they work? What other meetups are they active in?
+      * Upcoming events: look at the RSVP list; Who else is going? What companies do they work for? 
+
 * [Tech Ladies](https://www.hiretechladies.com/) is a community for women and non-binary folks. You have to apply to join, but once accepted, you'll have access to jobs from partnering companies
 * [Lesbians Who Tech](https://lesbianswhotech.org/)
+
+
+
 
 #### Social Media Resources for your Job Search:
 
