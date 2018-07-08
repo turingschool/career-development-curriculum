@@ -95,7 +95,7 @@ Let's start with these tools:
 * [Hacker News](https://news.ycombinator.com/jobs)
 * [Authentic Jobs](https://authenticjobs.com/)
 * [Krop](https://www.krop.com/)
-* [The Muse}(https://www.themuse.com/jobs)
+* [The Muse](https://www.themuse.com/jobs)
 * [Craigslist](https://denver.craigslist.org/d/software-qa-dba-etc/search/sof) 
 * [Top Ruby Jobs](https://toprubyjobs.com/)
 * [Ruby Weekly](http://rubyweekly.com/)
