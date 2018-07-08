@@ -10,7 +10,7 @@ Session length: 60 minutes
 
 * Opening (6 mins)
 * Jobtrack.io Tutorial & Set Up (15 mins)
-* Tools (10 mins)
+* Tools & Discussion of Process (10 mins)
 * Demo: Walking Through an Application (10 mins)
 * You Do: Work Time (15 mins)
 * Share Out & Closing (4 mins)
@@ -52,9 +52,26 @@ Demo: Let's walk through how to set up and use Jobtrack.
 #### Your Turn
 Take 5 minutes to set up your Jobtrack account and install the chrome extension. We'll come back to logging in more information later in the session. 
 
-### Your Job Search Tool Box: 
-Let's start with these tools: 
+### The Process
+So if you aren't going to just apply to a posting on a job board, what should you do to start your job search?
 
+Here are helpful tips for the process:
+1. Find a job posting that interests you
+  * Use one of the job searching tools below
+2. Conduct research
+  * Go to the company's site and find out about their mission, product, customer base
+  * Conduct a Google search on articles or other information about the company
+  * Find people who work at the company using LinkedIn
+  * 
+3. Do some cold outreach
+4. Get Ready to Apply
+  * Customize your resume for the position
+  * Write a tailored cover letter
+  
+5. 
+
+
+### Where to Begin: Your Job Search Tools
 * [Meetup](http://www.meetup.com/)
    * Tips: Search for groups local to the area you’re interested in working and in topics that you're interested in pursuing (i.e. Ruby, JavaScript, etc.). Be sure to select "Groups" (not "Calendar"). On the group page, there are two things that will be very useful to your job search:
       * Organizers list: who are they? Where do they work? What other meetups are they active in?
@@ -110,7 +127,10 @@ Let's start with these tools:
 * [Flex Jobs](https://www.flexjobs.com/)
 * [Power to Fly](https://powertofly.com/jobs/) is a job site specifically for women
 * [Find My Flock](https://www.findmyflock.com/) is a job site built specifically for underrepresented groups in tech
-* [Hire Tech Ladies](https://www.hiretechladies.com/) is a community for women and non-binary folks. You have to apply to join, but once accepted, you'll have access to jobs from partnering companies. 
+
+#### Add to Your Network: Tech Communities
+* [Tech Ladies](https://www.hiretechladies.com/) is a community for women and non-binary folks. You have to apply to join, but once accepted, you'll have access to jobs from partnering companies
+* [Lesbians Who Tech](https://lesbianswhotech.org/)
 
 #### Social Media Resources for your Job Search:
 
@@ -120,6 +140,16 @@ Let's start with these tools:
 * [5 Better Ways to Network on Twitter and LinkedIn](https://www.themuse.com/advice/5-better-ways-to-network-on-twitter-linkedin)
 
 **Whole Group:** How can you use these sites to find opportunities? How could you dig deeper beyond a job listing?
+
+#### How to Search for Companies that Value Inclusion
+
+
+
+
+
+
+
+
 
 #### You Do: Group Time
 In small groups of 3-4 students, using one of the sites discussed, find at least one job that each person in the group is interested in. You'll present to the whole group:
