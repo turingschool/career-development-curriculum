@@ -78,7 +78,7 @@ Here are helpful tips for the process:
 
 Update Jobtrack in every step of the process. 
 
-### Where to Begin: Your Job Search Tools
+### Where to Begin: Finding the Job Posting
 In order to find job postings and begin conducting research, here are some tools you should check out:
 
 * [LinkedIn](http://www.linkedin.com/)
@@ -87,7 +87,7 @@ In order to find job postings and begin conducting research, here are some tools
       * In "Keywords" type in the skills or focus you want to be working in (i.e., JavaScript, Ruby, Python, EdTech, FinTech, etc.)
       * In "Location" type in the area where you'd like to work
       * In "Industry" select "computer software"
-      * Search: Of those profiles that return, look at their profiles to see the list of companies they've worked for throughout their experience. What companies do you want to continue to research? Who do you want to connect with? 
+      * Search: Of those profiles that return, look at their profiles to see the list of companies they've worked for. What companies do you want to continue to research? Who do you want to connect with? 
       * You can also click on the company’s page and on the right side, view "Similar Companies" where your connections work
 * [BuiltIn](http://builtin.com/) is located in Austin, Boston, Chicago, Colorado, LA, and New York 
 * [Github’s Job Board](https://jobs.github.com/)
@@ -116,8 +116,9 @@ In order to find job postings and begin conducting research, here are some tools
 * [We Work Remotely Job Board](https://weworkremotely.com/)
 * [Current Listing of Remote Dev Jobs](https://remoteok.io/remote-dev-jobs)
 * [Flex Jobs](https://www.flexjobs.com/)
-* [Power to Fly](https://powertofly.com/jobs/) is a job site specifically for women
-* [Find My Flock](https://www.findmyflock.com/) is a job site built specifically for underrepresented groups in tech
+* [reacHire](http://www.reachire.com/women/jobs) is a job site specifically for connecting women with companies that value inclusion. 
+* [Power to Fly](https://powertofly.com/jobs/) is a job site specifically for women.
+* [Find My Flock](https://www.findmyflock.com/) is a job site built specifically for underrepresented groups in tech.
 * [Google](http://www.google.com/)
     * Tips:  
       * Search “top tech companies in [location]” / "top workplaces in [industry (edtech, fintech, etc.)]" and look for a journalist-generated list of companies that are recommended in that area
@@ -127,15 +128,20 @@ In order to find job postings and begin conducting research, here are some tools
       * [25 Killer Combos for Google's Site: Operator](https://moz.com/blog/25-killer-combos-for-googles-site-operator)
       * [How to Use Google Search More Effectively](http://mashable.com/2011/11/24/google-search-infographic/)
 
-#### The Essential Step: Building Your Network & Conducting Outreach
-
+#### The Essential Step in the Process: Building Your Network & Conducting Outreach
+In addition to finding the right posting, remember that the next step is to find a face at the company to connect with. LinkedIn will be your go-to site for this, but a great way to continue the research into places you want to work that are aligned with your goals is by building your network. Below are some suggestions for groups to utilize for this purpose:
 
 * [Meetup](http://www.meetup.com/)
    * Tips: Search for groups local to the area you’re interested in working and in topics that you're interested in pursuing (i.e. Ruby, JavaScript, etc.). Be sure to select "Groups" (not "Calendar"). On the group page, there are two things that will be very useful to your job search:
       * Organizers list: who are they? Where do they work? What other meetups are they active in?
       * Upcoming events: look at the RSVP list; Who else is going? What companies do they work for? 
 * [BeVisible](https://www.bevisible.soy/) is a career network for Latinxs.
+* [CodeNewbie](https://www.codenewbie.org/)
 * [Lesbians Who Tech](https://lesbianswhotech.org/) is a career network for lesbians. 
+* [MAES](http://mymaes.org/) 
+* [National Society of Black Engineers](http://www.nsbe.org/home.aspx)
+* [Out in Tech](https://outintech.com/#welcome)
+* [TechLatino](http://techlatino.org/)
 * [Tech Ladies](https://www.hiretechladies.com/) is a community for women and non-binary folks. You have to apply to join, but once accepted, you'll have access to jobs from partnering companies.
 * [Trans Tech Social Enterprises](https://www.transtechsocial.org/) is an incubator for LGBTQ Talent with a focus on economically empowering transgender people. 
 
