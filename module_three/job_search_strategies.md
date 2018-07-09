@@ -145,9 +145,6 @@ In addition to finding the right posting, remember that the next step is to find
 * [Tech Ladies](https://www.hiretechladies.com/) is a community for women and non-binary folks. You have to apply to join, but once accepted, you'll have access to jobs from partnering companies.
 * [Trans Tech Social Enterprises](https://www.transtechsocial.org/) is an incubator for LGBTQ Talent with a focus on economically empowering transgender people. 
 
-
-
-
 #### Social Media Resources for your Job Search:
 
 * [The Best Way to Use Social Media for Your Job Search](http://www.forbes.com/sites/trudysteinfeld/2012/09/28/the-best-ways-to-use-social-media-in-your-job-search/)
@@ -155,29 +152,10 @@ In addition to finding the right posting, remember that the next step is to find
 * [How to Not Suck at Twitter](https://www.themuse.com/advice/how-not-to-suck-at-twitter)
 * [5 Better Ways to Network on Twitter and LinkedIn](https://www.themuse.com/advice/5-better-ways-to-network-on-twitter-linkedin)
 
-**Whole Group:** How can you use these sites to find opportunities? How could you dig deeper beyond a job listing?
+**Debrief:** Discuss whole group takeaways and questions
 
-#### How to Search for Companies that Value Inclusion
-
-
-
-
-
-
-
-
-
-#### You Do: Group Time
-In small groups of 3-4 students, using one of the sites discussed, find at least one job that each person in the group is interested in. You'll present to the whole group:
-
-* Where you found the job and how
-* What details you uncovered in your research
-* What steps you will take to apply
-
-### Group Practice: You Found a Job Listing, Now What?
-Now that we have some job listings, we need to dig deeper. Remember, if we really want these jobs, we need to create connections with the people and the companies behind the job listings so we can become referral candidates. 
-
-Using this job listing, I'm going to update my Jobtrack and create a plan for outreach using the guidelines we discussed last module in the [Outreach & Networking Session](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/outreach_and_networking.md):
+### Demo: Group Practice
+As a whole group, we'll find a job listing to go through. Using this job listing, I'm going to update my Jobtrack and create a plan for outreach using the guidelines we discussed last module in the [Outreach & Networking Session](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/outreach_and_networking.md):
 
 * Update my contacts -- how do I find contact information?
 * Craft my email -- what should I say? 
@@ -187,12 +165,13 @@ Need more help? Join the #cold-outreach channel and come to their sessions
 
 **What else?**
 
+* Describe a plan for research
 * Create a tailored resume for the position
 * Write a tailored cover letter for the position
 * Research the technologies/libraries the company uses to use in an upcoming project
 
 ### Your Turn: Conduct Research & Update Your Jobtrack.io Account
-You have 10 minutes now to get started researching and adding opportunities you're interested in to your Jobtrack.io account.
+You have 15 minutes now to get started researching and adding opportunities you're interested in to your Jobtrack.io account.
 
 ### Closing & Next Steps
 It's important to take the time now to organize your job search. Take these steps to make this process less daunting and empower yourself. 
