@@ -44,12 +44,3 @@ Feedback should include:
 * Principles of being specific, actionable, and kind 
 
 **Students in the group should also participate in providing feedback.**
-
-### Norming on Resume Reviewing
-For each scenario, what kind of feedback would you give to the student?
-
-#### Scenario #1
-
-#### Scenario #2
-
-#### Scenario #3
