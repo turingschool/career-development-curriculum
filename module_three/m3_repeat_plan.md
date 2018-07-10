@@ -35,6 +35,7 @@ Here's the breakdown of expectations for repeating the module:
    * Update LinkedIn profile with additional projects and skills and polish your professional summary
    * Write a blog post
    * Contribute a pull request to an open source project
+   * Job Shadowing: this is optional if you've already participated; please indicate below if you'd like to participate in job shadowing this mod
    * Other: propose another professional development action step that you will take during your repeat module
 
 ### Outline of Your PD & Gear Up Plan:
@@ -44,10 +45,12 @@ Here's the breakdown of expectations for repeating the module:
 
 2. In addition to ensuring your alumni portfolio is in good shape, which 2 options will you choose to work on this mod to further your professional development?
 
-3. How will you know at the end of this module that you have successfully completed your professional development goals?
+3. Do you want to participate in Job Shadowing this module?
 
-4. How will you contribute to the Microaggressions Gear Up? 
+4. How will you know at the end of this module that you have successfully completed your professional development goals?
 
-5. How else would you like to contribute to Gear Up discussions this module?
+5. How will you contribute to the Microaggressions Gear Up? 
+
+6. How else would you like to contribute to Gear Up discussions this module?
 
 *Allison will review all plans and may follow up with you on your goals throughout the module.* 
