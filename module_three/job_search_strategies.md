@@ -136,11 +136,12 @@ In addition to finding the right posting, remember that the next step is to find
       * Organizers list: who are they? Where do they work? What other meetups are they active in?
       * Upcoming events: look at the RSVP list; Who else is going? What companies do they work for? 
 * [BeVisible](https://www.bevisible.soy/) is a career network for Latinxs.
+* [Black Data Processing Associates](https://www.bdpa.org/default.aspx) is an international organization for Black professionals in tech. 
 * [CodeNewbie](https://www.codenewbie.org/)
 * [Lesbians Who Tech](https://lesbianswhotech.org/) is a career network for lesbians. 
-* [MAES](http://mymaes.org/) 
+* [MAES](http://mymaes.org/) was founded in Los Angeles in 1974 to increase the number of Mexican Americans and other Hispanics in the technical and scientific fields. 
 * [National Society of Black Engineers](http://www.nsbe.org/home.aspx)
-* [Out in Tech](https://outintech.com/#welcome)
+* [Out in Tech](https://outintech.com/#welcome) is a community to connect LGBTQ+ in tech. 
 * [TechLatino](http://techlatino.org/)
 * [Tech Ladies](https://www.hiretechladies.com/) is a community for women and non-binary folks. You have to apply to join, but once accepted, you'll have access to jobs from partnering companies.
 * [Trans Tech Social Enterprises](https://www.transtechsocial.org/) is an incubator for LGBTQ Talent with a focus on economically empowering transgender people. 
