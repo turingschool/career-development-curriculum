@@ -81,12 +81,12 @@ With a partner, take a look at 2-3 examples from past Turing alumni. What do you
 You can choose to set up a traditional resume use a template like this [traditional resume](http://visualcv.com/www/google-docs-resume-templates/), but you may want to personalize the style with a layout. Check out these sites for building a resume:
 
 * [Creddle](http://creddle.io/)
-* [Canva](https://www.canva.com/)
 * [Enhancv](https://enhancv.com/)
 * [VisualCV](https://www.visualcv.com/resume-builder/)
 * [Resume Builder](https://resume-builder.qwilr.com/)
 * [Standard Resume](https://standardresume.co/)
 * [Kick Resume](https://www.kickresume.com/)
+* [Canva](https://www.canva.com/)
 * Find even more sites [here](https://www.producthunt.com/e/create-a-beautiful-resume)
 
 #### Content Inclusion - Follow this order
