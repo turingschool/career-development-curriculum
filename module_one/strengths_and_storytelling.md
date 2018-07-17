@@ -13,8 +13,8 @@ Length: 90 mins
 * Backstories: who are you? (15 mins)
 * Pomodoro Break (5 mins)
 * Current struggles and successes: why are you here? (20 mins)
-* Futures: what's next? (10 mins)
-* Group Discussions (15 mins)
+* Futures: what's next? (15 mins)
+* Partner Storytelling (10 mins)
 * Closing: Whole Group Takeaways (10 min)
 
 ### Opening 
@@ -83,8 +83,10 @@ Where have you come from? What lenses do you view the world through? We'll answe
 ### Current Struggles and Successes: Why Are You Here?
 In this stage of storytelling, let's examine our struggles, our identifying characteristics, and our successes. 
 
-Another rule from Emma Coats states:
+More rules from Emma Coats:
 
+    What are the stakes? Give us reason to root for the character. What happens if they don’t succeed? Stack the odds against them.
+    
     You admire a character for trying more than for their successes.
 
 This is because we root for a character to overcome struggles and adversity. As the character in our own stories, we need to be able to access our vulnerabilities to authentically tell this part of our story -- *and our listeners will thank us for it because this is how they relate to us.* 
@@ -139,26 +141,21 @@ In order to tell the arc of our characterization at Turing, we need to be able t
 * What is a struggle that your group discussed? How does this help you relate to/understand that person more?
 
 ### Future Vision: What's Next?
-**Whole Group Discussion:** 
+**Small Group Discussion:** 
 
-* When you think of influential people in tech (aka our heroes), who do you think of? What do we know about their stories? How do you compare to these heroes?
-* How can we start to create new heroes? How can you become a hero, lending your own perspective, become a role model for someone who is like you? For someone who is different from you?  
+* When you think of influential people in tech (aka our "heroes"), who do you think of? What do we know about their stories? How do your stories overlap with theirs?
+* How can we start to create new heroes? How can *you* become a hero in the tech industry -- how will you lend your perspective and become a role model for someone who is like you? For someone who is different from you?  
 * Think back to why you applied to Turing; what dreams do you envision for yourself? Where does your Turing story end?
+* Let's make these dreams a reality by creating a vision statement. This statement should utilize the first person ("I will...") and include concrete details to fully express where you want to go. 
+ 
+*Everyone in the group will write their own vision statement to share out.*
 
-Let's make these dreams a reality by creating a vision statement. This statement should utilize the first person ("I will...") and include concrete details to fully express where you want to go. 
-
-**You Do:** Students spend 6 minutes writing or drawing out a vision statement. 
-
-### Small Group Share
-Students will get into groups of 4 to share as much as they're comfortable from each section of their personal stories. Each group member should get 5 minutes to share, and then as a group, answer this question:
-
-* By sharing our stories with one another, how can we as a community build on our similarities and learn from our differences?
-
-Be prepared to share your answer with the whole group. 
+### Partner Share
+Students will get into partners to share summaries of their personal stories. 
 
 ### Closing: Whole Group Takeaways
-1-3 groups' presenters share their groups discussion on the above question as well as these takeways:
 
+* By sharing our stories with one another, how can we as a community build on our similarities and learn from our differences?
 * What are particularly easy or difficult about sharing your stories with each other?
 * How can talking about these 3 areas (who are we, why are we here, what's next) help us in our future careers? 
 
