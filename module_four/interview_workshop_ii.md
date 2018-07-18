@@ -39,7 +39,7 @@ You've done the groundwork to prepare for your job search: refining your story, 
 * Describe your background. How did you get to where you are now? What was your previous career field. What did you like about it? What didn’t you like about it? Why coding? 
 * Describe your time at Turing. What worked for you? What didn’t work for you? What was the structure of the program?
 * Describe your teamwork experience in a coding environment. How big of a team did you work with?
-* A lot of this job will be full-stack. Your experience is largely [____] (Back End, Front End). How do you feel like you’d be able to contribute to the team with only that experience? How comfortable are you with getting uncomfortable with a new language?
+* A lot of this job will be full-stack. Your experience is largely ____ (Back End, Front End). How do you feel like you’d be able to contribute to the team with only that experience? How comfortable are you with getting uncomfortable with a new language?
 Describe your coding experience and why you wish to continue?
 What are you looking for in a company? Why would you want to work here?
 What is an example of how you have handled a stressful situation?
