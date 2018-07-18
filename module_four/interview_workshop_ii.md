@@ -8,6 +8,8 @@ Time: 60 mins
 
 * Whole Group Kick-off: go over structure, list of questions, how this relates to external review, how this follows up with last mod's practice (5 mins)
 * Group Practice (40 mins)
+  * Prep Time (10 mins)
+  * 
 * Session Debrief (5 mins)
 * Whole Group Share-Out (5 mins)
 * Any additional time: review professional portfolios within student groups 
@@ -17,11 +19,24 @@ You've done the groundwork to prepare for your job search: refining your story, 
 
 #### Interview Prep Tips
 
-* Create a doc to keep track of both of technical concepts you're practicing, behavioral answers, and feedback
+* Create a doc to keep track of technical concepts you're practicing, behavioral answers, and feedback
+* Review:
+  * Your professional story
+  * Feedback you've received
+  * Your projects; Go through your projects to reflect on:
+    * One specific bug
+    * Something that was really hard
+    * Something that was rewarding
+    * Any interesting struggles/insights about the collaboration process 
+  * Your Flower Exercise
+  * Your strengths
+  * Your areas of growth
+  * DTR Memos
+  * Retro notes
+  * Eval notes
 * Utilize your resources:
-  * [Interview Prep Resources](]
-* Practice, practice, practice
-
+  * [Interview Prep Resources](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/interview_prep_resources.md)
+ 
 #### Bank of Common Questions
 
 * What made you switch from your prior career into programming? 
