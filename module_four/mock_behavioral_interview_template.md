@@ -1,8 +1,10 @@
-# Behavioral Interview Resources
+# Mock Behavioral Interview Template
 
+## Directions for Interviewers
 
-
-## Mock Interview Directions for Interviewers
+1. Plan for the mock interview to take about 30 minutes with 15-20 minutes for the interview and 10-15 minutes for feedback
+2. Select 6-8 questions from the bank below
+3. 
 
 ### Bank of Questions to Ask Students
 * Tell me about yourself. Why do you want to be a software developer?
@@ -16,3 +18,4 @@
 * How do you resolve conflicts?
 
 ### Potential Questions for Students to Ask Employers
+In the mock interview, 
