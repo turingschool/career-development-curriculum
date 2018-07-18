@@ -19,8 +19,7 @@ You've done the groundwork to prepare for your job search: refining your story, 
 
 * Create a doc to keep track of both of technical concepts you're practicing, behavioral answers, and feedback
 * Utilize your resources:
-  * [Technical Interview Prep Resources](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/technical_interview_prep_resources.md)
-  * [Behavioral Interview Prep Resources](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/behavioral_interview_resources.md)
+  * [Interview Prep Resources](]
 * Practice, practice, practice
 
 #### Bank of Common Questions
@@ -33,6 +32,22 @@ You've done the groundwork to prepare for your job search: refining your story, 
 * What is your approach to working on a team?
 * What is an area of growth for you?
 * Describe your strengths. How have you seen these in practice as a developer?
+
+*  What made you switch from your prior career into programming? 
+* Describe to me the steps you would take to build out a product.
+* Tell me how you solve a problem.
+* Describe your background. How did you get to where you are now? What was your previous career field. What did you like about it? What didn’t you like about it? Why coding? 
+* Describe your time at Turing. What worked for you? What didn’t work for you? What was the structure of the program?
+* Describe your teamwork experience in a coding environment. How big of a team did you work with?
+* A lot of this job will be full-stack. Your experience is largely [____] (Back End, Front End). How do you feel like you’d be able to contribute to the team with only that experience? How comfortable are you with getting uncomfortable with a new language?
+Describe your coding experience and why you wish to continue?
+What are you looking for in a company? Why would you want to work here?
+What is an example of how you have handled a stressful situation?
+Have you ever had to switch gears in the middle of a project to get something fixed immediately? How did you react?
+What is your 100% ideal role for your first web development job?
+Tell me about a time you had a disagreement with a colleague and how you resolved it
+What project of yours are you most proud of and why? 
+Explain one of the most difficult code problems you’ve had to solve, either on your own authored code, or in contributing to someone else’s.
 
 ### Group Practice
 Now in your groups, you will get 10 minutes to prep for your responses to the listed questions. Then, your coach will ask each group member one of the listed questions picked at random. Each student will provide their answer, and their group members and coach will provide feedback on the response.
