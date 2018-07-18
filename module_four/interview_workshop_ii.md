@@ -24,7 +24,7 @@ You've done the groundwork to prepare for your job search: refining your story, 
 
 #### Bank of Common Questions
 
-*  What made you switch from your prior career into programming? 
+* What made you switch from your prior career into programming? 
 * Describe to me the steps you would take to build out a product.
 * Tell me how you solve a problem.
 * Describe your background. How did you get to where you are now? What was your previous career field. What did you like about it? What didn’t you like about it? Why coding? 
