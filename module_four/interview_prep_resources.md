@@ -1,4 +1,9 @@
-# Technical Interview Prep Resources
+# Interview Prep Resources
+
+* Technical Interview Prep Resources
+* Behavioral Interview Prep Resources
+
+### Technical Interview Prep Resources
 
 This markdown is intended to provide resources for Module 3 and 4 students as they prepare for technical interviews. This list is in no way exhaustive, but this should help give you a good start.
 
