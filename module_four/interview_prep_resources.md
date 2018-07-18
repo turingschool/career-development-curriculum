@@ -16,12 +16,12 @@ Below you can find lots of resources to help you prepare for both components.
 * Check out one of Ian's [Google Hangout sessions on interviewing](https://www.youtube.com/watch?v=aXohtMcPT6I)
 
 ### Practice
-Schedule a mock interview with one of the following mentors who have been trained on giving technical interviews:
-* Rich Shea - DM Rich on Slack (@richshea) to schedule an interview slot
-* [Austin Wood](https://austinwood.youcanbook.me/)
-* [Bob Gu](https://robertgu.youcanbook.me/)
-* [Josh Cass](https://joshcass.youcanbook.me/)
-* [Adrienne Domingus](https://calendly.com/adriennedomingus/) - if you do not see a time that works for you, feel free to reach out to Adrienne on Slack (@adrienne)
+* Schedule a mock interview with one of the following mentors who have been trained on giving technical interviews:
+  * Rich Shea - DM Rich on Slack (@richshea) to schedule an interview slot
+  * [Austin Wood](https://austinwood.youcanbook.me/)
+  * [Bob Gu](https://robertgu.youcanbook.me/)
+  * [Josh Cass](https://joshcass.youcanbook.me/)
+  * [Adrienne Domingus](https://calendly.com/adriennedomingus/) - if you do not see a time that works for you, feel free to reach out to Adrienne on Slack (@adrienne)
 
 * [Pramp](https://www.pramp.com/#/) is a free site to practice technical interviews with a peer
 
@@ -35,6 +35,9 @@ Schedule a mock interview with one of the following mentors who have been traine
 
 ### Other Resources
 
+* [Algorithm Questions](https://github.com/yangshun/tech-interview-handbook/tree/master/algorithms)
+* [Front End Interview Handbook](https://github.com/yangshun/front-end-interview-handbook)
+* [System Design Questions](https://github.com/yangshun/tech-interview-handbook/tree/master/design)
 * [Tech Interview Questions Directory](https://techtion.co/?ref=producthunt) 
 * [Top 50 React Interview Prep Questions](https://www.edureka.co/blog/interview-questions/react-interview-questions/?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
 * Join Ian Douglas's mailing list at [his site](https://iandouglas.com/technical-coaching/) for interview prep emails
