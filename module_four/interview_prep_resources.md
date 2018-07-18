@@ -49,5 +49,12 @@ Below you can find lots of resources to help you prepare for both components.
 
 ### Practice
 
+* Schedule a mock behavioral interview with one of the following people:
+  * Allison - DM her on Slack @allison_reu_singer
+  * Kayt - DM her on Slack...
+  * Ellen Mary
+  * 
+
+
 ### Other Resources
 
