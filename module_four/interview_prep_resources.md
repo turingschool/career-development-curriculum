@@ -1,41 +1,50 @@
 # Interview Prep Resources
+Your interview process with tech companies will comprise of two main components:
 
-* Technical Interview Prep Resources
-* Behavioral Interview Prep Resources
+* The Technical Interview
+* The Behavioral Interview
 
-### Technical Interview Prep Resources
+Below you can find lots of resources to help you prepare for both components.
 
-This markdown is intended to provide resources for Module 3 and 4 students as they prepare for technical interviews. This list is in no way exhaustive, but this should help give you a good start.
+## Technical Interview Prep Resources
 
-### Read this first
-Ian Douglas has published [this handy guide](https://docs.google.com/document/d/1yWfxxYoCkZgxQrJ5Bn6051OE9a6f7mm5zs72jvqGKx8/edit?usp=sharing) to the ins and outs of technical interviews
+### Start Here
+* [Ian Douglas's Guide to Technical Interview Prep](https://docs.google.com/document/d/1yWfxxYoCkZgxQrJ5Bn6051OE9a6f7mm5zs72jvqGKx8/edit?usp=sharing) 
+* [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook) by Yangshun Tay and Louie Tan
+  * [Preparing for a Coding Interview](https://github.com/yangshun/tech-interview-handbook/tree/master/preparing)
+  * [Interview Cheat Sheet](https://github.com/yangshun/tech-interview-handbook/blob/master/preparing/cheatsheet.md)
+* Check out one of Ian's [Google Hangout sessions on interviewing](https://www.youtube.com/watch?v=aXohtMcPT6I)
 
-### Videos
-
-* Check out one of Ian's [Google Hangout sessions](https://www.youtube.com/watch?v=aXohtMcPT6I)
-
-### Schedule a Mock Interview
-
+### Practice
+Schedule a mock interview with one of the following mentors who have been trained on giving technical interviews:
 * Rich Shea - DM Rich on Slack (@richshea) to schedule an interview slot
 * [Austin Wood](https://austinwood.youcanbook.me/)
 * [Bob Gu](https://robertgu.youcanbook.me/)
 * [Josh Cass](https://joshcass.youcanbook.me/)
 * [Adrienne Domingus](https://calendly.com/adriennedomingus/) - if you do not see a time that works for you, feel free to reach out to Adrienne on Slack (@adrienne)
 
-### Apps & Other Resources
-
 * [Pramp](https://www.pramp.com/#/) is a free site to practice technical interviews with a peer
+
+* [Denver Tech Interview Meetup](https://www.meetup.com/denver-tech-interview-meetup/) is held twice a month, either downtown or in the Denver Tech Center
+
 * Coding challenges resources:
    * [Turing challenges](https://github.com/turingschool/challenges)
    * [Code Wars](https://www.codewars.com/)
    * [Exercisms](http://exercism.io/languages/)
    * [HackerRank](https://www.hackerrank.com/dashboard)
-* Graham Nessler (1608-FE) developed an app to prep for Front End interviews that you can find here:
-    * [Apple Store](https://itunes.apple.com/us/app/flashcardfe/id1225364104?ls=1&mt=8)
-    * [Google Play Store](https://play.google.com/store/apps/details?id=com.grahamnessler.bookmarker&hl=en)
-* Attend a [Denver Tech Interview Meetup](https://www.meetup.com/denver-tech-interview-meetup/) -- they are held twice a month, either downtown or in the Denver Tech Center.
+
+### Other Resources
+
 * [Tech Interview Questions Directory](https://techtion.co/?ref=producthunt) 
 * [Top 50 React Interview Prep Questions](https://www.edureka.co/blog/interview-questions/react-interview-questions/?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
+* Join Ian Douglas's mailing list at [his site](https://iandouglas.com/technical-coaching/) for interview prep emails
 
-### Follow Up
-Join Ian Douglas's mailing list at [his site](https://iandouglas.com/technical-coaching/) for interview prep emails.
+## Behavioral Interview Prep Resources
+
+### Start Here
+* [Behavioral Interview Formats and Questions to Review](https://github.com/yangshun/tech-interview-handbook/blob/master/non-technical/behavioral.md)
+
+### Practice
+
+### Other Resources
+
