@@ -1,6 +1,6 @@
 # Interview Prep Workshop II
 
-[Slides for this session](
+[Slides for this session](https://docs.google.com/presentation/d/1iMZHrVvbtW6j7Bp7h1bTtRTo74ri-lqWHanCD8_v4OA/edit?usp=sharing)
 
 ### Session Structure
 
