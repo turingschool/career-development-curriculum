@@ -4,7 +4,7 @@
 
 1. Plan for the mock interview to take about 30 minutes with 15-20 minutes for the interview and 10-15 minutes for feedback
 2. Select 6-8 questions from the bank below. End the interview by asking "What questions do you have for me?" and encourage students to ask 2-3 questions that they would bring up in an interview.
-3. Take detailed notes to share with the student. Here are examples of notes to share with the student:
+3. Take detailed notes to share. Here are examples of what to make note of:
     * Body language & Non-verbal communication
     * Clarity of language & ability to answer the question being asked
     * Tone of voice
@@ -14,6 +14,17 @@
         * Description of Action taken to achieve said task/target
         * Description of Results
     * Questions asked by the student
+
+### How to Give Feedback & What to Avoid in Feedback
+When giving feedback to the student, please make sure to utilize the principles of making the feedback **specific, actionable, and kind.** It is important to be direct with your feedback but in a way that is useful and kind for the student.
+
+When Giving Feedback:
+* Start with student strengths
+   * Example: "You did a great job of explaining your approach to making the project successful by using very specific examples and creating a sequence of events that was very clear and straightforward."
+* Then highlight questions they should continue to work on/revise and what they could do to improve their answers
+   * Example: "When you responded to the question about an area of growth, your answer was not very direct, and it left me wondering about your ability to assess yourself. I would recommend creating a list of coaching feedback you've received to decide on an exact area of growth. Then decide on some actionable steps you would take to achieve that growth. Think through the growth process in order to more fully answer that question."
+* Consider cultural difference and norms
+   * Example: "Eye contact is generally important in most US companies. Can you try to give more eye contact for your interview?"
 
 ### Bank of Questions to Ask Students
 * Tell me about yourself. Why do you want to be a software developer?
