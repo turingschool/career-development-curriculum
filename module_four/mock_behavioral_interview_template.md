@@ -4,9 +4,16 @@
 
 1. Plan for the mock interview to take about 30 minutes with 15-20 minutes for the interview and 10-15 minutes for feedback
 2. Select 6-8 questions from the bank below. End the interview by asking "What questions do you have for me?" and encourage students to ask 2-3 questions that they would bring up in an interview.
-3. Take detailed notes to share with the student. Here is a rubric to use to assess their answers:
-
-* STAR Method:
+3. Take detailed notes to share with the student. Here are examples of notes to share with the student:
+    * Body language & Non-verbal communication
+    * Clarity of language & ability to answer the question being asked
+    * Tone of voice
+    * Use of the STAR Method:
+        * Description of a specific Situation
+        * Description of a Task or Target 
+        * Description of Action taken to achieve said task/target
+        * Description of Results
+    * Questions asked by the student
 
 ### Bank of Questions to Ask Students
 * Tell me about yourself. Why do you want to be a software developer?
