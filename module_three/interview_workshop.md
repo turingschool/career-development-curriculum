@@ -49,6 +49,33 @@ What have you learned about yourself that you can pull from in these answers?
 * Connect to feedback you’ve gotten from partners -- how have you used this feedback to grow?
 * Connect to prior experience / values / reflections
 
+#### Interview Prep Tips
+When answering an interview question, keep the acronym [STAR](https://en.wikipedia.org/wiki/Situation,_task,_action,_result) in mind:
+
+* **Situation:** The interviewer wants you to present a recent challenge and situation in which you found yourself.
+* **Task:** What were you required to achieve? The interviewer will be looking to see what you were trying to achieve from the situation. Some performance development methods use “Target” rather than “Task”. Job interview candidates who describe a “Target” they set themselves instead of an externally imposed “Task” emphasize their own intrinsic motivation to perform and to develop their performance.
+* **Action:** What did you do? The interviewer will be looking for information on what you did, why you did it, and what the alternatives were.
+* **Results:** What was the outcome of your actions? What did you achieve through your actions and did you meet your objectives? What did you learn from this experience and have you used this learning since?
+
+**Other Tips:**
+* Create a doc to keep track of technical concepts you're practicing, behavioral answers, and feedback
+* Review:
+  * Your professional story
+  * Feedback you've received
+  * Your projects; Go through your projects to reflect on:
+    * One specific bug
+    * Something that was really hard
+    * Something that was rewarding
+    * Any interesting struggles/insights about the collaboration process 
+  * Your Flower Exercise
+  * Your strengths
+  * Your areas of growth
+  * DTR Memos
+  * Retro notes
+  * Eval notes
+* Utilize your resources:
+  * [Interview Prep Resources](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/interview_prep_resources.md)
+
 #### Demo
 As a class, talk through the following question and think about how you could answer it:
 
