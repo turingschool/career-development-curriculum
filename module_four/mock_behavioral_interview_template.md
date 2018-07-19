@@ -3,9 +3,10 @@
 ## Directions for Interviewers
 
 1. Plan for the mock interview to take about 30 minutes with 15-20 minutes for the interview and 10-15 minutes for feedback
-2. Select 6-8 questions from the bank below.
-3. Take detailed notes to share with the student, including
-  * 
+2. Select 6-8 questions from the bank below. End the interview by asking "What questions do you have for me?" and encourage students to ask 2-3 questions that they would bring up in an interview.
+3. Take detailed notes to share with the student. Here is a rubric to use to assess their answers:
+
+* STAR Method:
 
 ### Bank of Questions to Ask Students
 * Tell me about yourself. Why do you want to be a software developer?
@@ -33,5 +34,5 @@
 * Explain one of the most difficult code problems you’ve had to solve, either on your own authored code, or in contributing to someone else’s.
 * Describe a time when you received feedback that you were surprised by. What did you do with that feedback?
 
-### Potential Questions for Students to Ask Employers
-In the mock interview, 
+### Questions from Students
+In the mock interview, end the interview portion by asking **"What questions do you have for me?"** to push students to ask questions of the interviewer. Here is a [thorough list of potential questions](https://github.com/yangshun/tech-interview-handbook/blob/master/non-technical/questions-to-ask.md) they should become comfortable with asking.
