@@ -55,4 +55,5 @@ Below you can find lots of resources to help you prepare for both components.
   * Ellen Mary Hickmann: Available on Tuesdays at lunch. DM her to confirm @emhickmann
 
 ### Other Resources
-
+* [Tips for Body Language and Psychological Awareness](https://github.com/yangshun/tech-interview-handbook/blob/master/non-technical/psychological-tricks.md)
+* [Questions to Ask the Interviewer](https://github.com/yangshun/tech-interview-handbook/blob/master/non-technical/questions-to-ask.md)
