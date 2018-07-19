@@ -17,6 +17,12 @@ Time: 60 mins
 ### Kick-Off
 You've done the groundwork to prepare for your job search: refining your story, crafting your resume, building your portfolio. Now is the time to put all of these things into motion and talk about why you're the right person for the job. We started some practice on this last mod, and today, we're going to continue that practice in an informal interview workshop.
 
+**Objectives:**
+* Add to your interview preparation process
+* Practice answering common behavioral interview questions
+* Provide effective feedback for each other on responses
+* Decide on an action step for how to improve your interview process
+
 #### Interview Prep Tips
 When answering an interview question, keep the acronym [STAR](https://en.wikipedia.org/wiki/Situation,_task,_action,_result) in mind:
 
