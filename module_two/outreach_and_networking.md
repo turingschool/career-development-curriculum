@@ -287,6 +287,25 @@ There are ways to network without even leaving the comfort of your computer scre
 * Blogging
 * Open Source contributions -- connect with people by showing your work!
 
+* [The Best Way to Use Social Media for Your Job Search](http://www.forbes.com/sites/trudysteinfeld/2012/09/28/the-best-ways-to-use-social-media-in-your-job-search/)
+* [Twitter 101: A Tutorial for the Timid](https://www.themuse.com/advice/twitter-101-a-tutorial-for-the-timid)
+* [How to Not Suck at Twitter](https://www.themuse.com/advice/how-not-to-suck-at-twitter)
+* [5 Better Ways to Network on Twitter and LinkedIn](https://www.themuse.com/advice/5-better-ways-to-network-on-twitter-linkedin)
+
+#### Networking Groups
+Here is a non-exhaustive list of tech networking groups that you can get involved in as you build your network:
+
+* [BeVisible](https://www.bevisible.soy/) is a career network for Latinxs.
+* [Black Data Processing Associates](https://www.bdpa.org/default.aspx) is an international organization for Black professionals in tech. 
+* [CodeNewbie](https://www.codenewbie.org/) is a community for newcomers to code.
+* [Lesbians Who Tech](https://lesbianswhotech.org/) is a career network for lesbians. 
+* [MAES](http://mymaes.org/) was founded in Los Angeles in 1974 to increase the number of Mexican Americans and other Hispanics in the technical and scientific fields. 
+* [National Society of Black Engineers](http://www.nsbe.org/home.aspx) is one of the largest student-governed organizations with the aim to increase the number of culturally responsible Black Engineers.
+* [Out in Tech](https://outintech.com/#welcome) is a community to connect LGBTQ+ in tech. 
+* [TechLatino](http://techlatino.org/) is an organization to empower Latino technological and scientific engagement.
+* [Tech Ladies](https://www.hiretechladies.com/) is a community for women and non-binary folks. You have to apply to join, but once accepted, you'll have access to jobs from partnering companies.
+* [Trans Tech Social Enterprises](https://www.transtechsocial.org/) is an incubator for LGBTQ Talent with a focus on economically empowering transgender people. 
+
 ### Choose Your Own Adventure: Create a Networking Plan
 Spend 10 minutes deciding what networking will look like for you in your job search:
 
