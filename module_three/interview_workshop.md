@@ -6,7 +6,7 @@ Session Time: 60 minutes
 [Slides for this lesson](https://docs.google.com/presentation/d/1ncfDn8PO3bRTwZbNPU01w0kbHGvofLjupUzYBQZ_IVI/edit?usp=sharing)
 
 Structure:
-* Opening & Demo & Find partners (10 mins)
+* Opening & Demo & Find partners (15 mins)
 * Individual Prep for Question #1 (5 mins)
 * Partners/Small Groups Feedback Loop #1 (10 mins)
 * Individual Prep for Question #2 (5 mins)
@@ -77,7 +77,7 @@ When answering an interview question, keep the acronym [STAR](https://en.wikiped
   * [Interview Prep Resources](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/interview_prep_resources.md)
 
 #### Demo
-As a class, talk through the following question and think about how you could answer it:
+As a class, talk through the following questionS and think about how you could answer it:
 
 **What makes you stand out compared to other junior developers?**
 
@@ -85,6 +85,13 @@ Consider:
 * What is this question asking you to do?
 * What are the components that go into answering this question?
 * What background knowledge about yourself could you bring in here?
+* Anything else to keep in mind when answering this question?
+
+**Tell me about a time you had a disagreement with a colleague and how you resolved it.**
+
+* What is this question asking you to do?
+* What are the components that go into answering this question?
+* Use the STAR method
 * Anything else to keep in mind when answering this question?
 
 ### Transition
@@ -102,6 +109,8 @@ Step 3: Discuss how you will incorporate the feedback to improve your answer.
 
 ### Prep for Mod 4
 Using the practice from today, think about your job search that starts next mod, and fill out the survey for Module 4 PD Peer Groups.
+
+Check out these [interview prep resources for both technical and behavioral interview help](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/interview_prep_resources.md)
 
 ### Closing
 Create a plan to get your resume and Turing portfolio finished by next week's portfolio review. 
