@@ -59,6 +59,7 @@ When answering an interview question, keep the acronym [STAR](https://en.wikiped
 
 **Other Tips:**
 * Create a doc to keep track of technical concepts you're practicing, behavioral answers, and feedback
+  * [Here's an example](https://docs.google.com/spreadsheets/d/1z7XWfzXbJ8cesfworkSfWsW6dzKjbYG1WBnr5oe4Dck/edit?usp=sharing)
 * Review:
   * Your professional story
   * Feedback you've received
