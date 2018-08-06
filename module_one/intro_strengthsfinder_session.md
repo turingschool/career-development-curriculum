@@ -161,49 +161,6 @@ Allison will model how she would reflect on her results:
   
 **Whole Group Debrief:** How did it feel to talk about yourself? Volunteers discuss what their strengths mean and how they've seen themselves using them. 
 
-## Application: Prepare for your mentor introductions
-This will be your first opportunity to create a professional relationship in the industry. Think about how your strengths can help you create an effective relationship with your mentor.
-
-What does an effective mentor-mentee relationship look like? Your mentor is here for help and advice, but you should figure out a balance of when you turn to your mentor for help and how you can make sure that you're still able to find tools on your own. 
-
-Examples:
-* The **Achiever** strength is about working hard and accomplishing a lot during a given day. If this is a strength of mine, how can I use this to structure my time with my mentor? How can my mentor help me knowing this strength about me?
-* The **Futuristic** strength has a lot to do with longterm planning and imagining the "what ifs." If this is a strength of mine, how can I use this when communicating with my mentor? How can my mentor help me knowing this strength about me?
-* The **Learner** strengths is about learning for the sake of learning. People with this strength are innately curious. If this is a strength of mine, how can I communicate my needs when meeting with a mentor? How can my mentor help me knowing this strength about me?
-
-The more you cultivate self-awareness, the more you'll be able to talk about yourself in a comfortable and confident way. Use this relationship as a way to practice some of those storytelling skills.
-
-Now, craft your introductory message your mentor. This is your first opportunity to practice some cold outreach practices, something that we'll discuss in subsequent sessions. But what makes this easy is that it's not really cold outreach at all so the risk feels lower! 
-
-Purpose of your message:
-* Introduce yourself -- what do you want your mentor to know about you? 
-* Set some initial expectations of what you'd like to talk about in your first meeting
-* Provide a call to action -- what should your mentor do based on this message?
-
-Example: 
-
-    Hi Samira,
-
-    I just started in the Front End program at Turing, and I'm excited to be your mentee! I came to 
-    Turing because I wanted to learn more about how to create beautiful websites. I am a very 
-    creative person and like to create big picture visions for my work. When I think about this 
-    module, I could use some support on executing the day-to-day parts of a project. I'd love to 
-    hear any advice you have for me on how to stay organized in that regard. 
-    
-    Like you, I'm originally from Chicago and hope to move back there after I graduate. I'd also love 
-    to discuss the tech scene there with you and any advice you have for my job search. 
-    
-    I saw on the mentor schedule that you are available Wednesdays at 5pm -- are you free next 
-    Wednesday the 28th? If that date/time doesn't work, please let me know a time that's better 
-    for you. 
-
-    Thanks,
-    Gaby Martinez
-
-What do you notice about this example? What is effective? What might you do differently?  
-
-You Do: Spend 5 minutes now crafting your message to your mentor. You will probably add to it once you know who your mentor is, including information you learn about them from the spreadsheet, but creating a template will help you get started. 
-
 ## Further Reflection
 Using the other two reports, take time to individually reflect on the results and begin to make both short-term and longterm goals for both Turing and your new career path using your strengths. Answer the rest of the questions on the [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/strengths_reflection_guidelines.md) in your own gist. 
   
