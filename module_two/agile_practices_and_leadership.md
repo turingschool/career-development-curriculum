@@ -102,6 +102,12 @@ In this session we'll take a quick overview of "Waterfall," "Agile," how to begi
 #### Agile in the Real World
 
 * GitHub's story
+* Digg.com
+  * Google tried to buy them for $200M in 2008
+  * After a failed launch of their new web site in 2010 (with little/no feedback loop), by the time 2012 rolled around:
+  * LinkedIn bought some of their patents for about $4M
+  * Washinton Post paid about $12M to hire the entire Digg team of employees
+  * The digg.com domain name, code and data, was sold to BetaWorks for $500,000
 * Eric Ries' "The Lean Startup"
 * [Agile Manifesto](http://agilemanifesto.org/), written in 2001 and has its merits and its flaws
  
