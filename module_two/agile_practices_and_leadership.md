@@ -221,11 +221,12 @@ Now that you understand these leadership styles look like, let's discuss how the
 * Storming
 * Norming
 * Performing
+* Adjourning
 * [Reference this handout](https://salvos.org.au/scribe/sites/2020/files/Resources/Transitions/HANDOUT_-_Tuckmans_Team_Development_Model.pdf)
 * [Optional Video for more Information](https://www.youtube.com/watch?v=OhSI6oBQmQA&list=PLbu6naAjG_K93h0wjyn1b1EHQl1Q2pH_y)
 
 **Whole Group Discussion:**
-* How do each of these phases build on each other?
+* Why are each of these phases important? How do each of these phases build on each other?
 * How can a team move past the storming phase into the norming phase?
 * How does this cycle relate to agile systems?
 
