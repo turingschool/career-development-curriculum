@@ -8,10 +8,10 @@ Pre-work: Students should come to this session with a job posting to apply to.
 
 Timeline: 2 hours
 
-* Intro: discuss what should and should not go in a cover letter, look at templates for layouts, answer general questions (20 mins)
-* We Do: Find a job posting and as a group, write a cover letter for it (20 mins)
+* Opening & Review of Cover Letters (20 mins)
+* We Do: (20 mins)
 * Workshop: Students write a cover letter for a job posting (20 mins)
-* Round of feedback -- if group is large, break into smaller groups; 5 mins on each cover letter, max. 8 people per group (40 mins)
+* Round of feedback (40 mins)
 * Revision time/Send in the applications (10 mins)
 * Debrief/Q & A
 
@@ -26,7 +26,7 @@ In this session, students will be able to:
 ### Do's & Don't's of a Cover Letter
 **Hook:** When you talk to someone that you want to be friends with, what kind of information do you share about yourself? What kind of impression do you want them to have? Your cover letter should provide that same impression. 
 
-
+discuss what should and should not go in a cover letter, look at templates for layouts, answer general questions
 
 
 ### We Do
