@@ -1,6 +1,6 @@
 # Cover Letter Workshop
 
-Pre-work: Students should come to this session with a job posting to apply to.
+Pre-work: Participants should come to this session with a job posting to apply to.
 
 [Slides for this Session](https://docs.google.com/presentation/d/1gr5kqncOEohAaWbbPQ1Oq4AMBH60JKKiWZtQU3qBk5U/edit?usp=sharing)
 
@@ -9,14 +9,14 @@ Pre-work: Students should come to this session with a job posting to apply to.
 Timeline: 2 hours
 
 * Opening & Review of Cover Letters (20 mins)
-* We Do: (20 mins)
-* Workshop: Students write a cover letter for a job posting (20 mins)
+* We Do (20 mins)
+* Workshop: You Do (20 mins)
 * Round of feedback (40 mins)
 * Revision time/Send in the applications (10 mins)
 * Debrief/Q & A
 
 ### Opening & Objectives
-In this session, students will be able to:
+In this session, participants will be able to:
 
 * Understand what should (and should not) go in a cover letter
 * Practice writing cover letters
