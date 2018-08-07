@@ -28,6 +28,7 @@ In this session, students will be able to:
 
 
 
+
 ### We Do
 As a whole group, we'll find a job posting and write a cover letter together. 
 
