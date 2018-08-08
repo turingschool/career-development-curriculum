@@ -13,7 +13,7 @@ Timeline: 2 hours
 * Workshop: You Do (20 mins)
 * Round of feedback (40 mins)
 * Revision time/Send in the applications (10 mins)
-* Debrief/Q & A
+* Debrief/Q & A (5-10 mins)
 
 ### Opening & Objectives
 In this session, participants will be able to:
@@ -43,7 +43,7 @@ Here are some things to keep in mind when writing a cover letter:
       * How can you apply your background and skills to make great experiences for the company's users/customers? What can you leave them with that will make them want to contact you?
       * Include information about your availability for interviews and/or references if applicable
       
-That being said, this template is more like an outline to keep in mind when structuring your thoughts. This not a hard and fast rule. The most important thing is that the cover letter has your unique voice and does not come across like a generic copy. Furthermore, the cover letter should be a good balance between assertively selling yourself and keeping the company and its goals at the forefront. 
+That being said, this template is more like an outline to keep in mind when structuring your thoughts. **The most important thing is that the cover letter has your unique voice and does not come across like a generic copy.** Furthermore, the cover letter should be a good balance between assertively selling yourself and keeping the company and its goals at the forefront. 
 
 ### We Do
 As a whole group, we'll find a job posting and write a cover letter together. We'll discuss:
@@ -54,12 +54,12 @@ As a whole group, we'll find a job posting and write a cover letter together. We
 * How can we use our professional story here?
 
 ### Workshop Time
-Participants write a cover letter for the job posting that they brought with them to the session. 
+Participants write a cover letter for the job posting that they brought with them to the session or continue refining a cover letter they've brought.  
 
 ### Round of Feedback
 Each participant will get 5 minutes to spend on their cover letter to get feedback from the group. Feedback should be **specific, actionable, and kind** and include both **appreciation and coaching.** 
 
-For larger groups, participants can be broken up in smaller groups, with a max of 8 people per group.
+For larger groups, participants can be broken up into multiple smaller groups, with a max of 8 people per group.
 
 ### Revision Time
 Use the next 10 minutes to revise your cover letter according to feedback you received and then send in your application.
