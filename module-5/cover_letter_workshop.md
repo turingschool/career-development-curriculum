@@ -1,6 +1,6 @@
 # Cover Letter Workshop
 
-Pre-work: Participants should come to this session with a job posting to apply to.
+Pre-work: Participants should come to this session with a job posting to apply to or a cover letter they've been working on.
 
 [Slides for this Session](https://docs.google.com/presentation/d/1gr5kqncOEohAaWbbPQ1Oq4AMBH60JKKiWZtQU3qBk5U/edit?usp=sharing)
 
