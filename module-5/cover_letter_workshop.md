@@ -24,7 +24,7 @@ In this session, participants will be able to:
 * Implement changes and new learnings into a cover letter draft in order to submit it
 
 ### Do's & Don't's of a Cover Letter
-**Hook:** When you talk to someone that you want to be friends with, what kind of information do you share about yourself? What kind of impression do you want them to have? Your cover letter should provide that same impression. 
+**Hook:** When you talk to someone that you want to be friends with, what kind of impression do you want them to have? Your cover letter should provide that same impression. 
 
 Here are some things to keep in mind when writing a cover letter:
 
