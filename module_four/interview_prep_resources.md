@@ -52,7 +52,7 @@ Below you can find lots of resources to help you prepare for both components.
 * What made you switch from your prior career into programming? 
 * Describe to me the steps you would take to build out a product.
 * Tell me how you solve a problem.
-* Describe your background. How did you get to where you are now? What was your previous career field. What did you like about it? What didn’t you like about it? Why coding? 
+* Describe your background. How did you get to where you are now? What was your previous career field? What did you like about it? What didn’t you like about it? Why coding? 
 * Describe your time at Turing. What worked for you? What didn’t work for you? What was the structure of the program?
 * Describe your teamwork experience in a coding environment. How big of a team did you work with?
 * A lot of this job will be full-stack. Your experience is largely ____ (Back End, Front End). How do you feel like you’d be able to contribute to the team with only that experience? How comfortable are you with getting uncomfortable with a new language?
