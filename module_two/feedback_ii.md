@@ -124,7 +124,7 @@ Nonviolent Communication instead integrates:
 * Consciousness: empathy and awareness
 * Language: to either create connection or distance
 * Communication: knowing to how to ask and how to listen
-* Means of Influence: shoaring "power" rather than using "power"
+* Means of Influence: sharing "power" rather than using "power"
 
 NVC Framework follows these steps:
 
