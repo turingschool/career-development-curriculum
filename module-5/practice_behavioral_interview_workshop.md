@@ -1,6 +1,6 @@
 # Practice Behavioral Interview Workshop
 
-Need Slides
+[Slides](https://docs.google.com/presentation/d/1OgKR2tBd3E-Sd6B1lpmJYr5Dx1LdFR_YzGQttKHZj64/edit?usp=sharing)
 
 ### Opening
 Today, we're going to talk about preparing for the behavioral interview, looking specifically at these common questions:
