@@ -2,6 +2,16 @@
 
 [Slides for this session](https://docs.google.com/presentation/d/1wWS8PyV8lNsEIznJ78Kk08IDTHUHApfeVikANJEBvn8/edit?usp=sharing)
 
+Edits:
+* Redefining outreach: why you reach out to someone and when; both related to an open position and not; knowing who to make asks of -- defining your goals, values, purpose first
+* Questions to ask yourself:
+  * Is this the right person (for my purpose)?
+  * Am I being clear on what my ask is?
+  * What can I bring to this conversation (go back to what's already listed here in the session)
+  
+  
+
+
 ### Session Structure
 
 Time: 60 minutes
