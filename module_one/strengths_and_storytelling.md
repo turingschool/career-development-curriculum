@@ -1,3 +1,24 @@
+Topics:
+* Hook: (5 mins)
+    * Tell a story again?
+* Importance of storytelling (build connection in communities, at Turing, in job search/career -- show glimpse of longterm objectives here, and then go back to where we're starting by connecting with others to become more self-aware, more empathetic, better pair programmers, etc.) (10 mins)
+* Parts of a story (Brene brown, diagram) (10 mins)
+    * Elements
+    * Pixar
+    * You as a character: 3 guiding questions
+* Share staff stories/stories of others in the tech industry (15 mins, then 5 for share out)
+    * Group discussion (what helped this person overcome this, etc.)
+* Pom (5 mins)
+* Choose your own adventure with storytelling tools (10-15 mins)
+    * Life maps
+    * Story plot diagrams
+    * 
+* Sharing what you came up with (to the extent that you're comfortable) in group discussion:
+    * What do you want people to know about you?
+    * Etc
+* Whole Group Share-Out and Takeaways
+
+
 # Strengths & Storytelling
 ## Connecting Through Personal Stories
 
