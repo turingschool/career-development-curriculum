@@ -1,4 +1,4 @@
-# Strengths & Storytelling Reflection 
+# Storytelling Reflection 
 
 1. Describe your 3-act arc by answering these three questions in 1-2 paragraphs: 
 * **Who are you:** Consider describing:
