@@ -19,7 +19,7 @@ Here's the breakdown of expectations for repeating the module:
     * [Working Styles](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/working_styles.md)
     * [Learning to Pair](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/learning_to_pair.md)
     * [Feedback I](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/feedback_i.md)
-    * [Strengths & Storytelling](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/strengths_and_storytelling.md)
+    * [Storytelling I](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/storytelling_i.md)
     * [Developer Identity](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/developer_identity.md)
 * You **are required** to attend all Gear Up sessions, and you are encouraged to take on a leadership/facilitator role in group discussions.
     * Week 1: [Mental Health & Wellness](https://github.com/turingschool/gear-up/blob/master/Mod1_Week1_mental_health_101.md)
