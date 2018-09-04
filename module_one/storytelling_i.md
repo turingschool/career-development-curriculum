@@ -1,22 +1,3 @@
-
-* Importance of storytelling (build connection in communities, at Turing, in job search/career -- show glimpse of longterm objectives here, and then go back to where we're starting by connecting with others to become more self-aware, more empathetic, better pair programmers, etc.) (10 mins)
-* Parts of a story (Brene brown, diagram) (10 mins)
-    * Elements
-    * Pixar
-    * You as a character: 3 guiding questions
-* Share staff stories/stories of others in the tech industry (15 mins, then 5 for share out)
-    * Group discussion (what helped this person overcome this, etc.)
-* Pom (5 mins)
-* Choose your own adventure with storytelling tools (10-15 mins)
-    * Life maps
-    * Story plot diagrams
-    * 
-* Sharing what you came up with (to the extent that you're comfortable) in group discussion:
-    * What do you want people to know about you?
-    * Etc
-* Whole Group Share-Out and Takeaways
-
-
 # Storytelling I
 ## Connecting Through Personal Stories
 
@@ -39,13 +20,11 @@ Length: 85 mins
 
 #### Objectives
 * Understand the value of storytelling in both professional and personal relationship-building contexts
-
 * Reflect on and share what brought you to Turing and how you uniquely add to the software industry
-* Use your StrengthsFinder themes to help you describe your Turing story
 * Practice sharing stories to better understand each other and build our storytelling skills
 
 #### Deliverables
-* Complete the [Strengths & Storytelling Reflection](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/strengths_storytelling_reflection.md) for your M1 PD deliverables
+* Complete the [Strengths & Storytelling Reflection](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/storytelling_reflection.md) for your M1 PD deliverables
 
 #### The Why: Why Telling Your Story is Important
 Stories are how we connect with each other. From fairy tales to novels to movies to podcasts, stories provide a way for people to share their experiences with others, building empathy and awareness of our universal experiences.
@@ -77,6 +56,20 @@ Possible answers: consistent theme, protagonist who faces and overcomes challeng
 
 When it comes to character, what does it mean to be the hero of the story? What are the typical characteristics of a hero? 
 
+**More Lessons from Pixar (and Joseph Campbell):**
+Most stories follow the 3-Act Arc:
+* Act I (Set-Up)
+   * Call to adventure and accepts
+   * Rules of the world are established
+   * Inciting Incident
+* Act II (Struggle)
+   * Looking for ways to solve the problem
+   * Learning what it will take to actually solve problem
+   * Crisis/“Lowest of the low”
+* Act III (Finale)
+   * Show what’s been learned
+   * Protagonist is changed
+
 **Connection to You:**
 These elements are present in your story as well. You are the main character, the hero, undergoing challenges, experiencing a journey, and revealing the narrative thread through your own theme.
 
@@ -84,20 +77,6 @@ There are 3 main questions to help us understand our own stories and our charact
 * Who are you?
 * Why are you here?
 * What's next?
-
-We'll start building our stories by connecting with ourselves through these 3 questions to describe:
-* Our backstories
-* Our current struggles and successes -- *a turning point*
-* Our futures
-
-### Backstories: Who Are You?  
-Where have you come from? What lenses do you view the world through? We'll answer these questions through life maps.
-
-**I Do:** Facilitator shows off their life map to demonstrate how to outline one's backstory. Note: this is an opportunity to share information about your backstory and how your highs and lows have shaped your pathway here.
-
-**You Do:** Students spend 10 minutes creating their life maps using the paper and markers provided. 
-
-### Pomodoro Break
 
 ### Discussion #1: Stories from Staff
 More rules from Emma Coats:
@@ -110,7 +89,7 @@ This is because we root for a character to overcome struggles and adversity. As 
 
 Let's here from some Turing staff on this aspect of their stories:
 
-* Jeff's story of struggle:
+* Jeff's story: 
       
       I remember really struggling when I first started learning about functional programming. At that point I had been 
       writing code for 15 years. I started to see that the anxiety about not "getting it" was actually preventing me from 
@@ -118,11 +97,16 @@ Let's here from some Turing staff on this aspect of their stories:
       from the web or a book or whatever, and just type that out and make it run. Then I start tweaking things. What if I 
       rearrange two lines, change some numbers or values, that kind of thing. I think of it as "pulling on" the code, seeing 
       how it flexes and changes. Then I delete a chunk of the code and try to write it myself.
-   * What is the challenge here?
-   * How did he overcome it?
-   * How does this help you understand Jeff more?
+      
+      I think one of my strengths in life and programming is a willingness to experiment. I prefer to move quickly and learn, even if it means making mistakes, rather than sitting and planning. When you're planning you're working with the information you have right now. When you experiment you have the opportunity to gain new perspective/data.
 
-* Victoria's description of her journey:
+* Ian's story:
+
+      Even as a kid I always loved to teach other people things I knew. In high school, I tried to teach a friend how to play piano. In college, I tutored math and programming. After graduation, everything I ever learned about coding I would find someone to teach what I'd just taught. I've been very driven with a desire to help people grow and helping with programming ideas has been extremely fulfilling.
+
+      I'm a big fan of Linux, especially the Ubuntu ("uh-BOON-too") distribution. "Ubuntu" is part of a South African phrase about humanity that means "I am what I am because of who we all are." From that, I formed my own catchphrase to encourage sharing knowledge with one another: "Share what you know, we all win." Sharing knowledge is not a zero-sum game (where only one person has all the things in the end); it's a community-driven idea that exists back throughout all of human history of bettering ourselves through shared experiences.
+
+* Victoria's story: 
     
       I view the world through the lens of growing up in a lower-middle-class children-of-immigrants family (my parents' 
       parents' all fled Lithuania during World War II). Sometimes my parents would speak Lithuanian to keep us from hearing &
@@ -139,36 +123,32 @@ Let's here from some Turing staff on this aspect of their stories:
       debts and eventually sponsor interesting opportunities for friends and loved ones. I really hope to eventually implement
       my newly-gained developer skills in tools for farmers, games for scientific education and resources to enhance political
       memory.
-   * How would you describe Victoria as a character in this story? How do you know?
-   * What character arc is developing here?
-   * How does this help you understand Victoria more?
 
-In order to tell the arc of our characterization at Turing, we need to be able to also own what we're good at and the successes that we have. One of the best ways to do that is to recognize our strengths, and luckily, StrengthsFinder has done some of that work for us. Now we need to actually own those strengths in action. 
+**Discussion Questions:**
+* What are the “acts” that you can see in this story?
+* What did you learn about this person? How would you describe their character?
+* What elements are present in this story? 
+* How could this story be used to connect with others when building personal and professional relationships?
 
-**I Do:** Facilitator models a reflection on one of their StrengthsFinder strengths to discuss how it's helped them overcome a challenge.
+### Pomodoro Break
 
-**Small Group Discussions:** In groups of 4, share the following:
+### Choose Your Own Adventure: Developing Your Story
+Using one (or more) of these storytelling tools, begin crafting your story:
+* Life maps
+* Story plot diagrams
+* Vision statement
+* Character study of yourself using StrengthsFinder
 
-* What is a struggle you’ve had at Turing so far? How have you managed it?
-* What are your StrengthsFinder strengths?
-* How have you seen yourself use these strengths at Turing?
-* How can you use your strengths to help you overcome future struggles?
+### Discussion #2 
+Get into new groups of 4 to share your stories. Practice answering these questions:
+* Who are you?
+   * What is your journey/perspective/character?
+* Why are you here? 
+   * How are you learning and growing through the struggle?
+* What’s next?
+   * What’s your place in the tech industry?
 
-**Whole Group Debrief:**
-* What is a struggle that your group discussed? How does this help you relate to/understand that person more?
-
-### Future Vision: What's Next?
-**Small Group Discussion:** 
-
-* When you think of influential people in tech (aka our "heroes"), who do you think of? What do we know about their stories? How do your stories overlap with theirs?
-* How can we start to create new heroes? How can *you* become a hero in the tech industry -- how will you lend your perspective and become a role model for someone who is like you? For someone who is different from you?  
-* Think back to why you applied to Turing; what dreams do you envision for yourself? Where does your Turing story end?
-* Let's make these dreams a reality by creating a vision statement. This statement should utilize the first person ("I will...") and include concrete details to fully express where you want to go. 
- 
-*Everyone in the group will write their own vision statement to share out.*
-
-### Partner Share
-Students will get into partners to share summaries of their personal stories. 
+*Share only what you’re comfortable sharing* 
 
 ### Closing: Whole Group Takeaways
 
@@ -179,7 +159,7 @@ Students will get into partners to share summaries of their personal stories.
 #### Next Steps
 It's important to remember that each of these pieces of your story is a draft. You're continuing to grow and learn, and thus your story will change. But this is about starting with our first draft and getting better at refining it as we go through the program. 
 
-**Right Now:** Finish your [reflection](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/strengths_storytelling_reflection.md) using what you worked on in this session for your deliverable due Monday of Week 6. 
+**Right Now:** Finish your [reflection](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/storytelling_reflection.md) using what you worked on in this session for your deliverable due Monday of Week 6. 
 
 **Looking Ahead:** 
 * Module Two: Dive more deeply into your *professional* story
