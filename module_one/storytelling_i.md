@@ -1,6 +1,4 @@
-Topics:
-* Hook: (5 mins)
-    * Tell a story again?
+
 * Importance of storytelling (build connection in communities, at Turing, in job search/career -- show glimpse of longterm objectives here, and then go back to where we're starting by connecting with others to become more self-aware, more empathetic, better pair programmers, etc.) (10 mins)
 * Parts of a story (Brene brown, diagram) (10 mins)
     * Elements
@@ -19,29 +17,29 @@ Topics:
 * Whole Group Share-Out and Takeaways
 
 
-# Strengths & Storytelling
+# Storytelling I
 ## Connecting Through Personal Stories
 
 [Slides for this session](https://docs.google.com/presentation/d/15tibaEz4FVKstwwJ1USsQCZOALCcRMe5KIRbWgcGCoc/edit?usp=sharing)
 
 ### Session Structure
 
-Length: 90 mins
+Length: 85 mins
 
 * Opening (5 mins)
 * Turn & Talk (5 mins)
-* Discussion of storytelling elements (5 mins)
-* Backstories: who are you? (15 mins)
+* Discussion of storytelling (10 mins)
+* Discussion #1: Staff stories (15 mins)
 * Pomodoro Break (5 mins)
-* Current struggles and successes: why are you here? (20 mins)
-* Futures: what's next? (15 mins)
-* Partner Storytelling (10 mins)
+* Choose Your Adventure: Story Work Time (15 mins)
+* Discussion #2: Sharing Your Story (20 mins)
 * Closing: Whole Group Takeaways (10 min)
 
 ### Opening 
 
 #### Objectives
 * Understand the value of storytelling in both professional and personal relationship-building contexts
+
 * Reflect on and share what brought you to Turing and how you uniquely add to the software industry
 * Use your StrengthsFinder themes to help you describe your Turing story
 * Practice sharing stories to better understand each other and build our storytelling skills
@@ -101,9 +99,7 @@ Where have you come from? What lenses do you view the world through? We'll answe
 
 ### Pomodoro Break
 
-### Current Struggles and Successes: Why Are You Here?
-In this stage of storytelling, let's examine our struggles, our identifying characteristics, and our successes. 
-
+### Discussion #1: Stories from Staff
 More rules from Emma Coats:
 
     What are the stakes? Give us reason to root for the character. What happens if they don’t succeed? Stack the odds against them.
