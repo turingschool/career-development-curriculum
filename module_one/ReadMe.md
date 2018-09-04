@@ -29,7 +29,7 @@ In order to fulfill the requirements of module one, students will submit these d
 
 * DTR Memo using [this template](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/dtr_guidelines_memo.md)
 * Feedback for each project partner (Submitted ongoing through surveys)
-* StrengthsFinder/storytelling reflection using [this template](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/strengths_storytelling_reflection.md)
+* Storytelling reflection using [this template](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/storytelling_reflection.md)
 * Create/Update LinkedIn, GitHub, Twitter, and Stack Overflow profiles and input them into Census
 
 You'll submit your DTR Memo and Storytelling reflection [here](https://goo.gl/forms/HILyYTTzy5eJWJyI3). Your profiles will be submitted by setting up your Census account, and your partner feedback will be submitted in the surveys you receive.
