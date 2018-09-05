@@ -6,7 +6,7 @@
 
 1. Individual Review (5-10 mins)
 * Sit on the righthand side of the room
-* Go through **[this checklist](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/resume_review_checklist.md)** to confirm that they've met the guidelines for their resume
+* Go through **[this checklist](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/resume_review_checklist.md)** to confirm that you've met the guidelines for your resume
 * If you are missing anything from the checklist, you need to update your resume until you have everything completed and before you can move to step #2. 
 * When are you ready for the peer review, move to the lefthand side of the room
 
