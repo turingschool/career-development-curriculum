@@ -4,7 +4,7 @@
 
 ### Directions for Students
 
-1. Individual Reflection (5-10 mins)
+1. Individual Review (5-10 mins)
 * Sit on the righthand side of the room
 * Go through **[this checklist](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/resume_review_checklist.md)** to confirm that they've met the guidelines for their resume
 * If you are missing anything from the checklist, you need to update your resume until you have everything completed and before you can move to step #2. 
