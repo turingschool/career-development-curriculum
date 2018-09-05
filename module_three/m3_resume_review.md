@@ -5,11 +5,13 @@
 ### Directions for Students
 
 1. Individual Reflection (5-10 mins)
+* Sit on the righthand side of the room
 * Go through **[this checklist](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/resume_review_checklist.md)** to confirm that they've met the guidelines for their resume
 * If you are missing anything from the checklist, you need to update your resume until you have everything completed and before you can move to step #2. 
+* When are you ready for the peer review, move to the lefthand side of the room
 
 2. Peer Review (10 mins)
-* Find a partner to share your resume with and provide each other feedback
+* Find a partner on the lefthand side of the room to share your resume with and provide each other feedback
 * Guiding questions for the review:
   * What is effective/stands out to you about this resume? 
   * Is the layout clean and interesting to look at?
