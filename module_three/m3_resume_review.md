@@ -5,7 +5,7 @@
 ### Directions for Students
 
 1. Individual Reflection (5-10 mins)
-* Go through [this checklist](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/resume_review_checklist.md)** to confirm that they've met the guidelines for their resume
+* Go through **[this checklist](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/resume_review_checklist.md)** to confirm that they've met the guidelines for their resume
 * If you are missing anything from the checklist, you need to update your resume until you have everything completed and before you can move to step #2. 
 
 2. Peer Review (10 mins)
@@ -32,7 +32,7 @@
 ### Directions for Reviewers
 When students come to you for their review, they should bring their completed checklist with them and any notes from their peer review to discuss how they've already updated their draft.
 
-* Use the [checklist]( to confirm that they've met the objectives of the layout
+* Use the [checklist](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/resume_review_checklist.md) to confirm that they've met the objectives of the layout
 * Provide any additional feedback as needed
 * If student needs to continue to update their draft, ensure they know what they're working on and how you want to review their next draft
 * **All students need to be checked off before they can leave the workshop**
