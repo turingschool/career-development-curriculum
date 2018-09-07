@@ -1,15 +1,17 @@
-Week 1: Staying Focused Now That You Don’t Live in the Basement
-Goals for session: 
-Transition to job-hunting life
-Help seekers stay motivated in the early days
-Re-explanation of Mod 5 curriculum and supports in place
+# Week 1: Staying Focused Now That You Don’t Live in the Basement
 
-Session flow:
-Stand up - current status of search
-Sunshine is cool, but jobs are cooler
-What the data says about the importance of momentum
-What fellow professionals say
-https://www.careercast.com/career-news/7-steps-re-start-your-job-search-momentum
+
+### Goals for session: 
+* Transition to job-hunting life
+* Help seekers stay motivated in the early days
+* Re-explanation of Mod 5 curriculum and supports in place
+
+### Session flow:
+* Stand up - current status of search
+* Sunshine is cool, but jobs are cooler
+    * What the data says about the importance of momentum
+    * What fellow professionals say:
+       * [7 Steps to Restart Your Job Search](https://www.careercast.com/career-news/7-steps-re-start-your-job-search-momentum)
 https://resources.onewire.com/job-seekers/10-tips-for-keeping-momentum-and-spirits-high-during-the-job-hunt/
 https://www.aerotek.com/en/insights/tips-for-maintaining-job-search-momentum-stay-motivated-in-your-job-search 
 How to fill the day
