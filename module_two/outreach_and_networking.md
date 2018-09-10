@@ -53,7 +53,7 @@ Why would you reach out to people in the industry? There are a number of reasons
 2. They work at a company you're interested in
 3. They work at a company you're interested in AND there's an open position there
 
-Today, we're going to focus on reason #1 to discuss the merits of general relationship-building, and in Mods 3 and 4, we'll discuss reasons #2 and #3 in regards to how you'd conduct that outreach a little differently.
+Today, we're going to focus on reason #1 to discuss the merits of general relationship-building since you're still in the stages of defining your identity as a software developer and figuring out where you want to go in this industry. In Mods 3 and 4, we'll discuss reasons #2 and #3 in regards to how you'd conduct that outreach a little differently.
 
 When it comes to general relationship-building, why are you meeting with this person? This is an informational interview. A time for you to get to know someone and learn from them. Here is what you can learn:
 
@@ -80,13 +80,6 @@ Who can you reach out to? How will you find these new connections? **Let's start
          * New people and new connections
     * What value you bring:
          * The same -- since you're a weak tie to them, you also have networks and information that is new to them. You're able to share this value equally. 
-* **Meetups:** These events bring together people with shared interests, which is a perfect place to start new relationships. 
-     * Why you should attend these:
-         * Meetups are a true mixture of people from different places in the industry -- from other new devs to seasoned programmers, you'll be able to meet people from all walks of life at a meetup to gain new perspectives and relationships
-     * What value they bring:
-         * A meetup's RSVP list is like a who's who of your new network. It's easy to use these to build an understanding of the people you want to connect with, and you'll end up seeing the same faces at each meetup, which makes it that much easier to capitalize on new relationships
-     * What value you bring:
-         * As a member of the local tech community, you bring fresh ideas and learning into a space that wants to foster just that. Consider giving a talk at a meetup -- you'll not only be able to practice your speaking skills, but you'll provide that meetup's community with a chance to learn from you. 
 * **Turing Network:** 
    * Turing Mentors: If you don't already have a mentor you meet with regularly, you should find one right now. Use the [mentor database](https://docs.google.com/spreadsheets/d/1oxsATOSIdRZ78-Bj3GQY2LkIp0OV_sCN6GJVjtUuCl0/edit?usp=sharing). 
       * Why you should reach out to them:
@@ -111,22 +104,14 @@ Who can you reach out to? How will you find these new connections? **Let's start
          
 For a more in-depth perspective on the network that you already have, check out Wharton professor and author of *Give and Take: A Revolutionary Approach to Success* Adam Grant's post [Finding the Hidden Value in Your Network](https://www.huffingtonpost.com/adam-grant/finding-the-hidden-value-_1_b_3458536.html)
 
+* **Cold Outreach:** 
+ * Who: People you have no previous connection with
+ * Why: Expand your network 
+ * What value they bring: Same as your warm contacts: advice, new network, etc.
+ * What value you bring: Introducing them to the Turing community
+
 #### How
-Now that you've identified the why and the who, let's think about *how* you can build these relationship:
-
-* Cold outreach: reaching out to contacts at companies you don't already have a connection with
-* Events: attending meetups, conferences, and participating in hackathons that aren't connected to Turing
-* Open Source: contribute to projects not affiliated with Turing
-
-Embracing outreach and networking will help you both in your initial job search after Turing and in your overall career
-
-#### Put the COLD in Cold Outreach
-When creating a completely new relationship, here are some tips:
-
-* Look outside of the Turing community and try to avoid companies where alums are working
-* Where are alumni already working? Here is a quick list (but not exhaustive) of companies that you should skip:
-
-8th Light, Active Network, AdHawk, Advantage Integrated, Agilion, Allstate, American Thrombosis and Hemotosis Network, Aurigae, Blue Apron, Bonobos, Brandfolder, CA Technologies, Captain U, CareZone, Cirro, Coders Workshop, Cognizant Quick Left, CustomInk, DHR.net, Democracy Works, Digital Ocean, DispatchHealth, Ello, Equal Opportunity Schools, FanDuel Inc, Gitlab, Glassbreakers, GoSpotCheck, Gramercy Tech, Granicus, Guild Education, Harry Fox Agency (aka SESAC/Rumblefish), Huron, Impekable, Influx Data, Inquicker, Inspirato, Instacart, Invoca, Kite, Muve Health, NextRequest, Optum, Oracle, Politech, Procore, Real Geeks, Rumblefish, Shopify, Splice, Stitch Fix, TEKSystems, Tack Mobile, Tendril, Trelora, United Health Group, Vermont Public Radio, Vulk Coop, Wazee Digital, WellMatch/Aetna, Welltok Inc, Western Union, Wombat Security, eGauge Systems, iCentris, iTrellis
+Now that you've identified the why and the who, let's think about *how* you can build these relationships:
 
 * Do some research: what do you know about the person you're contacting? 
    * Find out where their interests lie. Read their Medium blog posts, sign up for their newsletters, and check out their websites. Some other resources:
@@ -139,20 +124,9 @@ When creating a completely new relationship, here are some tips:
       * [AngelList](https://angel.co/)
       * [CrunchBase](https://www.crunchbase.com/#/home/index) 
 
-You need to understand your contact's goals as much as you want them to know yours.
+You need to understand your contact's goals as much as you want them to know yours. And now it's time to send a message:
 
-### Send the Message
-#### Finding Contact Info
-Now that you know who you want to connect with, there are many tools that can help you find contact information if you don't already have it. Check out these tools:
-
-* [Email Hunter](https://emailhunter.co/)
-* [Find That Lead](https://findthatlead.com/)
-* [Find That Email](https://findthat.email/)
-* [MatterMark](https://mattermark.com/)
-* [Skrapp.io](https://www.skrapp.io/)
-* [Quickmail.io](https://quickmail.io/)
-* GitHub
-* Personal website  
+### Sending the Message
 
 #### Crafting Your Email
 **Whole Group Discussion:** When you're reaching out to people, what is your purpose? Hint: it's not to ask for a job. 
@@ -221,6 +195,18 @@ Because you've researched your contact, you'll know if there are certain things 
 * Don't write a generic email (make sure to tailor it accordingly)
 * Don't tell your life story. That can come when you actually meet the person. Keep it short, sweet, and to the point
 * Utilize the subject line
+
+#### Finding Contact Info
+Now that you know who you want to connect with, there are many tools that can help you find contact information if you don't already have it. Check out these tools:
+
+* [Email Hunter](https://emailhunter.co/)
+* [Find That Lead](https://findthatlead.com/)
+* [Find That Email](https://findthat.email/)
+* [MatterMark](https://mattermark.com/)
+* [Skrapp.io](https://www.skrapp.io/)
+* [Quickmail.io](https://quickmail.io/)
+* GitHub
+* Personal website  
 
 ### Practice & Group Feedback
 Spend 10 minutes finding someone to reach out to. This could be from:
