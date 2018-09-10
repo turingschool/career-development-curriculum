@@ -9,8 +9,6 @@ Edits:
   * Am I being clear on what my ask is?
   * What can I bring to this conversation (go back to what's already listed here in the session)
   
-  
-
 
 ### Session Structure
 
@@ -39,24 +37,35 @@ That's networking -- building relationships that provide mutual value. Hopefully
 
 In the technology industry, even moreso than in other industries, getting ahead in your career comes down to **who you know.** Establishing strong connections with others in the technology community starts while you're at Turing and will be a focal point of your job search. 
 
-In this session, we'll focus on how you can start building those relationships through utilizing the practices of outreach and networking. 
-
-#### What This Looks Like
-Building relationships with developers and others in the tech community might feel daunting, so start with smaller steps:
-
-* Turing network: mentors, posses, alumni, student groups, guest speakers 
-* Events: meetups and events that happen at Turing or are Turing-affiliated
-
-Then, move onto bigger steps:
-* Cold outreach -- reaching out to contacts at companies you don't already have a connection with
-* Events -- attending meetups, conferences, and participating in hackathons that aren't connected to Turing
-* Open Source -- contribute to projects not affiliated with Turing
-
-Embracing outreach and networking will help you both in your initial job search after Turing and in your overall career 
+In this session, we'll focus on how you can start building those relationships through utilizing the practices of outreach and networking.  
 
 ### Outreach: Step by Step
-#### Where to Find Connections: The Network You Already Have
-Let's start with the obvious question: who can you reach out to? How will you find these new connections? You already have access to more contacts than you might first realize.
+Building relationships with developers and others in the tech community might feel daunting, so let's start with a process:
+
+1. Why
+2. Who
+3. How
+
+#### Why
+Why would you reach out to people in the industry? There are a number of reasons to conduct this outreach:
+
+1. General relationship-building and gathering advice
+2. They work at a company you're interested in
+3. They work at a company you're interested in AND there's an open position there
+
+Today, we're going to focus on reason #1 to discuss the merits of general relationship-building, and in Mods 3 and 4, we'll discuss reasons #2 and #3 in regards to how you'd conduct that outreach a little differently.
+
+When it comes to general relationship-building, why are you meeting with this person? This is an informational interview. A time for you to get to know someone and learn from them. Here is what you can learn:
+
+* Get advice
+  * What can they tell you about the job search?
+* Build understanding of the tech industry
+  * What is their experience?
+* Learn from their network
+  * Who can they introduce you to?
+
+#### Who
+Who can you reach out to? How will you find these new connections? **Let's start with the network you already have.**
 
 * **Dormant Ties:** These are people you know from other walks of life whom you may not have talked with in a while
    * Why you should reach out to them: You already know them. You may not have talked to them in a while, but it's not a cold contact. And chances are, you're already connected to them on social media so it's not difficult to reconnect with them. 
@@ -102,6 +111,15 @@ Let's start with the obvious question: who can you reach out to? How will you fi
          
 For a more in-depth perspective on the network that you already have, check out Wharton professor and author of *Give and Take: A Revolutionary Approach to Success* Adam Grant's post [Finding the Hidden Value in Your Network](https://www.huffingtonpost.com/adam-grant/finding-the-hidden-value-_1_b_3458536.html)
 
+#### How
+Now that you've identified the why and the who, let's think about *how* you can build these relationship:
+
+* Cold outreach: reaching out to contacts at companies you don't already have a connection with
+* Events: attending meetups, conferences, and participating in hackathons that aren't connected to Turing
+* Open Source: contribute to projects not affiliated with Turing
+
+Embracing outreach and networking will help you both in your initial job search after Turing and in your overall career
+
 #### Put the COLD in Cold Outreach
 When creating a completely new relationship, here are some tips:
 
@@ -123,6 +141,7 @@ When creating a completely new relationship, here are some tips:
 
 You need to understand your contact's goals as much as you want them to know yours.
 
+### Send the Message
 #### Finding Contact Info
 Now that you know who you want to connect with, there are many tools that can help you find contact information if you don't already have it. Check out these tools:
 
