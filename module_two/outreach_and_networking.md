@@ -2,14 +2,6 @@
 
 [Slides for this session](https://docs.google.com/presentation/d/1wWS8PyV8lNsEIznJ78Kk08IDTHUHApfeVikANJEBvn8/edit?usp=sharing)
 
-Edits:
-* Redefining outreach: why you reach out to someone and when; both related to an open position and not; knowing who to make asks of -- defining your goals, values, purpose first
-* Questions to ask yourself:
-  * Is this the right person (for my purpose)?
-  * Am I being clear on what my ask is?
-  * What can I bring to this conversation (go back to what's already listed here in the session)
-  
-
 ### Session Structure
 
 Time: 60 minutes
@@ -123,11 +115,15 @@ Now that you've identified the why and the who, let's think about *how* you can 
       * [Slacklist](http://www.slacklist.info/) 
       * [AngelList](https://angel.co/)
       * [CrunchBase](https://www.crunchbase.com/#/home/index) 
+      
+* Questions to ask yourself:
+  * Is this the right person (for my purpose)?
+  * Am I being clear on what my ask is?
+  * What can I bring to this conversation (go back to what's already listed here in the session)
 
-You need to understand your contact's goals as much as you want them to know yours. And now it's time to send a message:
+You need to understand your contact's goals as much as you want them to know yours. And now it's time to send a message. 
 
 ### Sending the Message
-
 #### Crafting Your Email
 **Whole Group Discussion:** When you're reaching out to people, what is your purpose? Hint: it's not to ask for a job. 
 
@@ -312,8 +308,10 @@ Here is a non-exhaustive list of tech networking groups that you can get involve
 
 * [BeVisible](https://www.bevisible.soy/) is a career network for Latinxs.
 * [Black Data Processing Associates](https://www.bdpa.org/default.aspx) is an international organization for Black professionals in tech. 
+* [Code2040](http://www.code2040.org/) is a community of Black and Latinx technologists and their allies who are diversifying tech to create a more equitable, inclusive, and prosperous economy.
 * [CodeNewbie](https://www.codenewbie.org/) is a community for newcomers to code.
 * [Lesbians Who Tech](https://lesbianswhotech.org/) is a career network for lesbians. 
+* [LGBTQ in Technology](https://lgbtq.technology/#) is a community to support anyone identifying as LGBTQ+ in the tech industry.
 * [MAES](http://mymaes.org/) was founded in Los Angeles in 1974 to increase the number of Mexican Americans and other Hispanics in the technical and scientific fields. 
 * [National Society of Black Engineers](http://www.nsbe.org/home.aspx) is one of the largest student-governed organizations with the aim to increase the number of culturally responsible Black Engineers.
 * [Out in Tech](https://outintech.com/#welcome) is a community to connect LGBTQ+ in tech. 
