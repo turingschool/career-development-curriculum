@@ -1,5 +1,7 @@
 # Practice Behavioral Interview Workshop
 
+Emphasis on selling yourself -- anecdotes on alumni; focus on what you can bring to the company
+
 [Slides](https://docs.google.com/presentation/d/1OgKR2tBd3E-Sd6B1lpmJYr5Dx1LdFR_YzGQttKHZj64/edit?usp=sharing)
 
 ### Objectives
