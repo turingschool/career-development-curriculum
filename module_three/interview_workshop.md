@@ -78,7 +78,7 @@ When answering an interview question, keep the acronym [STAR](https://en.wikiped
   * [Interview Prep Resources](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/interview_prep_resources.md)
 
 #### Demo
-As a class, talk through the following questionS and think about how you could answer it:
+As a class, talk through the following questions and think about how you could answer each one:
 
 **What makes you stand out compared to other junior developers?**
 
@@ -100,7 +100,9 @@ Now, find a partner or group of 3 to work through questions of your choice *(you
 
 ### Three Rounds of Questions
 Step 1: Prep. Take 5 minutes to write or think through your answer to one of the questions
+
 Step 2: Answer the questions with your partner(s). Provide feedback on the answers. Remember to be *specific, actionable, and kind*. 
+
 Step 3: Discuss how you will incorporate the feedback to improve your answer.
 
 ### Whole Group Debrief
