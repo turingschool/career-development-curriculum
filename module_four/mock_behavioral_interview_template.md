@@ -1,5 +1,7 @@
 # Mock Behavioral Interview Template
 
+Add questions directly related to Mod 1 & 2 deliverables
+
 ## Directions for Interviewers
 
 1. Plan for the mock interview to take about 30 minutes with 15-20 minutes for the interview and 10-15 minutes for feedback
