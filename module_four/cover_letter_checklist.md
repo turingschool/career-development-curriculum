@@ -6,8 +6,7 @@
 - [ ] Clean, easy-to-follow
 - [ ] No more than one page
 - [ ] Paragraphs spaced apart
-- [ ] 
-_ [ ] 
+- [ ]  
 
 ## Heading & Contact Info
 - [ ] Name: stand outs, easy to read
