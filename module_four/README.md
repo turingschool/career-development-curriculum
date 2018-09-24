@@ -18,10 +18,10 @@ By achieving the objectives listed above, students will be prepared for a succes
 
 ### Weekly Sessions
 
-* Week 1: [Professional Development Kickoff](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/wk1_pd_kickoff.md) 
-* Week 2: Internal Review of resumes, cover letters, inkedIn, Turing portfolios, professional stories by peer groups
+* Week 1: [Professional Development Kickoff & Cover Letter Workshop](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/wk1_pd_kickoff.md) 
+* Week 2: [Behavioral Interview Prep](
 * Week 3: External Professional Review of resumes, cover letters, LinkedIn, Turing portfolios, professional stories by mentors and potential employers
-* Week 4: [Negotiations](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/wk4_negotiations.md)
+* Week 4: [Negotiations & Equity Discussion](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/wk4_negotiations.md)
 * Week 5: [Post Grad Prep](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/mod_5_prep.md)
 
 Additional Professional Development Opportunities:
