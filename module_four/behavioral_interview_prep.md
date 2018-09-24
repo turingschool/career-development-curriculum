@@ -1,10 +1,10 @@
-# Interview Prep Workshop II
+# Week 2: Continued Feedback & Behavioral Interview Prep Workshop 
 
 [Slides for this session](https://docs.google.com/presentation/d/1iMZHrVvbtW6j7Bp7h1bTtRTo74ri-lqWHanCD8_v4OA/edit?usp=sharing)
 
 ### Session Structure
 
-Time: 60 mins
+Time: 90 mins
 
 * Whole Group Kick-off: go over structure, list of questions, how this relates to external review, how this follows up with last mod's practice (5 mins)
 * Group Practice (35-40 mins)
