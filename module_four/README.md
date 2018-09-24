@@ -5,7 +5,7 @@ Module Four career development is a culmination of the development that students
 * Build on current and create new relationships with others in the tech industry
 * Demonstrate abilities and knowledge in technical interview practice
 * Prepare to negotiate job offers effectively
-* Describe a vision for the future
+* Demonstrate ability to write effective cover letters
 * Create 30-day post-graduation plan aligned to achieving job search goals
 * Engage in complex issues of the tech industry
 * Lead other students in discussions and learning 
