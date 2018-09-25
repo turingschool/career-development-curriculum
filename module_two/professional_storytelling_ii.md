@@ -23,7 +23,7 @@ Length: 60 mins
 * Provide feedback on your classmates' stories and incorporate their feedback into improving your own
 
 ### Deliverable
-* Submit a draft of your professional story via [this survey](
+* Submit a draft of your professional story via [this survey](https://goo.gl/forms/nfu0g8MnoyKXjfnp1) by **9am on Monday of Week 2.**
 
 ### The Why/Hook
 In Module One, we dove into exploring who we are through discussions of:
@@ -45,7 +45,6 @@ These three questions are the basis of telling your story:
 * **Who are you?** *(as a developer, a teammate, a worker, a career changer)*
 * **Why are you here?** *(Why software development? Why now? Consider both your background but also what drives you to be in this field)*
 * **What's next?** *(Where do you see yourself going in this career?)* 
-
 
 **Review as whole group:** What elements make a compelling story?
 
@@ -70,6 +69,14 @@ The second story focuses more on the turning points -- the moments that cause yo
 
 Now, let's apply these ideas to your own story and practice telling it. 
 
+#### When & How You Tell Your Story
+* Networking Events
+* 1:1 Coffee Meetings
+* Interviews
+
+* How might your story be different in these different contexts?
+* How will your 5-minute version of your story be different from your 1-minute elevator pitch?
+
 ### You Do: Individual Story-writing
 
 **Write:** Reflect on your experience entering your new career in the software industry and write a draft of your story, answering the questions **who are you, why are you here, what's next?** Think about how others might root for you as a character and what's at stake for you in your career transition. Consider:
@@ -85,7 +92,15 @@ Now, let's apply these ideas to your own story and practice telling it.
 * Utilize a story form
 * Tell multiple stories -- how can you adapt your story to different situations?
 
-### Feedback Groups
+### Storytelling Practice & Feedback Groups
+As you start to practice telling your story:
+* Decide which scenario you’re in
+  * “Tell me about yourself” or “Why should I hire you?”
+* Pay attention to how you speak:
+  * Word choice
+  * Filler words (“um, uh, like”)
+  * Clarity
+
 Form groups of 3-4 people who you will share your story with. Each person will have approximately 2 minutes to share their story, and then your groupmates will provide you with 3 minutes of feedback. 
 
 Feedback should include:
@@ -99,5 +114,5 @@ Feedback should include:
 **Next Steps:**
 Looking ahead at Module 3:
 * Drafting your resume
-* Creating your [Turing portfolio](turing.io/alumni)
+* Creating your [Turing portfolio](https://alumni.turing.io)
 * Consider how you can talk about yourself in networking settings, such as meetups, events, and job shadowing
