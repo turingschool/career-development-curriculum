@@ -21,7 +21,7 @@ By mastering the objectives listed above, students will be able to put themselve
 * Week 2: [Outreach & Networking](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/outreach_and_networking.md)
 * Week 3: [Feedback II](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/feedback_ii.md) 
 * Week 4: [Agile Practices & Leadership](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/agile_practices_and_leadership.md)
-* Week 5: [Feedback III/Team Retro](
+* Week 5: [Feedback III/Team Retro](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/feedback_iii.md)
 
 ### Deliverables & Deadlines
 In order to fulfill the requirements of Module Two, students will submit these deliverables by these due dates:
