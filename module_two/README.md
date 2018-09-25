@@ -17,27 +17,24 @@ By mastering the objectives listed above, students will be able to put themselve
 
 ### Sessions
 
+* Week 1: [Professional Storytelling](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/professional_storytelling_ii.md)
+
 * [Agile Practices & Leadership](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/agile_practices_and_leadership.md)
 * [Feedback II](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/feedback_ii.md) 
 * [Feedback III](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/feedback_iii.md)
 * [Storytelling II](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/professional_storytelling_ii.md)
 * [Outreach & Networking](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/outreach_and_networking.md)
 
-### Deliverables
-In order to fulfill the requirements of Module Two, students will submit these deliverables:
+### Deliverables & Deadlines
+In order to fulfill the requirements of Module Two, students will submit these deliverables by these due dates:
 
-* Create a individual private gist with each of these Written reflections:
-  * How you've used agile as a process at Turing and what kind of project management tools you utilized. Address these questions:
-    * What were you already doing?
-    * What did you put into place in Module Two?
-    * What was effective?
-    * What do you want to improve on in future projects?
-  * Description of the role you played in your pair/group projects this module -- what was your role as a teammate? How did you utilize your strengths and leadership skills?
-* Feedback II reflection: In-person feedback conversation following these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/feedback_conversation_reflection_guidelines.md)
-* Working draft of professional story (1-2 paragraphs)
-* Plan for outreach & networking as you go into Module 3 using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/outreach_networking_guidelines.md)
 
-You'll submit all deliverables [here](https://goo.gl/forms/2FBYw38BmDEudPB22). 
+| Deliverable                      | How to Submit                                                                                                                                                                                                                                                      | Due Date                  |
+|----------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|
+| Professional Story Draft         | Write your draft in a private gist and [submit the link here](https://goo.gl/forms/nfu0g8MnoyKXjfnp1)                                                                                                                                                              | 9am on Monday of Week 2   |
+| Outreach & Networking Plan       | Write out your plan using [this template](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/outreach_networking_guidelines.md) in a private gist and [submit the link here](https://goo.gl/forms/U6q53OzhontO7Zjl1)             | 9am on Monday of Week 3   |
+| Agile & Feedback Reflection      | Write out your reflection using [this template](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/agile_feedback_reflection_guidelines.md) in a private gist and [submit the link here](https://goo.gl/forms/FhjLVrjMclbBYLAh1) | 4pm on Thursday of Week 5 |
+| Updated Professional Story Draft | If you are given feedback that you need to update your professional story, update your original gist and send a DM to Allison when you have completed the revisions.                                                                                               | 9am on Monday of Week 6   |
 
 ### Repeating the Module
 If you're repeating the module, you'll meet with Allison during Week 1 to discuss an alternate plan for meeting your professional development goals during the repeat module using [these guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/m2_repeat_plan.md). 
