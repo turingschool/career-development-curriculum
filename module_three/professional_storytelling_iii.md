@@ -7,21 +7,17 @@
 
 Length: 60 mins
 
-* Objectives/Review all of M3 PD for entire module (since this is first session): 3 mins
-* Recap storytelling/make plans to update story: 12 mins
-	* Review: 3 mins
-	* Practice (3 rounds): 9 mins
-* Resumes: 24 mins
-	* Intro: 2 mins
-	* Turn & Talk: 6 mins
-	* Resume Template & Tools: 6 mins
-	* Create Resume Master Draft: 10 mins
-* Cover Letters: 16 mins
-	* Intro to cover letters (2 mins)
-	* Example & Discussion (6 mins)
-	* Create Cover Letter Template (8 mins)
-* Intro to Portfolios: 3 mins
-* Closing: Wrap up storytelling; provide preview of Flower Exercise: 2 mins
+* Opening: hook: review and repractice story in 2 contexts, objectives, review M3 PD scope and sequence: 10 mins
+* Review Storytelling: 5 mins
+* Resumes: 30 mins
+   * Discussion of structure, intro to templates, and review checklist (10-15 mins)
+   * Group Discussion & Share Out (15 mins)
+* Turing Portfolios
+   * What they are & data (10 mins)
+   * Demo (5 mins)
+* Any leftover time: work time 
+
+you're hiring managers, you are presented with these 5 resumes, discuss in groups of 3 what your impressions are and what your hiring decision would be -- give prompting questions, then share out)
 
 ### Professional Development in Module Three
 This is the first of your PD sessions this module. Module Three is the module in which the personal and professional development of the previous two modules is applied to job searching and discovering the right path for your new career. You'll leave Module Three with a clear blueprint for your job search, and we'll start by focusing in on what it is that you want out of your new career, building on your professional story, and reflecting on how your strengths apply to finding this new, fulfilling career path.
