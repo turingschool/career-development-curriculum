@@ -7,16 +7,14 @@
 
 Length: 60 mins
 
-* Opening: objectives, review M3 PD scope and sequence, and hook: 15 mins=
+* Opening: objectives, review M3 PD scope and sequence, and hook: 15 mins
 * Resumes: 30 mins
-   * Discussion of structure, intro to templates, and review checklist (10-15 mins)
-   * Group Discussion & Share Out (15 mins)
+   * Group Discussion & Share Out (20 mins)
+   * Discussion of structure, intro to templates, and review checklist (10 mins)
 * Turing Portfolios
    * What they are & data (10 mins)
    * Demo (5 mins)
 * Any leftover time: work time 
-
-you're hiring managers, you are presented with these 5 resumes, discuss in groups of 3 what your impressions are and what your hiring decision would be -- give prompting questions, then share out)
 
 ### Professional Development in Module Three
 This is the first of your PD sessions this module. Module Three is the module in which the personal and professional development of the previous two modules is applied to job searching and discovering the right path for your new career. You'll leave Module Three with a clear blueprint for your job search, and we'll start by focusing in on what it is that you want out of your new career, building on your professional story, and reflecting on how your strengths apply to finding this new, fulfilling career path.
@@ -44,15 +42,24 @@ Whole Group Debrief:
 
 As we dive into your resumes and portfolios today, we're going to aim to address both of those statements--"tell me about yourself" and "why should I hire you?"--through the details you include. 
 
-### Resumes 
-Now that you've fleshed out your story into an easily told format, let's focus on the different ways you can convey your story. One of them is through your resume. As a junior developer, your resume might look very different from its previous forms. Here are some things to keep in mind:
+### Storytelling Tool #1: Resumes 
+Thinking in particular about that question "why should I hire you?", your first activity is to examine resumes using that particular stance. 
 
-* Reorganize your resume to lead with technical skills and coding projects
-* Analyze what experiences are most useful in demonstrating transferable and applicable skills for an entry level tech role
-* Produce a resume with clear and concise language aligned with current tech industry standards
+**Activity: Who do you interview?**
+Form groups of 3-4 people. You are now on a hiring committee for a junior engineering position at your company. You need to select 1 out of the 5 resumes listed here to decide who will move on to an interview. 
 
-#### Research: Turn & Talk
-With a partner, take a look at 2-3 examples from past Turing alumni. What do you notice about these resumes? What sticks out to you? What would you do differently? You'll have 6 minutes to discuss with your partner.
+Things to consider:
+* For the sake of this activity, the position is language agnostic
+* All of these resumes are from Turing alumni. As a soon-to-be alum, you should consider how you can use your resume to stand out amongst others with similar skillsets
+
+Candidates:
+* 
+* [Erin Pintozzi](https://alumni.turing.io/sites/default/files/resumes/Erin%27s%20Resume%20020917.pdf)
+* [Ryan Workman](https://alumni.turing.io/sites/default/files/resumes/Workman%20Turing%20Resume.pdf)
+* [July Tran](https://alumni.turing.io/sites/default/files/resumes/july_tran_resume.pdf)
+* [Andrew James](
+
+
 
 * [Josh Cass Resume](https://alumni.turing.io/sites/default/files/resumes/josh_cass.pdf)
 * [Rose Kohn Resume](https://alumni.turing.io/sites/default/files/resumes/rose_a_kohn.pdf)
@@ -64,9 +71,23 @@ With a partner, take a look at 2-3 examples from past Turing alumni. What do you
 * [Jason Lucas Resume](https://alumni.turing.io/sites/default/files/resumes/Jason%20Lucas%20Resume%20.pdf)
 * [Natalia Colome Resume](https://alumni.turing.io/sites/default/files/resumes/NMCA_styled_resume.pdf)
 
-**Whole Group Debrief:**
+Discussion Questions:
+* What is your first impression of this candidate?
+* What do you know about this candidate's technical abilities?
+* What questions do you have about this candidate?
+* Would you choose to interview this person? Why or why not?
+* If you decide to interview them, what follow-up questions would you ask? 
 
-* What are your takeaways from these resume examples? 
+Whole Group Debrief:
+* Who was chosen to move to an interview? Why?
+* What are your takeaways about effective resumes?
+
+### Rebuilding Your Resume: Format & Content
+As a junior developer, your resume might look very different from its previous forms. Here are some things to keep in mind:
+
+* Reorganize your resume to lead with technical skills and coding projects
+* Analyze what experiences are most useful in demonstrating transferable and applicable skills for an entry level tech role
+* Produce a resume with clear and concise language aligned with current tech industry standards
 
 #### Layouts
 You can choose to set up a traditional resume use a template like this [traditional resume](http://visualcv.com/www/google-docs-resume-templates/), but you may want to personalize the style with a layout. Check out these sites for building a resume:
@@ -121,53 +142,7 @@ You'll want to tailor your resume for any position you apply for, but it's helpf
 
 Take 10 minutes to explore some different tools and get your master resume draft started. 
 
-### Cover Letters
-Cover letters are a perfect way to tell your story when you're applying for a job. 
 
-#### Layout
-Keep your cover letters to 1 page. 2-3 paragraphs is standard. Here is a template for how you can lay out a cover letter:
-
-* Here are some suggested ways to structure the letter:
-  * Paragraph #1: Introduce yourself -- *briefly.*
-      * Explain why you are applying for the position and include some research into the company
-      * Give a brief version of your professional story; why does this company and this position specifically fit into your next step in your career?
-      * Consider including a **hook** to connect to the reader and give a sense of your personality
-      * If you have any connection at the company, mention them here
-  * Paragraph #2: Highlight your skills specific to the job posting
-      * This is *not* a rehashing of your resume. Rather, what do you want the reader to notice about your resume? What extra detail can you provide here?
-      * Go more in-depth about a certain project or discuss an example of how you've done similar work to what the company is looking for
-  * Paragraph #3: Connect the first two paragraphs by talking about how you are the best fit to build *value* for the company
-      * This letter is about helping the company see how you uniquely will help them meet their goals. Paint that picture for them. Emphasize how you will not only flourish in this role but you also have the drive and ability to keep growing professionally, take on more responsibility, and benefit the company in ways beyond the initial position for which you're applying.
-      * How can you apply your background and skills to make great experiences for the company's users/customers? What can you leave them with that will make them want to contact you?
-      * Include information about your availability for interviews and/or references if applicable
-      
-Check out this example to see how professional stories can be told through a cover letter:
-
-* [Tommasina Miller Example](https://github.com/turingschool/career-development-curriculum/blob/master/files/Example%20Cover%20Letter.pdf)
-
-**Whole Group Discussion:**
-
-* What stood out to you about this example?
-* What story is the author telling?
-
-**Other Key Points for Cover Letters:**
-
-* Don’t talk about what you’re hoping to get from the company (i.e., mentorship, culture, etc.). The letter should be all about what you’re going to give the company as an employee, not take from their business — mentorship and culture will happen *anyway*, and not mentioning it will make you stand out
-* Interested in a specific company? Consider how to use their tools or libraries in your projects at Turing. When writing your cover letter to them, mention those in the 2nd paragraph of the cover letter. You’ll look like a great candidate if you’re already familiar with the company's tools/libraries. You should also consider how to interact with the company's employees through Pull Requests or GitHub issues. 
-
-#### Further Reading on Cover Letters
-
-* [Forget the Resume, Kill on the Cover Letter](https://signalvnoise.com/posts/1748-forget-the-resume-kill-on-the-cover-letter)
-* [How to Write a Showstopping Cover Letter as a Techie](https://www.forbes.com/sites/laurencebradford/2017/01/22/how-to-write-a-showstopper-cover-letter-as-a-techie/#28c9ed5f6a7a)
-
-#### Cover Letter Practice: Establishing a Template
-Draft out a master template for your cover letter using the 3-paragraph format above. You'll tailor this to particular positions, but you can start thinking through right now what kind of hook you could utilize in the first paragraph to draw in a reader. Use experience from your storytelling practice:
-
-* What brought you to software development?
-* What makes you interesting and unique from your background and/or specific passions?
-* Where do you want to go? 
-
-Once you have a hook and a template established, it'll be much easier to craft a compelling and tailored cover letter each time you need one. 
 
 ### Turing Portfolio
 As you fill out your [Turing portfolio](https://www.turing.io/alumni), think about how you want to present yourself. 
