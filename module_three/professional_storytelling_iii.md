@@ -1,5 +1,5 @@
 # Professional Storytelling III
-### Resumes, Cover Letters, & Portfolio
+### Your Resume & Portfolio
 
 [Slides for this session](https://docs.google.com/presentation/d/1OZ8WCYsiTBBHEPVsFrEXM0VIJtZViLJr_Tui75zE1H8/edit?usp=sharing)
 
@@ -7,8 +7,7 @@
 
 Length: 60 mins
 
-* Opening: hook: review and repractice story in 2 contexts, objectives, review M3 PD scope and sequence: 10 mins
-* Review Storytelling: 5 mins
+* Opening: objectives, review M3 PD scope and sequence, and hook: 15 mins=
 * Resumes: 30 mins
    * Discussion of structure, intro to templates, and review checklist (10-15 mins)
    * Group Discussion & Share Out (15 mins)
@@ -24,29 +23,26 @@ This is the first of your PD sessions this module. Module Three is the module in
 
 ### Objectives
 * Build on your professional story by focusing on "what's next"
-* Create a resume, cover letter, and Turing portfolio that reflect your skills and your professional story
+* Create a resume and Turing portfolio that reflect your skills and your professional story
 
 ### Deliverables
 * You'll need a draft of your resume ready by Week 3 for review from staff coaches
 * You'll submit your revised draft of your resume to the Career Development Team (Allison, Ellen Mary, or Kayt) by the end of Week 3
-* You'll need to have your [Turing portfolio](https://www.turing.io/alumni) finished and published on the Turing website by Monday of Week 6 with your final draft of your resume uploaded 
+* You'll need to have your [Turing portfolio](https://alumni.turing.io) finished and published on the Turing website by Monday of Week 6 with your final draft of your resume uploaded 
 
-### Opening
-Last module, you created a draft of your professional story, and this module, you'll continue to refine it through your resume, cover letters, and your Turing portfolio. You'll also want to update your LinkedIn profiles. 
+### Opening: Review of Storytelling
+Hook: Last module, you created a draft of your professional story. Today we'll talk about how you can refine your professional story through tools like your resume and your Turing alumni portfolio. But first, practice makes perfect:
 
-The aim of today's session is to provide you with the necessary tools to tell your story as a professional developer in your job search. 
+* Spend 2 minutes reviewing your story gist
+* Pair & Share #1: Practice your story as though you are at a networking event and someone says "tell me about yourself." You and your partner each get 1 minute to share your story.
+* Pair & Share #2: Practice your story as though an employer has just asked you "Why should I hire you?" You and your partner each get 1 minute to share your story.
 
-### Recap: Telling Your Story
-As we've discussed, our lives are made up of stories -- they are how we make sense of our experiences. Stories define who we are. The same is true with your professional story. Telling the story of your professional transition into software development helps others understand your motives, character, and capacity to reach the goals that you've set for yourself. In short, your story makes others believe in you.
+Whole Group Debrief:
+* On a scale of 1-5, how easy was it to practice your story?
+* How did telling your story change depending on the context?
+* What kinds of details did you remember from your partner's story?
 
-These three questions are the basis of telling your story:  
-
-* **Who are you?** *(as a developer, a teammate, a worker, a career changer)*
-* **Why are you here?** *(Why software development? Why now? Consider both your background but also what drives you to be in this field)*
-* **What's next?** *(Where do you see yourself going in this career?)* 
-
-#### You Do: Lightning Rounds of Storytelling
-Using your professional story draft that you completed at the end of Module Two, review it for 2 minutes and then pair up with a partner to share a brief version of your professional story, including what's next for you in this career. Each person will get 1.5 minutes to share their stories and then switch. We will do 3 rounds of this practice total, so you'll have 3 different partners to practice with. 
+As we dive into your resumes and portfolios today, we're going to aim to address both of those statements--"tell me about yourself" and "why should I hire you?"--through the details you include. 
 
 ### Resumes 
 Now that you've fleshed out your story into an easily told format, let's focus on the different ways you can convey your story. One of them is through your resume. As a junior developer, your resume might look very different from its previous forms. Here are some things to keep in mind:
@@ -58,16 +54,15 @@ Now that you've fleshed out your story into an easily told format, let's focus o
 #### Research: Turn & Talk
 With a partner, take a look at 2-3 examples from past Turing alumni. What do you notice about these resumes? What sticks out to you? What would you do differently? You'll have 6 minutes to discuss with your partner.
 
-* [Josh Cass Resume](https://www.turing.io/sites/default/files/resumes/josh_cass.pdf)
-* [Rose Kohn Resume](https://www.turing.io/sites/default/files/resumes/rose_a_kohn.pdf)
-* [Kelley Jenkins Resume](https://www.turing.io/sites/default/files/resumes/Kelley%20Jenkins%20Resume%205.3.18pdf.pdf)
-* [Evan Miller Resume](https://www.turing.io/sites/default/files/resumes/miller_evan_resume_110117.pdf)
-* [Erin Pintozzi Resume](https://www.turing.io/sites/default/files/resumes/Erin%27s%20Resume%20020917.pdf)
-* [Ricardo Viera Resume](https://www.turing.io/sites/default/files/resumes/RicardoViera_0.pdf)
-* [Laura Turk Resume](https://www.turing.io/sites/default/files/resumes/LauraTurk-FE_DEV-2017.pdf)
-* [Jason Lucas Resume](https://www.turing.io/sites/default/files/resumes/Jason%20Lucas%20Resume%20.pdf)
-* [Natalia Colome Resume](https://www.turing.io/sites/default/files/resumes/NMCA_styled_resume.pdf)
-* Don't be afraid to think outside of the box...Check out this [epic resume.](http://www.rleonardi.com/interactive-resume/)
+* [Josh Cass Resume](https://alumni.turing.io/sites/default/files/resumes/josh_cass.pdf)
+* [Rose Kohn Resume](https://alumni.turing.io/sites/default/files/resumes/rose_a_kohn.pdf)
+* [Kelley Jenkins Resume](https://alumni.turing.io/sites/default/files/resumes/Kelley%20Jenkins%20Resume%205.3.18pdf.pdf)
+* [Evan Miller Resume](https://alumni.turing.io/sites/default/files/resumes/miller_evan_resume_110117.pdf)
+* [Erin Pintozzi Resume](https://alumni.turing.io/sites/default/files/resumes/Erin%27s%20Resume%20020917.pdf)
+* [Ricardo Viera Resume](https://alumni.turing.io/sites/default/files/resumes/RicardoViera_0.pdf)
+* [Laura Turk Resume](https://alumni.turing.io/sites/default/files/resumes/LauraTurk-FE_DEV-2017.pdf)
+* [Jason Lucas Resume](https://alumni.turing.io/sites/default/files/resumes/Jason%20Lucas%20Resume%20.pdf)
+* [Natalia Colome Resume](https://alumni.turing.io/sites/default/files/resumes/NMCA_styled_resume.pdf)
 
 **Whole Group Debrief:**
 
