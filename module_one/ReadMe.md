@@ -17,12 +17,15 @@ Whether students are at Turing to pursue their first job or their twentieth, the
 By achieving the objectives listed above, students will be able to direct their own learning by knowing when to struggle, when to ask for help, and how to do both effectively. Students will be able to articulate what they need from a working relationship and reflect on how they can improve. Students will be able to understand their own strengths and weaknesses and use setbacks as opportunities for growth. All in all, students will be aware of their abilities and have a framework for how to continue to grow and tackle learning challenges as they go to Module Two. 
 
 ### Sessions
-* [StrengthsFinder Reflection](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/strengths_reflection_session.md)
-* [Working Styles](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/working_styles.md)
-* [Learning to Pair](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/learning_to_pair.md) 
-* [Feedback I](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/feedback_i.md) 
-* [Storytelling I](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/storytelling_i.md)
-* [Developer Identity](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/developer_identity.md)
+* Week 1: [Building a Foundation for your Career Development](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/building_a_foundation.md)
+* Week 2: [Learning to Pair](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/learning_to_pair.md) 
+* Week 3: [Feedback I](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/feedback_i.md) 
+* Week 4: 
+          [Agile Practices & Leadership](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/agile_practices_and_leadership.md)
+          [
+
+* Week 5: [Storytelling I](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/storytelling_i.md)
+
 
 ### Deliverables
 In order to fulfill the requirements of module one, students will submit these deliverables in a private gist:
