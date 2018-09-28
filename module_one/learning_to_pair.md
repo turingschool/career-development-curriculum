@@ -14,7 +14,7 @@ Refer to the [Learning to Pair slides](https://docs.google.com/presentation/d/1_
 
 ## Deliverable:
 
-* Complete a DTR memo for at least one project using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/dtr_guidelines_memo.md)
+* Complete a DTR memo for at least one project using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/dtr_guidelines_memo.md) and [submit it here](https://goo.gl/forms/nzHkeSW3DeqdezV22) by 5pm on Monday of Week 2
 
 ## Opening
 In the past when you've worked in teams, what was successful about them? What was unsuccessful?
