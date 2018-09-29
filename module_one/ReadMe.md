@@ -21,21 +21,20 @@ By achieving the objectives listed above, students will be able to direct their 
 * Week 2: [Learning to Pair](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/learning_to_pair.md) 
 * Week 3: [Feedback I](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/feedback_i.md) 
 * Week 4: 
-          [Agile Practices & Leadership](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/agile_practices_and_leadership.md)
-          [
-
+   * [Agile Practices & Leadership](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/agile_practices_and_leadership.md)
+   * [Feedback II & Team Retro](https://github.com/turingschool/career-development-curriculum/tree/master/module_one)
 * Week 5: [Storytelling I](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/storytelling_i.md)
 
-
 ### Deliverables
-In order to fulfill the requirements of module one, students will submit these deliverables in a private gist:
+In order to fulfill the requirements of module one, students will submit these deliverables by these due dates:
 
-* DTR Memo using [this template](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/dtr_guidelines_memo.md)
-* Feedback for each project partner (Submitted ongoing through surveys)
-* Storytelling reflection using [this template](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/storytelling_reflection.md)
-* Create/Update LinkedIn, GitHub, Twitter, and Stack Overflow profiles and input them into Census
 
-You'll submit your DTR Memo and Storytelling reflection [here](https://goo.gl/forms/HILyYTTzy5eJWJyI3). Your profiles will be submitted by setting up your Census account, and your partner feedback will be submitted in the surveys you receive.
+| Deliverable                              | How to Submit                                                                                                                                                                                                                                                      | Due Date                  |
+|------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|
+| DTR Memo                                 | Write your DTR memo with your project partner in a private gist and [submit the link here](https://goo.gl/forms/nzHkeSW3DeqdezV22)                                                                                                                                 | 5pm on Monday of Week 2   |
+| Feedback for your Paired Project partner | Submit your appreciation and coaching feedback for your paired project partner in the survey that Allison will put in your cohort channel                                                                                                                          | 9am on Monday of Week 4   |
+| Agile & Feedback Reflection              | Write out your reflection using [this template](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/agile_feedback_reflection_guidelines.md) in a private gist and [submit the link here](https://goo.gl/forms/1fnrkKYfv791W4p63) | 4pm on Thursday of Week 5 |
+| Storytelling Reflection                  | Write your reflection using [these guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/storytelling_reflection.md) in a private gist and [submit the link here](https://goo.gl/forms/Wc2sIiyCJ4asEYR93)               | 9am on Monday of Week 6   |
 
 ### Repeating the Module
 If you're repeating the module, you'll meet with Allison during Week 1 to discuss an alternate plan for meeting your professional development goals during the repeat module using [these guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/m1_repeat_plan.md). 
