@@ -17,13 +17,15 @@ Students will leave Module Three with a clear blueprint for their job search by 
 
 ### Sessions
 
-* [Professional Storytelling: Resumes, Cover Letters, & Turing Portfolio](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/professional_storytelling_iii.md)
-* [What Color is Your Parachute: Flower Exercise](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/flower_exercise.md)
-* [Finding Opportunities](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/finding_opportunities.md)
-* [Resume Review Workshop](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/m3_resume_review.md)
-* [Interview Prep Workshop](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/interview_workshop.md)
+* Week 1: [Professional Storytelling III: Resumes & Turing Portfolio](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/professional_storytelling_iii.md)
+* Week 2: [What Color is Your Parachute: Flower Exercise](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/flower_exercise.md)
+* Week 3:
+   * [Job Search Strategies](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/job_search_strategies.md)
+    * [Resume Review Workshop](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/m3_resume_review.md)
+* Week 4: Job Shadowing
+* Week 5: [Cover Letters Overview](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/cover_letters_overview.md)
 
 ### Deliverables
 In order to fulfill the requirements of module three, students will submit these deliverables:
 * Resume: due Week 3 after workshop
-* [Turing Alumni portfolio](https://www.turing.io/alumni): due during end of module portfolio review
+* [Turing Alumni portfolio](https://alumni.turing.io): due by **9am on Monday of Week 6.**
