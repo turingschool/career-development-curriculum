@@ -18,22 +18,7 @@ Through this development, upon graduation, students will be able to communicate 
 
 In this repo, you'll find all of the curriculum for career development, including information on how each session fits into the end goals for students. Click on the links below to see more information as well as links to sessions within each module folder:
 
-* [Module One](https://github.com/turingschool/career-development-curriculum/tree/master/module_one)
-* [Module Two](https://github.com/turingschool/career-development-curriculum/tree/master/module_two)
-* [Module Three](https://github.com/turingschool/career-development-curriculum/tree/master/module_three)
-* [Module Four](https://github.com/turingschool/career-development-curriculum/tree/master/module_four)
-
-### Deliverables
-
-* Module One deliverables should submitted [here](https://docs.google.com/forms/d/1XGgtEs30A6l38jIe4zSWyjSGH2jJokRblt-UJEIXNoM/edit)
-* Module Two deliverables should be submitted [here](https://goo.gl/forms/KkVjm4ja147Nk6Zm1)
-
-Modules Three & Four deliverables will be checked during portfolio reviews.
-
-### Career Development Team at Turing
-Your career development team consists of:
-
-* Allison Reu Singer, Professional Development Lead & Coach
-* Ellen Mary Hickmann, Director of Professional Learning
-* Kayt Hensley, Initiatives Coordinator
-
+* [Module 1](https://github.com/turingschool/career-development-curriculum/tree/master/module_one)
+* [Module 2](https://github.com/turingschool/career-development-curriculum/tree/master/module_two)
+* [Module 3](https://github.com/turingschool/career-development-curriculum/tree/master/module_three)
+* [Module 4](https://github.com/turingschool/career-development-curriculum/tree/master/module_four)
