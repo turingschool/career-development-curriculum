@@ -29,3 +29,6 @@ Students will leave Module Three with a clear blueprint for their job search by 
 In order to fulfill the requirements of module three, students will submit these deliverables:
 * Resume: due Week 3 after workshop
 * [Turing Alumni portfolio](https://alumni.turing.io): due by **9am on Monday of Week 6.**
+
+### Repeating the Module
+If you're repeating the module, you'll meet with Allison during Week 1 to discuss an alternate plan for meeting your professional development goals during the repeat module using [these guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/m3_repeat_plan.md). 
