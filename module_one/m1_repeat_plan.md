@@ -26,7 +26,7 @@ You **are required** to attend new PD sessions and all Gear Up sessions. These s
     * Wednesday: [Feedback II & Team Retro](https://github.com/turingschool/career-development-curriculum/tree/master/module_one)
   
   * Gear Up:
-    * Week 1: Health & Wellness
+    * Week 1: [Health & Wellness](https://github.com/turingschool/gear-up/blob/master/Mod1_Week1_mental_health_101.md)
     * Week 3: Social Justice 101
     * Week 5: Racial Caucusing
     
