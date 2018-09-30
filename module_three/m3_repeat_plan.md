@@ -13,22 +13,28 @@ As you make your plan here, think about how you can push yourself to grow in the
 Here's the breakdown of expectations for repeating the module:
 
 ### Sessions
-* You **are not required** to attend professional development sessions. You can choose to come to sessions if you feel that you would benefit from the information. Reminder on what sessions are offered this mod:
-    * [Professional Storytelling III](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/professional_storytelling_iii.md)
-    * [Flower Exercise](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/flower_exercise.md)
-    * [Job Search Strategies](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/job_search_strategies.md)
-    * [Resume Review Workshop](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/m3_resume_review.md)
-    * [Interview Prep](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/interview_workshop.md)
-* You **are required** to attend all Gear Up sessions, and you are encouraged to take on a leadership/facilitator role in group discussions. Only 1 session will be repeat content:
+You **are not required** to attend professional development sessions *that you have previously attended.* You can choose to come to sessions if you feel that you would benefit from the information. Sessions you have already attended are:
+    * Week 1: [Professional Storytelling III](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/professional_storytelling_iii.md) 
+    * Week 2: [Flower Exercise](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/flower_exercise.md)
+    * Week 3: [Job Search Strategies](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/job_search_strategies.md)
+    * Week 3: [Resume Review Workshop](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/m3_resume_review.md)
+
+You **are required** to attend new PD sessions and all Gear Up sessions. These sessions are:
+  * PD: Week 5: [Cover Letters Overview](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/cover_letters_overview.md)
+
+  * Gear Up: 
     * Week 1: [Microaggressions](https://github.com/turingschool/gear-up/blob/master/Mod3_Week1_Microaggressions_update.md)
     * Week 3: Rotation session, see the options in the Gear Up repo [here](https://github.com/turingschool/gear-up)
     * Week 5: Mod 4-led Choice session, look for the survey posted in your channel from Ellen Mary
     
 ### Deliverables
-* You **are required** to have your Turing alumni portfolio up on [turing.io/alumni](https://turing.io/alumni) with your updated resume included and at least 1 project
+* You **are required** to:
+  * Complete your Turing alumni portfolio on [alumni.turing.io](https://alumni.turing.io) with your updated resume included and 2-3 projects showing a variety of project skills (independent, paired, team) 
+  * Complete a mock behavioral interview with Allison or Kayt
+  * Draft a cover letter to bring to PD in week 1 of Module 4
+
 * Options for additional deliverables (choose **at least 2** that you will complete during the module):
    * Complete a mock technical interview with one of the mentors listed [here](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/technical_interview_prep_resources.md)
-   * Complete a mock cultural interview with Allison
    * Participate in resume review workshop by bringing a resume tailored to a specific position OR bring a cover letter draft for that position
    * Attend a Meetup -- be specific on which meetup in your plan below
    * Initiate cold outreach with a new contact and set up a coffee meeting with them
@@ -43,7 +49,7 @@ Here's the breakdown of expectations for repeating the module:
 
 1. Are you going to attend any PD sessions? If so, which ones? List below.
 
-2. In addition to ensuring your alumni portfolio is in good shape, which 2 options will you choose to work on this mod to further your professional development?
+2. In addition to completing the required deliverables, which 2 options will you choose to work on this mod to further your professional development?
 
 3. Do you want to participate in Job Shadowing this module?
 
