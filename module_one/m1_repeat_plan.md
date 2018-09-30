@@ -14,21 +14,27 @@ As you make your plan here, think about how you can push yourself to grow in the
 Here's the breakdown of expectations for repeating the module:
 
 ### Sessions
-* You **are not required** to attend professional development sessions that you have previously attended. You can choose to come to sessions if you feel that you would benefit from the information. Reminder on what sessions are offered this mod:
-    * Week 1: [Building a Foundation for your Career Development](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/building_a_foundation.md) 
-    * Week 2: [Learning to Pair](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/learning_to_pair.md) 
-    * Week 3: [Feedback I](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/feedback_i.md) 
-    * Week 4: 
-      * [Agile Practices & Leadership](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/agile_practices_and_leadership.md) **NEW**
-      * [Feedback II & Team Retro](https://github.com/turingschool/career-development-curriculum/tree/master/module_one) **NEW**
-    * Week 5: [Storytelling I](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/storytelling_i.md)
-* You **are required** to attend all Gear Up sessions, and you are encouraged to take on a leadership/facilitator role in group discussions.
+You **are not required** to attend professional development sessions *that you have previously attended.* You can choose to come to sessions if you feel that you would benefit from the information. Sessions you have already attended are:
+   * Week 1: [Building a Foundation for your Career Development](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/building_a_foundation.md) *This session combines information on strengths, working styles, and how to focus on 
+   * Week 2: [Learning to Pair](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/learning_to_pair.md) 
+   * Week 3: [Feedback I](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/feedback_i.md) 
+   * Week 5: [Storytelling I](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/storytelling_i.md)
+
+You **are required** to attend new PD sessions and all Gear Up sessions. These sessions are:
+  * PD: Week 4: 
+    * Monday: [Agile Practices & Leadership](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/agile_practices_and_leadership.md)
+    * Wednesday: [Feedback II & Team Retro](https://github.com/turingschool/career-development-curriculum/tree/master/module_one)
+  
+  * Gear Up:
+    * Week 1: Health & Wellness
+    * Week 3: Social Justice 101
+    * Week 5: Racial Caucusing
     
 ### Deliverables
 * You **are required** to:
    * Participate in DTR and in crafting a DTR memo with your paired project partner
    * Submit feedback for your paired project partner
-   * Submit a reflection on how you've used agile practices and 
+   * Submit a reflection on how you've used agile practices from the session in Week 4
 
 * Options for additional deliverables (choose **at least 2** that you will complete during the module):
    * Push yourself to learn something new and teach it to your partner in regards to the project. 
