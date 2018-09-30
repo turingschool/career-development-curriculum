@@ -14,10 +14,12 @@ Here's the breakdown of expectations for repeating the module:
 
 ### Sessions
 You **are not required** to attend professional development sessions *that you have previously attended.* You can choose to come to sessions if you feel that you would benefit from the information. Sessions you have already attended are:
-    * Week 1: [Professional Storytelling III](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/professional_storytelling_iii.md) 
-    * Week 2: [Flower Exercise](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/flower_exercise.md)
-    * Week 3: [Job Search Strategies](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/job_search_strategies.md)
-    * Week 3: [Resume Review Workshop](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/m3_resume_review.md)
+
+   * Week 1: [Professional Storytelling III](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/professional_storytelling_iii.md) 
+   * Week 2: [Flower Exercise](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/flower_exercise.md)
+   * Week 3: 
+      * [Job Search Strategies](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/job_search_strategies.md)
+      * [Resume Review Workshop](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/m3_resume_review.md)
 
 You **are required** to attend new PD sessions and all Gear Up sessions. These sessions are:
   * PD: Week 5: [Cover Letters Overview](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/cover_letters_overview.md)
