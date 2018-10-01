@@ -4,8 +4,6 @@
 
 [Slides for this session](https://docs.google.com/presentation/d/1G1kDWESHQXZI0DeY8pxAyHfK_CMrk4wj9Sv7rZ2nMn8/edit?usp=sharing)
 
-Provide examples of different contexts for storytelling (networking vs. interview): what details might be different? How does your 5-minute version of your story compare to your 1-minute version? Dive into public speaking skills: being aware of diction, filler words, etc.
-
 ### Session Structure
 
 Length: 60 mins
