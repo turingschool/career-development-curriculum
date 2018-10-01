@@ -2,6 +2,13 @@
 
 [Slides for this session](https://docs.google.com/presentation/d/1JBeeABFkMvWjbXZDDxiOaW9iFHIhzQT2C-UxIEaQAvs/edit?usp=sharing)
 
+-Intro to professional development (go over ReadMe; go over trajectory -- take out of Orientation in future?)
+-Personal reflections: what is your vision for where you want to go? Now how will you get there?
+-Objectives/deliverable: take the survey (15 mins total)
+-20 mins for everything else...
+-Pairin intro: (10 mins); make connection to SF
+-Survey (15 mins)
+
 ### Objectives
 * 
 
