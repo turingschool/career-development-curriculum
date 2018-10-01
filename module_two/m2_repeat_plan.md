@@ -14,10 +14,11 @@ Here's the breakdown of expectations for repeating the module:
 
 ### Sessions
 You **are not required** to attend professional development sessions *that you have previously attended.* You can choose to come to sessions if you feel that you would benefit from the information. Sessions you have already attended are:
-    * Week 1: [Professional Storytelling II](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/professional_storytelling_ii.md)
-    * Week 2: [Outreach & Networking](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/outreach_and_networking.md)
-    * Week 3: [Feedback II](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/feedback_ii.md)
-    * Week 4: [Agile Practices & Leadership](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/agile_practices_and_leadership.md)
+
+   * Week 1: [Professional Storytelling II](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/professional_storytelling_ii.md)
+   * Week 2: [Outreach & Networking](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/outreach_and_networking.md)
+   * Week 3: [Feedback II](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/feedback_ii.md)
+   * Week 4: [Agile Practices & Leadership](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/agile_practices_and_leadership.md)
 
 You **are required** to attend new PD sessions and all Gear Up sessions. These sessions are:
   * PD: Week 5: [Feedback III and Team Retro](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/feedback_iii.md)
