@@ -1,49 +1,57 @@
-# Building a Foundation for your Career Development: Strengths, Working Styles, and Growth
+# Building a Foundation for your Career Development
 
 [Slides for this session](https://docs.google.com/presentation/d/1JBeeABFkMvWjbXZDDxiOaW9iFHIhzQT2C-UxIEaQAvs/edit?usp=sharing)
-
--Intro to professional development (go over ReadMe; go over trajectory -- take out of Orientation in future?)
--Personal reflections: what is your vision for where you want to go? Now how will you get there?
--Objectives/deliverable: take the survey (15 mins total)
--20 mins for everything else...
--Pairin intro: (10 mins); make connection to SF
--Survey (15 mins)
-
-### Kickoff to PD: What is Professional Development?
-Turing is unique as a code school because along with learning technical skills, we provide you with opportunities to grow as professionals. This focus on professional skills goes hand in hand with preparing you for your job search and new career. 
-
-**You Do:** Write down what is your vision for where you want to go? Now how will you get there?
-
-### Objectives
-* 
 
 ### Session Structure
 * Length: 60 mins
 
-* Intro to Professional Development (15 mins)
-* Working & Communication Preferences (20 mins)
-* Pairin Survey Intro & Questions (10 mins)
+* Intro to Professional Development & Personal Reflection & Scenarios (15 mins)
+* Pairin Survey Intro & Questions (5 mins)
 * Take Survey (15 mins)
+* Debrief Results (10 mins)
+* Pair & Share (10 mins)
+* Closing: Takeaways, coaching reminders (5 mins)
 
-**Hook:** How many of you feel ready to answer the question, what is your greatest strength? What would you say? How do you know? 
+### Overview of Professional Development at Turing
+Turing’s **mission** is to unlock human potential by training a diverse, inclusive student body to succeed in high-fulfillment technical careers. 
 
-Reflection on 2-3 questions; revisit at end of session
+Turing’s career development curriculum is created directly out of this mission with a focus on **unlocking students’ potential** in modules 1 and 2 through cultivating self-awareness and empathy. In modules 3 and 4, curriculum focuses on providing strategies to empower students to **succeed in high-fulfillment technical careers** by creating connections within the technology industry, building competencies for industry leadership, and securing a fulfilling career -- and not just another job. 
 
-### Why
-Why is talking about these things a focus at Turing? To answer that, let's look to our mission:
+The touchstones of this curriculum include these mindsets: 
 
+* **Agency:** Taking initiative and ownership over your learning and work
+* **Empathy:** Understanding and sharing others' emotions in order to relate to them 
+* **Engagement:** Active participation in community
+* **Grit:** A combination of perseverance and passion
+* **Growth:** A belief that your abilities can be developed through dedication, hard work, and resiliency
 
-You're here because you want to pursue a new career that you're passionate about, and we want to not only help you do that, but to do that successfully...
+From this, we aim for students to develop a **self-awareness** that allows them to speak to their strengths and build connections with developers and others in this industry.
 
-Discuss objectives (above)
+**Individual Reflections:** To start our discussion today, we need to reflect on where we are right now and then start to think about where we want to go. In your journals, answer the following questions in **1 sentence each:**
+
+* What is your greatest strength and how do you know?
+* How do you work best?
+* What is your greatest area of improvement?
+
+### Objectives
+* 
 
 ### Overview of Strengths & Working Styles
+As we start to think about 
 
-Scenario:    How does this person work best?
+**Description #1:** Ana prefers to spend time thinking through problems in her head and drawing out solutions before discussing them. 
 
-How can they work together better?
+* How does this person work best?
+* What is this working style called?
+  * This is on the introversion spectrum. Introversion and extroversion are about how we gain energy. How does an extrovert gain energy? 
+* What is a strength of this working style?
+* What should Ana and any teammates she works with be aware of?
 
-Scenario: How can this person work better in X way?
+**Description #2:** Jason is most interested in challenges
+
+* What should Jason and any teammates he works with be aware of?
+
+**Description #3:** Beth 
 
 #### Pairin Survey 
 If you're having trouble answering the above questions, the Pairin survey might be able to help you. Pairin is a tool that gives you insight into 102 **coachable** and **changeable** professional skills ranging from citizenship to empathy to self awareness. The results from your survey will help you to identify some of your strengths and potential areas for growth. 
