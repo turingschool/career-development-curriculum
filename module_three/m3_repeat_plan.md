@@ -36,7 +36,7 @@ You **are required** to attend new PD sessions and all Gear Up sessions. These s
   * Draft a cover letter to bring to PD in week 1 of Module 4
 
 * Options for additional deliverables (choose **at least 2** that you will complete during the module):
-   * Complete a mock technical interview with one of the mentors listed [here](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/technical_interview_prep_resources.md)
+   * Complete a mock technical interview with one of the mentors listed [here](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/interview_prep_resources.md)
    * Participate in resume review workshop by bringing a resume tailored to a specific position OR bring a cover letter draft for that position
    * Attend a Meetup -- be specific on which meetup in your plan below
    * Initiate cold outreach with a new contact and set up a coffee meeting with them
