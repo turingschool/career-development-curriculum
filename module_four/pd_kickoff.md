@@ -11,6 +11,7 @@ Time: 90 mins
 * Intros & DTR (15 mins)
 * Cover Letter Reviews (50 mins; take pomodoros as needed)
 	* Peer & 1:1 with coaches 
+	
 * Group Discussion: Sharing application strategies using revised cover letter (10 mins)
 * Closing: HW for next week, reminders about group communication outside of sessions (5 mins)
 
@@ -70,17 +71,16 @@ Now that you've introduced yourselves, it's time to dive into the cover letters 
 
 Each person will have 8-10 mins to have their cover letter reviewed by the group. In this discussion:
 
-* Give a brief (1-2 minutes) overview of the company and position for which they're applying; share the link to the position if able
-* 
-
-Feedback should utilize the [Cover Letter Checklist](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/cover_letter_checklist.md) 
+* Presenter: give a brief (1-2 minutes) overview of the company and position for which they're applying; share the link to the position if able. Read the cover letter out loud to the group.
+* Group: Use the [Cover Letter Checklist](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/cover_letter_checklist.md) to quickly see if the cover letter is missing anything
+* Coach gives appreciation and coaching feedback while 
 
 ## PD Peer Groups: Application Strategies
-Referencing the slide on application strategies, go around and discuss what next steps for application strategies each person in the group will utilize based on feedback. 
+Go around and discuss what next steps for application strategies each person in the group will utilize based on feedback: 
 
 * How will you revise your cover letter?
 * Who will you reach out to from the company? Or how will you do research to figure out the right person to reach out to?
-* 
+* What other next steps do you need to take for this application?
 
 ## Closing: Discuss Next Steps & Homework
 Next week, bring updates on this job application with you:
