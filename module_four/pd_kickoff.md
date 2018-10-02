@@ -68,14 +68,15 @@ Additional Resources:
 ## Cover Letter Reviews
 Now that you've introduced yourselves, it's time to dive into the cover letters you've brought with you. This cover letter review will take place in your PD groups and follow this format:
 
-Each person will have 8-10 mins to have their cover letter reviewed by the group. In this discussion, they should give a brief (30-60 seconds) overview of the company and position for which they're applying. 
+Each person will have 8-10 mins to have their cover letter reviewed by the group. In this discussion:
 
+* Give a brief (1-2 minutes) overview of the company and position for which they're applying; share the link to the position if able
+* 
 
-
-Feedback should utilize the [Cover Letter Checklist](
+Feedback should utilize the [Cover Letter Checklist](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/cover_letter_checklist.md) 
 
 ## PD Peer Groups: Application Strategies
-Referencing the slide on application strategies, go around and discuss what next steps for application strategies each person in the group will util
+Referencing the slide on application strategies, go around and discuss what next steps for application strategies each person in the group will utilize based on feedback. 
 
 * How will you revise your cover letter?
 * Who will you reach out to from the company? Or how will you do research to figure out the right person to reach out to?
