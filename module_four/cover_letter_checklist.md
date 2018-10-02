@@ -1,7 +1,7 @@
 # Cover Letter Checklist
 Use this checklist to make sure cover letters have all the necessary components. 
 
-**Disclaimer for using this checklist:** The best cover letters are those that capture the applicant's voice and describe them in authentic way. This checklist is meant to help students ensure that they have all the right pieces in their cover letter NOT to create a carbon-copy template. 
+**Disclaimer for using this checklist:** The best cover letters are those that capture the applicant's voice and describes them in authentic way. This checklist is meant to help students ensure that they have all the right pieces in their cover letter NOT to create a carbon-copy template. 
 
 ## Layout
 - [ ] Clean, easy-to-follow
