@@ -65,7 +65,7 @@ Thinking in particular about that question "why should I hire you?", your first 
 
 **Activity: Who do you interview?**
 
-Form groups of 3-4 people. You are now on a hiring committee for a junior engineering position at your company. You need to select 1 out of the 6 resumes listed here to decide who will move on to an interview. 
+Form groups of 3-4 people. You are now on a hiring committee for a junior engineering position at your company. You need to select 1 out of the 5 resumes listed here to decide who will move on to an interview. 
 
 Things to consider:
 * For the sake of this activity, the position is language agnostic
