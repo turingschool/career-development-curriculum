@@ -76,7 +76,6 @@ Candidates:
 * [Ryan Workman](https://alumni.turing.io/sites/default/files/resumes/Workman%20Turing%20Resume.pdf)
 * [Andrew James](https://github.com/turingschool/career-development-curriculum/blob/master/files/Andrew%20James%20Resume.pdf)
 * [Rose Kohn](https://alumni.turing.io/sites/default/files/resumes/rose_a_kohn.pdf)
-* [Roberta Doyle](https://alumni.turing.io/sites/default/files/resumes/Roberta_Doyle_Resume(1).pdf)
 * [Alex Tideman](https://alumni.turing.io/sites/default/files/resumes/alex_tideman.pdf)
 
 Discussion Questions:
