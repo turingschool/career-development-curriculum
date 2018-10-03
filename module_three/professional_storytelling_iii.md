@@ -19,6 +19,23 @@ Length: 60 mins
 ### Professional Development in Module Three
 This is the first of your PD sessions this module. Module Three is the module in which the personal and professional development of the previous two modules is applied to job searching and discovering the right path for your new career. You'll leave Module Three with a clear blueprint for your job search, and we'll start by focusing in on what it is that you want out of your new career, building on your professional story, and reflecting on how your strengths apply to finding this new, fulfilling career path.
 
+We'll focus on:
+
+* Storytelling
+* Resumes
+* Turing Portfolios
+* Cover Letters
+* Analysis of your skillset
+* Job & Company Research
+* Job Shadowing
+* Interview skills
+
+Some resources for you:
+
+* Join #job-hunt
+* #cold-outreach meets on Tuesdays
+* [Interview Prep Resources](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/interview_prep_resources.md)
+
 ### Objectives
 * Build on your professional story by focusing on "what's next"
 * Create a resume and Turing portfolio that reflect your skills and your professional story
@@ -26,6 +43,7 @@ This is the first of your PD sessions this module. Module Three is the module in
 ### Deliverables
 * You'll need a draft of your resume ready by Week 3 for review from staff coaches
 * You'll submit your revised draft of your resume to the Career Development Team (Allison, Ellen Mary, or Kayt) by the end of Week 3
+* You'll participate in a mock behavioral interview by the end of the module
 * You'll need to have your [Turing portfolio](https://alumni.turing.io) finished and published on the Turing website by Monday of Week 6 with your final draft of your resume uploaded 
 
 ### Opening: Review of Storytelling
@@ -46,30 +64,20 @@ As we dive into your resumes and portfolios today, we're going to aim to address
 Thinking in particular about that question "why should I hire you?", your first activity is to examine resumes using that particular stance. 
 
 **Activity: Who do you interview?**
-Form groups of 3-4 people. You are now on a hiring committee for a junior engineering position at your company. You need to select 1 out of the 5 resumes listed here to decide who will move on to an interview. 
+
+Form groups of 3-4 people. You are now on a hiring committee for a junior engineering position at your company. You need to select 1 out of the 6 resumes listed here to decide who will move on to an interview. 
 
 Things to consider:
 * For the sake of this activity, the position is language agnostic
 * All of these resumes are from Turing alumni. As a soon-to-be alum, you should consider how you can use your resume to stand out amongst others with similar skillsets
 
 Candidates:
-* 
 * [Erin Pintozzi](https://alumni.turing.io/sites/default/files/resumes/Erin%27s%20Resume%20020917.pdf)
 * [Ryan Workman](https://alumni.turing.io/sites/default/files/resumes/Workman%20Turing%20Resume.pdf)
-* [July Tran](https://alumni.turing.io/sites/default/files/resumes/july_tran_resume.pdf)
-* [Andrew James](
-
-
-
-* [Josh Cass Resume](https://alumni.turing.io/sites/default/files/resumes/josh_cass.pdf)
-* [Rose Kohn Resume](https://alumni.turing.io/sites/default/files/resumes/rose_a_kohn.pdf)
-* [Kelley Jenkins Resume](https://alumni.turing.io/sites/default/files/resumes/Kelley%20Jenkins%20Resume%205.3.18pdf.pdf)
-* [Evan Miller Resume](https://alumni.turing.io/sites/default/files/resumes/miller_evan_resume_110117.pdf)
-* [Erin Pintozzi Resume](https://alumni.turing.io/sites/default/files/resumes/Erin%27s%20Resume%20020917.pdf)
-* [Ricardo Viera Resume](https://alumni.turing.io/sites/default/files/resumes/RicardoViera_0.pdf)
-* [Laura Turk Resume](https://alumni.turing.io/sites/default/files/resumes/LauraTurk-FE_DEV-2017.pdf)
-* [Jason Lucas Resume](https://alumni.turing.io/sites/default/files/resumes/Jason%20Lucas%20Resume%20.pdf)
-* [Natalia Colome Resume](https://alumni.turing.io/sites/default/files/resumes/NMCA_styled_resume.pdf)
+* [Andrew James](https://github.com/turingschool/career-development-curriculum/blob/master/files/Andrew%20James%20Resume.pdf)
+* [Rose Kohn](https://alumni.turing.io/sites/default/files/resumes/rose_a_kohn.pdf)
+* [Roberta Doyle](https://alumni.turing.io/sites/default/files/resumes/Roberta_Doyle_Resume%20(1).pdf)
+* [Alex Tideman](https://alumni.turing.io/sites/default/files/resumes/alex_tideman.pdf)
 
 Discussion Questions:
 * What is your first impression of this candidate?
@@ -102,6 +110,8 @@ You can choose to set up a traditional resume use a template like this [traditio
 * Find even more sites [here](https://www.producthunt.com/e/create-a-beautiful-resume)
 
 #### Content Inclusion - Follow this order
+Use this [checklist when creating your resume](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/resume_review_checklist.md)
+
 * **Header:**
 	* Name, phone number, email, GitHub, LinkedIn, personal site (These should all be linked text, not the long URL strings)
 	* Remove location
@@ -137,12 +147,15 @@ You can choose to set up a traditional resume use a template like this [traditio
 
 As you update your resume, check on what updates you need to make to your LinkedIn -- update this profile as often as necessary to ensure it reflects exactly what you want it to portray.
 
-#### Next Steps: Create Your Master Resume
-You'll want to tailor your resume for any position you apply for, but it's helpful to have a master longform copy to use as your foundation whenever tailoring a resume. This master copy can be longer than a page as it should contain everything you might want to put on a resume -- don't leave anything out. Later, when you need to tailor your resume to a specific position, you can make a copy of it to cut down to one page. 
+#### What Not to Include
 
-Take 10 minutes to explore some different tools and get your master resume draft started. 
-
-
+* Headshots
+* Special interests (hobbies, etc.)
+* Sliding scale of skills
+    * Instead, label new skills as “learning” or “interested in”
+* Colors that are not printer-friendly
+     * Or make sure to have a printer-friendly version
+* Your own coded resume
 
 ### Turing Portfolio
 As you fill out your [Turing portfolio](https://www.turing.io/alumni), think about how you want to present yourself. 
@@ -150,12 +163,12 @@ As you fill out your [Turing portfolio](https://www.turing.io/alumni), think abo
 Here are the must haves:
 * Professional photo
 * Description -- *how can you tell your story here?*
-* 1 project -- in M4, keep in mind that you'll need to include 3 projects
+* 2-3 projects
+   * Show a variety: paired, team, individual
 
-Check out some examples of how others have created their [portfolios](https://www.turing.io/alumni).
+Check out some examples of how others have created their [portfolios](https://alumni.turing.io).
+
+For the last quarter, 4 alumni identified that their employers found them through the Turing alumni page. 
 
 ### Closing
-Find another person in the room to introduce yourself in a few sentences using the new story you've been developing. The more you practice telling your story, the better you'll get. 
-
-#### Looking Ahead
-Your next PD session is on the [Flower Exercise](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/flower_exercise.md) from the book *What Color is Your Parachute?* This exercise is all about diving into different aspects of your character, goals, and values to more fully understand what you're looking for in this new career. 
+* What are you taking away from today's session?
