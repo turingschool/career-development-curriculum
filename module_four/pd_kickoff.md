@@ -69,11 +69,20 @@ Additional Resources:
 ## Cover Letter Reviews
 Now that you've introduced yourselves, it's time to dive into the cover letters you've brought with you. This cover letter review will take place in your PD groups and follow this format:
 
-Each person will have 8-10 mins to have their cover letter reviewed by the group. In this discussion:
-
-* Presenter: give a brief (1-2 minutes) overview of the company and position for which they're applying; share the link to the position if able. Read the cover letter out loud to the group.
-* Group: Use the [Cover Letter Checklist](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/cover_letter_checklist.md) to quickly see if the cover letter is missing anything
-* Coach gives appreciation and coaching feedback while 
+* Students: Take 5 minutes to go through the [Cover Letter Checklist](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/cover_letter_checklist.md) and reread the cover letter to decide what feedback will be most valuable during the review. To figure out what feedback will be most valuable for you, think about these questions:
+   * What are you not sure about?
+   * What would you like to do differently but you don't know how?
+* Now going around the group, each person will:
+   * Share a brief overview of the company and position for which they're applying; share the link to the position if able
+   * Share what kind of feedback they're most interested in
+   * Read the cover letter out loud to the group
+* Group and Coach will give feedback using these questions:
+   * What's your snap impression?
+   * What's most memorable?
+   * What's repetitive? 
+   * What makes this person a good fit for the position?
+   * What do you have questions about?
+* Each person should get about 7 minutes for their feedback
 
 ## PD Peer Groups: Application Strategies
 Go around and discuss what next steps for application strategies each person in the group will utilize based on feedback: 
@@ -83,13 +92,12 @@ Go around and discuss what next steps for application strategies each person in 
 * What other next steps do you need to take for this application?
 
 ## Closing: Discuss Next Steps & Homework
-Next week, bring updates on this job application with you:
+Next week is Behavioral Interview Prep. Come prepared to answer questions around your story, successes, challenges, working with others, etc. A way to prepare is to practice and brainstorm:
 
-* 
-* 
-
-What else you need feedback on:
-
+* Your professional story
+* An example of a success you've had in programming
+* An example of overcoming a challenge in programming
+* An example of how you worked well in a team
 
 **Remember Your Resources:**
 
