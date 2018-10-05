@@ -10,8 +10,6 @@ Time: 90 mins
 * Opening: objectives, scope & sequence of M4 PD. Introduction to PD groups and resources, breakdown of week by week, and discussion of 30-day plan (10 mins)
 * Intros & DTR (15 mins)
 * Cover Letter Reviews (50 mins; take pomodoros as needed)
-	* Peer & 1:1 with coaches 
-	
 * Group Discussion: Sharing application strategies using revised cover letter (10 mins)
 * Closing: HW for next week, reminders about group communication outside of sessions (5 mins)
 
