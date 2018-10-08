@@ -52,6 +52,11 @@ You'll often find similar experiences happen in pair programming. This session w
 ## Defining the Relationship (DTR)
 DTR refers to a conversation each student has with group partner(s) before launching into a project. During this conversation, group members set expectations for how to work together. Use this [DTR Guiding Questions & Memo template](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/dtr_guidelines_memo.md) to guide the conversation.
 
+**Discussion Questions:**
+* What do you notice about these guiding questions?
+* What would you need to keep in mind when answering these questions with your partner?
+* How can you use this template to make your project successful?
+
 Establishing a relationship with your mentor should also include a DTR. Here’s a [cheatsheet](https://docs.google.com/document/d/1Q35fM3coYjnms9rkVem3FHVk44kW6qHp_-t99PBbczI/edit?usp=sharing) for planning that conversation.
 
 Take time to define your expectations:
