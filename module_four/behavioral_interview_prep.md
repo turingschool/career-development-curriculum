@@ -77,6 +77,10 @@ When answering an interview question, keep the acronym [STAR](https://en.wikiped
 ### Group Practice
 Now in your groups, you will get 10 minutes to prep for your responses to the listed questions. Then, your coach will ask each group member one of the listed questions picked at random. Each student will provide their answer, and their group members and coach will provide feedback on the response.
 
+During each person's response, takes notes in your notebook about what you hear:
+* What do you like about the answer?
+* What would you do differently? 
+
 ### Debrief
 Now that you've had time to practice, go over the feedback you've received to identify one action step you can take away from today's this experience to continue to work on.
 
