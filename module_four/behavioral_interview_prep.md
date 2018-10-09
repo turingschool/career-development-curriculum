@@ -86,3 +86,5 @@ Now that you've had time to practice, go over the feedback you've received to id
 
 * Whole Group Share-out
 
+### Closing
+Discuss external review
