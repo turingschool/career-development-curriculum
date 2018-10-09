@@ -4,9 +4,9 @@ Add questions directly related to Mod 1 & 2 deliverables
 
 ## Directions for Interviewers
 
-1. Plan for the mock interview to take about 30 minutes with 15-20 minutes for the interview and 10-15 minutes for feedback
-2. Select 6-8 questions from the bank below. End the interview by asking "What questions do you have for me?" and encourage students to ask 2-3 questions that they would bring up in an interview.
-3. Take detailed notes to share. Here are examples of what to make note of:
+1. Plan for the mock interview to take about 20 minutes with 10-15 minutes for the interview and 5 minutes for feedback
+2. Select 2-4 questions from the bank below. End the interview by asking "What questions do you have for me?" and encourage students to ask 1-2 questions that they would bring up in an interview.
+3. Take notes to share. Here are examples of what to make note of:
     * Body language & Non-verbal communication
     * Clarity of language & ability to answer the question being asked
     * Tone of voice
