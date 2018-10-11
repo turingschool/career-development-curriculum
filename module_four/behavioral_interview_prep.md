@@ -6,10 +6,13 @@
 
 Time: 90 mins
 
-* Whole Group Kick-off: go over structure, list of questions, how this relates to external review, how this follows up with last mod's practice (5 mins)
-* Group Practice (35-40 mins)
+* Whole Group Kick-off: go over structure for today (5 mins)
+* Group Stand Up (15 mins)
+  * Updates: what's going well, what do you need help with 
+  * Follow-up on cover letters: action steps
+* Group Interview Practice (60 mins)
   * Prep Time (10 mins)
-  * Coach chooses 1 question at random for each student. Student responds and receives feedback (5 mins each)
+  * Coach chooses 1 question at random for each student. Student responds and receives feedback (5 mins each); can do multiple rounds of this
 * Group Debrief (5 mins)
 * Whole Group Share-Out (5 mins)
 * Any additional time: review professional portfolios within student groups 
