@@ -119,6 +119,7 @@ In order to find job postings and begin conducting research, here are some tools
 * [reacHire](http://www.reachire.com/women/jobs) is a job site specifically for connecting women with companies that value inclusion. 
 * [Power to Fly](https://powertofly.com/jobs/) is a job site specifically for women.
 * [Find My Flock](https://www.findmyflock.com/) is a job site built specifically for underrepresented groups in tech.
+* [Listing of Colorado Tech Companies](https://bizwest.com/colorado-tech-2017/?member=guest)
 * [Google](http://www.google.com/)
     * Tips:  
       * Search “top tech companies in [location]” / "top workplaces in [industry (edtech, fintech, etc.)]" and look for a journalist-generated list of companies that are recommended in that area
