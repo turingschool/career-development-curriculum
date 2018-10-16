@@ -38,10 +38,6 @@ Today, we'll discuss techniques for getting better at giving effective feedback 
 * Understand the role of active listening and assertion when taking in feedback
 * Prepare for and have a feedback conversation with your project partners
 
-#### Deliverable
-
-Have a feedback conversation and document it using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/feedback_conversation_reflection_guidelines.md)
-
 ### Communicating Feedback in Conversation
 Here is a basic template on how to conduct a feedback conversation:
 
