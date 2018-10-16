@@ -3,7 +3,7 @@
 1. Describe your 3-act arc by answering these three questions in 1-2 paragraphs: 
 * **Who are you:** Consider describing:
   * How your values and perspective have driven you to come to Turing
-  * Your StrengthsFinder themes 
+  * Your Pairin themes
   * How you've seen yourself grow during this module at Turing 
 
 * **Why are you here:** Consider describing:
