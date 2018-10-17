@@ -45,7 +45,7 @@ The first step to a successful job search is to utilize a tracking system, which
 * [Allison's Example](https://trello.com/b/yIOGfyoE)
 
 #### Your Turn
-Take 5 minutes to set up a job search tracking system. 
+Take 5 minutes to set up your job search tracking system. 
 
 ### The Process
 So if you aren't going to just apply to a posting on a job board, what is your process?
@@ -116,6 +116,10 @@ In order to find job postings and begin conducting research, here are some tools
 * [Power to Fly](https://powertofly.com/jobs/) is a job site specifically for women.
 * [Find My Flock](https://www.findmyflock.com/) is a job site built specifically for underrepresented groups in tech.
 * [Listing of Colorado Tech Companies](https://bizwest.com/colorado-tech-2017/?member=guest)
+    * Tips:
+      * Check out the articles and directory here for lots of companies you can add to your research
+      * Start with cold outreach here to establish connections
+      * Then look into their hiring needs
 * [Google](http://www.google.com/)
     * Tips:  
       * Search “top tech companies in [location]” / "top workplaces in [industry (edtech, fintech, etc.)]" and look for a journalist-generated list of companies that are recommended in that area
@@ -153,7 +157,7 @@ In addition to finding the right posting, remember that the next step is to find
 **Debrief:** Discuss whole group takeaways and questions
 
 ### Demo: Group Practice
-As a whole group, we'll find a job listing to go through. Using this job listing, I'm going to update my Jobtrack and create a plan for outreach using the guidelines we discussed last module in the [Outreach & Networking Session](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/outreach_and_networking.md):
+As a whole group, we'll find a job listing to go through. Using this job listing, I'm going to update my Trello and create a plan for outreach using the guidelines we discussed last module in the [Outreach & Networking Session](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/outreach_and_networking.md):
 
 * Update my contacts -- how do I find contact information?
 * Craft my email -- what should I say? 
@@ -168,7 +172,7 @@ Need more help? Join the #cold-outreach channel and come to their sessions
 * Write a tailored cover letter for the position
 * Research the technologies/libraries the company uses to use in an upcoming project
 
-### Your Turn: Conduct Research & Update Your Jobtrack.io Account
+### Your Turn: Conduct Research & Update Your Tracker
 You have 15 minutes now to get started researching and adding opportunities you're interested in to your Jobtrack.io account.
 
 ### Closing & Next Steps
