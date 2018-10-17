@@ -38,21 +38,11 @@ A few groups will share out.
 * Start a list of companies and jobs to research
 
 ### Prep for Your Job Search: Using a Tracker
-The first step to a successful job search is to utilize a tracking system, which we'll set up today using one of these tools:
+The first step to a successful job search is to utilize a tracking system, which we'll set up today using Trello. Having a system to keep track of everything from companies you're interested in to notes from coffee meetings will be highly beneficial in staying organized in the job search. Check out these resources to get started:
 
-* [Spreadsheet Template](
+* [Using Trello for a Job Search: Less Stress, More Process](https://blog.trello.com/using-trello-for-a-job-search-less-stress-more-process)
 * [Trello Template](https://trello.com/b/lqgqKG6f)
-
-Having a system to keep track of everything from companies you're interested in to notes from coffee meetings will be highly beneficial in staying organized in the job search. 
-
-Demo: Let's walk through these examples.
-
-**Tips:**
-
-* Check out this helpful blog post: [Using Trello for a Job Search: Less Stress, More Process](https://blog.trello.com/using-trello-for-a-job-search-less-stress-more-process)
-* Look at these examples:
-   * [Spreadsheet](
-   * [Trello Example](https://trello.com/b/yIOGfyoE)
+* [Allison's Example](https://trello.com/b/yIOGfyoE)
 
 #### Your Turn
 Take 5 minutes to set up a job search tracking system. 
