@@ -9,7 +9,7 @@ Now is the point in your Turing education to start on your job search, and throu
 Session length: 60 minutes
 
 * Opening (6 mins)
-* Jobtrack.io Tutorial & Set Up (15 mins)
+* Job Searching Tracking (15 mins)
 * Tools & Discussion of Process (10 mins)
 * Demo: Walking Through an Application (10 mins)
 * You Do: Work Time (15 mins)
@@ -23,7 +23,7 @@ Applying for jobs on sites like monster.com, Indeed, and other career listing si
 In contrast, [referral candidates](http://www.careerxroads.com/news/SourcesOfHire2013.pdf) are 3-4 times more likely to be hired than non-referral candidates. To add yourself to those numbers, today we'll talk about how to find a job without relying on just a job application. 
 
 #### Turn & Talk
-At the end of last mod, you were asked to create a networking and outreach plan to execute during this mod. The goal of this plan was to start your job search by creating connections. Turn and talk to provide your partner with an update on this plan:
+Last module, you were asked to create a networking and outreach plan to execute during this mod. The goal of this plan was to start your job search by creating connections. Turn and talk to provide your partner with an update on this plan:
 
 * What connections have you created?
 * What would you like to improve in your networking and outreach plans?
@@ -34,23 +34,28 @@ A few groups will share out.
 #### Objectives
 
 * Describe a step-by-step plan for a job application, including research, outreach, and follow-up
-* Create and effectively use a [jobtrack.io](https://jobtrack.io/) account for your job search
+* Create and effectively use a job search tracker for your job search
 * Start a list of companies and jobs to research
 
-### Prep for Your Job Search: Using Jobtrack.io
-The first step to a successful job search is to utilize a tracking system, which we'll set up today with [jobtrack.io](https://jobtrack.io/). Having this system to keep track of everything from companies you're interested in to notes from coffee meetings will be highly beneficial in helping you stay organized in the job search. In order to successfully pass your Module 4 portfolio, you'll need to discuss how you're using Jobtrack in your portfolio review in your PD deliverable, found [here](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md). 
+### Prep for Your Job Search: Using a Tracker
+The first step to a successful job search is to utilize a tracking system, which we'll set up today using one of these tools:
 
-[Jobtrack.io](https://jobtrack.io) was built specifically for job seekers. It allows you to track relationships with companies and where you are in the process, pulling in data about companies intuitively through its free Chrome extension. You are also able to manage versions of your resume and cover letters within the tool, and it will send you reminders to proceed in different steps of the process with companies. 
+* [Spreadsheet Template](
+* [Trello Template](https://trello.com/b/lqgqKG6f)
 
-Demo: Let's walk through how to set up and use Jobtrack. 
+Having a system to keep track of everything from companies you're interested in to notes from coffee meetings will be highly beneficial in staying organized in the job search. 
+
+Demo: Let's walk through these examples.
 
 **Tips:**
 
-* Add the [Chrome Extension](https://chrome.google.com/webstore/search/jobtrack.io)
-* Watch this [tutorial](https://drive.google.com/file/d/14SPY5CbL5hQj7JDxGrAnCMSkIgmLG78n/view?usp=sharing) to get even more information on how to use Jobtrack.io effectively
+* Check out this helpful blog post: [Using Trello for a Job Search: Less Stress, More Process](https://blog.trello.com/using-trello-for-a-job-search-less-stress-more-process)
+* Look at these examples:
+   * [Spreadsheet](
+   * [Trello Example](https://trello.com/b/yIOGfyoE)
 
 #### Your Turn
-Take 5 minutes to set up your Jobtrack account and install the chrome extension. We'll come back to logging in more information later in the session. 
+Take 5 minutes to set up a job search tracking system. 
 
 ### The Process
 So if you aren't going to just apply to a posting on a job board, what is your process?
@@ -116,6 +121,7 @@ In order to find job postings and begin conducting research, here are some tools
 * [We Work Remotely Job Board](https://weworkremotely.com/)
 * [Current Listing of Remote Dev Jobs](https://remoteok.io/remote-dev-jobs)
 * [Flex Jobs](https://www.flexjobs.com/)
+* [People of Color in Tech](https://www.pocitjobs.com/) is a job site specifically for People of Color in tech.
 * [reacHire](http://www.reachire.com/women/jobs) is a job site specifically for connecting women with companies that value inclusion. 
 * [Power to Fly](https://powertofly.com/jobs/) is a job site specifically for women.
 * [Find My Flock](https://www.findmyflock.com/) is a job site built specifically for underrepresented groups in tech.
