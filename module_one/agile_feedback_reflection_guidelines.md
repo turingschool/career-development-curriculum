@@ -1,7 +1,7 @@
 # Agile & Feedback Reflection Guidelines
 In interviews, you'll be asked about how you approach working in projects, and being able to describe how you utilize agile processes is a great way to help you stand out as a junior developer candidate. This reflection is meant to help you develop this skill.
 
-With that in mind, please answer the following questions about your group project:
+With that in mind, please answer the following questions in your own gist about your group project:
 
 1. What have you learned about the use of agile vs. waterfall in software projects? 
 
