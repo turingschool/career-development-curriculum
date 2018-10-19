@@ -6,6 +6,11 @@
 
 ### Session Structure
 
+MOD 1 UPDATES:
+-Still use leadership styles, draw comparisons to Pairin Drivers, etc.
+-Make more explicit on how to have conversations of DTR in this sense
+-Provide more time
+
 Length: 90 minutes
 
 * Opening: objectives, deliverable, why (5 mins)
@@ -35,13 +40,7 @@ Length: 90 minutes
 * Discuss how to leverage each others' strengths to work even more effectively in your project
 
 ### Deliverable (Allison)
-By Monday of Week 6, submit a written reflection on:
-* How you've used agile as a process at Turing and what kind of project management tools you utilized. Address these questions:
-   * What were you already doing? 
-   * What did you put into place in Module Two?
-   * What was effective?
-   * What do you want to improve on in future projects?
-* Description of the role you played in your pair/group projects this module -- what was your role as a teammate? How did you utilize your strengths and leadership skills?
+Submit a reflection on using agile and participating in retro feedback using [this template](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/agile_feedback_reflection_guidelines.md) in survey provided by 9am on Friday of Week 5
 
 ### Connections: The Why (Jeff & Allison)
 To build great software we need to be intentional about the **process**. Whether working solo or in groups, your process is a more significant determiner of your project's success than your technical skill. And refining your process helps you establish your place in the industry as an emerging developer. 
