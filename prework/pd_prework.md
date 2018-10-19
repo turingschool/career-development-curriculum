@@ -35,23 +35,23 @@ For the activities listed below, **please put your reflections for each of these
    
 3. One tool we'll be using for your professional development at Turing is the Pairin Survey. This survey measures over 100 coachable and changeable skills. This activity invites you to begin building an understanding of how learning about and developing your strengths applies to your success in your new career. We will discuss the results of this survey more in-depth in your first professional development session at Turing. Follow the steps below to fulfill this part of the prework:
 
-Step 1: Take the survey using [this link](https://survey.pairin.com/signup/15960/student). It will prompt you to create an account when you take it. There are 2 sections for this survey:
+ Step 1: Take the survey using [this link](https://survey.pairin.com/signup/15960/student). It will prompt you to create an account when you take it. There are 2 sections for this survey:
    * First section: Choose adjectives to answer _how you currently are_
    * Second section: Choose adjectives to answer _how you would like to be_. The second section is marked as "optional," but it is highly recommended that you fill out this section in order to give even more data for you.
 
-The survey should take you about 15-20 minutes. 
+  The survey should take you about 15-20 minutes. 
 
-Step 2: Read this post and watch this video to start building an understanding of your Pairin (5 minutes total):
+ Step 2: Read this post and watch this video to start building an understanding of your Pairin (5 minutes total):
 
    * [Understanding Your Pairin Results](https://www.youtube.com/watch?v=VXe3i_KjaSI) (2 minutes)
    * [Pairin Qualities Overview](https://docs.google.com/document/d/1bqJd_53P-_5_iHN4cn7K04Jzhvw1FOUo3FcjSPCdK8w/edit?usp=sharing) (2.5 minute read)
       
-Step 3: Please respond to the following questions in a reflection (4-6 sentences):
+ Step 3: Please respond to the following questions in a reflection (4-6 sentences):
    * What is your greatest strength and how do you know?
    * How do you work best?
    * What is your greatest area of improvement?
    * How do you hope to maximize your strengths for your new career in software development?
    
-Optional further reading:
-* [How to Hire Like Google & Facebook](https://www.forbes.com/sites/ashoka/2014/04/15/how-to-hire-like-google-and-facebook-evaluating-candidates-beyond-their-technical-ability/#64c08fc513bf): (5 minute read)
-* [Four Essentials of Strengths-Based Leadership](http://www.forbes.com/sites/ekaterinawalter/2013/08/27/four-essentials-of-strength-based-leadership/#76b62a91fa21): (6 minute read)
+ Optional further reading:
+   * [How to Hire Like Google & Facebook](https://www.forbes.com/sites/ashoka/2014/04/15/how-to-hire-like-google-and-facebook-evaluating-candidates-beyond-their-technical-ability/#64c08fc513bf): (5 minute read)
+   * [Four Essentials of Strengths-Based Leadership](http://www.forbes.com/sites/ekaterinawalter/2013/08/27/four-essentials-of-strength-based-leadership/#76b62a91fa21): (6 minute read)
