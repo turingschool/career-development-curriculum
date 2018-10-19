@@ -33,36 +33,25 @@ For the activities listed below, **please put your reflections for each of these
    * Approximate reading time (including the excerpt from the book, which is optional): 22 minutes
    * After reading, consider the idea of checklists. Write a reflection (4-6 sentences) on the benefits of a checklist and how an organizational system such as a checklist might help you first as a student and later as a full-time developer. 
    
-3. One tool we'll be using for your professional development at Turing is the [Clifton StrengthsFinder assessment](https://github.com/turingschool/career-development-curriculum/blob/master/files/CSFTechnicalReport031005.pdf). Unlike other assessments, one of the hallmarks of StrengthsFinder is that it focuses solely on what you're already doing well in order to understand how to capitalize on those strengths. 
+3. One tool we'll be using for your professional development at Turing is the Pairin Survey. This survey measures over 100 coachable and changeable skills. This activity invites you to begin building an understanding of how learning about and developing your strengths applies to your success in your new career. We will discuss the results of this survey more in-depth in your first professional development session at Turing. Follow the steps below to fulfill this part of the prework:
 
-Here is an excerpt from the above linked article about the purpose of StrengthsFinder:
+Step 1: Take the survey using [this link](https://survey.pairin.com/signup/15960/student). It will prompt you to create an account when you take it. There are 2 sections for this survey:
+   * First section: Choose adjectives to answer _how you currently are_
+   * Second section: Choose adjectives to answer _how you would like to be_. The second section is marked as "optional," but it is highly recommended that you fill out this section in order to give even more data for you.
 
-    The CSF is an online measure of personal talent that identifies areas
-    where an individual’s greatest potential for building strengths exists. By
-    identifying one’s top themes of talent, the CSF provides a starting point in the
-    identification of specific personal talents, and the related supporting materials
-    help individuals discover how to build upon their talents to develop strengths
-    within their roles. The primary application of the CSF is as an evaluation that
-    initiates a strengths-based development process in work and academic settings.
-    As an omnibus assessment based on positive psychology, its main application has
-    been in the work domain, but it has been used for understanding individuals in a
-    variety of settings — employees, executive teams, students, families, and
-    personal development.
+The survey should take you about 15-20 minutes. 
 
-You'll take this assessment in the first week of Module One, but this activity invites you to begin building an understanding of how learning about and developing your strengths applies to your success in your new career. Read through the following three articles and write a reflection using the questions listed below:
+Step 2: Read this post and watch this video to start building an understanding of your Pairin (5 minutes total):
 
-   * Approximate reading time: 
-       * [How to Hire Like Google & Facebook](https://www.forbes.com/sites/ashoka/2014/04/15/how-to-hire-like-google-and-facebook-evaluating-candidates-beyond-their-technical-ability/#64c08fc513bf): 5 minutes
-       * [Four Essentials of Strengths-Based Leadership](http://www.forbes.com/sites/ekaterinawalter/2013/08/27/four-essentials-of-strength-based-leadership/#76b62a91fa21): 6 minutes
-       * [Debunking Strengths Myth #1: Adopting a strengths-based approach doesn’t mean you can ignore your weaknesses](https://github.com/turingschool/career-development-curriculum/blob/master/files/Debunking_Strengths_Myth_1_20071013.pdf): 6 minutes
-   * After reading the three articles, answer the following questions in a reflection (4-6 sentences):
-      * What is your impression of strengths-based development? What questions do you have about this kind of development?
-      * What do you feel are your top strengths? How do you know? 
-      * How do you hope to develop your strengths for your new career in software development?
+   * [Understanding Your Pairin Results](https://www.youtube.com/watch?v=VXe3i_KjaSI) (2 minutes)
+   * [Pairin Qualities Overview](https://docs.google.com/document/d/1bqJd_53P-_5_iHN4cn7K04Jzhvw1FOUo3FcjSPCdK8w/edit?usp=sharing) (2.5 minute read)
       
-  Additional Optional Readings on StrengthsFinder: 
-
-  * [Strengths-Based Development in Practice](https://github.com/turingschool/career-development-curriculum/blob/master/files/Strengths-Based_Development_in_Practice.pdf)
-  * [Debunking Strengths Myth #2: Why taking a strengths-based approach isn’t as easy as it seems](https://github.com/turingschool/career-development-curriculum/blob/master/files/Debunking_Strengths_Myth_2_20080110.pdf)
-  * [Debunking Strengths Myth #3: When it comes to first impressions about employees’ talents, you should trust -- but verify -- them](https://github.com/turingschool/career-development-curriculum/blob/master/files/Debunking_Strengths_Myth_3_20080410.pdf)
-  * [Debunking Strengths Myth #4: Understanding the real connection between talent and motivation](https://github.com/turingschool/career-development-curriculum/blob/master/files/Debunking_Strengths_Myth_4_20080911.pdf)
+Step 3: Please respond to the following questions in a reflection (4-6 sentences):
+   * What is your greatest strength and how do you know?
+   * How do you work best?
+   * What is your greatest area of improvement?
+   * How do you hope to maximize your strengths for your new career in software development?
+   
+Optional further reading:
+* [How to Hire Like Google & Facebook](https://www.forbes.com/sites/ashoka/2014/04/15/how-to-hire-like-google-and-facebook-evaluating-candidates-beyond-their-technical-ability/#64c08fc513bf): (5 minute read)
+* [Four Essentials of Strengths-Based Leadership](http://www.forbes.com/sites/ekaterinawalter/2013/08/27/four-essentials-of-strength-based-leadership/#76b62a91fa21): (6 minute read)
