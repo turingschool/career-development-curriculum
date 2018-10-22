@@ -20,7 +20,7 @@ Length: 90 minutes
 * Project Management Tools & Resources (10 mins)
 * How Teams Work Together (29 mins)
    * Whole Group Introduction (2 mins)
-   * StrengthsFinder Leadership Domains Discussion (8 mins)
+   * Leadership Domains Discussion (8 mins)
    * Tuckman's Group Life Cycle Discussion (7 mins)
    * Project Group Discussion (12 mins)
 * Closing: how to continue this at Turing (1 min)
@@ -35,13 +35,7 @@ Length: 90 minutes
 * Discuss how to leverage each others' strengths to work even more effectively in your project
 
 ### Deliverable (Allison)
-By Monday of Week 6, submit a written reflection on:
-* How you've used agile as a process at Turing and what kind of project management tools you utilized. Address these questions:
-   * What were you already doing? 
-   * What did you put into place in Module Two?
-   * What was effective?
-   * What do you want to improve on in future projects?
-* Description of the role you played in your pair/group projects this module -- what was your role as a teammate? How did you utilize your strengths and leadership skills?
+Submit a reflection on using agile and participating in retro feedback using [this template](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/agile_feedback_reflection_guidelines.md) in survey provided by 9am on Friday of Week 5
 
 ### Connections: The Why (Jeff & Allison)
 To build great software we need to be intentional about the **process**. Whether working solo or in groups, your process is a more significant determiner of your project's success than your technical skill. And refining your process helps you establish your place in the industry as an emerging developer. 
@@ -231,7 +225,7 @@ Now that you understand these leadership styles look like, let's discuss how the
 * How does this cycle relate to agile systems?
 
 #### Project Team Discussion
-You're about to kick off your next team/paired project. Get into the groups listed on the slide to discuss the following questions:
+You're about to kick off your next team project. Get into the groups listed on the slide to discuss the following questions:
 
 * Share your strengths with each other -- what do they mean? How do you interpret these strengths in your day-to-day work? 
 * How can you move through Tuckman's stages as a team?
