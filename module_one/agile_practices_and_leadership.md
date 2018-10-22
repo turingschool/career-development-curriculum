@@ -6,11 +6,6 @@
 
 ### Session Structure
 
-MOD 1 UPDATES:
--Still use leadership styles, draw comparisons to Pairin Drivers, etc.
--Make more explicit on how to have conversations of DTR in this sense
--Provide more time
-
 Length: 90 minutes
 
 * Opening: objectives, deliverable, why (5 mins)
@@ -25,7 +20,7 @@ Length: 90 minutes
 * Project Management Tools & Resources (10 mins)
 * How Teams Work Together (29 mins)
    * Whole Group Introduction (2 mins)
-   * StrengthsFinder Leadership Domains Discussion (8 mins)
+   * Leadership Domains Discussion (8 mins)
    * Tuckman's Group Life Cycle Discussion (7 mins)
    * Project Group Discussion (12 mins)
 * Closing: how to continue this at Turing (1 min)
@@ -204,9 +199,7 @@ Let's consider how our strengths play a part in the types of roles we take on in
   * **Relationship Building:** Relationship Builders are the glue that holds a team together. Strengths associated with bringing people together -- whether it is by keeping distractions at bay or keeping the collective energy high -- transform a group of individuals into a team capable of carrying out complex projects and goals.
   * **Strategic Thinking:** Those who are able to keep people focused on “what they could” be are constantly pulling a team and its members into the future. They continually absorb and analyze information and help the team make better decisions. 
 
-![SF Leadership Domains](https://github.com/turingschool/career-development-curriculum/blob/master/files/SF%20Leadership%20Domains.png)
-
-With your top 5 StrengthsFinder strengths, where do you fall in these styles? What does this tell you about how you operate on teams?
+Using the handout above and examining your strengths from your Pairin results, where do you fall in these styles? What does this tell you about how you operate on teams?
 
 **Whole Group Discussion:**
 * How do each of these types of leadership styles work together?
@@ -230,7 +223,7 @@ Now that you understand these leadership styles look like, let's discuss how the
 * How does this cycle relate to agile systems?
 
 #### Project Team Discussion
-You're about to kick off your next team/paired project. Get into the groups listed on the slide to discuss the following questions:
+You're about to kick off your first team project. Get into the groups listed on the slide to discuss the following questions:
 
 * Share your strengths with each other -- what do they mean? How do you interpret these strengths in your day-to-day work? 
 * How can you move through Tuckman's stages as a team?
