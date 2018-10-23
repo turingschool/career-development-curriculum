@@ -21,7 +21,7 @@ Length: 60 minutes
 ### Opening
 #### Objectives & Why:
 The objectives we'll cover in today's session:
-*
+* 
 
 Why are we talking about this?
 * 
@@ -47,10 +47,13 @@ Share out
 
 #### What is a Retrospective?
 Notes from [Do's and Don't's: How to Conduct Effective Retros](https://www.inloox.com/company/blog/articles/do-s-and-don-ts-how-to-conduct-effective-retrospectives/):
-* It's a meeting that happens at the end of a scrum sprint/iteration and at the end of a project
+* It's a meeting that happens at the end of a scrum sprint/iteration and at the end of a project. *This is part of agile processes*
 * This meeting is an opportunity for the project team to look back at what they have achieved during the last sprint, what went really well, and what could be improved. 
 * **The focus is not on how the product or deliverable could be improved but on how the team can collaborate more effectively to generate better outcomes.** 
 * Retrospectives are great for helping teams understand each other better and facilitate better collaboration which in turn leads to improved productivity. *The emphasis is on continuous improvement and change, instead of blindly following the same old procedures and processes.*
+
+
+
 
 ### How to Communicate More Mindfully: Nonviolent Communication Framework
 In order to dive into what your feelings/thoughts/concerns/opinions really are in terms of the feedback you need to give, consider the steps to the [Nonviolent Communication Framework](http://www.nonviolentcommunication.com/freeresources/article_archive/heartofnvc_mrosenberg.htm) in order to use our natural *compassion* when communicating with each other.
