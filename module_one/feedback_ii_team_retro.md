@@ -11,7 +11,7 @@ Materials needed:
 Length: 60 minutes
 
 * Opening/Hook (5 mins)
-  * Domains of leadership/Pairin
+  * Reflection on domains of leadership/Pairin
 * Overview of Team Retros & Intro to Feedback in Conversation (15 mins)
 * Nonviolent Communication (15 mins)
 * Activity: Team Retros (20 mins)
@@ -20,22 +20,29 @@ Length: 60 minutes
 
 ### Opening
 #### Objectives & Why:
-The objectives we'll cover in today's session:
-* 
+Objectives of our session today:
+* Understand what a retro is and what it can look like in practice
+* Build on your feedback process by using the Nonviolent Communication Framework to increase the mindfulness in your communication
+* Execute a successful retro in your project groups
 
-Why are we talking about this?
-* 
+Why are we talking about retros?
+* This is a part of the agile process
+* This is how you continue to build strong communication skills
+* Strong communication leads to better software
 
 #### Reminder: Deliverable
 Submit a reflection on using agile and participating in retro feedback using [this template](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/agile_feedback_reflection_guidelines.md) in survey provided by 9am on Friday of Week 5
 
 #### Reflection (2 mins)
-Journal/Think about the role you've take in your project so far
+Take 90 seconds to reflect on the role you've taken in your project so far in terms of how you're using your strengths and leadership style. Reminder about the four domains:
 
-Share out
+* **Executing:** Team members who have a dominant strength in Executing are those you turn to time and again to implement a solution. These people work tirelessly to get something done. People who are strong in the Executing domain have an ability to take an idea and transform it into a reality within the organization they lead
+* **Influencing:** People who are innately good at influencing are always selling the team’s ideas inside and outside the organization. When you need someone to take charge, speak up, and make sure your group is heard, look to someone with Influence.
+* **Relationship Building:** Relationship Builders are the glue that holds a team together. Strengths associated with bringing people together -- whether it is by keeping distractions at bay or keeping the collective energy high -- transform a group of individuals into a team capable of carrying out complex projects and goals.
+* **Strategic Thinking:** Those who are able to keep people focused on “what they could” be are constantly pulling a team and its members into the future. They continually absorb and analyze information and help the team make better decisions.
 
 ### Overview of Team Retros 
- Part of agile process (not just for the end of the project)
+
   * Setting norms for the discussion (maybe have this take the place of the template?)
     * "opening" -- revisit Tuckman's; where are we in the group dynamic cycle? 
     * process ("body")
@@ -52,6 +59,12 @@ Notes from [Do's and Don't's: How to Conduct Effective Retros](https://www.inloo
 * **The focus is not on how the product or deliverable could be improved but on how the team can collaborate more effectively to generate better outcomes.** 
 * Retrospectives are great for helping teams understand each other better and facilitate better collaboration which in turn leads to improved productivity. *The emphasis is on continuous improvement and change, instead of blindly following the same old procedures and processes.*
 
+#### How to Structure a Retro
+
+
+#### Tools for Retros
+Today we're going to use chart paper and post-its to outline our retros, but 
+* Scatterspoke
 
 
 
