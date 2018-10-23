@@ -23,7 +23,7 @@ Length: 60 minutes
 
 ## Opening
 
-* Reflect on feedback process HOOK
+* Reflect on feedback process HOOK (will not have had feedback yet from me)
   * Also come back to Pairin qualities divided against domains of leadership
 * Template on in-person conversations
   * Positions vs. interests
@@ -35,4 +35,5 @@ Length: 60 minutes
   * What needs improvement? Coaching; About actions and outcomes, not specific people
   * What are the next steps? 
 
+MAYBE HAVE THEM CHOOSE AN ACTIVITY TO UTILIZE IN THEIR GROUPS?!?! So it's not a traditional retro yet...
   
