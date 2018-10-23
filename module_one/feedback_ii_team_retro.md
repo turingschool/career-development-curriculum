@@ -2,7 +2,7 @@
 
 ## Team Retrospectives
 
-[Slides for this session](
+[Slides for this session](https://docs.google.com/presentation/d/1D8i8iyGNgxdkDql5fe6zOkRqJl3Qit19NaPbrVC-L9g/edit?usp=sharing)
 
 Materials needed:
 * Chart paper
@@ -34,7 +34,9 @@ Length: 60 minutes
 ## Opening
 
   
-## Debrief
+  
+
+## Debrief/Closing
 2-3 groups share out their takeaways from the retro:
 * What next steps are you focused on in your project? How did you decide on those steps?
 
