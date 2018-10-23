@@ -34,3 +34,9 @@ Length: 60 minutes
 ## Opening
 
   
+## Debrief
+2-3 groups share out their takeaways from the retro:
+* What next steps are you focused on in your project? How did you decide on those steps?
+
+Reminder about deliverable:
+* Submit a reflection on using agile and participating in retro feedback using [this template](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/agile_feedback_reflection_guidelines.md) in survey provided by 9am on Friday of Week 5
