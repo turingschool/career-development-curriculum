@@ -29,7 +29,10 @@ Why are we talking about this?
 #### Reminder: Deliverable
 Submit a reflection on using agile and participating in retro feedback using [this template](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/agile_feedback_reflection_guidelines.md) in survey provided by 9am on Friday of Week 5
 
+#### Reflection (2 mins)
+Journal/Think about the role you've take in your project so far
 
+Share out
 
 ### Overview of Team Retros 
  Part of agile process (not just for the end of the project)
@@ -73,7 +76,7 @@ NVC Framework follows these steps:
 
 All of these steps of reflection should take place *before* you have the feedback conversation to clarify your points.
 
-#### Turn & Talk
+#### Turn & Talk UPDATE EXAMPLES
 Find a partner to discuss the following scenarios and come up with an alternative way of phrasing these pieces of feedback:
 
 **Scenario #1: "You should have more confidence."**
