@@ -46,7 +46,7 @@ Share out
   * What are the next steps? 
 
 #### What is a Retrospective?
-Notes from 
+Notes from [Do's and Don't's: How to Conduct Effective Retros](https://www.inloox.com/company/blog/articles/do-s-and-don-ts-how-to-conduct-effective-retrospectives/):
 * It's a meeting that happens at the end of a scrum sprint/iteration and at the end of a project
 * This meeting is an opportunity for the project team to look back at what they have achieved during the last sprint, what went really well, and what could be improved. 
 * **The focus is not on how the product or deliverable could be improved but on how the team can collaborate more effectively to generate better outcomes.** 
