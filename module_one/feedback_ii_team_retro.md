@@ -1,6 +1,6 @@
 # Feedback II
 
-## Retroing in Teams
+## Team Retrospectives
 
 [Slides for this session](
 
