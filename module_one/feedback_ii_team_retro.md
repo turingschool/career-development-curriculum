@@ -13,27 +13,24 @@ Materials needed:
 Length: 60 minutes
 
 * Opening/Hook (5 mins)
-  * Domains of leadership
+  * Domains of leadership/Pairin
 * Overview of Team Retros & Intro to Feedback in Conversation (15 mins)
-  * Domains of leadership here?
+  * Part of agile process (not just for the end of the project)
+  * Setting norms for the discussion (maybe have this take the place of the template?)
+    * "opening" -- revisit Tuckman's; where are we in the group dynamic cycle? 
+    * process ("body")
+    * next steps ("closing")
+    * A little on sources of interest -- what are you bringing to the conversation? What do you hope to get out of the conversation?
+  * What went well? Appreciation feedback! Be specific!
+  * What needs improvement? Coaching; About actions and outcomes, not specific people
+  * What are the next steps? 
 * Nonviolent Communication (15 mins)
+  * Mindfulness
   * Examples
-* Team Retros (20 mins)
+* Activity: Team Retros (20 mins)
+  * Choose Your Own Adventure: show examples of how to structure retros from activities page
 * Debrief/Closing (5 mins)
 
 ## Opening
 
-* Reflect on feedback process HOOK (will not have had feedback yet from me)
-  * Also come back to Pairin qualities divided against domains of leadership
-* Template on in-person conversations
-  * Positions vs. interests
-  * Keep coming back to examples of what this looks like in in-person communication/team dynamics
-* Nonviolent communication framework -- emphasis on being mindful in communication 
-* Structure of a team retro
-  * Setting norms for the discussion (maybe have this take the place of the template?)
-  * What went well? Appreciation feedback! Be specific!
-  * What needs improvement? Coaching; About actions and outcomes, not specific people
-  * What are the next steps? 
-
-MAYBE HAVE THEM CHOOSE AN ACTIVITY TO UTILIZE IN THEIR GROUPS?!?! So it's not a traditional retro yet...
   
