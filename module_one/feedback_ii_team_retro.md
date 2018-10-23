@@ -1,6 +1,4 @@
-# Feedback II
-
-## Team Retrospectives
+# Feedback II: Team Retrospectives
 
 [Slides for this session](https://docs.google.com/presentation/d/1D8i8iyGNgxdkDql5fe6zOkRqJl3Qit19NaPbrVC-L9g/edit?usp=sharing)
 
@@ -15,7 +13,26 @@ Length: 60 minutes
 * Opening/Hook (5 mins)
   * Domains of leadership/Pairin
 * Overview of Team Retros & Intro to Feedback in Conversation (15 mins)
-  * Part of agile process (not just for the end of the project)
+* Nonviolent Communication (15 mins)
+* Activity: Team Retros (20 mins)
+  * Choose Your Own Adventure: show examples of how to structure retros from activities page
+* Debrief/Closing (5 mins)
+
+### Opening
+#### Objectives & Why:
+The objectives we'll cover in today's session:
+*
+
+Why are we talking about this?
+* 
+
+#### Reminder: Deliverable
+Submit a reflection on using agile and participating in retro feedback using [this template](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/agile_feedback_reflection_guidelines.md) in survey provided by 9am on Friday of Week 5
+
+
+
+### Overview of Team Retros 
+ Part of agile process (not just for the end of the project)
   * Setting norms for the discussion (maybe have this take the place of the template?)
     * "opening" -- revisit Tuckman's; where are we in the group dynamic cycle? 
     * process ("body")
@@ -24,16 +41,6 @@ Length: 60 minutes
   * What went well? Appreciation feedback! Be specific!
   * What needs improvement? Coaching; About actions and outcomes, not specific people
   * What are the next steps? 
-* Nonviolent Communication (15 mins)
-  * Mindfulness
-  * Examples
-* Activity: Team Retros (20 mins)
-  * Choose Your Own Adventure: show examples of how to structure retros from activities page
-* Debrief/Closing (5 mins)
-
-### Opening
-
-### Overview of Team Retros 
 
 ### How to Communicate More Mindfully: Nonviolent Communication Framework
 In order to dive into what your feelings/thoughts/concerns/opinions really are in terms of the feedback you need to give, consider the steps to the [Nonviolent Communication Framework](http://www.nonviolentcommunication.com/freeresources/article_archive/heartofnvc_mrosenberg.htm) in order to use our natural *compassion* when communicating with each other.
