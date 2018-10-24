@@ -49,7 +49,7 @@ We'll share out a few responses with the whole group.
     * "opening" -- revisit Tuckman's; where are we in the group dynamic cycle? 
     * process ("body")
     * next steps ("closing")
-    * A little on sources of interest -- what are you bringing to the conversation? What do you hope to get out of the conversation?
+   
   * What went well? Appreciation feedback! Be specific!
   * What needs improvement? Coaching; About actions and outcomes, not specific people
   * What are the next steps? 
@@ -83,16 +83,37 @@ Be ready to discuss:
 * Where are you in the Tuckman’s Group Life Cycle? What does the team need to keep moving forward?
 * What would you like the team to improve on?
 
-#### Other Resources for Retros
+#### Process
+Start with **what went well**:
+
+* Appreciations: make these specific!
+* How can these appreciations continue to be replicated?
+* What strengths are being discussed?
+
+Then move to **what needs improvement**:
+
+* Coaching: what can the group do better? How can we move to a performing stage of Tuckman's?
+* Follow your norms: this is about actions and outcomes, not specific people
+
+And finally, move to **next steps:**
+
+* What will you change as you move forward as a group? For a retro to be really effective, your team needs to actually make change
+* Come up with actionable steps, discuss them as a team,gree to which actions you will take, assign owners and a due date to get them DONE.
+
+One particular activity you might want to try to sturcutre this is the 4 Ls:
+
+* What did you *like*?
+* What did you *learn*?
+* What did you *lack*?
+* What do you *long for*?
+
+You could set this up through quadrants with your post-its.
+
+#### More Resources for Retros
+Consider using a tool such as [Scatterspoke](https://www.scatterspoke.com/) to run your retros
 * [How to Run a Sprint Retrospective That Actually Leads to Change](https://thedigitalprojectmanager.com/how-run-sprint-retrospective/)
 * [How to Run a Really Good Retrospective from Pivotal Tracker](https://builttoadapt.io/how-to-run-a-really-good-retrospective-8982bd839e16)
 * [Fun Retrospectives](http://www.funretrospectives.com/) has lots of different activities to use in retros.
-
-#### Tools for Retros
-Today we're going to use chart paper and post-its to outline our retros, but 
-* Scatterspoke
-
-
 
 ### How to Communicate More Mindfully: Nonviolent Communication Framework
 In order to dive into what your feelings/thoughts/concerns/opinions really are in terms of the feedback you need to give, consider the steps to the [Nonviolent Communication Framework](http://www.nonviolentcommunication.com/freeresources/article_archive/heartofnvc_mrosenberg.htm) in order to use our natural *compassion* when communicating with each other.
@@ -123,16 +144,16 @@ NVC Framework follows these steps:
 * Needs: You can't figure out what you need until you reflect on your feelings; use positive language and make needs clear
 * Requests: Express clearly and ask for a reflection
 
-All of these steps of reflection should take place *before* you have the feedback conversation to clarify your points.
+All of these steps of reflection should take place *before* you have feedback conversations to clarify your points.
 
-#### Turn & Talk UPDATE EXAMPLES
-Find a partner to discuss the following scenarios and come up with an alternative way of phrasing these pieces of feedback:
+#### Turn & Talk
+Find a partner to discuss the following scenarios and unpack these phrases to uncover how the feedback could be changed to make for a better retro discussion or what follow-up discussions should happen:
 
-**Scenario #1: "You should have more confidence."**
+**Scenario #1:** "I feel like not everyone in the group is giving 100%." 
 
-**Scenario #2: "I feel inadequate because when I've brought up ideas you haven't been willing to try any of them out today."**
+**Scenario #2:** "I feel inadequate because the group hasn't been listening to me."
 
-**Scenario #3: "I feel you are not giving 100% to this.”**
+**Scenario #3:** "Other groups are further ahead than we are. We have to get back on track. I need everyone to work harder." 
 
 For each of the above, discuss:
 
