@@ -88,7 +88,7 @@ Start with **what went well**:
 
 * Appreciations: make these specific!
 * How can these appreciations continue to be replicated?
-* What strengths are being discussed?
+* What strengths have you observed people using?
 
 Then move to **what needs improvement**:
 
@@ -98,7 +98,7 @@ Then move to **what needs improvement**:
 And finally, move to **next steps:**
 
 * What will you change as you move forward as a group? For a retro to be really effective, your team needs to actually make change
-* Come up with actionable steps, discuss them as a team,gree to which actions you will take, assign owners and a due date to get them DONE.
+* Come up with actionable steps, discuss them as a team, agree to which actions you will take, assign owners and a due date to get them DONE.
 
 One particular activity you might want to try to sturcutre this is the 4 Ls:
 
@@ -110,7 +110,7 @@ One particular activity you might want to try to sturcutre this is the 4 Ls:
 You could set this up through quadrants with your post-its.
 
 #### More Resources for Retros
-Consider using a tool such as [Scatterspoke](https://www.scatterspoke.com/) to run your retros
+* Consider using a tool such as [Scatterspoke](https://www.scatterspoke.com/) or [Retrium](https://www.retrium.com/) to run your retros
 * [How to Run a Sprint Retrospective That Actually Leads to Change](https://thedigitalprojectmanager.com/how-run-sprint-retrospective/)
 * [How to Run a Really Good Retrospective from Pivotal Tracker](https://builttoadapt.io/how-to-run-a-really-good-retrospective-8982bd839e16)
 * [Fun Retrospectives](http://www.funretrospectives.com/) has lots of different activities to use in retros.
