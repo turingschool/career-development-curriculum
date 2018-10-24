@@ -15,7 +15,6 @@ Length: 60 minutes
 * Overview of Team Retros & Intro to Feedback in Conversation (15 mins)
 * Nonviolent Communication (15 mins)
 * Activity: Team Retros (20 mins)
-  * Choose Your Own Adventure: show examples of how to structure retros from activities page
 * Debrief/Closing (5 mins)
 
 ### Opening
