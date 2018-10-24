@@ -65,12 +65,23 @@ Notes from [Do's and Don't's: How to Conduct Effective Retros](https://www.inloo
 #### How to Get Started: Set Norms
 Ask yourselves: where are you in Tuckman's Group Life Cycle? Knowing where you are will help you figure out the norms you need to start with. Here are some you might want to consider (from [Atlassian](https://www.atlassian.com/team-playbook/plays/retrospective)):
 
-Embrace a positive spirit of continuous improvement and share whatever you think will help the team improve.
-Don't make it personal, don't take it personally.
-Listen with an open mind, and remember that everyone's experience is valid (even those you don't share).
-Set the boundary of your discussion – is it that last sprint? the last quarter? since the project started? Be clear how far back you're going to go.
-Encourage the team to embrace an improvement mindset, away from blame.
+* Embrace a positive spirit of continuous improvement and share whatever you think will help the team improve.
+* Don't make it personal, don't take it personally.
+* Listen with an open mind, and remember that everyone's experience is valid (even those you don't share).
+* Set the boundary of your discussion – is it that last sprint? the last quarter? since the project started? Be clear how far back you're going to go.
+* Encourage the team to embrace an improvement mindset, away from blame.
 
+What other norms might need to be established in order to fulfill our principles of being **specific, actionable, and kind**?
+
+#### How to Get Started: Prepare
+Be ready to discuss:
+
+* Appreciations: celebrate what’s gone well with the team!
+* What have you learned?
+   * About yourself
+   * About others
+* Where are you in the Tuckman’s Group Life Cycle? What does the team need to keep moving forward?
+* What would you like the team to improve on?
 
 #### Other Resources for Retros
 * [How to Run a Sprint Retrospective That Actually Leads to Change](https://thedigitalprojectmanager.com/how-run-sprint-retrospective/)
