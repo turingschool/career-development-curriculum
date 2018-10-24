@@ -22,7 +22,7 @@ By achieving the objectives listed above, students will be able to direct their 
 * Week 3: [Feedback I](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/feedback_i.md) 
 * Week 4: 
    * [Agile Practices & Leadership](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/agile_practices_and_leadership.md)
-   * [Feedback II & Team Retro](https://github.com/turingschool/career-development-curriculum/tree/master/module_one)
+   * [Feedback II & Team Retro](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/feedback_ii_team_retro.md)
 * Week 5: [Storytelling I](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/storytelling_i.md)
 
 ### Deliverables
