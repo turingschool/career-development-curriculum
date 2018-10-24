@@ -44,15 +44,6 @@ Take 90 seconds to reflect on the role you've taken in your project so far in te
 We'll share out a few responses with the whole group.
 
 ### Overview of Team Retros 
-
-  * Setting norms for the discussion (maybe have this take the place of the template?)
-    * "opening" -- revisit Tuckman's; where are we in the group dynamic cycle? 
-    * process ("body")
-    * next steps ("closing")
-   
-  * What went well? Appreciation feedback! Be specific!
-  * What needs improvement? Coaching; About actions and outcomes, not specific people
-  * What are the next steps? 
 Agile is all about continuous improvement, and retros are an important part of that process.
 
 #### What is a Retrospective?
