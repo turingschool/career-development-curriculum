@@ -41,6 +41,8 @@ Take 90 seconds to reflect on the role you've taken in your project so far in te
 * **Relationship Building:** Relationship Builders are the glue that holds a team together. Strengths associated with bringing people together -- whether it is by keeping distractions at bay or keeping the collective energy high -- transform a group of individuals into a team capable of carrying out complex projects and goals.
 * **Strategic Thinking:** Those who are able to keep people focused on “what they could” be are constantly pulling a team and its members into the future. They continually absorb and analyze information and help the team make better decisions.
 
+We'll share out a few responses with the whole group.
+
 ### Overview of Team Retros 
 
   * Setting norms for the discussion (maybe have this take the place of the template?)
@@ -51,16 +53,29 @@ Take 90 seconds to reflect on the role you've taken in your project so far in te
   * What went well? Appreciation feedback! Be specific!
   * What needs improvement? Coaching; About actions and outcomes, not specific people
   * What are the next steps? 
+Agile is all about continuous improvement, and retros are an important part of that process.
 
 #### What is a Retrospective?
 Notes from [Do's and Don't's: How to Conduct Effective Retros](https://www.inloox.com/company/blog/articles/do-s-and-don-ts-how-to-conduct-effective-retrospectives/):
-* It's a meeting that happens at the end of a scrum sprint/iteration and at the end of a project. *This is part of agile processes*
+* It's a meeting that happens at the end of a scrum sprint/iteration and at the end of a project. *This is part of the agile process*
 * This meeting is an opportunity for the project team to look back at what they have achieved during the last sprint, what went really well, and what could be improved. 
 * **The focus is not on how the product or deliverable could be improved but on how the team can collaborate more effectively to generate better outcomes.** 
 * Retrospectives are great for helping teams understand each other better and facilitate better collaboration which in turn leads to improved productivity. *The emphasis is on continuous improvement and change, instead of blindly following the same old procedures and processes.*
 
-#### How to Structure a Retro
+#### How to Get Started: Set Norms
+Ask yourselves: where are you in Tuckman's Group Life Cycle? Knowing where you are will help you figure out the norms you need to start with. Here are some you might want to consider (from [Atlassian](https://www.atlassian.com/team-playbook/plays/retrospective)):
 
+Embrace a positive spirit of continuous improvement and share whatever you think will help the team improve.
+Don't make it personal, don't take it personally.
+Listen with an open mind, and remember that everyone's experience is valid (even those you don't share).
+Set the boundary of your discussion – is it that last sprint? the last quarter? since the project started? Be clear how far back you're going to go.
+Encourage the team to embrace an improvement mindset, away from blame.
+
+
+#### Other Resources for Retros
+* [How to Run a Sprint Retrospective That Actually Leads to Change](https://thedigitalprojectmanager.com/how-run-sprint-retrospective/)
+* [How to Run a Really Good Retrospective from Pivotal Tracker](https://builttoadapt.io/how-to-run-a-really-good-retrospective-8982bd839e16)
+* [Fun Retrospectives](http://www.funretrospectives.com/) has lots of different activities to use in retros.
 
 #### Tools for Retros
 Today we're going to use chart paper and post-its to outline our retros, but 
