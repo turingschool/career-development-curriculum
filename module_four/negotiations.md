@@ -6,6 +6,8 @@ For some reason we live in a world that is afraid to talk openly about money. Th
 [Slides for this session](https://docs.google.com/presentation/d/1UBHC5M0KQ712bUN8aeCfqKI7ti-Q_FajxSSJB5_5sDo/edit?usp=sharing)
 
 ### Session Structure
+Time: 90 mins
+UPDATE
 
 * Opening: objectives, recap of external review, turn & talk (10 mins)
 * Ins & Outs of Negotations (20 mins)
@@ -20,10 +22,6 @@ For some reason we live in a world that is afraid to talk openly about money. Th
 * Look at examples and discuss tactics for negotiating
 	
 ### Opening
-Recap External Review:
-
-* Make sure to follow up with anyone who gave you their contact information
-
 #### Turn & Talk
 
 * Have you negotiated in the past? 
@@ -145,6 +143,50 @@ Brittany`
 * Respond to them right away at least to confirm receipt of the email. This will buy you some time so you can review the offer/ask for advice or guidance on it. It also gives them a hint that you might want to negotiate something.
 * After you've reviewed it, you're free to negotiate directly in the email but offer up a chance for a phone conversation. Explain what you're happy with and what you'd like to negotiate. Don't just ask for more money, explain why you're worth it. What differentiates you from the competition that makes you worth that extra money or PTO? 
 * Sometimes they will respond right away with a new offer letter just giving you what you asked for. Sometimes they'll call you back and tell you what they can do (maybe give you a counter offer). 
+
+### Other Parts of the Offer to Consider
+#### Equity
+Learn the lingo:
+* Stock Option: Contract given by the company which allows you to purchase shares in the company at a later date, and allows you to sell those shares for profit.
+* Strike Price: The price per share at the last valuation when your stock options were granted.
+* Cliff: A time period usually imposed before your options begin to vest.
+* Exercise: To “exercise” an option is to make a choice to buy the shares (or not). The “exercise period” is a window of time you have to make this decision.
+* Vesting: How often your stock options become available for purchase.
+
+What does this look like? Most Common:
+* Options will vest over 4 years
+* 1 year cliff to buy first 25%
+* Monthly vesting
+* 10 year exercise period
+* 90 day exercise period upon termination
+
+Consider:
+* How many stock options? It will end up being a small fraction of ownership.
+* What's the strike price? The more rounds of funding the company has had, or the longer they’ve been around, the higher the strike price.
+* What's your exit plan? Whether the options are going to be worth anything some day depends on the exit plan.
+
+Case Study:
+* Given 1,000 stock options, assume $1 strike price per share
+* ...someday you get to pay the company $1,000 to own 1,000 shares in the company
+* Assume company sells for $10/share
+* The value of your shares is now $10,000
+* You just made $9,000 ...right?
+
+Options are granted on your hire date. After your first year, you can exercise 25% of your options. Starting your second year, you will vest about 21 more options every month. Hopefully the company's value is increasing during this time, and in your fourth year, you are fully vested and can buy all of your options. 
+
+So if you were hired in May 2018, your options would not be fully vested until May 2022.
+
+
+1,000 stock options
+$1 strike price per share
+You:
+Stay for 4 years
+Exercise all 1,000 shares
+Company IPOs:
+$10/share
+Value of your share is now $10,000
+You just made $9,000
+
 
 ### What if a Company Can't Meet Your Counter?
 * If the company is unable to meet your counter offer, *this is okay.* **The worst thing they can say is "no."** It is good practice to always negotiate.
