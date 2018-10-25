@@ -176,17 +176,34 @@ Options are granted on your hire date. After your first year, you can exercise 2
 
 So if you were hired in May 2018, your options would not be fully vested until May 2022.
 
+Looking back at the example, you could make an extra $9,000 after 4 years with a breakdown of $2,250 per year.
 
-1,000 stock options
-$1 strike price per share
-You:
-Stay for 4 years
-Exercise all 1,000 shares
-Company IPOs:
-$10/share
-Value of your share is now $10,000
-You just made $9,000
+Compare these 2 scenarios:
+Option #1                                 Option #2
+$85K, no equity, 2% COL increase          $75k, 1k @ $1, 2% COL increase, $10 IPO year 5
+Year 1: $85,000				  Year 1: $75,000
+Year 2: $86,700				  Year 2: $76,500
+Year 3: $88,434 			  Year 3: $78,030
+Year 4: $90,203				  Year 4: $79,591
+Year 5: $92,007				  Year 5: $81,182
+					  $9,000 - STCG = $5,400 
+					  
+That $9k is a bonus paycheck from the company should they succeed. This is not a guarantee.
 
+**Bottom Line:** Don’t accept more equity over salary.
+
+#### Additional Parts of the Offer
+* PTO/Sick days/Mental Health days
+   * How does the company approach PTO and health?
+* Professional Development stipends:
+   * Conferences
+   * Classes/Tuition reimbursement
+   * Tutorials
+* Family leave
+* Other perks:
+   * Travel reimbursements
+   * Lunch
+   * Cell phone 
 
 ### What if a Company Can't Meet Your Counter?
 * If the company is unable to meet your counter offer, *this is okay.* **The worst thing they can say is "no."** It is good practice to always negotiate.
@@ -220,7 +237,7 @@ You receive this offer:
 
 In an area you're not excited about -- longer commute; they say they don't negotiate or it's non-negotiable, how might you handle that? 
 
-	* $65k
+	* $70k
 	* 2 weeks of PTO
 	* $500/yr for PD 
 	* 401k with 1% employer match
