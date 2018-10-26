@@ -7,11 +7,11 @@ For some reason we live in a world that is afraid to talk openly about money. Th
 
 ### Session Structure
 Time: 90 mins
-UPDATE
 
 * Opening: objectives, recap of external review, turn & talk (10 mins)
 * Ins & Outs of Negotations (20 mins)
 * Offer Discussion & Demo (5 mins)
+* Other Parts of the Offer (30)
 * You Do: Group Discussions (20 mins)
 * Debrief & Closing (5 mins)
 
