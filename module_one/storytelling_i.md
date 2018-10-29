@@ -24,7 +24,7 @@ Length: 85 mins
 * Practice sharing stories to better understand each other and build our storytelling skills
 
 #### Deliverables
-* Complete the [Strengths & Storytelling Reflection](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/storytelling_reflection.md) for your M1 PD deliverables
+* Complete the [Strengths & Storytelling Reflection](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/storytelling_reflection.md) and submit it [here in this survey](https://goo.gl/forms/ankE1c8FprgrSfwv1). This due Monday of Week 6 at 9am. 
 
 #### The Why: Why Telling Your Story is Important
 Stories are how we connect with each other. From fairy tales to novels to movies to podcasts, stories provide a way for people to share their experiences with others, building empathy and awareness of our universal experiences.
@@ -125,9 +125,9 @@ Let's here from some Turing staff on this aspect of their stories:
       memory.
 
 **Discussion Questions:**
-* What are the “acts” that you can see in this story?
+* Do you see any “acts” to this story? If so, what are they?
 * What did you learn about this person? How would you describe their character?
-* What elements are present in this story? 
+* What storytelling elements are present here? 
 * How could this story be used to connect with others when building personal and professional relationships?
 
 ### Pomodoro Break
@@ -137,7 +137,7 @@ Using one (or more) of these storytelling tools, begin crafting your story:
 * Life maps
 * Story plot diagrams
 * Vision statement
-* Character study of yourself using StrengthsFinder
+* Character study of yourself using your Pairin qualities
 
 ### Discussion #2 
 Get into new groups of 4 to share your stories. Practice answering these questions:
