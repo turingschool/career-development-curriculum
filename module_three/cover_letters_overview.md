@@ -7,11 +7,11 @@
 Timeline: 60 mins
 
 * Opening (5 mins)
-* Dissecting cover letters (8 mins)
-* We Do (20 mins)
+* Dissecting cover letters & example (10 mins)
+* We Do (15 mins)
 * Workshop: You Do (15 mins)
 * Round of feedback (10 mins)
-* Debrief/Q & A (2 mins)
+* Closing: Debrief/Survey (5 mins)
 
 ### Opening & Objectives
 In this session, participants will be able to:
@@ -55,6 +55,12 @@ That being said, this template is more like an outline to keep in mind when stru
 
 To ensure you're hitting the right points, you can use this [Cover Letter Checklist](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/cover_letter_checklist.md)
 
+Let's look at [an example of a cover letter](https://github.com/turingschool/career-development-curriculum/blob/master/files/Example%20Cover%20Letter.pdf). 
+
+* What do you notice about this cover letter?
+* What stands out? 
+* What story are they telling?
+
 ### We Do
 As a whole group, let's look at a job posting and decide what we'd put in a cover letter for it. We'll discuss:
 
@@ -78,3 +84,5 @@ Reminder about deliverables:
 
 * Cover letter draft due Friday of week 1 of Mod 4
 * Turing alumni portfolio due Monday of week 6 at 9am
+
+Fill out the survey in your channel for Mod 4 groups!
