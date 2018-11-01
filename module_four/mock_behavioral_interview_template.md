@@ -1,7 +1,5 @@
 # Mock Behavioral Interview Template
 
-Add questions directly related to Mod 1 & 2 deliverables
-
 ## Directions for Interviewers
 
 1. Plan for the mock interview to take about 20 minutes with 10-15 minutes for the interview and 5 minutes for feedback
@@ -40,6 +38,7 @@ When Giving Feedback:
 * What made you switch from your prior career into programming? 
 * Describe to me the steps you would take to build out a product.
 * Tell me how you solve a problem.
+* What experience do you have using agile practices? 
 * Describe your background. How did you get to where you are now? What was your previous career field. What did you like about it? What didn’t you like about it? Why coding? 
 * Describe your time at Turing. What worked for you? What didn’t work for you? What was the structure of the program?
 * Describe your teamwork experience in a coding environment. How big of a team did you work with?
