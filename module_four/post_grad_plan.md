@@ -59,7 +59,7 @@ During this module, you've had multiple opportunities to practice your technical
 ### Housekeeping
 Make sure you have all your job search components up-to-date and looking their best!
 
-**Action Step #1:** Ensure your [Turing Portfolio](http://turing.io/alumni) has **at least 3 projects displayed,** including your latest work, and an accurate list of your desired locations. Be prepared to show this to your instructors during your M4 portfolio review.
+**Action Step #1:** Ensure your [Turing Portfolio](https://alumni.turing.io) has **at least 3 projects displayed,** including your latest work, and an accurate list of your desired locations. Be prepared to show this to your instructors during your M4 portfolio review.
 
 **Action Step #2:** Ensure your LinkedIn is up to date and indicates that you’re job hunting. Indicate here a summary of any adjustments you made and how you'll continue to update it and/or use the site to build your network and online presence.
 
