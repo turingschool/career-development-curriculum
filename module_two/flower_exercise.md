@@ -3,13 +3,15 @@
 
 [Slides for this session](https://docs.google.com/presentation/d/1ZxwdADE5YeyRl_mHAfcQW25QgLSALHo_iKu7eRLLfgg/edit?usp=sharing)
 
-Session Structure: 60 mins
+Session Structure: 90 mins
 
 * Opening: why is this important? (5 mins)
-* Overview of Petals & Worksheets: How to do this inventory (15 mins)
-* Choose Your Own Adventure: Work Time (20 mins)
-* Group Sharing (10 mins)
-* Final Reflection & Share Out (8 mins)
+* Overview of Petals & Worksheets: How to do this inventory (20 mins)
+	* Demo
+* Choose Your Own Adventure: Work Time (30 mins)
+* Group Sharing (15 mins)
+* Final Reflection: Update the Worksheet (10 mins)
+* Share Out (8 mins)
 * Closing (2 mins)
 
 ### Opening
@@ -125,19 +127,21 @@ Start broadly and then make more specific
 	* What is important to you?
 
 ### Choose Your Own Adventure: Work Time
-Pick 1-2 of the petals to dive into on your own. Think about what's most important to you when it come to unpacking your approach to your job search. This is the brain dump part of the process: use the worksheets, reflect on your past experiences, journal about your passions. 
+Now start on the worksheets to think about each of these petals. Think about what's most important to you when it come to unpacking your approach to your job search. This is the brain dump part of the process: use the worksheets, reflect on your past experiences, journal about your passions. 
 
 ### Group Sharing
 Find 3-4 people to share some takeaways from your brain dump. This is where you synthesize the information you've been working through by answering these questions:
 
 * What did you discover about yourself and your ideal career in this exercise?
+* Did anything surprise you?
 * How will you use this information to drive your job search? 
 * What do you still want to learn from this process?
 
-### Final Reflection & Share Out
+### Final Reflection
 From your group discussion, spend a few minutes prioritizing the most important takeaways and then fill out your Flower 1-pager with your most important priorities.
 
-### Closing
-What will you do with this information?
+### Share Out & Closing
+* What have you learned about yourself today?
+* How will you apply this exercise to your job search? 
 
 Remember that you can schedule a coaching session with Allison to talk through your discoveries to help you begin to narrow the scope of your job search. 
