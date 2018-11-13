@@ -34,13 +34,11 @@ Project:
 
 Group Member Names:
 
-Project Expectations: What does each group member hope to get out of this project? 
-
-Goals and expectations:
+Goals and Expectations for the Project (What does each group member hope to get out of this project?):
 	
 Team strengths:
 
-How to overcome obstacles:
+How we can use our strengths to overcome obstacles:
 
 Schedule Expectations (When are we available to work together and individually?):
 
@@ -54,11 +52,9 @@ Workflow Expectations (Git workflow/Tools/Code Review/Reviewing Pull Requests):
 
 Expectations for giving and receiving feedback:
 
-Agenda to discuss project launch:
+Project Management Tools:
 
-Ideas:
- 
-Tools: 
+Day 1 Agenda: 
 
 Additional Notes:
 
