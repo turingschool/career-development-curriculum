@@ -11,8 +11,7 @@ Session Structure: 90 mins
 * Choose Your Own Adventure: Work Time (30 mins)
 * Group Sharing (15 mins)
 * Final Reflection: Update the Worksheet (10 mins)
-* Share Out (8 mins)
-* Closing (2 mins)
+* Share Out/Closing (5 mins)
 
 ### Opening
 Close your eyes for a moment and think back to when you were a young child and you first thought about what you wanted to be when you grow up. Maybe you dreamed of being a doctor, an astronaut, a singer, a professional athlete, a teacher -- what about those dreams were exciting and appealing to you?
