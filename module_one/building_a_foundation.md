@@ -5,11 +5,15 @@
 ### Session Structure
 Length: 60 mins
 
-* Intro to Professional Development & Personal Reflection (5 mins)
+* Intro to Professional Development & Turn & Talk (8 mins)
+  * Choose one question to share with the person next to you....
 * Understanding strengths in action: Scenarios (10 mins)
-* Pairin Survey Intro & Questions (5 mins)
-* Take Survey (15 mins)
-* Debrief Results (10 mins)
+   Spend more time diving into the introversion/extroversion spectrum, into examining strengths
+* Pairin Survey Overview
+    Go into top 4
+* Results Reflections (10 mins)
+* Cohort Snapshots (10 mins)
+  Whole Group Discussion
 * Pair & Share (10 mins)
 * Closing: Takeaways, coaching reminders (5 mins)
 
@@ -28,11 +32,12 @@ The touchstones of this curriculum include these mindsets:
 
 From this, we aim for students to develop a **self-awareness** that allows them to speak to their strengths and build connections with developers and others in this industry.
 
-**Individual Reflections:** To start our discussion today, we need to reflect on where we are right now and then start to think about where we want to go. In your journals, answer the following questions in **1 sentence each:**
+**Revisiting the Prework:** In your prework, you answered the following questions. Let's start by revisiting these....To start our discussion today, we need to reflect on where we are right now and then start to think about where we want to go. In your journals, answer the following questions in **1 sentence each:**
 
 * What is your greatest strength and how do you know?
 * How do you work best?
 * What is your greatest area of improvement?
+* How do you hope to maximize your strengths for your new career in software development?
 
 *All of these questions will come in handy when interviewing*
 
@@ -66,11 +71,7 @@ As we start dive deeper into our strengths and working preferences, let's examin
 ### Tool for Understanding Our Strengths: The Pairin Survey 
 If you're having trouble answering the above questions, the Pairin survey might be able to help you. Pairin is a tool that gives you insight into 102 **coachable** and **changeable** professional skills ranging from citizenship to empathy to self awareness. The results from your survey will help you to identify some of your strengths and potential areas for growth. 
 
-#### Taking the Survey
-* You'll take the survey twice; once at the beginning of Module 1 and once at the end of Module 4, which will show progress that you've made during your time at Turing
-* The survey will measure both **how you are** and **how you want to be.** Make sure to take the second "optional" part of the survey, answering in terms of *how you want to be* in order to see the comparison. 
-
-**You Do:** Using the link provided in the channel, take the Pairin survey. It shouldn't take you more than 15 minutes. 
+#### 
 
 #### Understanding the Results: Overview of Top 4 Qualities
 Your results show you top 4 qualities:
