@@ -5,15 +5,11 @@
 ### Session Structure
 Length: 60 mins
 
-* Intro to Professional Development & Turn & Talk (8 mins)
-  * Choose one question to share with the person next to you....
+* Intro to Professional Development (5 mins)
 * Understanding strengths in action: Scenarios (10 mins)
-   Spend more time diving into the introversion/extroversion spectrum, into examining strengths
-* Pairin Survey Overview
-    Go into top 4
+* Pairin Survey Overview (10 mins)
 * Results Reflections (10 mins)
 * Cohort Snapshots (10 mins)
-  Whole Group Discussion
 * Pair & Share (10 mins)
 * Closing: Takeaways, coaching reminders (5 mins)
 
@@ -30,16 +26,9 @@ The touchstones of this curriculum include these mindsets:
 * **Grit:** A combination of perseverance and passion
 * **Growth:** A belief that your abilities can be developed through dedication, hard work, and resiliency
 
-From this, we aim for students to develop a **self-awareness** that allows them to speak to their strengths and build connections with developers and others in this industry.
+From this, we aim for students to develop a **self-awareness** that allows them to speak to their strengths and build connections with developers and others in this industry. 
 
-**Revisiting the Prework:** In your prework, you answered the following questions. Let's start by revisiting these....To start our discussion today, we need to reflect on where we are right now and then start to think about where we want to go. In your journals, answer the following questions in **1 sentence each:**
-
-* What is your greatest strength and how do you know?
-* How do you work best?
-* What is your greatest area of improvement?
-* How do you hope to maximize your strengths for your new career in software development?
-
-*All of these questions will come in handy when interviewing*
+Today, we're going to start building this self-awareness by talking through our strengths.
 
 ### Objectives
 * Identify the strengths and working preferences you came to Turing with
@@ -48,7 +37,15 @@ From this, we aim for students to develop a **self-awareness** that allows them 
 * Analyze your possibilities for professional growth
 
 ### Overview of Strengths & Working Styles
-As we start dive deeper into our strengths and working preferences, let's examine what this can look like in action: 
+A strength is defined as a combination of skills, knowledge, and talents. Let's go back to the reflection you submitted as part of your prework:
+
+* What do you do best?
+* How do you like to work?
+* How do you use your strengths?
+
+*All of these questions will come in handy when interviewing*
+
+As we start to dive deeper into our strengths and working preferences, let's examine what this can look like in action: 
 
 **Example #1:** Jason prefers to spend time thinking through problems in his head and drawing out solutions before discussing them. 
 
@@ -69,9 +66,7 @@ As we start dive deeper into our strengths and working preferences, let's examin
 * What should Sam and any teammates they work with be aware of?
 
 ### Tool for Understanding Our Strengths: The Pairin Survey 
-If you're having trouble answering the above questions, the Pairin survey might be able to help you. Pairin is a tool that gives you insight into 102 **coachable** and **changeable** professional skills ranging from citizenship to empathy to self awareness. The results from your survey will help you to identify some of your strengths and potential areas for growth. 
-
-#### 
+If you're having trouble answering the above questions, your Pairin survey results might be able to help you. Pairin is a tool that gives you insight into 102 **coachable** and **changeable** professional skills ranging from citizenship to empathy to self awareness. The results from your survey will help you to identify some of your strengths and potential areas for growth. 
 
 #### Understanding the Results: Overview of Top 4 Qualities
 Your results show you top 4 qualities:
@@ -174,6 +169,9 @@ Knowing your leading virtue class and associated strengths isn’t just interest
 Potential questions for the group:
 * Who had a driver that particularly resonated with them? Why? 
 * How are each of these strengths? What would they look like in action?
+
+### Cohort Snapshots
+Take a look at the ....
 
 ### Pair & Share
 Find a partner to discuss:
