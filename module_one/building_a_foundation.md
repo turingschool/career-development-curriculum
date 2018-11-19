@@ -14,6 +14,7 @@ Length: 60 mins
 * Closing: Takeaways, coaching reminders (5 mins)
 
 ### Overview of Professional Development at Turing
+#### The What
 Turing’s **mission** is to unlock human potential by training a diverse, inclusive student body to succeed in high-fulfillment technical careers. 
 
 Turing’s career development curriculum is created directly out of this mission with a focus on **unlocking students’ potential** in modules 1 and 2 through cultivating self-awareness and empathy. In modules 3 and 4, curriculum focuses on providing strategies to empower students to **succeed in high-fulfillment technical careers** by creating connections within the technology industry, building competencies for industry leadership, and securing a fulfilling career -- and not just another job. 
@@ -26,8 +27,21 @@ The touchstones of this curriculum include these mindsets:
 * **Grit:** A combination of perseverance and passion
 * **Growth:** A belief that your abilities can be developed through dedication, hard work, and resiliency
 
-From this, we aim for students to develop a **self-awareness** that allows them to speak to their strengths and build connections with developers and others in this industry. 
+#### The How
+How are we actually going to do this?
+* Focus on professional skills:
+  * Communication
+  * Building teams
+  * Agile practices
+* Focus on job readiness:
+  * Outreach & Networking
+  * Resumes
+  * Cover Letters
+  * Interview Skills
 
+Through all of these, we aim for students to develop a **self-awareness** that allows them to speak to their strengths and build connections with developers and others in this industry. 
+
+#### Right Now
 Today, we're going to start building this self-awareness by talking through our strengths.
 
 ### Objectives
@@ -44,6 +58,10 @@ A strength is defined as a combination of skills, knowledge, and talents. Let's 
 * How do you use your strengths?
 
 *All of these questions will come in handy when interviewing*
+
+**Whole Group:**
+* On a fist to five, how easy was it for you to answer these questions?
+* How did you know the answers?
 
 As we start to dive deeper into our strengths and working preferences, let's examine what this can look like in action: 
 
@@ -170,7 +188,14 @@ Potential questions for the group:
 * Who had a driver that particularly resonated with them? Why? 
 * How are each of these strengths? What would they look like in action?
 
-### Cohort Snapshots
+### Results Reflections
+Take 10 minutes to go over your top 4 qualities and answer these questions in your journal:
+
+* In your own words, what do these top 4 qualities tell you about yourself?
+* Do they resonate with you? Why/why not?
+* What do these top 4 qualities make you think about as you embark on Turing and your new career as a software developer?
+
+### Diving Deeper: Cohort Snapshots
 Take a look at the ....
 
 ### Pair & Share
