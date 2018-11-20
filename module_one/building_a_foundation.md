@@ -5,12 +5,12 @@
 ### Session Structure
 Length: 60 mins
 
+Agenda:
 * Intro to Professional Development (5 mins)
 * Understanding strengths in action: Scenarios (10 mins)
-* Pairin Survey Overview (10 mins)
+* Pairin Survey Overview & Cohort Snapshot (15 mins)
 * Results Reflections (10 mins)
-* Cohort Snapshots (10 mins)
-* Pair & Share (10 mins)
+* Small Group Discussions (10 mins)
 * Closing: Takeaways, coaching reminders (5 mins)
 
 ### Overview of Professional Development at Turing
@@ -184,9 +184,10 @@ Knowing your leading virtue class and associated strengths isn’t just interest
 * Wisdom & Knowledge:	Lover of Wisdom 
 * Temperance:	Lover of Moderation 
 
-Potential questions for the group:
-* Who had a driver that particularly resonated with them? Why? 
-* How are each of these strengths? What would they look like in action?
+**Whole Group Discussion:** 
+Let's examine what your cohort's top 4 qualities are (on slide 22):
+* What do you notice about these top 4?
+* How are each of these qualities *strengths*? What would they look like in action?
 
 ### Results Reflections
 Take 10 minutes to go over your top 4 qualities and answer these questions in your journal:
@@ -195,11 +196,8 @@ Take 10 minutes to go over your top 4 qualities and answer these questions in yo
 * Do they resonate with you? Why/why not?
 * What do these top 4 qualities make you think about as you embark on Turing and your new career as a software developer?
 
-### Diving Deeper: Cohort Snapshots
-Take a look at the ....
-
-### Pair & Share
-Find a partner to discuss:
+### Small Group Discussions
+Find a group of 3-4 people to discuss:
 
 * Share your top 4 qualities from the survey OR your answers from the opening reflection.
 * If you were in a team together, how would you describe your ability to work together?
