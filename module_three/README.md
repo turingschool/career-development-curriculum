@@ -21,9 +21,11 @@ Students will leave Module Three with a clear blueprint for their job search by 
 * Week 2: [What Color is Your Parachute: Flower Exercise](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/flower_exercise.md)
 * Week 3:
    * [Job Search Strategies](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/job_search_strategies.md)
-    * [Resume Review Workshop](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/m3_resume_review.md)
+   * [Resume Review Workshop](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/m3_resume_review.md)
 * Week 4: Job Shadowing
-* Week 5: [Cover Letters Overview](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/cover_letters_overview.md)
+* Week 5: 
+   * [Cover Letters Overview](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/cover_letters_overview.md)
+   * Alumni Portfolio Workshop
 
 ### Deliverables
 In order to fulfill the requirements of module three, students will submit these deliverables:
