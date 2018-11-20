@@ -17,11 +17,11 @@ By mastering the objectives listed above, students will be able to put themselve
 
 ### Sessions
 
-* Week 1: [Professional Storytelling](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/professional_storytelling_ii.md)
-* Week 2: [Outreach & Networking](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/outreach_and_networking.md)
-* Week 3: [Feedback II](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/feedback_ii.md) 
-* Week 4: [Agile Practices & Leadership](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/agile_practices_and_leadership.md)
-* Week 5: [Feedback III/Team Retro](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/feedback_iii.md)
+* Week 1: [What Color is Your Parachute: Flower Exercise](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/flower_exercise.md)
+* Week 2: [Professional Storytelling](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/professional_storytelling_ii.md)
+* Week 3: [Personal Branding: Developer Identity](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/developer_identity.md)
+* Week 4: [Outreach & Networking](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/outreach_and_networking.md)
+* Week 5: [Interview Prep I](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/interview_prep_i.md)
 
 ### Deliverables & Deadlines
 In order to fulfill the requirements of Module Two, students will submit these deliverables by these due dates:
