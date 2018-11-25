@@ -15,28 +15,22 @@ Here's the breakdown of expectations for repeating the module:
 ### Sessions
 You **are not required** to attend professional development sessions *that you have previously attended.* You can choose to come to sessions if you feel that you would benefit from the information. Sessions you have already attended are:
 
-   * Week 1: [Professional Storytelling III](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/professional_storytelling_iii.md) 
-   * Week 2: [Flower Exercise](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/flower_exercise.md)
-   * Week 3: 
-      * [Job Search Strategies](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/job_search_strategies.md)
-      * [Resume Review Workshop](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/m3_resume_review.md)
+   * [Professional Storytelling III](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/professional_storytelling_iii.md) 
+   * [Flower Exercise](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/flower_exercise.md)
+   * [Job Search Strategies](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/job_search_strategies.md)
+   * [Resume Review Workshop](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/m3_resume_review.md)
+   * [Cover Letters Overview](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/cover_letters_overview.md)
 
-You **are required** to attend new PD sessions and all Gear Up sessions. These sessions are:
-  * PD: Week 5: [Cover Letters Overview](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/cover_letters_overview.md)
-
-  * Gear Up: 
-    * Week 1: [Microaggressions](https://github.com/turingschool/gear-up/blob/master/Mod3_Week1_Microaggressions_update.md)
-    * Week 3: Rotation session, see the options in the Gear Up repo [here](https://github.com/turingschool/gear-up)
-    * Week 5: Mod 4-led Choice session, look for the survey posted in your channel from Ellen Mary
+You **are required** to attend all Gear Up sessions. 
     
 ### Deliverables
 * You **are required** to:
   * Complete your Turing alumni portfolio on [alumni.turing.io](https://alumni.turing.io) with your updated resume included and 2-3 projects showing a variety of project skills (independent, paired, team) 
-  * Complete a mock behavioral interview with Allison or Kayt
   * Draft a cover letter to bring to PD in week 1 of Module 4
 
 * Options for additional deliverables (choose **at least 2** that you will complete during the module):
    * Complete a mock technical interview with one of the mentors listed [here](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/interview_prep_resources.md)
+   * Complete a second mock behavioral interview with Allison or Kayt by signing up on the spreadsheet in your cohort channel
    * Participate in resume review workshop by bringing a resume tailored to a specific position OR bring a cover letter draft for that position
    * Attend a Meetup -- be specific on which meetup in your plan below
    * Initiate cold outreach with a new contact and set up a coffee meeting with them
@@ -49,16 +43,31 @@ You **are required** to attend new PD sessions and all Gear Up sessions. These s
 ### Outline of Your PD & Gear Up Plan:
 **Directions:** Write your answers to the questions below in a secret gist that you'll submit to Allison. 
 
-1. Are you going to attend any PD sessions? If so, which ones? List below.
+* Do you want to participate in Job Shadowing this module?
 
-2. In addition to completing the required deliverables, which 2 options will you choose to work on this mod to further your professional development?
+Below, outline your 2 options that you've chosen by creating [SMART goals](https://www.smartsheet.com/blog/essential-guide-writing-smart-goals) for each of them.
+#### Goal #1 (what is the goal): 
 
-3. Do you want to participate in Job Shadowing this module?
+Specific (What do you want to accomplish? Who needs to be included? When do you want to do this? Why is this a goal?): 
 
-4. How will you know at the end of this module that you have successfully completed your professional development goals?
+Measurable (How can you measure progress and know if you’ve successfully met your goal?):
 
-5. How will you contribute to the Microaggressions Gear Up? 
+Achievable (Do you have the skills required to achieve the goal? If not, can you obtain them? What is the motivation for this goal? Is the amount of effort required on par with what the goal will achieve?):
 
-6. How else would you like to contribute to Gear Up discussions this module?
+Relevant (How does this goal connect to your larger career goals?):
 
-*Allison will review all plans and may follow up with you on your goals throughout the module.* 
+Timebound (When do you plan to achieve this goal by? Be specific and consider how realistic your expectations are):
+
+#### Goal #2 (what is the goal): 
+
+Specific (What do you want to accomplish? Who needs to be included? When do you want to do this? Why is this a goal?): 
+
+Measurable (How can you measure progress and know if you’ve successfully met your goal?):
+
+Achievable (Do you have the skills required to achieve the goal? If not, can you obtain them? What is the motivation for this goal? Is the amount of effort required on par with what the goal will achieve?):
+
+Relevant (How does this goal connect to your larger career goals?):
+
+Timebound (When do you plan to achieve this goal by? Be specific and consider how realistic your expectations are):
+
+**Allison will review all plans, and you will be asked to fill out a survey giving a brief update and reflection on your goals by 9am on Monday of Week 6.**  
