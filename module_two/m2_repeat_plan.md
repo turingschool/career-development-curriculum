@@ -59,4 +59,4 @@ Relevant (How does this goal connect to your larger career goals?):
 
 Timebound (When do you plan to achieve this goal by? Be specific and consider how realistic your expectations are):
 
-**Allison will review all plans, and you will be asked to fill out a survey giving a brief update and reflection on your goals by 9am on Monday of Week 6.**   
+**Allison will review all plans, and you will be asked to fill out [this survey](https://goo.gl/forms/yY8pd8bcJGV3bPwq2) giving a brief update and reflection on your goals by 9am on Monday of Week 6.**   
