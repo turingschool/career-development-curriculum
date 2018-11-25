@@ -45,7 +45,7 @@ You **are required** to attend new PD sessions and all Gear Up sessions. These s
    * Other: propose another professional development action step that you will take during your repeat module
 
 ### Outline of Your PD Plan:
-**Directions:** Write your answers to the questions below in a secret gist that you'll submit to Allison. Outline your 2 options that you've chosen by creating [SMART goals](https://www.smartsheet.com/blog/essential-guide-writing-smart-goals) for each of them.
+**Directions:** Write your answers to the questions below in a secret gist that you'll submit to Allison. Outline your goal that you've chosen by creating a [SMART goal](https://www.smartsheet.com/blog/essential-guide-writing-smart-goals). 
 
 #### Goal (what is the goal): 
 
