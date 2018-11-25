@@ -25,36 +25,38 @@ You **are required** to attend new PD sessions and all Gear Up sessions. These s
   
   * Gear Up:
     * Week 1: [Empathy & Privilege](https://github.com/turingschool/gear-up/blob/master/Mod2_Week1_Empathy_and_Privilege.markdown)
-    * Week 3: Rotation session, see the options in the Gear Up repo [here](https://github.com/turingschool/gear-up)
+    * Week 3: [Code: Debugging the Gender Gap](https://github.com/turingschool/gear-up/blob/master/Mod2_Week3_Code_debugging_compact_version.md)
     * Week 5: Mod 4-led Choice session, look for the survey posted in your channel from Ellen Mary
     
 ### Deliverables
 * You **are required** to:
    * Participate in feedback conversations and team retros with your project partners
-   * Fill out the Johari Window app for your project partners
+   * Update your LinkedIn profile using the directions provided during the [Developer Identity session](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/developer_identity.md)
+   * Update your professional story drafts or outreach/networking deliverables if you were asked to last mod and did not complete them
    
-* Options for additional deliverables (choose **at least 2** that you will complete during the module):
-   * Commit to using a new project management tool, research it, and decide how to implement it. Take the lead on integrating it into the project with your partner(s).
-   * Take on the project manager role in your team project. Delegate and track tasks for the project and reflect on how you function as a leader using your strengths.
+* Options for additional deliverables (choose **at least 1** that you will complete during the module):
    * Revise and update your professional story draft. You can set up a 1-on-1 with Allison to discuss it.
    * Practice telling your story with one of your cohortmates.
-   * Update LinkedIn profile with additional projects & skills, polish your professional summary, and endorse other students you've worked with
    * Attend a Meetup *(be specific on which meetup in your plan below)*
-   * Write a blog post
+   * Write a blog post about something you've learned or a new technology that you've learned outside of the curriculum
+   * Give a whole-school lightning talk at Wrap Up
+   * Give a lightning talk at a Meetup
    * Initiate cold outreach with a new contact and set up a coffee meeting with them
    * Other: propose another professional development action step that you will take during your repeat module
 
-### Outline of Your PD & Gear Up Plan:
-**Directions:** Write your answers to the questions below in a secret gist that you'll submit to Allison. 
+### Outline of Your PD Plan:
+**Directions:** Write your answers to the questions below in a secret gist that you'll submit to Allison. Outline your 2 options that you've chosen by creating [SMART goals](https://www.smartsheet.com/blog/essential-guide-writing-smart-goals) for each of them.
 
-1. Are you going to attend any PD sessions from those you've already attended? If so, which ones? List below.
+#### Goal (what is the goal): 
 
-2. In addition to meeting the required deliverables, which 2 options will you choose to work on this mod to further your professional development?
+Specific (What do you want to accomplish? Who needs to be included? When do you want to do this? Why is this a goal?): 
 
-3. How will you know at the end of this module that you have successfully completed your professional development goals?
+Measurable (How can you measure progress and know if you’ve successfully met your goal?):
 
-4. How will you contribute to the Empathy & Privilege Gear Up? 
+Achievable (Do you have the skills required to achieve the goal? If not, can you obtain them? What is the motivation for this goal? Is the amount of effort required on par with what the goal will achieve?):
 
-5. How will you contribute to other Gear Ups?
+Relevant (How does this goal connect to your larger career goals?):
 
-*Allison will review all plans and may follow up with you on your goals throughout the module.* 
+Timebound (When do you plan to achieve this goal by? Be specific and consider how realistic your expectations are):
+
+**Allison will review all plans, and you will be asked to fill out a survey giving a brief update and reflection on your goals by 9am on Monday of Week 6.**   
