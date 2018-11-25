@@ -49,14 +49,14 @@ You **are required** to attend new PD sessions and all Gear Up sessions. These s
 
 #### Goal (what is the goal): 
 
-Specific (What do you want to accomplish? Who needs to be included? When do you want to do this? Why is this a goal?): 
+* Specific (What do you want to accomplish? Who needs to be included? When do you want to do this? Why is this a goal?): 
 
-Measurable (How can you measure progress and know if you’ve successfully met your goal?):
+* Measurable (How can you measure progress and know if you’ve successfully met your goal?):
 
-Achievable (Do you have the skills required to achieve the goal? If not, can you obtain them? What is the motivation for this goal? Is the amount of effort required on par with what the goal will achieve?):
+* Achievable (Do you have the skills required to achieve the goal? If not, can you obtain them? What is the motivation for this goal? Is the amount of effort required on par with what the goal will achieve?):
 
-Relevant (How does this goal connect to your larger career goals?):
+* Relevant (How does this goal connect to your larger career goals?):
 
-Timebound (When do you plan to achieve this goal by? Be specific and consider how realistic your expectations are):
+* Timebound (When do you plan to achieve this goal by? Be specific and consider how realistic your expectations are):
 
 **Allison will review all plans, and you will be asked to fill out [this survey](https://goo.gl/forms/yY8pd8bcJGV3bPwq2) giving a brief update and reflection on your goals by 9am on Monday of Week 6.**   
