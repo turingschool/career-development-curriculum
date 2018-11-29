@@ -3,7 +3,7 @@
 ## Directions for Interviewers
 
 1. Plan for the mock interview to take about 20 minutes with 10-15 minutes for the interview and 5 minutes for feedback
-2. Select 4-6 questions from the bank below. End the interview by asking "What questions do you have for me?" and encourage students to ask 1-2 questions that they would bring up in an interview.
+2. Select 1-2 questions from each question group below to ask the student. End the interview by asking "What questions do you have for me?" and encourage students to ask 1-2 questions that they would bring up in an interview.
 3. Take notes to share. Here are examples of what to make note of:
     * Body language & Non-verbal communication
     * Clarity of language & ability to answer the question being asked
