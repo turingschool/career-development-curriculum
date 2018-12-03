@@ -8,7 +8,8 @@ Pre-work: Participants should come to this session with a job posting to apply t
 
 Timeline: 2 hours
 
-* Opening & Review of Cover Letters (20 mins)
+* Objectives/Opening Discussion (6 mins)
+* Reviewing Cover Letters (15 mins)
 * We Do (20 mins)
 * Workshop: You Do (20 mins)
 * Round of feedback (40 mins)
@@ -24,9 +25,11 @@ In this session, participants will be able to:
 * Implement changes and new learnings into a cover letter draft in order to submit it
 
 ### Do's & Don't's of a Cover Letter
-**Hook:** When you talk to someone that you want to be friends with, what kind of impression do you want them to have? Your cover letter should provide that same impression. 
+**Opening questions:** Why do we write cover letters? What is the purpose? What should it include?
 
-Here are some things to keep in mind when writing a cover letter:
+Discuss the answers to these questions for 5 minutes 
+
+#### Keep these things in mind:
 
 * Keep your cover letters to 1 page. 2-3 paragraphs is standard. 
 * Here are some suggested ways to structure the letter:
@@ -52,6 +55,18 @@ As a whole group, we'll find a job posting and write a cover letter together. We
 * What can we pull out to discuss in the cover letter?
 * What research should we do?
 * How can we use our professional story here?
+
+Facilitator: Go around the group and ask multiple students what they would focus on in terms of their professional stories and projects that they've worked on for this particular position. 
+
+If there's time, look at another posting and repeat. 
+
+#### Optional: Review a participant's cover letter as Whole Group
+If participants have brought cover letters with them, ask for one of them to read theirs aloud to the group and/or display it for the group to discuss using these questions:
+
+* Do we know what position is being applied for?
+* What do we know about this person as an individual? As a programmer?
+* How do we know they’re qualified for this position?
+* What connections have they made to the company?
 
 ### Workshop Time
 Participants write a cover letter for the job posting that they brought with them to the session or continue refining a cover letter they've brought.  
