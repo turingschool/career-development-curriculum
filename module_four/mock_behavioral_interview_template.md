@@ -4,7 +4,7 @@
 
 1. Plan for the mock interview to take about 20 minutes with 10-15 minutes for the interview and 5 minutes for feedback
 2. Select 1-2 questions from each question group below to ask the student. End the interview by asking "What questions do you have for me?" and encourage students to ask 1-2 questions that they would bring up in an interview.
-3. Take notes to share. Here are examples of what to make note of:
+3. Take notes to share using [this template](https://docs.google.com/document/d/1VnRQV82X9PvVt2lHOUqhp-8kR4BnamgM5vNjujnB2mk/edit?usp=sharing). Here are examples of what to make note of:
     * Body language & Non-verbal communication
     * Clarity of language & ability to answer the question being asked
     * Tone of voice
