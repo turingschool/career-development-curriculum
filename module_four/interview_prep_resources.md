@@ -23,6 +23,7 @@ Below you can find lots of resources to help you prepare for both components.
   * [Bob Gu](https://robertgu.youcanbook.me/)
   * [Josh Cass](https://joshcass.youcanbook.me/)
   * [Adrienne Domingus](https://calendly.com/adriennedomingus/) - if you do not see a time that works for you, feel free to reach out to Adrienne on Slack (@adrienne)
+  * [Judson Stevens](https://judsonstevens.youcanbook.me)
 
 * [Pramp](https://www.pramp.com/#/) is a free site to practice technical interviews with a peer
 
