@@ -21,7 +21,7 @@ Length: 60 mins
 * Provide feedback on your classmates' stories and incorporate their feedback into improving your own
 
 ### Deliverable
-* Submit a draft of your professional story via [this survey](https://goo.gl/forms/nfu0g8MnoyKXjfnp1) by **9am on Monday of Week 2.**
+* Submit a draft of your professional story via [this survey](https://goo.gl/forms/nfu0g8MnoyKXjfnp1) by **9am on Monday of Week 3.**
 
 ### The Why/Hook
 In Module One, we dove into exploring who we are through discussions of:
