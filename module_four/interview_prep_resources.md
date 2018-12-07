@@ -92,6 +92,7 @@ Below you can find lots of resources to help you prepare for both components.
   * Allison Reu Singer: DM her on Slack @allison_reu_singer
   * Kayt Hensley: Sign up using [this link](https://calendly.com/kaythensley)
 
-### Other Resources
-* [Tips for Body Language and Psychological Awareness](https://github.com/yangshun/tech-interview-handbook/blob/master/non-technical/psychological-tricks.md)
+### Questions to Ask the Interview & Other Resources
 * [Questions to Ask the Interviewer](https://github.com/yangshun/tech-interview-handbook/blob/master/non-technical/questions-to-ask.md)
+* [Tool to Help You Come Up with Culture Questions](https://www.keyvalues.com/culture-queries)
+* [Tips for Body Language and Psychological Awareness](https://github.com/yangshun/tech-interview-handbook/blob/master/non-technical/psychological-tricks.md)
