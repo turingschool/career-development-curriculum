@@ -40,9 +40,7 @@ A few groups will share out.
 ### Prep for Your Job Search: Using a Tracker
 The first step to a successful job search is to utilize a tracking system. Having a system to keep track of everything from companies you're interested in to notes from coffee meetings will be highly beneficial in staying organized in the job search. We'll get set up today using [Huntr](https://huntr.co/):
 
-* Step 1: Read through the guide to [using Huntr here](https://help.huntr.co/for-job-seekers/huntr-quickstart-guide)
-* Step 2: Watch Allison's demo
-* Step 3: 
+* Start by reading through this guide to [using Huntr here](https://help.huntr.co/for-job-seekers/huntr-quickstart-guide)
 
 #### Your Turn
 Take 5 minutes to set up your Huntr using the invitation you got in your email.  
