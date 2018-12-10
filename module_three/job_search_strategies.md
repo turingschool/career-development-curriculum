@@ -8,28 +8,28 @@ Now is the point in your Turing education to start on your job search, and throu
 ### Overview of Session
 Session length: 60 minutes
 
-* Opening (6 mins)
-* Job Searching Tracking (15 mins)
+* Opening (10 mins)
+* Job Searching Tracking (10 mins)
 * Tools & Discussion of Process (10 mins)
 * Demo: Walking Through an Application (10 mins)
 * You Do: Work Time (15 mins)
-* Share Out & Closing (4 mins)
+* Share Out & Closing (5 mins)
 
 ### Opening  
+#### Reflection & Turn & Talk
+Open up your notebook and reflect:
+
+* What are all the things you should do for a successful job search as a junior developer? 
+
+After 5 minutes of reflecting on this question, turn and talk with a partner to share what you've written. 
+
+
 The traditional way to look for jobs isn't necessarily the best route. 
 
 Applying for jobs on sites like monster.com, Indeed, and other career listing sites can be discouraging and ineffective. As little as [20-30% of job listings](http://www.npr.org/2011/02/08/133474431/a-successful-job-search-its-all-about-networking) are being posted online. That means that when you're only looking at company job postings, you are decreasing your chances of finding a job significantly. 
 
 In contrast, [referral candidates](http://www.careerxroads.com/news/SourcesOfHire2013.pdf) are 3-4 times more likely to be hired than non-referral candidates. To add yourself to those numbers, today we'll talk about how to find a job without relying on just a job application. 
 
-#### Turn & Talk
-Last module, you were asked to create a networking and outreach plan to execute during this mod. The goal of this plan was to start your job search by creating connections. Turn and talk to provide your partner with an update on this plan:
-
-* What connections have you created?
-* What would you like to improve in your networking and outreach plans?
-* How can you help hold each other accountable? 
-
-A few groups will share out. 
 
 #### Objectives
 
