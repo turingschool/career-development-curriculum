@@ -2,6 +2,8 @@
 
 ### Outline/Agenda
 
+[Slides for the session](https://docs.google.com/presentation/d/1bugC5TuVdfjJhGtpNGEIN9I1wrHxZ3xbyhfBSF-9uQU/edit?usp=sharing)
+
 Timing: 2 hours 
 
 * Opening: 15 mins
@@ -23,28 +25,40 @@ The above could also start as a Turn & Talk followed by a whole group share-out 
 ### Review
 Based on the above discussion, this review might vary, but here are some basic talking points:
 
-* Where does outreach fit into your applications? 
+* Where does outreach fit into your application process? 
   * Research
   * Getting face time with the company
   * 
 
-* How do you need to prepare? COME BACK TO PROFESSIONALISM
+* How do you need to prepare? 
   * Your story
   * Find contact information
-  * Develop a template -- FOCUS ON QUALITY OF MESSAGE
-  * Prep for coffee meeting
+  * Develop a template -- FOCUS ON QUALITY OF MESSAGE/Professionalism
+  * RESEARCH
   
+* Messaging
+  * LinkedIn
+  * Contact Information
+    * [Email Hunter](https://emailhunter.co/)
+    * [Find That Lead](https://findthatlead.com/)
+    * [Find That Email](https://findthat.email/)
+    * [MatterMark](https://mattermark.com/)
+    * [Skrapp.io](https://www.skrapp.io/)
+    * [Quickmail.io](https://quickmail.io/)
+    * GitHub
+    * Personal website 
+
 * What does a coffee meeting look like?
   * 
   
   
-### Demo
+### Do's and Dont's 
 Use bad examples from alumni
 
 Using 2 postings decided on ahead of time, walk through how to conduct research on 
 
 ### Work Time & Conferencing
-Participants will 
+Participants will work on their outreach messages
 
 ### Share Out/Feedback
 
