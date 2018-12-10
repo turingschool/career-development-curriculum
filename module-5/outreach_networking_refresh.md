@@ -28,10 +28,10 @@ Based on the above discussion, this review might vary, but here are some basic t
   * Getting face time with the company
   * 
 
-* How do you need to prepare?
+* How do you need to prepare? COME BACK TO PROFESSIONALISM
   * Your story
   * Find contact information
-  * Develop a template
+  * Develop a template -- FOCUS ON QUALITY OF MESSAGE
   * Prep for coffee meeting
   
 * What does a coffee meeting look like?
@@ -39,6 +39,8 @@ Based on the above discussion, this review might vary, but here are some basic t
   
   
 ### Demo
+Use bad examples from alumni
+
 Using 2 postings decided on ahead of time, walk through how to conduct research on 
 
 ### Work Time & Conferencing
