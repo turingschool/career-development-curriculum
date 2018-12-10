@@ -19,10 +19,7 @@ This is the first of 3 different feedback sessions you'll receive at Turing alon
 
 ### Deliverable
 
-You will submit feedback for each of your project partners this module by sending a paragraph of written feedback intended for your partner in a survey. Your feedback will be reviewed and you may be asked to update the feedback before it is passed on to your partner. Feedback will also be shared with your instructors. 
-
-Back End: this review will happen *twice* in the module.
-Front End: this review will happen *three times* in the module. 
+You will submit feedback for your paired project partners this module by sending a paragraph of written feedback intended for your partner in a survey. Your feedback will be reviewed and you may be asked to update the feedback before it is passed on to your partner. Feedback will also be shared with your instructors. 
 
 ### Session Structure
 
