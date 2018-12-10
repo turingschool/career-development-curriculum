@@ -14,6 +14,11 @@ Timing: 2 hours
 * Next Steps: 10 mins
 * Additional Work Time: 15 mins
 
+#### Objectives
+* Understand the purpose of outreach within your job search 
+* Identify what’s not working in your outreach strategy
+* Develop a new outreach strategy using Do’s and Don’ts from alumni experiences
+
 ### Opening
 **Whole Group Questions:** 
 * What is your biggest obstacle when it comes to outreach and networking?
@@ -26,9 +31,13 @@ The above could also start as a Turn & Talk followed by a whole group share-out 
 Based on the above discussion, this review might vary, but here are some basic talking points:
 
 * Where does outreach fit into your application process? 
-  * Research
-  * Getting face time with the company
-  * 
+  * Research 
+    * Incorporate into your cover letter and interviews
+  * Connecting with a person
+    * Building relationships
+    * Exchanging information (mutual benefits)
+    * Expanding both of your networks
+  * **Action step:** Share where you are in an application stage and how outreach could help you 
 
 * How do you need to prepare? 
   * Your story
@@ -36,7 +45,6 @@ Based on the above discussion, this review might vary, but here are some basic t
   * Develop a template -- FOCUS ON QUALITY OF MESSAGE/Professionalism
   * RESEARCH
   
-* Messaging
   * LinkedIn
   * Contact Information
     * [Email Hunter](https://emailhunter.co/)
