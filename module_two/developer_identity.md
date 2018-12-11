@@ -114,8 +114,7 @@ Below your summary, on your personal dashboard, there is an option to update you
 
 #### Add Connections
 Start with a network of at least 50 connections (but always aim for 500+ quality connections). Don't forget to add Turing staff:
-| Staff Members                                                           | Staff Members                                                              | Staff Members                                                            |
-|-------------------------------------------------------------------------|----------------------------------------------------------------------------|--------------------------------------------------------------------------|
+
 | [Jeff Casimir](https://www.linkedin.com/in/jcasimir/)                   | [Allison Reu Singer](https://www.linkedin.com/in/allisonreusinger/)        | [Ellen Mary Hickmann](https://www.linkedin.com/in/emhickmann/)           |
 | [Courtney Haynes](https://www.linkedin.com/in/courtney-haynes-5154a24/) | [Sal Espinosa](https://www.linkedin.com/in/salespinosa/)                   | [Louisa Barrett](https://www.linkedin.com/in/louisabarrett/)             |
 | [Kayt Hensley](https://www.linkedin.com/in/klhensley/)                  | [Sarah Schnall](https://www.linkedin.com/in/sarah-schnall-799338b4/)       | [Joanne Liu](https://www.linkedin.com/in/joannemwliu/)                   |
@@ -126,7 +125,7 @@ Start with a network of at least 50 connections (but always aim for 500+ quality
 | [Dione Wilson](https://www.linkedin.com/in/dionewilson/)                | [Brian Zanti](https://www.linkedin.com/in/brian-zanti-ba906057/)           | [Megan McMahon](https://www.linkedin.com/in/meganemcmahon1/)             |
 | [Travis Rollins](https://www.linkedin.com/in/travisrollins/)            | [Khalid Williams](https://www.linkedin.com/in/khalidwilliams27/)           | [Katelyn Kasperowicz](https://www.linkedin.com/in/katelynkasperowicz/)   |
 | [Lindsey Lucero](https://www.linkedin.com/in/lindslucero/)              | [Erin Williams](https://www.linkedin.com/in/erin-neill-williams-793696a8/) | [Rachel Martinez](https://www.linkedin.com/in/rachel-martinez-16693956/) |
-| [Rachel Warbelow](https://www.linkedin.com/in/rwarbelow/)               |                                                                            |                                                                          |
+| [Rachel Warbelow](https://www.linkedin.com/in/rwarbelow/)               |                                                    
 
 * Engage with your connections by liking, commenting on, and/or sharing their updates.
 * As you continue to grow in your development at Turing, share your own updates, whether they be blog posts or links to projects.
