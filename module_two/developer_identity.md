@@ -114,7 +114,7 @@ Below your summary, on your personal dashboard, there is an option to update you
 
 #### Add Connections
 Start with a network of at least 50 connections (but always aim for 500+ quality connections). Don't forget to add Turing staff:
-|                                                                         | Staff Members to Connect With                                              |                                                                          |
+| Staff Members                                                           | Staff Members                                                              | Staff Members                                                            |
 |-------------------------------------------------------------------------|----------------------------------------------------------------------------|--------------------------------------------------------------------------|
 | [Jeff Casimir](https://www.linkedin.com/in/jcasimir/)                   | [Allison Reu Singer](https://www.linkedin.com/in/allisonreusinger/)        | [Ellen Mary Hickmann](https://www.linkedin.com/in/emhickmann/)           |
 | [Courtney Haynes](https://www.linkedin.com/in/courtney-haynes-5154a24/) | [Sal Espinosa](https://www.linkedin.com/in/salespinosa/)                   | [Louisa Barrett](https://www.linkedin.com/in/louisabarrett/)             |
