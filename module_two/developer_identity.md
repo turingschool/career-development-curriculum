@@ -114,18 +114,19 @@ Below your summary, on your personal dashboard, there is an option to update you
 
 #### Add Connections
 Start with a network of at least 50 connections (but always aim for 500+ quality connections). Don't forget to add Turing staff:
-
-|                                                                          |                             Connect with Staff                             |                                                                |
-|:------------------------------------------------------------------------:|:--------------------------------------------------------------------------:|:--------------------------------------------------------------:|
-|    [Allison Reu Singer](https://www.linkedin.com/in/allisonreusinger/)   |            [Jeff Casimir](https://www.linkedin.com/in/jcasimir/)           | [Ellen Mary Hickmann](https://www.linkedin.com/in/emhickmann/) |
-|          [Joanne Liu](https://www.linkedin.com/in/joannemwliu/)          |        [Louisa Barrett](https://www.linkedin.com/in/louisabarrett/)        |    [Sal Espinosa](https://www.linkedin.com/in/salespinosa/)    |
-|           [Josh Mejia](https://www.linkedin.com/in/joshmejia/)           |          [Ian Douglas](https://www.linkedin.com/in/iandouglas736/)         |       [Mike Dao](https://www.linkedin.com/in/michaeldao/)      |
-|           [Khalid Williams](https://www.linkedin.com/in/khalidwilliams27/)          |          [Christie Lynam](https://www.linkedin.com/in/christie-lynam/)          |    [Travis Rollins](https://www.linkedin.com/in/travisrollins/)   |
-|      [Brittany Storoz](https://www.linkedin.com/in/brittanystoroz/)      |         [Robbie Jaeger](https://www.linkedin.com/in/robertjaeger0/)        |    [Will Mitchell](https://www.linkedin.com/in/wvmitchell/)    |
-|           [Leta Keane](https://www.linkedin.com/in/letakeane/)           |  [Megan McMahon](https://www.linkedin.com/in/meganemcmahon1/)  |      [Pam Lovett](https://www.linkedin.com/in/thatpamiam/)     |
-|     [Cory Westerfield](https://www.linkedin.com/in/corywesterfield/)     |        [David Whitaker](https://www.linkedin.com/in/david-whitaker/)       |  [Amy Holt](https://www.linkedin.com/in/amyelizabethholt/)  |
-|        [Dione Wilson](https://www.linkedin.com/in/dionewilson/)        | [Erin Williams](https://www.linkedin.com/in/erin-neill-williams-793696a8/) |     [Kayt Hensley](https://www.linkedin.com/in/klhensley/)     |
-| [Rachel Martinez](https://www.linkedin.com/in/rachel-martinez-16693956/) |          [Rachel Warbelow](https://www.linkedin.com/in/rwarbelow/)         |         [Brian Zanti](https://www.linkedin.com/in/brian-zanti-ba906057/) |  | [Lindsey Lucero](https://www.linkedin.com/in/lindslucero/) |    [Courtney Haynes](https://www.linkedin.com/in/courtney-haynes-5154a24/)  | [Katelyn Kasperowicz](https://www.linkedin.com/in/katelynkasperowicz/) |
+|                                                                         | Staff Members to Connect With                                              |                                                                          |
+|-------------------------------------------------------------------------|----------------------------------------------------------------------------|--------------------------------------------------------------------------|
+| [Jeff Casimir](https://www.linkedin.com/in/jcasimir/)                   | [Allison Reu Singer](https://www.linkedin.com/in/allisonreusinger/)        | [Ellen Mary Hickmann](https://www.linkedin.com/in/emhickmann/)           |
+| [Courtney Haynes](https://www.linkedin.com/in/courtney-haynes-5154a24/) | [Sal Espinosa](https://www.linkedin.com/in/salespinosa/)                   | [Louisa Barrett](https://www.linkedin.com/in/louisabarrett/)             |
+| [Kayt Hensley](https://www.linkedin.com/in/klhensley/)                  | [Sarah Schnall](https://www.linkedin.com/in/sarah-schnall-799338b4/)       | [Joanne Liu](https://www.linkedin.com/in/joannemwliu/)                   |
+| [Amy Holt](https://www.linkedin.com/in/amyelizabethholt/)               | [Cory Westerfield](https://www.linkedin.com/in/corywesterfield/)           | [Leta Keane](https://www.linkedin.com/in/letakeane/)                     |
+| [Will Mitchell](https://www.linkedin.com/in/wvmitchell/)                | [Josh Mejia](https://www.linkedin.com/in/joshmejia/)                       | [Mike Dao](https://www.linkedin.com/in/michaeldao/)                      |
+| [Christie Lynham](https://www.linkedin.com/in/christie-lynam/)          | [David Whitaker](https://www.linkedin.com/in/david-whitaker/)              | [Robbie Jaeger](https://www.linkedin.com/in/robertjaeger0/)              |
+| [Brittany Storoz](https://www.linkedin.com/in/brittanystoroz/)          | [Pam Lovett](https://www.linkedin.com/in/thatpamiam/)                      | [Ian Douglas](https://www.linkedin.com/in/iandouglas736/)                |
+| [Dione Wilson](https://www.linkedin.com/in/dionewilson/)                | [Brian Zanti](https://www.linkedin.com/in/brian-zanti-ba906057/)           | [Megan McMahon](https://www.linkedin.com/in/meganemcmahon1/)             |
+| [Travis Rollins](https://www.linkedin.com/in/travisrollins/)            | [Khalid Williams](https://www.linkedin.com/in/khalidwilliams27/)           | [Katelyn Kasperowicz](https://www.linkedin.com/in/katelynkasperowicz/)   |
+| [Lindsey Lucero](https://www.linkedin.com/in/lindslucero/)              | [Erin Williams](https://www.linkedin.com/in/erin-neill-williams-793696a8/) | [Rachel Martinez](https://www.linkedin.com/in/rachel-martinez-16693956/) |
+| [Rachel Warbelow](https://www.linkedin.com/in/rwarbelow/)               |                                                                            |                                                                          |
 
 * Engage with your connections by liking, commenting on, and/or sharing their updates.
 * As you continue to grow in your development at Turing, share your own updates, whether they be blog posts or links to projects.
