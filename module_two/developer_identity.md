@@ -124,11 +124,7 @@ Start with a network of at least 50 connections (but always aim for 500+ quality
 | [Brittany Storoz](https://www.linkedin.com/in/brittanystoroz/)          | [Pam Lovett](https://www.linkedin.com/in/thatpamiam/)                      | [Ian Douglas](https://www.linkedin.com/in/iandouglas736/)                |
 | [Dione Wilson](https://www.linkedin.com/in/dionewilson/)                | [Brian Zanti](https://www.linkedin.com/in/brian-zanti-ba906057/)           | [Megan McMahon](https://www.linkedin.com/in/meganemcmahon1/)             |
 | [Travis Rollins](https://www.linkedin.com/in/travisrollins/)            | [Khalid Williams](https://www.linkedin.com/in/khalidwilliams27/)           | [Katelyn Kasperowicz](https://www.linkedin.com/in/katelynkasperowicz/)   |
-| [Lindsey Lucero](https://www.linkedin.com/in/lindslucero/)              | [Erin Williams](https://www.linkedin.com/in/erin-neill-williams-793696a8/) | [Rachel Martinez](https://www.linkedin.com/in/rachel-martinez-16693956/) |
-
-
-
-| [Rachel Warbelow](https://www.linkedin.com/in/rwarbelow/)               |                                                    
+| [Lindsey Lucero](https://www.linkedin.com/in/lindslucero/)              | [Erin Williams](https://www.linkedin.com/in/erin-neill-williams-793696a8/) | [Rachel Martinez](https://www.linkedin.com/in/rachel-martinez-16693956/) || [Rachel Warbelow](https://www.linkedin.com/in/rwarbelow/)               |                                                    
 
 * Engage with your connections by liking, commenting on, and/or sharing their updates.
 * As you continue to grow in your development at Turing, share your own updates, whether they be blog posts or links to projects.
