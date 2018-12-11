@@ -7,8 +7,8 @@
 Timing: 2 hours 
 
 * Opening Discussion: 15 mins
-* Review & Demo & Template Building/Sharing: 40 mins
-* What's Next: Coffee Meetings: 20 mins
+* Review & Complete New Strategy & Demo: 40 mins
+* What's Next - Coffee Meetings: 20 mins
 * Work Time & Conferencing: 30 mins 
 * Closing Discussion/Next Steps: 10 mins
 
@@ -26,7 +26,7 @@ Timing: 2 hours
 The above could also start as a Turn & Talk followed by a whole group share-out depending on how many people attend. 
 
 ### Review & Template Building/Sharing
-Facilitator: On the board, draw a 2x2 table with these boxes to outline the below:
+Facilitator: On the board, draw a 2x2 table with these boxes:
 
 * Why
 * Who
@@ -43,15 +43,17 @@ Based on the above discussion, this review might vary, but here are some basic t
     * Building relationships
     * Exchanging information (mutual benefits)
     * Expanding both of your networks
-  * **Action step:** Share where you are in an application stage and how outreach could help you 
+  * **Action step:** Share where you are in an application stage and what role outreach could play in that application 
  
-#### Who Do Contact?
-*
- 
-Finding Contact Info:
+#### Who Do You Contact?
 
-  * LinkedIn
-  * Finding Emails:
+* Research your company and find a contact
+  * Who is the best contact?
+  * Does Turing have any alumni already there?
+* Research that specific person
+  * How? What resources are there to do this research?
+* Find contact info
+  * How?
     * [Email Hunter](https://emailhunter.co/)
     * [Find That Lead](https://findthatlead.com/)
     * [Find That Email](https://findthat.email/)
@@ -60,55 +62,45 @@ Finding Contact Info:
     * [Quickmail.io](https://quickmail.io/)
     * GitHub
     * Personal website 
+  * LinkedIn messages vs. Email
+* **Action Step:** Do some initial research on your contact and find their contact information
 
 #### What Do You Say?
-* Message Templates
-
-#### Do's and Dont's 
-Use bad examples from alumni
-
-### Demo
-Using 1-2 job postings from the group, the group will work through these steps together to send a message to a cold contact.
-
-### You Do: Action Steps
-All participants will spend 10 minutes working on an outreach message using the strategies outlined above. 
-
-### Share Out
+* Prepare a message 
+  * What should be included here?
+    * Introduction
+    * Purpose
+    * Specifics to the contact
+* What should not be included here? (All from other alumni)
+  * Asking for a reference or job
+  * Unclear purpose
+  * Generic message/unclear specifics about them as a person
+  * Mentioning multiple people they’re reaching out to
+* **Action Step:** Craft a message to your contact
+  
+#### Share Out
 Go around the room and have each participant share out:
 
 * Who their contact is
 * How they're contacting them
 * What they wrote in their message
 
-**Whole Group Question:**
-* How can you modify this template for other messages?
+### Demo
+Using 1-2 job postings from the group, the group will work through these steps together to send a message to a cold contact.
   
 ### You've Sent the Message: Now What?
-
 Coffee meetings: 
-* What does a coffee meeting look like?
-  * 
-  
-  
-  
-Discussion:
-
-* How do you keep the relationship going?
-* 
-
-Back to the job application:
-
-
+* Prepare your story
+* Prepare some questions
+  * Look at this question list
+  * What else would you add? 
+* **Action Step:** Prepare 5 questions you could ask your contact  
 
 ### Work Time & Conferencing
-Participants will work on their outreach messages
+Participants will work on their outreach messages and send them in real time. 
 
 ### Share Out/Feedback
-
-
-
+We'll have another round of sharing and feedback as needed.
 
 ### Next Steps
-
-
-### 
+Takeaways: Each participant will share what they will focus on in their next steps with outreach.
