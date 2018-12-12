@@ -15,35 +15,40 @@ Session length: 60 minutes
 * You Do: Work Time (15 mins)
 * Share Out & Closing (5 mins)
 
-### Opening  
-#### Reflection & Turn & Talk
-Open up your notebook and reflect:
+### Opening
+#### Objectives
 
-* What are all the things you should do for a successful job search as a junior developer? 
-
-After 5 minutes of reflecting on this question, turn and talk with a partner to share what you've written. 
-
+* Understand all components that go into an effective job search 
+* Devise a step-by-step strategy for a job application, including research, outreach, and follow-up
+* Create and effectively use a job search tracker for your job search with Huntr
+* Start a list of companies and jobs to research
 
 The traditional way to look for jobs isn't necessarily the best route. 
 
-Applying for jobs on sites like monster.com, Indeed, and other career listing sites can be discouraging and ineffective. As little as [20-30% of job listings](http://www.npr.org/2011/02/08/133474431/a-successful-job-search-its-all-about-networking) are being posted online. That means that when you're only looking at company job postings, you are decreasing your chances of finding a job significantly. 
+Applying for jobs on sites like monster.com, Indeed, and other career listing sites can be discouraging and ineffective. As little as [20-30% of job listings](http://www.npr.org/2011/02/08/133474431/a-successful-job-search-its-all-about-networking) are being posted online. That means that when you're _only_ looking at company job postings, you are decreasing your chances of finding a job significantly. 
 
 In contrast, [referral candidates](http://www.careerxroads.com/news/SourcesOfHire2013.pdf) are 3-4 times more likely to be hired than non-referral candidates. To add yourself to those numbers, today we'll talk about how to find a job without relying on just a job application. 
 
+#### Group Discussion
+Form groups of 3-4 people, grab a piece of chart paper, and create a list to answer this question:
 
-#### Objectives
+* What are all the things you should do for a successful job search as a junior developer? 
 
-* Describe a step-by-step plan for a job application, including research, outreach, and follow-up
-* Create and effectively use a job search tracker for your job search
-* Start a list of companies and jobs to research
+After 5 minutes of brainstorming, walk around the room to read other groups’ papers:
+* What trends do you see?
+* What is something new you hadn’t thought of?
+* What will be challenging for you to do in the job search?
+
+As a group, we'll come up with a definitive list.
+
+Now that you have an idea of what you'll need to do, how can you keep track of these things?
 
 ### Prep for Your Job Search: Using a Tracker
 The first step to a successful job search is to utilize a tracking system. Having a system to keep track of everything from companies you're interested in to notes from coffee meetings will be highly beneficial in staying organized in the job search. We'll get set up today using [Huntr](https://huntr.co/):
 
 * Start by reading through this guide to [using Huntr here](https://help.huntr.co/for-job-seekers/huntr-quickstart-guide)
-
-#### Your Turn
-Take 5 minutes to set up your Huntr using the invitation you got in your email.  
+* Install the [Chrome extension](https://chrome.google.com/webstore/detail/huntr-job-search-tracker/mihdfbecejheednfigjpdacgeilhlmnf)
+* Start customizing your board!
 
 ### The Process
 So if you aren't going to just apply to a posting on a job board, what is your process?
