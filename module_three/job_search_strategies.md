@@ -74,7 +74,7 @@ Here are helpful tips for the process:
 5. Go back to your Contact
   * Let them know you've applied
 
-Update Jobtrack in every step of the process. 
+Update Huntr in every step of the process. 
 
 ### Where to Begin: Finding the Job Posting
 In order to find job postings and begin conducting research, here are some tools you should check out:
