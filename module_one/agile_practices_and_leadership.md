@@ -4,9 +4,22 @@
 
 [Slides for this session](https://docs.google.com/presentation/d/1GV_PSrTRRKlXE1IKp9NXRHbgipyK1nmdk34i8n_UobQ/edit?usp=sharing)
 
+
+* Group project discussion
+  * 
+  * Who will they ask for feedback? Who else besides instructors?
+
+
 ### Session Structure
 
-Length: 90 minutes
+Length: 2 hours
+
+* Opening: objectives, deliverable, why (5 mins)
+* Reflection (5 mins)
+  * Just finished paired project. What takeaways do you have about the workflow for developing software effectively? What worked well for you? What do you want to do differently?
+  * Share out
+* Waterfall vs. Agile
+
 
 * Opening: objectives, deliverable, why (5 mins)
 * Waterfall vs. Agile (25 mins)
@@ -42,32 +55,41 @@ To build great software we need to be intentional about the **process**. Whether
 
 In this session we'll take a quick overview of "Waterfall," "Agile," how to begin better managing your projects at Turing, and how to build even better teams. 
 
+
+
+
+
 ### Waterfall vs. Agile (Jeff)
 
 ![Agile vs. Waterfall](https://github.com/turingschool/career-development-curriculum/blob/master/files/Agile%20vs.%20Waterfall.png)
 
 #### Waterfall
-1. Requirements - the big book of features
-2. Technical Design - "architects"
-3. Implementation - "code monkeys"
-4. Verification - handoff to Q/A
-5. Maintenance - let interns fix the bugs
+Waterfall follows these steps in a one-off activity:
+1. Requirements: The clients, market researchers, and project managers develop a book of features
+2. Technical Design: Software architects design what the app should look like
+3. Implementation: Developers follow the spec to the letter to build out the application
+4. Verification: QA tests the app according to the spec
+5. Maintenance: Interns troubleshoot bugs
  
 #### Strengths of Waterfall
+This works well in scenarios in which testing is:
+ * infeasible 
+ * expensive
+ * dangerous
+
 
 * Once requirements are set, you can estimate how long it'll take to build. But...you're wrong.
 * Easy to stagger teams, have one hand off to the next each phase
 * Spend a long time in 1 & 2 billing clients and you don't have to build anything
 * When the project fails you blame the requirements and those people are long gone
 
-#### Problems of Waterfall
+#### Weaknesses of Waterfall
 
 * Writing requirements is impossible
 * Each phase takes months/years -- quickly outdated
 * No chance to "listen to the code"
 * No user feedback until complete
 * No potential for revenue until complete
-* It just doesn't work
 
 #### Agile
 
@@ -78,13 +100,6 @@ In this session we'll take a quick overview of "Waterfall," "Agile," how to begi
 5. Feedback & Approval
 6. Go to 1
 
-#### Problems with Agile
-
-* No real estimate of the total cost
-* People won't shut up about it
-* Need to have cross-functional teams
-* A whole lot of conversation ("I've never seen a project fail...")
-
 #### Strengths of Agile
 
 * Responsive to the user / product owner
@@ -92,6 +107,15 @@ In this session we'll take a quick overview of "Waterfall," "Agile," how to begi
 * Can grow organically
 * Easier to stop early
 * Possible to generate revenue along the way
+
+#### Weaknesses of Agile
+
+* No real estimate of the total cost
+* People won't shut up about it
+* Need to have cross-functional teams
+* A whole lot of conversation ("I've never seen a project fail...")
+
+
 
 #### Agile in the Real World
 
@@ -105,7 +129,7 @@ In this session we'll take a quick overview of "Waterfall," "Agile," how to begi
 * Eric Ries' "The Lean Startup"
 * [Agile Manifesto](http://agilemanifesto.org/), written in 2001 and has its merits and its flaws
  
-#### Turn & Talk:
+#### Group Discussion:
 * When does it make sense to use the Waterfall method? When does it make sense to use Agile?
 * How do you see Agile already being used in your processes at Turing?
 * How does Agile describe teamwork to you?
