@@ -263,5 +263,7 @@ Continue your DTR:
 * How do you plan to navigate Tuckman’s stages?
 * How are you approaching agile in your team?
 
-### Closing
-How will you continue to apply these principles during the rest of your time at Turing? 
+### Closing: Next Steps
+* Be prepared to revisit Tuckman’s stages and complete a group retro on Wednesday
+* Your deliverable:
+  * Submit a reflection on using agile and participating in retro feedback in survey provided by 9am on Friday of Week 5
