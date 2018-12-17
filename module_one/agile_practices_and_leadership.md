@@ -183,10 +183,11 @@ As a group, draft one story for *each* of the following:
 * Cutting scope is ok, cutting quality isn't
 
 Check out these resources:
-* [Git Workflow for Teams]
+* [Git Workflow for Teams](https://github.com/turingschool/career-development-curriculum/tree/master/module_one)
 * [Waffle.io](https://waffle.io/)
-* [Trello](
-* [JIRA]
+* [Trello](https://trello.com/)
+* [Pivotal Tracker](https://www.pivotaltracker.com/)
+* [JIRA](https://www.atlassian.com/software/jira)
 * [Asana]
 
 
