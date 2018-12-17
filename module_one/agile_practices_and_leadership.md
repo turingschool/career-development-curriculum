@@ -73,9 +73,9 @@ Waterfall follows these steps in a one-off activity:
  
 #### Strengths of Waterfall
 This works well in scenarios in which testing is:
- * infeasible 
- * expensive
- * dangerous
+ * Infeasible 
+ * Expensive
+ * Dangerous
 
 
 * Once requirements are set, you can estimate how long it'll take to build. But...you're wrong.
