@@ -8,22 +8,24 @@
 
 Length: 2 hours
 
-* Opening: why/reflection discussion, objectives, deliverable (7 mins)
+* Opening: why/reflection discussion, objectives, deliverable (5 mins)
 * Waterfall vs. Agile Lecture (40 mins)
    * Lecture (30 mins)
-   * Turn & Talk (5 mins)
+   * Group Discussion (5 mins)
    * Whole Group share-out (5 mins)
+* Pomodoro (5 mins) 
 * Agile in Practice (20 mins)
    * Lecture (5 mins)
    * Story Practice (10 mins)
-   * Turn & Talk (5 mins)
-* Project Management Tools & Resources (10 mins)
-* How Teams Work Together (29 mins)
+   * Share out (5 mins)
+* Project Management Tools & Resources (5 mins)
+* How Teams Work Together (12 mins)
    * Whole Group Introduction (2 mins)
-   * Leadership Domains Discussion (8 mins)
-   * Tuckman's Group Life Cycle Discussion (7 mins)
-   * Project Group Discussion (12 mins)
-* Closing: how to continue this at Turing (1 min)
+   * Leadership Domains Discussion (5 mins)
+   * Tuckman's Group Life Cycle Discussion (5 mins)
+* Project Group DTR (25 mins)
+* Debrief/Takeaways (5 mins)
+* Closing: Next Steps (3 mins)
 
 ### Objectives
 * Describe the general concept of the "waterfall" model
@@ -101,7 +103,7 @@ Same steps as Waterfall, executed in iterative rounds, except that there is one 
 Within your projects teams, discuss:
 
 * How could you adapt the agile process of developing software in this project? What could that look like in practice? 
-* Who else could you solicit feedback from during your development process besides instructors? 
+* Who else could you solicit feedback from during your development process besides instructors? How will that fit into your timeline?
 
 1-2 groups share out their takeaways. 
 
@@ -183,15 +185,14 @@ As a group, draft one story for *each* of the following:
 * Cutting scope is ok, cutting quality isn't
 
 Check out these resources:
-* [Git Workflow for Teams](https://github.com/turingschool/career-development-curriculum/tree/master/module_one)
+* [Git Workflow for Teams](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/git_workflow_for_teams.md)
 * [Waffle.io](https://waffle.io/)
 * [Trello](https://trello.com/)
 * [Pivotal Tracker](https://www.pivotaltracker.com/)
 * [JIRA](https://www.atlassian.com/software/jira)
-* [Asana]
+* [Asana](https://asana.com/)
 
-
-### How Teams Work Together (Allison)
+### How Teams Work Together
 Now let's talk now about how teams work together.
 
 #### Whole Group Introduction
@@ -214,7 +215,7 @@ Let's consider how our strengths play a part in the types of roles we take on in
 Using the handout above and examining your strengths from your Pairin results, where do you fall in these styles? What does this tell you about how you operate on teams?
 
 **Whole Group Discussion:**
-* How do each of these types of leadership styles work together?
+* How do each of these types of leadership styles work together? What do they look like in practice?
 * Where might they come into conflict with each other?
 * How could teams resolve that conflict?
 
@@ -234,14 +235,33 @@ Now that you understand these leadership styles look like, let's discuss how the
 * How can a team move past the storming phase into the norming phase?
 * How does this cycle relate to agile systems?
 
-#### Project Team Discussion
-You're about to kick off your first team project. Get into the groups listed on the slide to discuss the following questions:
+#### Project Team DTR
+Begin your DTR by discussing:
 
-* Share your strengths with each other -- what do they mean? How do you interpret these strengths in your day-to-day work? 
+* Share your strengths with each other
+   * What do they mean? 
+   * How do you interpret these strengths in your day-to-day work? 
 * How can you move through Tuckman's stages as a team?
 * What are your domains of strengths? How could these strengths work together to make a successful team? 
 * How might your team come into conflict with each other? How will you resolve that conflict if it occurs?
 * What domains are not covered as much in your current team? How does that affect your team’s performance? 
+
+Continue your DTR:
+
+* Reference the [DTR guidelines and memo questions here](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/dtr_guidelines_memo.md)
+* Then, look at the spec:
+  * How will you break up the iterations of the project into user stories?
+  * What project management tool will you use?
+  * When are you soliciting feedback?
+  * When will you retro?
+    * We’ll have our first retro on Wednesday!
+    
+#### Share Takeaways
+3 groups share:
+
+* What are your team’s strengths?
+* How do you plan to navigate Tuckman’s stages?
+* How are you approaching agile in your team?
 
 ### Closing
 How will you continue to apply these principles during the rest of your time at Turing? 
