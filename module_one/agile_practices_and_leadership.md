@@ -61,7 +61,7 @@ In this session we'll take a quick overview of "Waterfall," "Agile," how to begi
 
 ### Waterfall vs. Agile (Jeff)
 
-![Agile vs. Waterfall](https://github.com/turingschool/career-development-curriculum/blob/master/files/Agile%20vs.%20Waterfall.png)
+![Agile vs. Waterfall](https://github.com/turingschool/career-development-curriculum/blob/master/files/agileandwaterfall.gif)
 
 #### Waterfall
 Waterfall follows these steps in a one-off activity:
