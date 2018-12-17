@@ -14,17 +14,10 @@
 
 Length: 2 hours
 
-* Opening: objectives, deliverable, why (5 mins)
-* Reflection (5 mins)
-  * Just finished paired project. What takeaways do you have about the workflow for developing software effectively? What worked well for you? What do you want to do differently?
-  * Share out
-* Waterfall vs. Agile
-
-
-* Opening: objectives, deliverable, why (5 mins)
-* Waterfall vs. Agile (25 mins)
-   * Lecture (15 mins)
-   * Turn & Talk (5 mins)
+* Opening: why/reflection discussion, objectives, deliverable (7 mins)
+* Waterfall vs. Agile Lecture (40 mins)
+   * Lecture (25 mins)
+   * Turn & Talk (5 mins)?????
    * Whole Group share-out (5 mins)
 * Agile in Practice (20 mins)
    * Lecture (5 mins)
@@ -38,7 +31,7 @@ Length: 2 hours
    * Project Group Discussion (12 mins)
 * Closing: how to continue this at Turing (1 min)
 
-### Objectives (Jeff & Allison)
+### Objectives
 * Describe the general concept of the "waterfall" model
 * Explain how "agile" differs from waterfall
 * Explain the idea of a sprint
@@ -47,19 +40,18 @@ Length: 2 hours
 * Describe how you might adapt your strengths according to team dynamics
 * Discuss how to leverage each others' strengths to work even more effectively in your project
 
-### Deliverable (Allison)
+### Deliverable
 Submit a reflection on using agile and participating in retro feedback using [this template](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/agile_feedback_reflection_guidelines.md) in survey provided by 9am on Friday of Week 5
 
-### Connections: The Why (Jeff & Allison)
+### Connections: The Why 
 To build great software we need to be intentional about the **process**. Whether working solo or in groups, your process is a more significant determiner of your project's success than your technical skill. And refining your process helps you establish your place in the industry as an emerging developer. 
 
 In this session we'll take a quick overview of "Waterfall," "Agile," how to begin better managing your projects at Turing, and how to build even better teams. 
 
+**Whole Group Discussion:** How would you describe your process in last week's paired project? 
 
-
-
-
-### Waterfall vs. Agile (Jeff)
+### Waterfall vs. Agile 
+These two approaches to software development use the same steps but in different ways:
 
 ![Agile vs. Waterfall](https://github.com/turingschool/career-development-curriculum/blob/master/files/agileandwaterfall.gif)
 
@@ -69,36 +61,30 @@ Waterfall follows these steps in a one-off activity:
 2. Technical Design: Software architects design what the app should look like
 3. Implementation: Developers follow the spec to the letter to build out the application
 4. Verification: QA tests the app according to the spec
-5. Maintenance: Interns troubleshoot bugs
+5. Deployment & Maintenance: The app is launched; Interns troubleshoot bugs
  
 #### Strengths of Waterfall
-This works well in scenarios in which testing is:
- * Infeasible 
- * Expensive
- * Dangerous
-
-
-* Once requirements are set, you can estimate how long it'll take to build. But...you're wrong.
+* This works well in scenarios in which testing is:
+  * Infeasible 
+  * Expensive
+  * Dangerous
 * Easy to stagger teams, have one hand off to the next each phase
-* Spend a long time in 1 & 2 billing clients and you don't have to build anything
-* When the project fails you blame the requirements and those people are long gone
 
 #### Weaknesses of Waterfall
-
 * Writing requirements is impossible
-* Each phase takes months/years -- quickly outdated
+* Each phase takes months/years = quickly outdated
 * No chance to "listen to the code"
 * No user feedback until complete
 * No potential for revenue until complete
 
 #### Agile
-
+Same steps as Waterfall, except that there is one additional step: feedback!
 1. Requirements
 2. Design
 3. Implementation
 4. Verification
 5. Feedback & Approval
-6. Go to 1
+6. Go back to 1
 
 #### Strengths of Agile
 
