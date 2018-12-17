@@ -6,7 +6,7 @@
 
 ### Session Structure
 
-Length: 2 hours
+Timing: 2 hours
 
 * Opening: why/reflection discussion, objectives, deliverable (5 mins)
 * Waterfall vs. Agile Lecture (40 mins)
