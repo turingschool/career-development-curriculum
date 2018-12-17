@@ -4,20 +4,14 @@
 
 [Slides for this session](https://docs.google.com/presentation/d/1GV_PSrTRRKlXE1IKp9NXRHbgipyK1nmdk34i8n_UobQ/edit?usp=sharing)
 
-
-* Group project discussion
-  * 
-  * Who will they ask for feedback? Who else besides instructors?
-
-
 ### Session Structure
 
 Length: 2 hours
 
 * Opening: why/reflection discussion, objectives, deliverable (7 mins)
 * Waterfall vs. Agile Lecture (40 mins)
-   * Lecture (25 mins)
-   * Turn & Talk (5 mins)?????
+   * Lecture (30 mins)
+   * Turn & Talk (5 mins)
    * Whole Group share-out (5 mins)
 * Agile in Practice (20 mins)
    * Lecture (5 mins)
@@ -78,7 +72,7 @@ Waterfall follows these steps in a one-off activity:
 * No potential for revenue until complete
 
 #### Agile
-Same steps as Waterfall, except that there is one additional step: feedback!
+Same steps as Waterfall, executed in iterative rounds, except that there is one additional step: *feedback!*
 1. Requirements
 2. Design
 3. Implementation
@@ -89,6 +83,7 @@ Same steps as Waterfall, except that there is one additional step: feedback!
 #### Strengths of Agile
 
 * Responsive to the user / product owner
+  * Use of MVPs
 * "Discover" the better solutions along the way
 * Can grow organically
 * Easier to stop early
@@ -98,31 +93,34 @@ Same steps as Waterfall, except that there is one additional step: feedback!
 
 * No real estimate of the total cost
 * People won't shut up about it
-* Need to have cross-functional teams
-* A whole lot of conversation ("I've never seen a project fail...")
+* Need to have cross-functional teams and strong teamwork in order to execute
+* A whole lot of conversation (see above)
+  * "I've never seen a project fail because of technical reasons."
+  
+#### Turn & Talk
+Within your projects teams, discuss:
 
+* How could you adapt the agile process of developing software in this project? What could that look like in practice? 
+* Who else could you solicit feedback from during your development process besides instructors? 
 
+1-2 groups share out their takeaways. 
 
 #### Agile in the Real World
 
 * GitHub's story
-* Digg.com
+* Netflix
+  * Advancaed and consistent in software processes
+  * Deploys 30-150 times a day
+* Digg.com's downfall
   * Google tried to buy them for $200M in 2008
   * After a failed launch of their new web site in 2010 (with little/no feedback loop), by the time 2012 rolled around:
   * LinkedIn bought some of their patents for about $4M
   * Washinton Post paid about $12M to hire the entire Digg team of employees
   * The digg.com domain name, code and data, was sold to BetaWorks for $500,000
 * Eric Ries' "The Lean Startup"
-* [Agile Manifesto](http://agilemanifesto.org/), written in 2001 and has its merits and its flaws
- 
-#### Group Discussion:
-* When does it make sense to use the Waterfall method? When does it make sense to use Agile?
-* How do you see Agile already being used in your processes at Turing?
-* How does Agile describe teamwork to you?
+* [Agile Manifesto](http://agilemanifesto.org/), written in 2001 and has its merits and its flaws; was part of the beginning of agile
 
-1-3 groups share out takeaways to the whole group. 
-
-### Agile in Practice (Jeff)
+### Agile in Practice
 There are all kinds of strategies, frameworks, and buzzwords around agile development. But everything revolves around *stories* and *sprints*.
 
 #### The Sprint
@@ -167,18 +165,17 @@ Then I [observe an outcome]
 
 Let's start with some ideas that translate well to single stories.
 
-*Imagine* we've prototyped a small to-do list app. It just allows the user to create to-dos. And it only supports a single user.
+In this example, you've prototyped a small to-do list app. It just allows the user to create to-dos. And it only supports a single user.
 
-**You Do:**
-Start on your own and draft one story for *each* of the following:
+As a group, draft one story for *each* of the following:
 
 *   Checking the box for a to-do moves it to the completed list
 *   The top of the todo list has a count of the number to todos which updates when I add a new one
 *   Clicking trash on a to-do pops up a confirm/cancel dialog
 
-Then, **Turn & Talk** to share your results.
+3 different groups share out for each example.
 
-### Where to Go From Here: Project Management Tools (Jeff)
+### Where to Go From Here: Project Management Tools
 * Start using a project management tool, like Waffle
 * Turn your requirements into stories following the above template
 * Prioritize stories and schedule sprints (even just 2-3 days)
@@ -186,8 +183,12 @@ Then, **Turn & Talk** to share your results.
 * Cutting scope is ok, cutting quality isn't
 
 Check out these resources:
-* [Git Workflow for Teams](https://github.com/turingschool/professional_skills/blob/master/module_two/git_workflow_for_teams.md)
+* [Git Workflow for Teams]
 * [Waffle.io](https://waffle.io/)
+* [Trello](
+* [JIRA]
+* [Asana]
+
 
 ### How Teams Work Together (Allison)
 Now let's talk now about how teams work together.
