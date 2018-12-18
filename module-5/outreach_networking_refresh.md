@@ -71,6 +71,7 @@ Based on the above discussion, this review might vary, but here are some basic t
     * Introduction
     * Purpose
     * Specifics to the contact
+    * Call to Action
 * What should not be included here? (All from other alumni)
   * Asking for a reference or job
   * Unclear purpose
