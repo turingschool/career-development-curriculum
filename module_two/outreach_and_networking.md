@@ -66,6 +66,8 @@ So, what do you want to learn?
   * What is your ideal work environment/culture?
   * What industries/fields are you most interested in?
   
+* Try this [culture queries exercise](https://www.keyvalues.com/culture-queries)
+  
 * From here, think about how you can approach conducting research to focus your job search:
   * **I Do:** If I want to find out more about finding the kind of culture I want, I could start by narrowing down my own definition of culture (if I haven't already):
     * Learning & growth is encouraged (how?)
