@@ -207,15 +207,16 @@ Whenever possible, find your contact's email (or use Slack if they're in the Tur
   * [Quickmail.io](https://quickmail.io/)
   * GitHub
   * Personal website 
-  
-### Coffee Meetings?
+
+#### You Do
+Craft your own message!
 
 ### Closing: Share Out & Takeaways
 As we wrap up, share out:
 
-* What are you working on next as you finalize your outreach and networking plan?
-* What are you taking away from this session? 
-* What will you include a message to a contact?
+* What are you working on next as you finalize your first outreach and networking plan?
+* What will you include in a message to a contact?
+* What questions do you still have?
 
 Reminder about your deliverable due Friday of Week 5!
 
