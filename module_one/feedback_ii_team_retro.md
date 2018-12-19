@@ -12,10 +12,10 @@ Length: 60 minutes
 
 * Opening/Hook (5 mins)
   * Reflection on domains of leadership/Pairin
-* Overview of Team Retros & Intro to Feedback in Conversation (15 mins)
-* Nonviolent Communication (15 mins)
-* Activity: Team Retros (20 mins)
-* Debrief/Closing (5 mins)
+* Overview of Team Retros & Intro to Feedback in Conversation (25 mins)
+* Nonviolent Communication (12 mins)
+* Activity: Team Retros (15 mins)
+* Debrief/Closing (3 mins)
 
 ### Opening
 #### Objectives & Why:
@@ -63,6 +63,8 @@ Ask yourselves: where are you in Tuckman's Group Life Cycle? Knowing where you a
 
 What other norms might need to be established in order to fulfill our principles of being **specific, actionable, and kind**?
 
+**You Do:** As a team, spend 5 minutes discussing where you are in the Tuckman's Group Life Cycle and setting norms for your retro discussion. 
+
 #### How to Get Started: Prepare
 Be ready to discuss:
 
@@ -70,7 +72,7 @@ Be ready to discuss:
 * What have you learned?
    * About yourself
    * About others
-* Where are you in the Tuckman’s Group Life Cycle? What does the team need to keep moving forward?
+* Again, where are you in the Tuckman’s Group Life Cycle? What does the team need to keep moving forward?
 * What would you like the team to improve on?
 
 #### Process
@@ -90,7 +92,7 @@ And finally, move to **next steps:**
 * What will you change as you move forward as a group? For a retro to be really effective, your team needs to actually make change
 * Come up with actionable steps, discuss them as a team, agree to which actions you will take, assign owners and a due date to get them DONE.
 
-One particular activity you might want to try to sturcutre this is the 4 Ls:
+One particular activity you might want to try to structure this is the 4 Ls:
 
 * What did you *like*?
 * What did you *learn*?
@@ -98,6 +100,17 @@ One particular activity you might want to try to sturcutre this is the 4 Ls:
 * What do you *long for*?
 
 You could set this up through quadrants with your post-its.
+
+**You Do:**
+Write out on your post-its:
+
+* What’s gone well so far?
+  * Who do you want to appreciate?
+  * How can your team keep this up?
+* What could improve?
+  * What can your team do better?
+* What actionable next steps do you want to take?
+  * How can you move to the next stage of Tuckman’s?
 
 #### More Resources for Retros
 * Consider using a tool such as [Scatterspoke](https://www.scatterspoke.com/) or [Retrium](https://www.retrium.com/) to run your retros
@@ -152,7 +165,17 @@ For each of the above, discuss:
 * How can you align intent and impact?
 
 ### Activity: Team Retros
-Choose a format to run your retro and grab a chart paper (or 2) and copious post-its! You have 20 minutes to retro in your team. Remember to end with actionable next steps for your team to take.
+Choose a format to run your retro and grab a chart paper (or 2). You have 15 minutes to retro in your team:
+
+1. Review your norms again
+2. Post your post-its & discuss:
+  * What trends do you see?
+  * What do you want to keep doing?
+  * What do you want to stop doing?
+3. Decide on action steps:
+  * What are the next steps?
+  * Who is owning that action step?
+  * When will it be done by?
 
 ### Debrief/Closing
 2-3 groups share out their takeaways from the retro:
