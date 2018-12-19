@@ -172,6 +172,7 @@ Choose a format to run your retro and grab a chart paper (or 2). You have 15 min
   * What trends do you see?
   * What do you want to keep doing?
   * What do you want to stop doing?
+  * What didn't we say in the initial DTR that we should have addressed?
 3. Decide on action steps:
   * What are the next steps?
   * Who is owning that action step?
