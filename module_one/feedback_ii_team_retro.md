@@ -176,6 +176,8 @@ Choose a format to run your retro and grab a chart paper (or 2). You have 15 min
   * What are the next steps?
   * Who is owning that action step?
   * When will it be done by?
+4. Put your next retro on the calendar
+  * Assign roles: facilitator, timekeeper, notetaker, etc.
 
 ### Debrief/Closing
 2-3 groups share out their takeaways from the retro:
