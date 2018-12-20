@@ -43,6 +43,7 @@ Below you can find lots of resources to help you prepare for both components.
 * [System Design Questions](https://github.com/yangshun/tech-interview-handbook/tree/master/design)
 * [Tech Interview Questions Directory](https://techtion.co/?ref=producthunt) 
 * [Top 50 React Interview Prep Questions](https://www.edureka.co/blog/interview-questions/react-interview-questions/?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
+* [Essential Ruby Interview Questions](https://www.toptal.com/ruby/interview-questions)
 * Join Ian Douglas's mailing list at [his site](https://iandouglas.com/technical-coaching/) for interview prep emails
 
 ## Behavioral Interview Prep Resources
