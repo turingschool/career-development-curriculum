@@ -55,7 +55,7 @@ That being said, this template is more like an outline to keep in mind when stru
 
 To ensure you're hitting the right points, you can use this [Cover Letter Checklist](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/cover_letter_checklist.md)
 
-Let's look at [this example](https://github.com/turingschool/career-development-curriculum/blob/master/files/Example%20Cover%20Letter.pdf) and [this example](https://docs.google.com/document/d/1Y7iJHKNvsywTte-uYDN6J73jUaizQXHL2dNZLTysjKo/edit?usp=sharing).
+Let's look at [this example](https://github.com/turingschool/career-development-curriculum/blob/master/files/Example%20Cover%20Letter.pdf) and [this example](https://github.com/turingschool/career-development-curriculum/blob/master/files/JohnRoemerNordstromCoverLetter.pdf).
 
 * What do you notice about this cover letter?
 * What stands out? 
