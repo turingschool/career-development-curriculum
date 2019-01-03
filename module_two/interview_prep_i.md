@@ -13,10 +13,10 @@ Structure:
 * Closing (4 mins)
 
 ### Objectives
-* Practice answering common culture interview questions
+* Understand how to answer behavioral interview questions and how to use the STAR method
+* Practice answering questions
 * Provide effective feedback for each other on responses
-* Put feedback into practice
-* Come away from this session with a clear plan on how to improve your interviewing process
+* Come away from this session with a clear plan on how to prepare for and improve your interview process
 
 ### Opening Reflection & Turn & Talk:
 Pick *one* of these questions to answer in your journal:
