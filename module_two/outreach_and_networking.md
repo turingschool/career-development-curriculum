@@ -207,6 +207,8 @@ Whenever possible, find your contact's email (or use Slack if they're in the Tur
   * [MatterMark](https://mattermark.com/)
   * [Skrapp.io](https://www.skrapp.io/)
   * [Quickmail.io](https://quickmail.io/)
+  * [Snov.io](https://snov.io/)
+  * [Go Pin Leads](https://www.gopinleads.com/)
   * GitHub
   * Personal website 
 
