@@ -49,7 +49,7 @@ As we've discussed, meeting people, forming relationships, and having conversati
 ### Job/Company Research & Tracking
 Success in the job search means staying organized. The best way to do that is to have a clear system to keep track of your contacts, research, and updates on what you're doing.
 
-**Action Step:** Show how you've set up [jobtrack.io](https://jobtrack.io/) to keep track of all your company/job outreach, who you talked to, what you learned, what next steps you'll take to follow-up, and anything you might do differently next time. Be prepared to describe this system to your instructors during your portfolio review.
+**Action Step:** Show how you've set up a tracker such as Trello, spreadsheet, [jobtrack.io](https://jobtrack.io), or [huntr.co](https://huntr.co) to keep track of all your company/job outreach, who you talked to, what you learned, what next steps you'll take to follow-up, and anything you might do differently next time. Be prepared to describe this system to your instructors during your portfolio review.
 
 ### Interview Prep
 During this module, you've had multiple opportunities to practice your technical and cultural interviewing skills. Think about how those experiences have helped you identify strengths and weaknesses in your interviewing skills.
