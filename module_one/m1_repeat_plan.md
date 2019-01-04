@@ -15,7 +15,7 @@ Here's the breakdown of expectations for repeating the module:
 
 ### Sessions
 You **are not required** to attend professional development sessions *that you have previously attended.* You can choose to come to sessions if you feel that you would benefit from the information. Sessions you have already attended are:
-   * [Building a Foundation for your Career Development](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/building_a_foundation.md) *This session combines information on strengths, working styles, and how to focus on professional growth*
+   * [Building a Foundation for your Career Development](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/building_a_foundation.md) 
    * [Learning to Pair](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/learning_to_pair.md) 
    * [Feedback I](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/feedback_i.md)
    * [Agile Practices & Leadership](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/agile_practices_and_leadership.md)
