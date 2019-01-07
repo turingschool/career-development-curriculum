@@ -25,6 +25,7 @@ Below you can find lots of resources to help you prepare for both components.
   * [Judson Stevens](https://judsonstevens.youcanbook.me)
   * [Sam Nayrouz](https://sam-nayrouz.youcanbook.me)
   * [Timo Tyrell](https://calendly.com/timomitchel23)
+  * [Adrian Lara](https://adrian-lara.youcanbook.me/)
 
 * [Pramp](https://www.pramp.com/#/) is a free site to practice technical interviews with a peer. Use the promo code at [www.pramp.com/promo/iandouglas](www.pramp.com/promo/iandouglas) to get unlimited mock interview credits
 
