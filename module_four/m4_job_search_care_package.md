@@ -1,12 +1,16 @@
 # Job Search Care Package
 Congratulations! You've graduated! As you embark on your job search, here is an aggregate of your PD resources. Start by clicking on the topics listed below:
 
+* [Resumes & Cover Letters](#resumes-cover-letters)
 * [Finding Job Postings](#job-postings)
 * [Outreach & Networking](#outreach-networking)
 * [Interview Prep](#interview-prep)
 * [Your GitHub](#github)
 * [Miscellaneous](#miscellaneous)
-* [Negotiations & Salaries](#negotiations)
+
+## Resumes & Cover Letters <a name="resumes-cover-letters"></a>
+* [Resume Checklist](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/resume_review_checklist.md)
+* [Cover Letter Checklist](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/cover_letter_checklist.md)
 
 ## Finding Job Postings <a name="job-postings"></a>
 
@@ -65,8 +69,6 @@ Congratulations! You've graduated! As you embark on your job search, here is an 
 
 ## Outreach & Networking <a name="outreach-networking"></a>
 
-### 
-
 ### Finding Emails
 * Start by searching the person's GitHub! 
 * [Email Hunter](https://emailhunter.co/)
@@ -78,7 +80,6 @@ Congratulations! You've graduated! As you embark on your job search, here is an 
 * [Snov.io](https://snov.io/)
 * [Go Pin Leads](https://www.gopinleads.com/)
 
-
 ## Interview Prep <a name="interview-prep"></a>
 
 [Use this resources doc](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/interview_prep_resources.md) to find LOTS of interviewing resources including MULTIPLE mentors who you can have mock interviews with! 
@@ -87,12 +88,10 @@ Congratulations! You've graduated! As you embark on your job search, here is an 
 * [How to Write a Great ReadMe](https://dbader.org/blog/write-a-great-readme-for-your-github-project)
 * [ReadMe Template](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
 * [How to Write a Killer ReadMe](https://www.giacomodebidda.com/how-to-write-a-killer-readme/)
-* How to complete a project audit
+* [Follow the steps suggested here for auditing your projects](http://backend.turing.io/module4/lessons/project_polish)
 
 ## Miscellaneous <a name="miscellaneous"></a>
 * [Tips for Writing Technical Blog Posts](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/blogging_tips.md)
 * [Open Source Guide](https://opensource.guide/)
 * [Tips for Speaking at a Meetup](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/meetup_involvement_guidelines.md)
-
-## Negotiations & Salaries <a name="negotiations"></a>
-
+* [Markdown on Negotiations](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/negotiations.md)
