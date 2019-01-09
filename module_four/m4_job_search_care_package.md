@@ -1,8 +1,12 @@
 # Job Search Care Package
+Congratulations! You've graduated! As you embark on your job search, here is an aggregate of your PD resources. Start by clicking on the topics listed below:
 
-[Interview Prep](#interview-prep)
+* [Finding Job Postings](#job-postings)
+* [Outreach & Networking](#outreach-networking)
+* [Interview Prep](#interview-prep)
+* [Your GitHub](#github)
 
-## Where can I go to find Job Postings?
+## Finding Job Postings <a name="job-postings"></a>
 
 * [LinkedIn](http://www.linkedin.com/)
    * Tips: 
@@ -57,7 +61,9 @@
       * [25 Killer Combos for Google's Site: Operator](https://moz.com/blog/25-killer-combos-for-googles-site-operator)
       * [How to Use Google Search More Effectively](http://mashable.com/2011/11/24/google-search-infographic/)
 
-## Connecting with People
+## Outreach & Networking <a name="outreach-networking"></a>
+
+###
 
 ### Finding Emails
 * Start by searching the person's GitHub! 
@@ -71,8 +77,12 @@
 * [Go Pin Leads](https://www.gopinleads.com/)
 
 
+
+
 ## Interview Prep <a name="interview-prep"></a>
 
-## Housekeeping
+[Use this resources doc](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/interview_prep_resources.md) to find mentors to complete mock interviews with, 
+
+## Your GitHub <a name="github"></a>
 * Tips on updating your ReadMes
 * How to complete a project audit
