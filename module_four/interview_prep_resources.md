@@ -52,6 +52,7 @@ Below you can find lots of resources to help you prepare for both components.
 
 ### Start Here
 * [Behavioral Interview Formats and Questions to Review](https://github.com/yangshun/tech-interview-handbook/blob/master/non-technical/behavioral.md)
+* [How to Answer "Why Should I Hire You?"](https://blog.pramp.com/the-interviewers-perspective-how-to-answer-why-should-i-hire-you-ad070987c2cc)
 
 ### Bank of Common Questions
 **Storytelling questions:**
