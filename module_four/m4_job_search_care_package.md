@@ -5,7 +5,7 @@ Congratulations! You've graduated! As you embark on your job search, here is an 
 * [Outreach & Networking](#outreach-networking)
 * [Interview Prep](#interview-prep)
 * [Your GitHub](#github)
-* [
+* [Miscellaneous](#miscellaneous)
 
 ## Finding Job Postings <a name="job-postings"></a>
 
@@ -64,7 +64,7 @@ Congratulations! You've graduated! As you embark on your job search, here is an 
 
 ## Outreach & Networking <a name="outreach-networking"></a>
 
-###
+### 
 
 ### Finding Emails
 * Start by searching the person's GitHub! 
@@ -87,3 +87,8 @@ Congratulations! You've graduated! As you embark on your job search, here is an 
 * [ReadMe Template](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
 * [How to Write a Killer ReadMe](https://www.giacomodebidda.com/how-to-write-a-killer-readme/)
 * How to complete a project audit
+
+## Miscellaneous <a name="miscellaneous"></a>
+* [Tips for Writing Technical Blog Posts](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/blogging_tips.md)
+* [Open Source Guide](https://opensource.guide/)
+* [Tips for Speaking at a Meetup](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/meetup_involvement_guidelines.md)
