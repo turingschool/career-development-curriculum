@@ -83,5 +83,7 @@ Congratulations! You've graduated! As you embark on your job search, here is an 
 [Use this resources doc](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/interview_prep_resources.md) to find LOTS of interviewing resources including MULTIPLE mentors who you can have mock interviews with! 
 
 ## Your GitHub <a name="github"></a>
-* Tips on updating your ReadMes
+* [How to Write a Great ReadMe](https://dbader.org/blog/write-a-great-readme-for-your-github-project)
+* [ReadMe Template](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
+* [How to Write a Killer ReadMe](https://www.giacomodebidda.com/how-to-write-a-killer-readme/)
 * How to complete a project audit
