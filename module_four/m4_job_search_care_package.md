@@ -5,6 +5,7 @@ Congratulations! You've graduated! As you embark on your job search, here is an 
 * [Outreach & Networking](#outreach-networking)
 * [Interview Prep](#interview-prep)
 * [Your GitHub](#github)
+* [
 
 ## Finding Job Postings <a name="job-postings"></a>
 
@@ -77,11 +78,9 @@ Congratulations! You've graduated! As you embark on your job search, here is an 
 * [Go Pin Leads](https://www.gopinleads.com/)
 
 
-
-
 ## Interview Prep <a name="interview-prep"></a>
 
-[Use this resources doc](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/interview_prep_resources.md) to find mentors to complete mock interviews with, 
+[Use this resources doc](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/interview_prep_resources.md) to find LOTS of interviewing resources including MULTIPLE mentors who you can have mock interviews with! 
 
 ## Your GitHub <a name="github"></a>
 * Tips on updating your ReadMes
