@@ -6,6 +6,7 @@ Congratulations! You've graduated! As you embark on your job search, here is an 
 * [Interview Prep](#interview-prep)
 * [Your GitHub](#github)
 * [Miscellaneous](#miscellaneous)
+* [Negotiations & Salaries](#negotiations)
 
 ## Finding Job Postings <a name="job-postings"></a>
 
@@ -92,3 +93,6 @@ Congratulations! You've graduated! As you embark on your job search, here is an 
 * [Tips for Writing Technical Blog Posts](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/blogging_tips.md)
 * [Open Source Guide](https://opensource.guide/)
 * [Tips for Speaking at a Meetup](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/meetup_involvement_guidelines.md)
+
+## Negotiations & Salaries <a name="negotiations"></a>
+
