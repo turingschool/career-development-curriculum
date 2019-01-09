@@ -1,6 +1,6 @@
 # Job Search Care Package
 
-[Interview Prep](#interview prep)
+[Interview Prep](#interview-prep)
 
 ## Where can I go to find Job Postings?
 
@@ -71,7 +71,7 @@
 * [Go Pin Leads](https://www.gopinleads.com/)
 
 
-## Interview Prep
+## Interview Prep <a name="interview-prep"></a>
 
 ## Housekeeping
 * Tips on updating your ReadMes
