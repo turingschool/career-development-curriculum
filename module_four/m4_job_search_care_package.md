@@ -1,6 +1,8 @@
 # Job Search Care Package
 
-## Finding Job Postings
+[Interview Prep](#interview prep)
+
+## Where can I go to find Job Postings?
 
 * [LinkedIn](http://www.linkedin.com/)
    * Tips: 
