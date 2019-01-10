@@ -69,6 +69,17 @@ Congratulations! You've graduated! As you embark on your job search, here is an 
 
 ## Outreach & Networking <a name="outreach-networking"></a>
 
+### Research Your Contacts
+* Start with LinkedIn
+* Then, look for personal sites, blogs, Twitter, etc. to find out additional information
+* Take time to read and understand who you're contacting and analyzing what your ask is
+  * HINT: You're not asking for a job
+
+### Craft a Message
+* Introduce Yourself
+* Why are you reaching out? Connect to research
+* Suggest meeting times
+
 ### Finding Emails
 * Start by searching the person's GitHub! 
 * [Email Hunter](https://emailhunter.co/)
@@ -79,6 +90,16 @@ Congratulations! You've graduated! As you embark on your job search, here is an 
 * [Quickmail.io](https://quickmail.io/)
 * [Snov.io](https://snov.io/)
 * [Go Pin Leads](https://www.gopinleads.com/)
+
+### Prepare for Coffee Meeting
+* Using your research, prepare some questions to ask your contact
+* Start here:
+   * [Research Converation Questions](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/research_conversation_questions.md)
+   * [Culture Queries Generator](https://www.keyvalues.com/culture-queries)
+   * [LOTS of Additional Questions](https://github.com/yangshun/tech-interview-handbook/blob/master/non-technical/questions-to-ask.md)
+   * End the conversation by asking, "who else from your network could you introduce me to?"
+
+For more, check out the [Mod 5 Outreach & Networking Refresh Markdown](https://github.com/turingschool/career-development-curriculum/blob/master/module-5/outreach_networking_refresh.md)
 
 ## Interview Prep <a name="interview-prep"></a>
 
