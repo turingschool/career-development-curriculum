@@ -18,9 +18,9 @@ Students will leave Module Three with a clear blueprint for their job search by 
 ### Sessions
 
 * Week 1: [Professional Storytelling III: Resumes & Turing Portfolio](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/professional_storytelling_iii.md)
-* Week 2: [What Color is Your Parachute: Flower Exercise](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/flower_exercise.md)
+* Week 2: [Job Search Strategies](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/job_search_strategies.md)
 * Week 3:
-   * [Job Search Strategies](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/job_search_strategies.md)
+   * [Outreach & Networking II](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/outreach_networking_ii.md)
    * [Resume Review Workshop](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/m3_resume_review.md)
 * Week 4: Job Shadowing
 * Week 5: 
