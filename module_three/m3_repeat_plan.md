@@ -16,15 +16,15 @@ Here's the breakdown of expectations for repeating the module:
 You **are not required** to attend professional development sessions *that you have previously attended.* You can choose to come to sessions if you feel that you would benefit from the information. Sessions you have already attended are:
 
    * [Professional Storytelling III](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/professional_storytelling_iii.md) 
-   * [Flower Exercise](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/flower_exercise.md)
    * [Job Search Strategies](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/job_search_strategies.md)
    * [Resume Review Workshop](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/m3_resume_review.md)
    * [Cover Letters Overview](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/cover_letters_overview.md)
 
-You **are required** to attend all Gear Up sessions. 
+You **are required** to attend all Gear Up sessions and the [Outreach & Networking II](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/outreach_networking_ii.md) session taking place in Week 3 as it is a new session.  
     
 ### Deliverables
 * You **are required** to:
+  * Update your resume as needed with any feedback you've received from your first time through Mod 3
   * Complete your Turing alumni portfolio on [alumni.turing.io](https://alumni.turing.io) with your updated resume included and 2-3 projects showing a variety of project skills (independent, paired, team) 
   * Draft a cover letter to bring to PD in week 1 of Module 4
 
@@ -41,7 +41,7 @@ You **are required** to attend all Gear Up sessions.
    * Other: propose another professional development action step that you will take during your repeat module
 
 ### Outline of Your PD & Gear Up Plan:
-**Directions:** Write your answers to the questions below in a secret gist that you'll submit to Allison. 
+**Directions:** Write your answers to the questions below in a secret gist that you'll send to Allison in a DM. 
 
 * Do you want to participate in Job Shadowing this module?
 
