@@ -15,15 +15,13 @@ Here's the breakdown of expectations for repeating the module:
 ### Sessions
 You **are not required** to attend professional development sessions *that you have previously attended.* You can choose to come to sessions if you feel that you would benefit from the information. Sessions you have already attended are:
 
-   * Week 2: [Professional Storytelling II](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/professional_storytelling_ii.md)
-   * Week 4: [Outreach & Networking](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/outreach_and_networking.md)
-
-You **are required** to attend new PD sessions and all Gear Up sessions. These sessions are:
-  * PD: Week 1: [What Color is Your Parachute: Flower Exercise](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/flower_exercise.md)
-  * PD: Week 3: [Personal Branding: Developer Identity](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/developer_identity.md)
-  * PD: Week 5: [Interview Prep I](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/interview_prep_i.md)
+  * Week 1: [What Color is Your Parachute: Flower Exercise](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/flower_exercise.md)
+  * Week 2: [Professional Storytelling II](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/professional_storytelling_ii.md)
+  * Week 3: [Personal Branding: Developer Identity](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/developer_identity.md)
+  * Week 4: [Outreach & Networking](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/outreach_and_networking.md)
+  * Week 5: [Interview Prep I](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/interview_prep_i.md)
   
-  * Gear Up:
+You **are required** to attend all Gear Up sessions. These sessions are:
     * Week 1: [Empathy & Privilege](https://github.com/turingschool/gear-up/blob/master/Mod2_Week1_Empathy_and_Privilege.markdown)
     * Week 3: [Code: Debugging the Gender Gap](https://github.com/turingschool/gear-up/blob/master/Mod2_Week3_Code_debugging_compact_version.md)
     * Week 5: Mod 4-led Choice session, look for the survey posted in your channel from Ellen Mary
@@ -31,8 +29,7 @@ You **are required** to attend new PD sessions and all Gear Up sessions. These s
 ### Deliverables
 * You **are required** to:
    * Participate in feedback conversations and team retros with your project partners
-   * Update your LinkedIn profile using the directions provided during the [Developer Identity session](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/developer_identity.md)
-   * Update your professional story drafts or outreach/networking deliverables if you were asked to last mod and did not complete them
+   * Complete any PD deliverables that you did not complete last module, including any updates needed for professional story drafts and/or LinkedIn summaries
    
 * Options for additional deliverables (choose **at least 1** that you will complete during the module):
    * Revise and update your professional story draft. You can set up a 1-on-1 with Allison to discuss it.
