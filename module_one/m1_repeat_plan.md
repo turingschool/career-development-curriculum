@@ -29,7 +29,7 @@ You **are required** to attend all Gear Up sessions.
    * Participate in DTR and in crafting a DTR memo with your paired project partner
    * Submit feedback for your paired project partner
    * Participate in a team project retro
-   * Complete your [storytelling reflection](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/storytelling_reflection.md) if you did not last module
+   * Complete any PD deliverables that you did not complete last module
 
 * Options for additional deliverables (choose **at least 1** that you will complete during the module):
    * Identify an area of growth for yourself this module. Examples: organization, project management, time management, stress management, communication, etc. Create a goal for how you would like to improve this area and outline action steps to take. You can also discuss any of these areas with Allison if you would like to set up a 1:1 coaching session.
