@@ -75,6 +75,16 @@ All 7 aspects are important for your job search; Why?
 * If a job only matches 1 or 2 “petals,” it will not be fulfilling to you because it will only allow you to express one or two sides of yourself
 * This picture is the most complete of you and defining these aspects will lead you to your dream job
 
+#### Another Note: Pairin
+Reminder that your Pairin survey results measured how you work, and from here, you can analyze a lot about what's important to you in your new career. Look at your results to think about:
+
+1. Your Top General Style: how you like to work
+2. Your Most Intense Driver: what motivates you the most
+3. Your Highest EQ Competency: your mindsets and abilities
+4. Your Leading Virtue Class: what you value
+
+How do each of these categories help define your ideal career? 
+
 ### Tools
 Complete [these worksheets](https://docs.google.com/document/d/1pLe95AA3y8rxnU-MDnyAVeoqWCxE9__KMDhmPgcd_7c/edit?usp=sharing) to fulfill the brainstorming stages of the Flower Exercise
 
