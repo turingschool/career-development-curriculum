@@ -13,19 +13,6 @@ Agenda:
 * Small Group Discussions (10 mins)
 * Closing: Takeaways, coaching reminders (5 mins)
 
-Updates:
--Bring in Maslow's hierarchy of needs (where you're starting your Turing journey)
--Give overview of Pairin results still, but then deep dive into drivers; small group discussions here; work, love, growth --
--From this take out initial scenarios; instead create scenarios after they've reflected to discuss:
-  -Intro to PD
-  -Intro to Pairin
-  -Drivers deeper dive
-  -Reflections
-  -Scenarios (whole group discussions)
-  -Then small group discussions (use some other scenarios to discuss here too?) 
-  * What was prework assignment? 
-  * Make sure all terminology is correct from updates to Pairin
-
 ### Overview of Professional Development at Turing
 #### The What
 Turing’s **mission** is to unlock human potential by training a diverse, inclusive student body to succeed in high-fulfillment technical careers. 
