@@ -110,7 +110,7 @@ In this section, you'll find action steps that you should aim to complete during
 Use this checklist here to make sure you have everything needed in your plan for your portfolio review. Your instructors will also use this checklist during the portfolio review.
 
 ### #1: 30-Day Action Plan Checklist
-- [ ] Establish shareable calendar and show to your instructor(s)
+- [ ] Establish shareable calendar and provide a link/screenshot here
 - [ ] List your cut-off date for having a full-time position
 - [ ] List monthly, weekly, and daily goals
 - [ ] Create "daily_practice" repo and describe to instructor(s) what you plan to practice
