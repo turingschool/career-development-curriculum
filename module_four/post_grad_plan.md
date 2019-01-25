@@ -18,7 +18,7 @@ Design a 40-hour "work week" that provides time for:
 
 How much time will you spend on each? When will you do each thing?
 
-**Action Step #1:** Establish a shareable calendar (like Google Calendar) and block out time on your calendar *now* to adhere to these goals. Be prepared to show this calendar to your instructors during your portfolio review.
+**Action Step #1:** Establish a shareable calendar (like Google Calendar) and block out time on your calendar *now* to adhere to these goals. Include a screenshot or link to your calendar in your gist. 
 
 **Action Step #2:** Backwards plan for your big goal. What is your cut-off for ending the job search? When do you want to receive and sign an offer by?
 
