@@ -43,7 +43,7 @@ When Giving Feedback:
 * Please describe to me the difference between waterfall and agile approaches to software.
 * How have you implemented or adapted agile practices in your projects?
 * What is your approach to working on a team?
-* A lot of this job will be full-stack. Your experience is largely ____ (Back End, Front End). How do you feel like you’d be able to contribute to the team with only that experience? How comfortable are you with getting uncomfortable with a new language?
+* A lot of this job will be full-stack. Your experience is largely ____ (Back End, Front End). How do you plan to contribute to the team with only that experience? How comfortable are you with getting uncomfortable with a new language?
 * Describe an example of how you have handled a stressful situation.
 * Describe your teamwork experience in a coding environment. How big of a team did you work with?
 * Have you ever had to switch gears in the middle of a project to get something fixed immediately? How did you react?
