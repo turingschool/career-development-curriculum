@@ -1,7 +1,7 @@
 # Feedback I
 ## Confronting Our Feedback Triggers & Writing Effective Feedback
 
-This is the first of 3 different feedback sessions you'll receive at Turing along with a session on mindful communication. We believe that a big component of unlocking your potential at Turing revolves around strengthening your communication skills, and giving and receiving feedback well allows you to improve your practices and strengthen your relationships for longterm growth in your career path.
+We believe that a big component of unlocking your potential at Turing revolves around strengthening your communication skills, and giving and receiving feedback well allows you to improve your practices and strengthen your relationships for longterm growth in your career path.
 
 ### Pre-Reading for the Session
 
