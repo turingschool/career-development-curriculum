@@ -26,8 +26,8 @@ You will submit feedback for your paired project partners this module by sending
 * Opening (14 mins)
 * Kinds of Feedback (17 mins)
 * Intent vs. Impact & Blind Spots (16 mins)
+* Feedback Frameworks (8 mins)
 * Example (5 mins)
-* Writing (8 mins)
 
 #### Opening
 Why are we talking about this? 
