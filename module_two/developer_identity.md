@@ -21,7 +21,11 @@ Length: 60 minutes
 * Students are able to successfully update their LinkedIn profiles
 
 ### Deliverable
-You'll submit your LinkedIn, GitHub, Twitter, and Stack Overflow profiles through [Census](https://login.turing.io/). 
+Update your LinkedIn profile:
+  * Photo
+  * Headline
+  * Summary 
+  * Add Turing to your experience/education
 
 ### Opening
 
