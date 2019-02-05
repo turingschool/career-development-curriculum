@@ -1,6 +1,6 @@
 # Outreach & Networking II
 
-[Slides for the session](
+[Slides for the session](https://docs.google.com/presentation/d/1_JmlfZr2emcfndX0rMpW2Jr-upGwQDifN7qNMyQgbNI/edit?usp=sharing)
 
 Timing: 60 minutes 
 
