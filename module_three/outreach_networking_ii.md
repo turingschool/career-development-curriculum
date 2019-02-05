@@ -20,6 +20,9 @@ Timing: 60 minutes
 
 
 
+Pick top 10 dream companies, find 3 people at each of those companies, find one person's email address 
+
+
 ### Review & Strategy
 Our strategy for this again is to define:
 
