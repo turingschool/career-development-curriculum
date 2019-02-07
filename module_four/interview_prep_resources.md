@@ -47,6 +47,7 @@ Below you can find lots of resources to help you prepare for both components.
 * [Top 50 React Interview Prep Questions](https://www.edureka.co/blog/interview-questions/react-interview-questions/?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
 * [Essential Ruby Interview Questions](https://www.toptal.com/ruby/interview-questions)
 * Join Ian Douglas's mailing list at [his site](https://iandouglas.com/technical-coaching/) for interview prep emails
+* Read about the [interview process at over 500 companies](https://airtable.com/shr3eGPDm3wGjT2gA/tbluCbToxQ2knSLhh/viwmFR062GOjG4cjs)
 
 ## Behavioral Interview Prep Resources
 
