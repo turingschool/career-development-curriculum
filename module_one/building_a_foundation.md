@@ -96,18 +96,16 @@ Your results show you top 4 qualities:
 
 The following information comes from the [Pairin Qualities Overview](https://docs.google.com/document/d/1bqJd_53P-_5_iHN4cn7K04Jzhvw1FOUo3FcjSPCdK8w/edit?usp=sharing)
 
-#### General Styles 
-The General Styles are composed of 6 global attributes that sum up an individual’s characteristic manner of behavior and describe one’s overall approach to life. These are:
+#### Thinking Styles 
+The Thinking Styles are characteristic ways of processing information and handling tasks. This includes how people acquire knowledge, organize thoughts, form views and opinions, apply personal value, plan, decide, solve problems, and express themselves. Thinking styles are NOT the same thing as thinking ability. These are categorized in 4 areas:
 
-* Assertiveness: Bold Communicator 
-* Compliance: Accommodator 
-* Dynamism: Dynamo 
-* Individuality: Free Thinker 
-* Sociability: Encourager 
-* Well-Being: Ocean of Calm 
+* Cooperative-Practical: Team Player
+* Imaginative-Inspirational
+* Intuitive-Conceptual
+* Objective-Analytical
 
 Potential questions for the group:
-* Who had a general style that particularly resonated with them? Why? 
+* Who had a thinking style that particularly resonated with them? Why? 
 * How are each of these strengths? What would they look like in action?
 
 #### Drivers 
