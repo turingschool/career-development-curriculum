@@ -89,7 +89,7 @@ If you're having trouble answering the above questions, your Pairin survey resul
 #### Understanding the Results: Overview of Top 4 Qualities
 Your results show you top 4 qualities:
 
-1. Top General Style 
+1. Top Thinking Style 
 2. Most Intense Driver
 3. Highest EQ Competency
 4. Leading Virtue Class
