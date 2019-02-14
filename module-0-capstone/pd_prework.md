@@ -16,31 +16,15 @@ Your Gear Up pre-work is focused on Empathy, so that is not a focus of this pre-
 
 * Understand the non-coding aspects that go into being a successful programmer
 * Reflect on your current mindsets and build an understanding of new or differing mindsets 
-* Reflect on organizational processes that would be useful for you in this career
 * Understand a strengths-based approach to development
 * Begin analyzing how your strengths apply to your development at Turing
 
-### Directions: 
-For the activities listed below, **please put your reflections for each of these 3 parts in your PD pre-work gist that you'll submit in the survey [here](https://sites.google.com/casimircreative.com/enrollment/pre-work?authuser=0).**
-   
-#### Activity #1
-Read through [29 Behaviors That Will Make You an Unstoppable Programmer](http://blog.thefirehoseproject.com/posts/29-behaviors-will-make-unstoppable-programmer/)
-   
-   * Approximate reading time: 20 minutes
-   * Pick out 3 behaviors that resonate with you in the list and describe why they resonate with you in a reflection (4-6 sentences). 
-
-#### Activity #2
-Organization is paramount to success both at Turing and in a career as a programmer. There are many ways to stay organized, but in this activity, you'll explore one system in particular -- utilizing a strong checklist. Read through and/or listen to this [interview](http://www.npr.org/templates/story/story.php?storyId=122226184) with Atul Gawande (author of the [Checklist Manifesto](https://www.amazon.com/Checklist-Manifesto-How-Things-Right/dp/0312430000)). It includes an excerpt from his book, which is optional reading. 
-   
-   * Approximate reading time (including the excerpt from the book, which is optional): 22 minutes
-   * After reading, consider the idea of checklists. Write a reflection (4-6 sentences) on the benefits of a checklist and how an organizational system such as a checklist might help you first as a student and later as a full-time developer. 
-   
-#### Activity #3
+### Introduction to Strengths-based Development
 One tool we'll be using for your professional development at Turing is the [Pairin Survey](https://www.pairin.com/). This survey measures over 100 coachable and changeable skills. This activity invites you to begin building an understanding of how learning about and developing your strengths applies to your success in your new career. We will discuss the results of this survey more in-depth in your first professional development session at Turing. Follow the steps below to fulfill this part of the prework:
 
 Step 1: Take the survey using [this link](https://survey.pairin.com/signup/15960/student). It will prompt you to create an account when you take it. There are 2 sections for this survey:
    * First section: Choose adjectives to answer _how you currently are_
-   * Second section: Choose adjectives to answer _how you would like to be_. The second section is marked as "optional," but it is highly recommended that you fill out this section in order to give even more data for you.
+   * Second section: Choose adjectives to answer _how you would like to be_. The second section is marked as "optional," but it is highly recommended that you fill out this section in order to provide more data for you on how you'd like to grow. 
 
   The survey should take you about 15-20 minutes. 
 
@@ -54,7 +38,10 @@ Step 3: Please respond to the following questions in a reflection (4-6 sentences
    * How do you work best?
    * What is your greatest area of improvement?
    * How do you hope to maximize your strengths for your new career in software development?
-   
+   * How might knowing about your strengths and working preferences benefit you as a software developer? 
+ 
+**Please put your reflections in your PD pre-work gist that you'll submit in the survey [here](https://sites.google.com/casimircreative.com/enrollment/pre-work?authuser=0)
+ 
 Optional further reading:
    * [How to Hire Like Google & Facebook](https://www.forbes.com/sites/ashoka/2014/04/15/how-to-hire-like-google-and-facebook-evaluating-candidates-beyond-their-technical-ability/#64c08fc513bf): (5 minute read)
    * [Four Essentials of Strengths-Based Leadership](http://www.forbes.com/sites/ekaterinawalter/2013/08/27/four-essentials-of-strength-based-leadership/#76b62a91fa21): (6 minute read)
