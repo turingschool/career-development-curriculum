@@ -51,15 +51,25 @@ Here are some things to keep in mind when writing a cover letter:
       * How can you apply your background and skills to make great experiences for the company's users/customers? What can you leave them with that will make them want to contact you?
       * Include information about your availability for interviews and/or references if applicable
       
-That being said, this template is more like an outline to keep in mind when structuring your thoughts. **The most important thing is that the cover letter has your unique voice and does not come across like a generic copy.** Furthermore, the cover letter should be a good balance between assertively selling yourself and keeping the company and its goals at the forefront.
+That being said, this template is more like an outline to keep in mind when structuring your thoughts. **The most important thing is that the cover letter has your unique voice and does not come across like a generic copy.** 
+
+**Frequently Made Mistakes:**
+| Mistake                        | Solution                                                                                         |
+|--------------------------------|--------------------------------------------------------------------------------------------------|
+| Very long/wordy cover letters  | Shorter paragraphs to be easily skimmable; Cut out extraneous details                            |
+| Cover letter is all about you  | Don’t talk about what you’re hoping to get from the company (i.e., mentorship, culture, etc.). The letter should be all about what you’re going to give the company as an employeeUse this formula: 1/3 about you, 2/3 about the company (how you can add value to the company)    |
+| Grammar and punctuation errors | Use [Grammarly](https://www.grammarly.com/) or the [Hemingway App](http://www.hemingwayapp.com/) |
 
 To ensure you're hitting the right points, you can use this [Cover Letter Checklist](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/cover_letter_checklist.md)
 
-Let's look at [this example](https://github.com/turingschool/career-development-curriculum/blob/master/files/Example%20Cover%20Letter.pdf) and [this example](https://github.com/turingschool/career-development-curriculum/blob/master/files/JohnRoemerNordstromCoverLetter.pdf).
+#### Examples
+* [Abdulla Qudrat](https://github.com/turingschool/career-development-curriculum/blob/master/files/Abdulla_Blinker%20Cover%20Letter.pdf)
+* [John Roemer](https://github.com/turingschool/career-development-curriculum/blob/master/files/JohnRoemerNordstromCoverLetter.pdf)
+* [Tommasina Miller](https://github.com/turingschool/career-development-curriculum/blob/master/files/Example%20Cover%20Letter.pdf)
 
-* What do you notice about this cover letter?
-* What stands out? 
+* What do you notice about this cover letter? 
 * What story are they telling?
+* What value does this person bring to this company? How do you know? 
 
 ### We Do
 As a whole group, let's look at a job posting and decide what we'd put in a cover letter for it. We'll discuss:
