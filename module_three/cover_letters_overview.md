@@ -8,7 +8,8 @@ Timeline: 60 mins
 
 * Opening (5 mins)
 * Dissecting cover letters & example (10 mins)
-* We Do (15 mins)
+* Turn & Talk (7 mins)
+* We Do (8 mins)
 * Workshop: You Do (15 mins)
 * Round of feedback (10 mins)
 * Closing: Debrief/Survey (5 mins)
@@ -53,11 +54,11 @@ Here are some things to keep in mind when writing a cover letter:
       
 That being said, this template is more like an outline to keep in mind when structuring your thoughts. **The most important thing is that the cover letter has your unique voice and does not come across like a generic copy.** 
 
-**Frequently Made Mistakes:**
+**Frequently Made Mistakes in Cover Letters:**
 | Mistake      | Solution     | 
-|-------------|-------------|
+|--------------|--------------|
 | Very long/wordy cover letters | Shorter paragraphs to be easily skimmable; Cut out extraneous details | 
-| Cover letter is all about you | Use this formula: 1/3 about you, 2/3 about the company (how you can add value to the company) |  
+| Cover letter is all about you | Only talk about yourself in the context of this job and company to demonstrate how you will provide value |  
 | Grammar and spelling errors | Use [Grammarly](https://www.grammarly.com/) or the [Hemingway App](http://www.hemingwayapp.com/) | 
 
 
@@ -66,7 +67,10 @@ Don’t talk about what you’re hoping to **get** from the company (i.e., mento
 To ensure you're hitting the right points, you can use this [Cover Letter Checklist](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/cover_letter_checklist.md)
 
 #### Examples
+Let's discuss as a group:
 * [Abdulla Qudrat](https://github.com/turingschool/career-development-curriculum/blob/master/files/Abdulla_Blinker%20Cover%20Letter.pdf)
+
+Turn & Talk to discuss these other 2 examples:
 * [John Roemer](https://github.com/turingschool/career-development-curriculum/blob/master/files/JohnRoemerNordstromCoverLetter.pdf)
 * [Tommasina Miller](https://github.com/turingschool/career-development-curriculum/blob/master/files/Example%20Cover%20Letter.pdf)
 
@@ -83,10 +87,10 @@ As a whole group, let's look at a job posting and decide what we'd put in a cove
 * How can we use our professional story here?
 
 ### Workshop Time
-Now, using a job posting that you find from [the sites listed here](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/job_search_strategies.md), start writing your own cover letters. Remember to note any research you need to do and add it to your Trello or Huntr boards.
+Form groups of 2-3 people in your program and draft out a cover letter for the position picked for your program. 
 
 ### Round of Feedback: Pair & Share
-Find a partner to share your cover letter to receive feedback. Feedback should be **specific, actionable, and kind** and include both **appreciation and coaching.** 
+Team up with a group not in your program to share your cover letters and give each other feedback. Feedback should be **specific, actionable, and kind** and include both **appreciation and coaching.** 
 
 ### Closing
 Debrief as a whole group:
@@ -95,7 +99,8 @@ Debrief as a whole group:
 
 Reminder about deliverables:
 
-* Cover letter draft due Friday of week 1 of Mod 4
+* Cover letter draft for a real position due Friday of week 1 of Mod 4
+  * Reminder you can find job postings from [the sites listed here](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/job_search_strategies.md). Remember to note any research you need to do and add it to your Huntr boards.
 * Turing alumni portfolio due Monday of week 6 at 9am
 
 Fill out the survey in your channel for Mod 4 groups!
