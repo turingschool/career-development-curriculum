@@ -54,11 +54,12 @@ Here are some things to keep in mind when writing a cover letter:
 That being said, this template is more like an outline to keep in mind when structuring your thoughts. **The most important thing is that the cover letter has your unique voice and does not come across like a generic copy.** 
 
 **Frequently Made Mistakes:**
-| Mistake                       |                                             Solution                                             |
-|-------------------------------|:------------------------------------------------------------------------------------------------:|
-| Very long/wordy cover letters |               Shorter paragraphs to be easily skimmable; Cut out extraneous details              |
-| Cover letter is all about you |   Use this formula: 1/3 about you, 2/3 about the company (how you can add value to the company)  |
-| Grammar and spelling errors   | Use [Grammarly](https://www.grammarly.com/) or the [Hemingway App](http://www.hemingwayapp.com/) |
+| Mistake      | Solution     | 
+|:-------------|-------------:|
+| Very long/wordy cover letters      | Shorter paragraphs to be easily skimmable; Cut out extraneous details | 
+| Cover letter is all about you      | Use this formula: 1/3 about you, 2/3 about the company (how you can add value to the company)      |  
+| Grammar and spelling errors | Use [Grammarly](https://www.grammarly.com/) or the [Hemingway App](http://www.hemingwayapp.com/)     | 
+
 
 Don’t talk about what you’re hoping to **get** from the company (i.e., mentorship, culture, etc.). The letter should be all about what you’re going to **give** the company as an employee.
 
