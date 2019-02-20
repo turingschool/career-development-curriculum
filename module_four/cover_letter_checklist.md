@@ -31,7 +31,7 @@ Use this checklist to make sure cover letters have all the necessary components.
 - [ ] No grammatical or spelling errors
 
 ## Paragraph #2
-- [ ] Expands on both why they're qualified (listing of skills/experiences)
+- [ ] Expands on why they're qualified (going in-depth on skills/experience)
 - [ ] Describes a project/experience in which they demonstrate how they can do the job
 - [ ] Clear and concise
 - [ ] No grammatical or spelling errors
