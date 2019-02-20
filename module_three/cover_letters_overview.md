@@ -55,14 +55,11 @@ Here are some things to keep in mind when writing a cover letter:
 That being said, this template is more like an outline to keep in mind when structuring your thoughts. **The most important thing is that the cover letter has your unique voice and does not come across like a generic copy.** 
 
 **Frequently Made Mistakes in Cover Letters:**
-| Mistake      | Solution     | 
-|--------------|--------------|
-| Very long/wordy cover letters | Shorter paragraphs to be easily skimmable; Cut out extraneous details | 
-| Cover letter is all about you | Only talk about yourself in the context of this job and company to demonstrate how you will provide value |  
-| Grammar and spelling errors | Use [Grammarly](https://www.grammarly.com/) or the [Hemingway App](http://www.hemingwayapp.com/) | 
+**Mistake:** Very long/wordy cover letters. **Solution:** Shorter paragraphs to be easily skimmable; Cut out extraneous details 
 
+**Mistake:** Cover letter is all about you. **Solution:** Only talk about yourself in the context of this job and company to demonstrate how you will provide value. Don’t talk about what you’re hoping to **get** from the company (i.e., mentorship, culture, etc.). The letter should be all about what you’re going to **give** the company as an employee.
 
-Don’t talk about what you’re hoping to **get** from the company (i.e., mentorship, culture, etc.). The letter should be all about what you’re going to **give** the company as an employee.
+**Mistake:** Grammar and spelling errors. **Solution:** Use [Grammarly](https://www.grammarly.com/) or the [Hemingway App](http://www.hemingwayapp.com/) 
 
 To ensure you're hitting the right points, you can use this [Cover Letter Checklist](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/cover_letter_checklist.md)
 
