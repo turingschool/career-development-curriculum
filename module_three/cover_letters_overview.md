@@ -4,13 +4,13 @@
 
 ### Session Structure
 
-Timeline: 60 mins
+Timeline: 90 mins
 
 * Opening (5 mins)
-* Dissecting cover letters & example (10 mins)
-* Turn & Talk (7 mins)
-* We Do (8 mins)
-* Workshop: You Do (15 mins)
+* Dissecting cover letters & example (15 mins)
+* Turn & Talk (10 mins)
+* We Do (15 mins)
+* Workshop: You Do (20 mins)
 * Round of feedback (10 mins)
 * Closing: Debrief/Survey (5 mins)
 
