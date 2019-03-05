@@ -94,7 +94,7 @@ Your results show you top 4 qualities:
 3. Highest EQ Competency
 4. Leading Virtue Class
 
-The following information comes from the [Pairin Qualities Overview](https://docs.google.com/document/d/1bqJd_53P-_5_iHN4cn7K04Jzhvw1FOUo3FcjSPCdK8w/edit?usp=sharing)
+The following information comes from the [Pairin Qualities Overview](https://docs.google.com/document/d/1LIR7gITKqOX2ewcOqp_KTkj3Phqjk4ZKoOrpUdidvwM/edit?usp=sharing)
 
 #### Thinking Styles 
 The Thinking Styles are characteristic ways of processing information and handling tasks. This includes how people acquire knowledge, organize thoughts, form views and opinions, apply personal value, plan, decide, solve problems, and express themselves. Thinking styles are NOT the same thing as thinking ability. These are categorized in 4 areas:
