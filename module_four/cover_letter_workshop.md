@@ -1,6 +1,6 @@
 # Cover Letter Workshop
 
-[Slides](https://docs.google.com/presentation/d/16WIW5ERLI_tP1SNl0JcgOnv23Vzd7EYCFrmMDqijzR4/edit?usp=sharing)
+[Slides for this session](https://docs.google.com/presentation/d/16WIW5ERLI_tP1SNl0JcgOnv23Vzd7EYCFrmMDqijzR4/edit?usp=sharing)
 
 ### Session Structure
 Time: 90 minutes
