@@ -5,16 +5,13 @@
 [Slides for this session](https://docs.google.com/presentation/d/1DNPivOJBUUnWlwD-n-2K9dysidWPyVFaqCvMmy87Irw/edit?usp=sharing)
 
 ### Session Structure:
-Time: 90 mins
+Time: 60 mins
 
 * Opening (scope & sequence of Mod 4 & objectives) (5 mins)
-* Discipline, Hustle, Skill (15 mins)
-* You Do: Create a schedule (10 mins)
-* Coaching group discussions on group expectations and calendars (30 mins)
-* Cover Letter Workshop (30 mins)
-    1. Review your own letter (5 mins)
-    2. Group Feedback (20 mins)
-    3. Next steps: continued feedback in channels (5 mins)
+* Hear from Kayt (5 mins)
+* Discipline, Hustle, Skill (20 mins)
+* You Do: Create a schedule & Update Huntr (10 mins)
+* Coaching group discussions on group expectations and calendars (20-30 mins)
 
 ## Opening: The Big Picture
 ### Sit in your Coaching Groups
@@ -24,7 +21,6 @@ You are assigned to a peer group made up of other students and one staff member 
 * Understand the scope and sequence of Module 4 Professional Development and what support looks like this module
 * Discover the use and importance of M4 PD peer groups & coaches
 * Utilize strategies for managing time for the job search during module
-* Give and receive feedback on cover letter drafts
 
 ### Module 4 Professional Development Scope & Sequence
 You're starting your final module at Turing, and we aim to set you up with structured support to help you navigate this successfully. However, you are the driver of your own job search -- take advantage of all of the tools and resources listed here!
@@ -32,7 +28,7 @@ You're starting your final module at Turing, and we aim to set you up with struc
 ### Looking Ahead
 Here is the PD layout of week-by-week in Module 4:
 
-* Week 1: PD Kickoff & Cover Letter Review
+* Week 1: PD Kickoff & Cover Letter Workshop
 * Week 2: Behavioral Interview Prep practice
 * Week 3: External Review: mentors and alumni will meet with PD groups to go through resumes, cover letters, and give feedback on pitches
 * Week 4: Negotiations & Equity discussion
@@ -43,11 +39,11 @@ These [resources](https://github.com/turingschool/career-development-curriculum/
 
 You'll be expected to:
 
-* Use your [huntr](https://huntr.co/) account
+* Use your [Huntr](https://huntr.co/) account
 * Submit your [30-day job search action plan](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md) 
 * Present your story and lessons learned at your end-of-module portfolio review
 * Participate in mock interviews, code challenges, and reviews in your cohort
-* Lead Gear Up for Mods 2-3 
+* Lead Gear Up for Mods 1-3 
 
 ## The Job Search Requires...
 * Discipline
@@ -59,10 +55,46 @@ You already have the skill:
 * Professional Development tools
 
 In 5 minutes within your groups:
-* Brainstorm all the steps you should take/tools you should use in a successful job search as a junior developer
+* What steps should you take in the job search?
+* What are the tools that you’ve been given for the job search? 
 
 So, how do you develop the discipline and the hustle for the job search?
 
+### Let's Start with Hustle
+What is your job search timeline? 
+If you need a job by:
+
+* Graduation
+* 30 days after graduation
+* 60 days after graduation
+* 90 days after graduation
+
+What should you be doing? Call on 2-3 people for ideas.
+
+For a job by graduation:
+* Apply to 2-3 jobs a week, which means:
+    * 2-3 new cover letters
+    * Customize versions of your resume
+    * Schedule 1-2 coffee meetings per application
+    * Clean up your projects
+    * Practice interview skills related to the job
+
+For a job by 30 days after graduation:
+* Apply to 1-2 jobs a week, which means:
+    * 1-2 new cover letters
+    * Customize versions of your resume
+    * Schedule 1-2 coffee meetings per application
+    * Clean up your projects
+    * Practice interview skills related to the job
+
+For a job by 60-90 days after graduation:
+* Conduct research, which means:
+    * Build up your Huntr with company leads and info
+    * Schedule 1-2 coffee meetings a week related to companies you are interested in
+    * Clean up your projects
+    * Practice interview skills 
+
+### How to Cultivate Discipline: 
 1. Create your tools:
   * Establish a calendar
   * Block out time throughout each week
@@ -77,58 +109,31 @@ So, how do you develop the discipline and the hustle for the job search?
   * What will you actually do during the time you’ve set aside?
   * Approach this like you would a project: 
     * Break into tasks
-    * Trello, Waffle, etc.
+    * Set due dates
     * Use Huntr!
 
 ## You Do
-Build out your calendar for the module that will balance the job search and the module expectations. 
+1. Consider your timeline for when you need a job to decide on your priorities for this module
+2. Build out a calendar for the module to balance your job search with your module responsibilities
+3. Update your Huntr with task breakdowns
 
 ## Group Discussions
-* Coach introductions
+* Intros
+  * What are you looking for?
+  * What is your timeline?
 * Expectation-setting
 * Accountability 
   * Share calendars
   * What can you help the group with?
   * What do you need help with?
 
-Additional Resources:
-* [Reference these guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/guidelines_for_peer_groups.md) to understand group expectations and regular deliverables
-
-## Cover Letter Reviews
-Now that you've introduced yourselves, it's time to dive into the cover letters you've brought with you. This cover letter review will take place in your PD groups and follow this format:
-
-### Individual Review
-Students: Take 5 minutes to go through the [Cover Letter Checklist](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/cover_letter_checklist.md) and reread the cover letter to decide what feedback will be most valuable during the review. To figure out what feedback will be most valuable for you, think about these questions:
-   * What are you not sure about?
-   * What would you like to do differently but you don't know how?
-
-### Group Feedback
-Now going around the group, each person will:
-   * Share a brief overview of the company and position for which they're applying; share the link to the position if able
-   * Share what kind of feedback they're most interested in
-   * Read the cover letter out loud to the group
-Group and Coach will give feedback using these questions:
-   * What's your snap impression?
-   * What's most memorable?
-   * What's repetitive? 
-   * What makes this person a good fit for the position?
-   * What do you have questions about?
-Each person should get about 10 minutes for their feedback
-
-### Revision Time
-Using the feedback you received, revise your letter and decide on next steps for this application:
-
-* Who will you reach out to from the company? Or how will you do research to figure out the right person to reach out to?
-* What other pieces need to be completed for this application?
-* Do you need any other feedback/support before submitting this application?
-* By what exact date/time will you submit this application?
-
-### Sharing Takeaways
-* What are your next steps for this application?
-* When will you submit this application?
+## Next Steps
+Bring your cover letter draft for our session on Friday.
 
 **Remember Your Resources:**
 
 * #job-hunt
 * #salaries
 * DM your coach as needed
+Additional Resources:
+* [Reference these guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/guidelines_for_peer_groups.md) to understand group expectations and regular deliverables
