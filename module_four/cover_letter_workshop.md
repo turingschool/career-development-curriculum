@@ -2,15 +2,20 @@
 
 [Slides](https://docs.google.com/presentation/d/16WIW5ERLI_tP1SNl0JcgOnv23Vzd7EYCFrmMDqijzR4/edit?usp=sharing)
 
+### Session Structure
+Time: 90 minutes
 
+* Opening & Recap what should be in cover letters (5 mins)
+* Review your own letter (5 mins)
+* Group Feedback (40-50 mins)
+* Revise cover letters (15-20 mins)
+* Share out next steps for application (10 mins)
 
-* Cover Letter Workshop (30 mins)
-    1. Review your own letter (5 mins)
-    2. Group Feedback (20 mins)
-    3. Next steps: continued feedback in channels (5 mins)
+### Objectives
+* Articulate...
     
-  ## Cover Letter Reviews
-Now that you've introduced yourselves, it's time to dive into the cover letters you've brought with you. This cover letter review will take place in your PD groups and follow this format:
+## Cover Letter Reviews
+In your PD groups, follow this format:
 
 ### Individual Review
 Students: Take 5 minutes to go through the [Cover Letter Checklist](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/cover_letter_checklist.md) and reread the cover letter to decide what feedback will be most valuable during the review. To figure out what feedback will be most valuable for you, think about these questions:
