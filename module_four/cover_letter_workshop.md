@@ -13,7 +13,31 @@ Time: 90 minutes
 
 ### Objectives
 * Articulate...
+
+## Recap: What Should Be in Cover Letters?
+In a cover letter, you should:
+
+* Introduce yourself within the context of the job
+    * Here's how this job/company fits into my passions and story
+    * Here are details about why I'd be a great fit for this job
+* Create a connection between you and the job/company
+    * I understand the needs of your company and the kind of work you do
+    * Here's how I've done similar work...
+* Provide insight into how you would contribute to the company
+    * Because I understand the needs of your company, here are more reasons why I would be a great fit beyond the tasks of this particular position...
+    * I've done additional research into your company in this way...
     
+For what shouldn't be in a cover letter, refer to...
+#### Frequently Made Mistakes in Cover Letters
+
+**Mistake:** Very long/wordy cover letters. **Solution:** Shorter paragraphs to be easily skimmable; Cut out extraneous details 
+
+**Mistake:** Cover letter is all about you. **Solution:** Only talk about yourself in the context of this job and company to demonstrate how you will provide value. Don’t talk about what you’re hoping to **get** from the company (i.e., mentorship, culture, etc.). The letter should be all about what you’re going to **give** the company as an employee.
+
+**Mistake:** Grammar and spelling errors. **Solution:** Use [Grammarly](https://www.grammarly.com/) or the [Hemingway App](http://www.hemingwayapp.com/) 
+    
+Now we're ready to workshop...
+ 
 ## Cover Letter Reviews
 In your PD groups, follow this format:
 
