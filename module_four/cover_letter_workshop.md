@@ -12,7 +12,10 @@ Time: 90 minutes
 * Share out next steps for application (10 mins)
 
 ### Objectives
-* Articulate...
+* Analyze cover letter to get it application-ready
+* Be receptive to feedback
+* Provide specific, actionable, and kind appreciative and coaching feedback for peers
+* Revise cover letter to send out today!
 
 ## Recap: What Should Be in Cover Letters?
 In a cover letter, you should:
@@ -24,8 +27,7 @@ In a cover letter, you should:
     * I understand the needs of your company and the kind of work you do
     * Here's how I've done similar work...
 * Provide insight into how you would contribute to the company
-    * Because I understand the needs of your company, here are more reasons why I would be a great fit beyond the tasks of this particular position...
-    * I've done additional research into your company in this way...
+    * Beyond the scope of the job, here is how I will bring value to your company...
     
 For what shouldn't be in a cover letter, refer to...
 #### Frequently Made Mistakes in Cover Letters
