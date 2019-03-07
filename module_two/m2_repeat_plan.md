@@ -21,11 +21,8 @@ You **are not required** to attend professional development sessions *that you h
   * Week 4: [Outreach & Networking](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/outreach_and_networking.md)
   * Week 5: [Interview Prep I](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/interview_prep_i.md)
   
-You **are required** to attend all Gear Up sessions. These sessions are:
-    * Week 1: [Empathy & Privilege](https://github.com/turingschool/gear-up/blob/master/Mod2_Week1_Empathy_and_Privilege.markdown)
-    * Week 3: [Code: Debugging the Gender Gap](https://github.com/turingschool/gear-up/blob/master/Mod2_Week3_Code_debugging_compact_version.md)
-    * Week 5: Mod 4-led Choice session, look for the survey posted in your channel from Ellen Mary
-    
+You **are required** to attend all Gear Up sessions. 
+
 ### Deliverables
 * You **are required** to:
    * Participate in feedback conversations and team retros with your project partners
