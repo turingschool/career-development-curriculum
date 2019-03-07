@@ -56,4 +56,6 @@ You **are required** to attend all Gear Up sessions.
 
 * Timebound (When do you plan to achieve this goal by? Be specific and consider how realistic your expectations are):
 
+* Would you like to set up coaching with Allison to help you with your goals and accountability? If so, please [fill out this form](https://goo.gl/forms/Z57ywysDRqhOKfHD2)
+
 **Allison will review all plans, and you will be asked to fill out [this survey](https://goo.gl/forms/yY8pd8bcJGV3bPwq2) giving a brief update and reflection on your goals by 9am on Monday of Week 6.**   
