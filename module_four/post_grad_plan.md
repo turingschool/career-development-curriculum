@@ -1,4 +1,36 @@
-# Post-Grad Job Search Action Plan Template: Your first 30 Days
+# Final PD Deliverable
+
+Post-Grad Job Search Action Plan Template: Your first 30 Days
+
+### Directions
+Answer the following questions in a private gist that you should submit to Kayt (@kayt) in a DM on Slack by Monday of Week 6 at 9am.
+
+1. Calendar
+-Plan out your intermission week (1st week after graduation)
+-Here's what a typical week will look like
+-Getting really specific (give examples):
+  * 10-11: Looking for postings
+  * 11-12: Refactoring code
+  * 12-1: Writing outreach emails
+-When do you work best? 
+-Focus on how they're spending their time after graduation (here's my task for this hour)
+2. Accountability
+-Going to Mod 5
+-Meeting up with cohortmates
+3. If you are not using Huntr, please include a link here to the job tracker you're using so that Kayt can follow along with your progress. 
+
+Do a screenshot of the week (the specific first steps to take) and answer a couple questions (help Kayt get to know you)
+
+1. What motivates you?
+
+2. When do you like to work?
+
+3. How do you like to communicate?
+
+4. What is your ideal job? 
+
+Also send your resume to Kayt again
+
 You are so close! You've spent the last 7 months working towards this -- graduation and finding your new dream job! This plan is meant to help you streamline your goals and get on the path to employment as a software developer during the first 30 days after graduation. **Please fill out the plan by copying this template into a gist to submit in the markdown that you submit for your [portfolio](https://gist.github.com/LouisaBarrett/03aa5567937943ca274437205bc35271).**  
 
 As you fill out this plan, consider how your first job search will set the tone for your career trajectory in the software industry. After all, your first developer job should align with those goals as well so that you're on track for a longterm successful career.
