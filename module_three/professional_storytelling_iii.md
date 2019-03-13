@@ -34,7 +34,7 @@ Some resources for you:
 
 * Join #job-hunt
 * [Interview Prep Resources](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/interview_prep_resources.md)
-* [Mod 4 Job Search Care Package](
+* [Mod 4 Job Search Care Package](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/m4_job_search_care_package.md)
 
 ### Objectives
 * Build on your professional story by focusing on "what's next"
