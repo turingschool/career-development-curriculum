@@ -70,7 +70,7 @@ DTR refers to a conversation each student has with group partner(s) before launc
 Establishing a relationship with your mentor should also include a DTR. Here’s a [cheatsheet](https://docs.google.com/document/d/1Q35fM3coYjnms9rkVem3FHVk44kW6qHp_-t99PBbczI/edit?usp=sharing) for planning that conversation.
 
 ### Using Pairin: How do we relate to each other?
-Let’s look at the 3 ego-states from Eric Berne’s Transactional Analysis:
+Let’s look at the 3 ego-states from Eric Berne’s [Transactional Analysis](http://www.ericberne.com/transactional-analysis/):
 * Parent: Our taught concept of life; shown by a need to control or nurture
   * Pairin: Correcting Others or Enriching Others
 * Adult: Our thought concept of life; shown through using reason and maturity
