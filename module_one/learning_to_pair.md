@@ -2,26 +2,37 @@
 
 Pairing with other programmers is an essential agile practice, and building your pairing skills will help you be successful in projects at Turing and in the workplace. Pairing effectively comes down to establishing a relationship with the person you’re working with. This starts with breaking down communication barriers and building trust within the working relationship. This session covers different types of pairing, how to DTR (Define the Relationship), strategies for upholding expectations with your partner(s), and how to have difficult conversations when group members break expectations.
 
-Refer to the [Learning to Pair slides](https://docs.google.com/presentation/d/1_ZfOvYNMeOQeks4CBioyMZy3mm_5pWdyX6Tp9Ej4OLw/edit?usp=sharing) for this lesson.
+[Slides for the Session](https://docs.google.com/presentation/d/1_ZfOvYNMeOQeks4CBioyMZy3mm_5pWdyX6Tp9Ej4OLw/edit?usp=sharing) 
 
-## Learning Objectives:
+### Agenda
+* Opening (hooks, objectives, and why): 5 mins
+* Types of Pair Programming & Intro to DTR: 5 mins
+* Relating Styles: 15 mins
+* Journal: Define Your Expectations: 5 mins
+* Compromising & Accountability: 5 mins
+* Crucial Conversations: 10 mins
+* Practice: 5 mins
+* Debrief & Closing: 5 mins
+
+### Learning Objectives:
 
 * Identify various forms of pair programming
 * Understand what DTR is and how to hold a DTR conversation
+* Understand how your Relating Style causes you to interact with others
 * Define your own expectations in a working relationship
 * Apply strategies to hold your partners accountable
 * Demonstrate how to address broken expectations
 
-## Deliverable:
+### Deliverable:
 
 * Complete a DTR memo for at least one project using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/dtr_guidelines_memo.md) and [submit it here](https://goo.gl/forms/nzHkeSW3DeqdezV22) by 5pm on Monday of Week 2
 
-## Opening
+### Opening
 In the past when you've worked in teams, what was successful about them? What was unsuccessful?
 
 You'll often find similar experiences happen in pair programming. This session will help you discover tools to navigate this relationship in a way that it's a great learning experience for you both. 
 
-## Types of pair programming
+### Types of pair programming
 [Pair programming](https://www.agilealliance.org/glossary/pairing/) can take many forms, and here are some suggestions of how you can approach pairing at Turing:
 
 * **Driver-Navigator:** Driver has control of the keyboard while the Navigator guides the Driver towards the end goal.
@@ -42,14 +53,13 @@ You'll often find similar experiences happen in pair programming. This session w
 	
 * **Distributed Pairing (Remote Pairing):** 
 
-
 	Roles: You can incorporate either Driver-Navigator or Ping Pong during a remote pairing
 	
 	Tips: Invest in a good headset; Experiment with [ScreenHero](https://screenhero.com/) to build your comfort with using it; Spend longer on the DTR (covered next) to get to know each other; Be more vocal about when to switch Driver and Navigator roles
 	
 	Potential pitfall: Technical issues when pairing remotely are common, so test your tools ahead of time!
 	
-## Defining the Relationship (DTR)
+### Defining the Relationship (DTR)
 DTR refers to a conversation each student has with group partner(s) before launching into a project. During this conversation, group members set expectations for how to work together. Use this [DTR Guiding Questions & Memo template](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/dtr_guidelines_memo.md) to guide the conversation.
 
 **Discussion Questions:**
@@ -59,23 +69,48 @@ DTR refers to a conversation each student has with group partner(s) before launc
 
 Establishing a relationship with your mentor should also include a DTR. Here’s a [cheatsheet](https://docs.google.com/document/d/1Q35fM3coYjnms9rkVem3FHVk44kW6qHp_-t99PBbczI/edit?usp=sharing) for planning that conversation.
 
-Take time to define your expectations:
+### Using Pairin: How do we relate to each other?
+Let’s look at the 3 ego-states from Eric Berne’s Transactional Analysis:
+* Parent: Our taught concept of life; shown by a need to control or nurture
+  * Pairin: Correcting Others or Enriching Others
+* Adult: Our thought concept of life; shown through using reason and maturity
+  * Pairin: Responsibility
+* Child: Our felt concept of life; shown through how easily we can adapt to new situations or desire to rebel & exercise freedom
+  * Pairin: Approval Seeking or Playfulness
 
-### Examples:
-* Define your strengths -- what do you bring to the table?
-* How do you want to collaborate with someone else?
-* How do you approach problems?
-* What do you want Git workflow to look like?
-* How do you appreciate communication from others?
-* Imagine that you might be working with someone with a very different personality than yours -- **how will you communicate your expectations so that you’re on the same page?**
-* What is your schedule like? What work-life boundaries do you need to communicate to your partner?
-* Come up with additional questions that you want to ask your partner
+**Discussion:** what are the relating styles present across our cohorts? How could we work together successfully?
+
+#### Volunteer Group Activity
+A team is made up of each of the relating styles:
+* Correcting Others
+* Enriching Others
+* Responsibility
+* Approval Seeking
+* Playfulness
+
+Their assignment:
+* Paint a house
+
+How will each of them contribute?
+
+A group of 5 volunteers will act out this activity, and then we'll debrief as a class.
+
+* What did you notice about how they interacted with each other?
+* What does make you think about how people can successfully work together?
+
+### Define Your Own Expectations:
+* Define your strengths 
+* How do you work best? 
+  * Where do you land on the introvert/extrovert spectrum?
+  * What do you need your partner to know about working with you?
+* Describe how you want to work with someone else
+  * How do you relate to others when collaborating?
+* How do you appreciate communication?
+* What does Git workflow look like for you?
+* Imagine that you might be working with someone with a very different personality than yours
+  * How can you communicate your expectations so that you’re on the same page?
 
 ### Compromising with Each Others’ Expectations
-* Remember lessons from Improv:
-	* “No” means that you’re pushing your own agenda
-	* “Yes” means that you’re expecting your partner to do all the work of defining expectations (even if you don’t agree with these expectations)
-	* “Yes and” means that you’re collaborating and building on each other’s ideas for the good of the group
 * Beware of the Paired Project Fallacy:
 	* My partner is better than I am OR My partner is holding me back.
 * Why is this a fallacy?
