@@ -1,7 +1,5 @@
 # Learning to Pair: How to Define the Relationship and Hold Each Other Accountable
 
-Pairing with other programmers is an essential agile practice, and building your pairing skills will help you be successful in projects at Turing and in the workplace. Pairing effectively comes down to establishing a relationship with the person you’re working with. This starts with breaking down communication barriers and building trust within the working relationship. This session covers different types of pairing, how to DTR (Define the Relationship), strategies for upholding expectations with your partner(s), and how to have difficult conversations when group members break expectations.
-
 [Slides for the Session](https://docs.google.com/presentation/d/1_ZfOvYNMeOQeks4CBioyMZy3mm_5pWdyX6Tp9Ej4OLw/edit?usp=sharing) 
 
 ### Agenda
@@ -28,6 +26,8 @@ Pairing with other programmers is an essential agile practice, and building your
 * Complete a DTR memo for at least one project using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/dtr_guidelines_memo.md) and [submit it here](https://goo.gl/forms/nzHkeSW3DeqdezV22) by 5pm on Monday of Week 2
 
 ### Opening
+Pairing with other programmers is an essential agile practice, and building your pairing skills will help you be successful in projects at Turing and in the workplace. Pairing effectively comes down to establishing a relationship with the person you’re working with. This starts with breaking down communication barriers and building trust within the working relationship.
+
 In the past when you've worked in teams, what was successful about them? What was unsuccessful?
 
 You'll often find similar experiences happen in pair programming. This session will help you discover tools to navigate this relationship in a way that it's a great learning experience for you both. 
