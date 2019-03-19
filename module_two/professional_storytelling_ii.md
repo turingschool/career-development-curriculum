@@ -90,6 +90,11 @@ Now, let's apply these ideas to your own story and practice telling it.
 * Utilize a story form
 * Tell multiple stories -- how can you adapt your story to different situations?
 
+From what you wrote down, pull out 3 things that you want to memorize:
+1. Important detail about your background
+2. Important detail about your motives
+3. Important detail about your career path
+
 ### Storytelling Practice & Feedback Groups
 As you start to practice telling your story:
 * Decide which scenario you’re in
