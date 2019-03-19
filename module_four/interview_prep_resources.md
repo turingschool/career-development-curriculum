@@ -63,7 +63,7 @@ Below you can find lots of resources to help you prepare for both components.
 * Describe your background. How did you get to where you are now? What was your previous career field? What did you like about it? What didn’t you like about it? Why coding? 
 * Describe your coding experience and why you wish to continue.
 * What are you looking for in a company? Why would you want to work here?
-* Describe your time at Turing. What worked for you? What didn’t work for you? What was the structure of the program?
+* Describe your time at Turing. What was the structure of the program? What were some takeaways for you from your experience there?
 * What is your 100% ideal role for your first web development job?
  
 **Project, Problem-Solving, & Team Contribution Questions:**
@@ -77,6 +77,9 @@ Below you can find lots of resources to help you prepare for both components.
 * Describe your teamwork experience in a coding environment. How big of a team did you work with?
 * Have you ever had to switch gears in the middle of a project to get something fixed immediately? How did you react?
 * What project of yours are you most proud of and why? 
+* Tell me about a challenge or conflict you've faced at work and how you dealt with it.
+* When have you exercised leadership and what was the result?
+* Describe a time when you took a risk that paid off for you. What was your process for pushing yourself further? How did you assess risk and try something new?
 
 **Communication & Feedback Questions:**
 * Describe to me the steps you would take to build out a product.
@@ -84,12 +87,17 @@ Below you can find lots of resources to help you prepare for both components.
 * Explain one of the most difficult code problems you’ve had to solve, either on your own authored code, or in contributing to someone else’s.
 * Tell me about a time you had a disagreement with a colleague and how you resolved it.
 * Describe a time when you received feedback that you were surprised by. What did you do with that feedback?
+* When you disagree with a decision your team makes, how do you handle it?
 
 **Personal Growth Questions:**
 * What is an area of growth for you?
 * Describe your strengths. How have you seen these in practice as a developer?
 * How do you deal with failure?
 * What is your biggest weakness?
+* What is your greatest professional achievement/achievement at Turing so far? Why?
+* Where do you see yourself in 5 years?
+* How would your former boss/current classmates/instructors describe you?
+* When have you taken accountability for something even when it could have proven detrimental for you?
 
 ### Practice
 
