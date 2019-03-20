@@ -81,12 +81,11 @@ In order to find job postings and begin conducting research, here are some tools
 
 * [LinkedIn](http://www.linkedin.com/)
    * Tips: 
-      * Use the "Advanced Search" tool to find people based on skillset, location, and industry OR names of companies and select the "People who work at..." option
-      * In "Keywords" type in the skills or focus you want to be working in (i.e., JavaScript, Ruby, Python, EdTech, FinTech, etc.)
+      * Go to the "Jobs" tab to start a new search -- use the filters effectively! (i.e., JavaScript, Ruby, Python, EdTech, FinTech, etc.)
       * In "Location" type in the area where you'd like to work
-      * In "Industry" select "computer software"
-      * Search: Of those profiles that return, look at their profiles to see the list of companies they've worked for. What companies do you want to continue to research? Who do you want to connect with? 
-      * You can also click on the company’s page and on the right side, view "Similar Companies" where your connections work
+      * Save jobs and also go to the company page -- what connections do you have there?
+      * Find people to reach out to!
+      * On the company page, select "create job alert" to be notified of any new opportunities
 * [BuiltIn](http://builtin.com/) is located in Austin, Boston, Chicago, Colorado, LA, and New York 
 * [Github’s Job Board](https://jobs.github.com/)
 * [Glassdoor](https://www.glassdoor.com/index.htm)
