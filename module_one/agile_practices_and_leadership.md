@@ -24,7 +24,7 @@ Timing: 2 hours
    * EQ & Leadership Domains Discussion (5 mins)
    * Reflection (5 mins)
    * Tuckman's Group Life Cycle Discussion (5 mins)
-* Project Group DTR (25 mins)
+* Project Group DTR (20 mins)
 * Debrief/Takeaways (5 mins)
 * Closing: Next Steps (3 mins)
 
