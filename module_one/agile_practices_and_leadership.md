@@ -19,9 +19,10 @@ Timing: 2 hours
    * Story Practice (10 mins)
    * Share out (5 mins)
 * Project Management Tools & Resources (5 mins)
-* How Teams Work Together (12 mins)
+* How Teams Work Together (17 mins)
    * Whole Group Introduction (2 mins)
-   * Leadership Domains Discussion (5 mins)
+   * EQ & Leadership Domains Discussion (5 mins)
+   * Reflection (5 mins)
    * Tuckman's Group Life Cycle Discussion (5 mins)
 * Project Group DTR (25 mins)
 * Debrief/Takeaways (5 mins)
@@ -178,7 +179,7 @@ As a group, draft one story for *each* of the following:
 3 different groups share out for each example.
 
 ### Where to Go From Here: Project Management Tools
-* Start using a project management tool, like Waffle
+* Start using a project management tool
 * Turn your requirements into stories following the above template
 * Prioritize stories and schedule sprints (even just 2-3 days)
 * Deploy to production, maybe solicit feedback from "users"
@@ -195,7 +196,7 @@ Check out these resources:
 ### How Teams Work Together
 Now let's talk now about how teams work together.
 
-#### Whole Group Introduction
+#### Introduction
 Doing agile vs. Being agile = what's the difference?
 
 * Doing Agile = putting the tools into place
@@ -203,7 +204,16 @@ Doing agile vs. Being agile = what's the difference?
 * Being Agile = building relationships & collaboration, communication, continuous learning
   * This is the team's *mindset*
 
-#### StrengthsFinder: Leadership Domains
+#### Emotional Intelligence in Teams
+Emotional Intelligence or EQ is the ability to:
+ * Recognize, understand and manage our own emotions
+ * Recognize, understand and influence the emotions of others
+
+Developing EQ:
+ * Gaining awareness that emotions drive our behavior and impact people
+ * Learning to manage those emotions — both our own and others — especially when we are under pressure
+
+#### Pairin: Leadership Domains
 Let's consider how our strengths play a part in the types of roles we take on in our project groups. 
 
 [Four Domains of Leadership](https://docs.google.com/document/d/1N449kYbcOhu22vbORfjUOfjFOIfPoka5w00q_fklipU/edit?usp=sharing):
@@ -212,12 +222,11 @@ Let's consider how our strengths play a part in the types of roles we take on in
   * **Relationship Building:** Relationship Builders are the glue that holds a team together. Strengths associated with bringing people together -- whether it is by keeping distractions at bay or keeping the collective energy high -- transform a group of individuals into a team capable of carrying out complex projects and goals.
   * **Strategic Thinking:** Those who are able to keep people focused on “what they could” be are constantly pulling a team and its members into the future. They continually absorb and analyze information and help the team make better decisions. 
 
-Using the handout above and examining your strengths from your Pairin results, where do you fall in these styles? What does this tell you about how you operate on teams?
+Using the handout above, reflect on the following questions in your journal:
 
-**Whole Group Discussion:**
-* How do each of these types of leadership styles work together? What do they look like in practice?
-* Where might they come into conflict with each other?
-* How could teams resolve that conflict?
+* How would you describe your Emotional Intelligence (EQ) competency?
+* How does this make you an effective leader?
+* What does this tell you about how you operate on teams?
 
 #### Bringing These Styles Together: Tuckman's Group Life Cycle
 Now that you understand these leadership styles look like, let's discuss how these styles can come together to work well. Psychologist Bruce Tuckman developed the "Tuckman's Group Life Cycle," which consists of 4 phases:
@@ -238,14 +247,18 @@ Now that you understand these leadership styles look like, let's discuss how the
 #### Project Team DTR
 Begin your DTR by discussing:
 
-* Share your strengths with each other
-   * What do they mean? 
-   * How do you interpret these strengths in your day-to-day work? 
-* How can you move through Tuckman's stages as a team?
-* What are your domains of strengths? How could these strengths work together to make a successful team? 
-* How might your team come into conflict with each other? How will you resolve that conflict if it occurs?
-* What domains are not covered as much in your current team? How does that affect your team’s performance? 
-
+* Leadership:
+  * What kind of leader could each of you be in this group?
+  * How will all of you come together to exemplify leadership in the group?
+* Conflict: 
+  * Where could it occur on our team?
+  * How will you resolve conflict if it occurs?
+* Gaps in our EQ?
+  * What domains are not covered in your team? 
+  * How does that affect your team’s performance?
+* Tuckman’s: Forming, storming, norming, performing, adjourning
+  * How can you move through Tuckman's stages as a team?
+ 
 Continue your DTR:
 
 * Reference the [DTR guidelines and memo questions here](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/dtr_guidelines_memo.md)
