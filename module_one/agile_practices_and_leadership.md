@@ -186,7 +186,7 @@ As a group, draft one story for *each* of the following:
 
 Check out these resources:
 * [Git Workflow for Teams](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/git_workflow_for_teams.md)
-* [Waffle.io](https://waffle.io/)
+* [GitHub Projects](https://help.github.com/en/articles/about-project-boards)
 * [Trello](https://trello.com/)
 * [Pivotal Tracker](https://www.pivotaltracker.com/)
 * [JIRA](https://www.atlassian.com/software/jira)
