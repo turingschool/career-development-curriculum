@@ -146,6 +146,16 @@ You've come prepared to share your story. How can you also learn about the other
         
 * **Get a business card.** Find a way to follow up the conversation with this person and don't leave without a call to action -- how will you continue the conversation? 
 
+**Social Networking:**
+* Twitter follows/retweets/messages
+* Connect on LinkedIn
+  * Engage:
+   * No one-off comments. Take the time to engage in the thread in a meaningful way 
+* Blogging
+* Open Source contributions:
+  * Connect with people by showing off your skills
+  * Check out [this guide for navigating open source and building a community!](https://opensource.guide/)
+
 **Groups:**
 Here is a non-exhaustive list of tech networking groups that you can get involved in as you build your network:
 
