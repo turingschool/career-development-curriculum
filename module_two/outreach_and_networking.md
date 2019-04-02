@@ -127,7 +127,7 @@ Who is in your current network?
       * What value you bring:
          * Community. You're part of the Turing community too and you serve as a connection to the latest information in the Turing community
          
-For a more in-depth perspective on the network that you already have, check out Wharton professor and author of *Give and Take: A Revolutionary Approach to Success* Adam Grant's post [Finding the Hidden Value in Your Network](https://www.huffingtonpost.com/adam-grant/finding-the-hidden-value-_1_b_3458536.html)
+For a more in-depth perspective on the network that you already have, check out Wharton professor and author of *Give and Take: A Revolutionary Approach to Success* Adam Grant's post [Finding the Hidden Value in Your Network](https://webcache.googleusercontent.com/search?q=cache:uniBCEM9Wr8J:https://www.huffingtonpost.com/adam-grant/finding-the-hidden-value-_1_b_3458536.html+&cd=1&hl=en&ct=clnk&gl=us)
 
 #### Expanding Your Circle
 **Meetups/Events**:
