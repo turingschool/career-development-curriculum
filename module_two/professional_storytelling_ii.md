@@ -6,6 +6,8 @@
 
 ### Session Structure
 
+UPDATE: Include story elements and narrative arc intro
+
 Length: 60 mins
 
 * Opening/Hook: 5 mins
