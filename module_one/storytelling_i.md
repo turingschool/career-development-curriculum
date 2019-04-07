@@ -83,7 +83,7 @@ Using the handout, create your own social identity map:
 ### Turn & Talk
 * How do you already think that you fit into the tech industry?
 * How have you seen yourself using your social identity to become a successful student and developer? 
-* What would it look like for some of your minuses or question markes to turn into pluses? In other words, how could some of these traits be assets for the tech industry?
+* What would it look like for some of your minuses or question marks to turn into pluses? In other words, how could some of these traits be assets for the tech industry?
 
 2-3 groups share out for the whole group.
 
