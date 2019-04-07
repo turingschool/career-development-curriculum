@@ -1,18 +1,22 @@
 # Storytelling I
-## Building a Bridge from Our Backgrounds to Our Futures
+## Connecting Our Identities to Our New Careers
 
 [Slides for this session](https://docs.google.com/presentation/d/15tibaEz4FVKstwwJ1USsQCZOALCcRMe5KIRbWgcGCoc/edit?usp=sharing) 
 
 ### Session Structure
 
-Length: 85 mins
+Length: 80-85 mins
 
 * Opening Activity (5 mins)
 * Why/Objectives (2 mins)
 * Intro to Social Identity Mapping (15 mins)
 * Social Identity Mapping Activity (8 mins)
+* Turn & Talk (5 mins + 1 min debrief)
 * Pomodoro (5 mins)
-* 
+* Intro to Strengths & Values Discussion (15 mins)
+* Strengths & Values Activity (9 mins)
+* Small Group Discussions (10 mins)
+* Closing: Complete Exit Ticket (5 mins)
 
 ### Opening Activity
 In your journal, draw a line down the page. On the left side, write down all your strengths. On the right side, write down all the strengths/qualities of a software developer. Circle or put a star next to the ones that overlap.
@@ -23,10 +27,12 @@ Throughout this module, we've been talking about our strengths as a way to build
 Today, we'll do a deeper dive into our strengths, values, and social identities.
 
 #### Objectives
-* 
+* Reflect on your social identities and values and how they inform your place in the tech industry
+* Understand how your experiences at Turing connect to others'
+* Begin to build your professional story by describing yourself as a software developer
 
 ### Activity #1: Social Identity Mapping
-*This activity comes from the Center for Creative Leadership*
+*This activity is adapted from the Center for Creative Leadership*
 
 Question to the group: When you think of the words "culture fit," what comes to mind?
 
@@ -47,7 +53,7 @@ family roles or physical characteristics
 * Core: made up of the attributes that make you unique as an individual such as behaviors, values, skills, and items from your
 given and chosen categories
 
-**I Do:** Facilitator demonstrates how to fill out a social identity map and discusses their own map
+**I Do:** Facilitator demonstrates how to fill out a social identity map on the board and discusses their own map.
 
 How can we apply these social identity maps to articulating who we are more effectively? Let's look at this example from Josh Mejia, Back End Instructor:
 
@@ -70,26 +76,28 @@ Using the handout, create your own social identity map:
 3. In the center, write your core attributes—traits, behaviors, beliefs, values, characteristics, and skills that you think make you unique as an individual. Select things that are enduring and key to who you. For example, you may see yourself as funny, artistic, kind, conservative, creative, impatient, musical, family focused, assertive.
 4. After you complete your map:
   * Underline the items that are important to you. These are likely to be the terms you would use to describe yourself.
-  * Put a plus sign (+) beside the items that you believe contribute to your ability to be an effective software developer.
-  * Put a minus sign (-) beside the items that you believe detract from your ability to be an effective software developer.
-  * Put a question mark (?) beside the items that may vary in how they affect your abilities as a software developer,
-depending on context. 
+  * Put a plus sign (+) beside the items that you believe clearly demonstrate that you fit into the tech industry.
+  * Put a minus sign (-) beside the items that you believe do not demonstrate that you fit into the tech industry.
+  * Put a question mark (?) beside the items that you're unsure how they could show your ability to contribute to the tech industry.
 
 ### Turn & Talk
 * How do you already think that you fit into the tech industry?
-* How do you...
-* What steps 
+* How have you seen yourself using your social identity to become a successful student and developer? 
+* What would it look like for some of your minuses or question markes to turn into pluses? In other words, how could some of these traits be assets for the tech industry?
 
-Share out. Potential takeaways:
-* Struggle: when we struggle with .....
+2-3 groups share out for the whole group.
 
 ### Pomodoro
+Take a 5 minute break!
 
 ### Activity #2: Strengths & Values 
+Question to the group: when you hear the words "strengths" and "values," what kinds of words come to mind?
+Can *struggle* be a strength or a value?  Why/why not? How many of you have struggled at Turing? Probably all of you are raising your hands. That's part of becoming a better software developer as you learn to keep using a growth mindset. 
 
-
-
-Let's look at these examples from other staff members:
+#### Turn & Talk
+Discuss these examples from 3 other staff members on how they utilize struggle with these questions:
+* What did you learn about each person?
+* What do these stories tell you about how they each use growth mindset against struggle?
 
 * **Amy Holt, Back End Instructor:** "I still struggle every day! One thing I learned about myself and my learning style while at Turing is that it's really important I understand the inner-workings of things before I feel ok with implementing them. At first, I just thought I was a slow learner. Connecting my 'speed' in picking up concepts to my need for a deeper understanding helped me be a little more kind with myself. When I'm really discouraged, I try to step back and remind myself of how far I've come and acknowledge that it is always possible to 'do the thing'. "
 
@@ -97,45 +105,42 @@ Let's look at these examples from other staff members:
 
 * **Jeff Casimir, Executive Director:** "I remember really struggling when I first started learning about functional programming. At that point I had been writing code for 15 years. I started to see that the anxiety about not 'getting it' was actually preventing me from getting it. When I don't understand what I'm doing I like to copy, modify, create. I take something that I know works, from the web or a book or whatever, and just type that out and make it run. Then I start tweaking things. What if I rearrange two lines, change some numbers or values, that kind of thing. I think of it as 'pulling on' the code, seeing how it flexes and changes. Then I delete a chunk of the code and try to write it myself. I think one of my strengths in life and programming is a willingness to experiment. I prefer to move quickly and learn, even if it means making mistakes, rather than sitting and planning. When you're planning you're working with the information you have right now. When you experiment you have the opportunity to gain new perspective/data."
 
-**Discussion**:
+2-3 groups share out for the whole group.
 
+Now, let's dive into our own strengths and values a little more to explore how we utilize growth mindset and succeed over struggle as software developers. 
+
+As we discuss values, we're talking about: 
+* An enduring belief that a specific mode of conduct or end-state of existence is preferable over others.
+* A principle, standard, or quality considered worthwhile or desirable.
+* What drives our behavior and are directly related to job satisfaction and fulfillment.
+* We value some things more than others and these priorities affect the choices we make in life.
 
 **I Do:** Facilitator demonstrates how to complete the strengths and values activity. 
 
 #### You Do
 You have 2 handouts:
 * A handout with 4 quadrants labeled with *Always Valued, Often Valued, Sometimes Valued,* and *Seldom Valued* 
-* You get a stack of cards, each with a quality. Each person places each card in the quadrant they feel it belongs. Then you pick the top 5 and bottom 5. Then, for the top 5 values we assessed how we are currently experiencing that (some people did a :heavy_check_mark:-, :heavy_check_mark: , :heavy_check_mark: +, some did a scale of 1-5) and we talked about why we felt we were getting what we needed of it and what we felt was missing.
+* A handout listing different kinds of values. Pick 5 values for each of the 4 quadrants. 
+
+*Think about how your Pairin Highest Virtue Class ("Lover of...") fits into your final selections.* 
+
+Respond to these questions in your journal:
+* What are your top 5 values for Always Valued?
+* How do these values describe who you are?
+* How do these values describe your response to struggle?
+* What do these values tell you about your career as a software developer? 
 
 ### Small Group Discussions
 Form groups of 3-4 people to discuss the following questions:
 
 * Why did you come to Turing?
-* Why will you succeed at Turing?
 * What helps you overcome challenges at Turing? 
-* 
-
-When you are building a relationship, what do you want to know about the other person? What
-do you notice first? Are you attracted to certain characteristics in others?
-
-
-* What assumptions do you make about other people based on their social identity?
-
-
-
-* What assumptions do you think other people make about you based on your social identity?
-
-5. If you were to see the identity maps of other people in your community coalition, how much do
-you think you would have in common with them?
-
-
-6. What are the areas that would probably be different?
-
-7. How does what I learn relate to how I work across boundaries?
+* Knowing your values, what kind of software developer do you believe you'll become?
 
 ### Whole Group Debrief/Synthesis
 Share out:
-* 
+* How does what we've talked about today relate to your new career as a software developer? What did you learn about yourself?
+* Go back to the activity we did at the beginning of the session; as you look back over the two lists that you made, what do you notice?
 
 ### Closing Activity: Exit Ticket
-Using what you've learned about yourself today, write a job description for yourself as a software developer, emphasizing your strengths, values, and social identity as inspiration. You'll submit this job description [here]( by Monday of Week 6 at 9am. 
+Using what you've learned about yourself today, write a job description for a software developer with yourself, emphasizing your strengths, values, and social identity as inspiration. Submit this job description [here](https://forms.gle/4DLRvyJTuunxspon8) by the end the day.
