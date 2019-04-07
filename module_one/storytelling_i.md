@@ -60,7 +60,7 @@ How can we apply these social identity maps to articulating who we are more effe
 
 Some takeaways here:
 * Even though our social identities could cause us to stick with people who are most like us, by sharing our social identities, we begin to see the ways in which our social identities overlap with people who on the surface seem unlike us.
-* Understanding our social identities allows us to identify the ways in which we already feel like we're a part of the tech industry, identify the ways we don't *yet* feel that we're a part of the tech industry, and begin to build bridges to incorporate those pieces more.
+* Understanding our social identities allows us to identify the ways in which we already feel like we're a part of the tech industry, identify the ways we don't *yet* feel that we're a part of the tech industry, and begin to build bridges to incorporate the latter even more.
 
 #### You Do
 Using the handout, create your own social identity map: 
@@ -77,14 +77,30 @@ depending on context.
 
 ### Turn & Talk
 * How do you already think that you fit into the tech industry?
-* What are the areas you feel less ......
+* How do you...
+* What steps 
+
+Share out. Potential takeaways:
+* Struggle: when we struggle with .....
 
 ### Pomodoro
 
 ### Activity #2: Strengths & Values 
-Blurb on background/why
 
-**I Do:** Facilitator demonstrates 
+
+
+Let's look at these examples from other staff members:
+
+* **Amy Holt, Back End Instructor:** "I still struggle every day! One thing I learned about myself and my learning style while at Turing is that it's really important I understand the inner-workings of things before I feel ok with implementing them. At first, I just thought I was a slow learner. Connecting my 'speed' in picking up concepts to my need for a deeper understanding helped me be a little more kind with myself. When I'm really discouraged, I try to step back and remind myself of how far I've come and acknowledge that it is always possible to 'do the thing'. "
+
+* **Leta Keane, Front End Instructor:** "I constantly struggle with learning to code! Coding has never been easy for me, never been intuitive, never been anything other than a very conscious, very intentional PROCESS. I had to learn that just because coding is not intuitive for me, it doesn't mean that I can't or shouldn't code. It doesn't mean that I am a weak developer. Instead, I make use of my very strong skills of communication, organization, planning, and logic to work through problems methodically and collaboratively. I am driven by logic that is tempered by empathy. People should have the resources and understanding they need to make informed decisions for themselves and the safety to grow and thrive. I like to share my experiences and knowledge with the people around me, including the times I've messed up, because examples and commiseration are powerful in combatting imposter syndrome and doubt."
+
+* **Jeff Casimir, Executive Director:** "I remember really struggling when I first started learning about functional programming. At that point I had been writing code for 15 years. I started to see that the anxiety about not 'getting it' was actually preventing me from getting it. When I don't understand what I'm doing I like to copy, modify, create. I take something that I know works, from the web or a book or whatever, and just type that out and make it run. Then I start tweaking things. What if I rearrange two lines, change some numbers or values, that kind of thing. I think of it as 'pulling on' the code, seeing how it flexes and changes. Then I delete a chunk of the code and try to write it myself. I think one of my strengths in life and programming is a willingness to experiment. I prefer to move quickly and learn, even if it means making mistakes, rather than sitting and planning. When you're planning you're working with the information you have right now. When you experiment you have the opportunity to gain new perspective/data."
+
+**Discussion**:
+
+
+**I Do:** Facilitator demonstrates how to complete the strengths and values activity. 
 
 #### You Do
 You have 2 handouts:
@@ -97,18 +113,14 @@ Form groups of 3-4 people to discuss the following questions:
 * Why did you come to Turing?
 * Why will you succeed at Turing?
 * What helps you overcome challenges at Turing? 
+* 
 
 When you are building a relationship, what do you want to know about the other person? What
 do you notice first? Are you attracted to certain characteristics in others?
 
-* Then, make a social identity map with the other people on your team. Identify what you all have in common and what is unique to each of you. 
-
 
 * What assumptions do you make about other people based on their social identity?
 
-
-3. If someone else were mapping your identity, what do you think they would notice first? What
-would be most relevant to them? Why?
 
 
 * What assumptions do you think other people make about you based on your social identity?
@@ -122,6 +134,8 @@ you think you would have in common with them?
 7. How does what I learn relate to how I work across boundaries?
 
 ### Whole Group Debrief/Synthesis
+Share out:
+* 
 
 ### Closing Activity: Exit Ticket
 Using what you've learned about yourself today, write a job description for yourself as a software developer, emphasizing your strengths, values, and social identity as inspiration. You'll submit this job description [here]( by Monday of Week 6 at 9am. 
