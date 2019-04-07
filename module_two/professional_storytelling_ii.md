@@ -6,7 +6,7 @@
 
 ### Session Structure
 
-UPDATE: Include story elements and narrative arc intro
+UPDATE: Include story elements and narrative arc intro; make connection from Storytelling I + Flower Exercise
 
 Length: 60 mins
 
