@@ -1,5 +1,5 @@
 # Storytelling I
-## Bringing It All Together
+## Building a Bridge from Our Backgrounds to Our Futures
 
 [Slides for this session](https://docs.google.com/presentation/d/15tibaEz4FVKstwwJ1USsQCZOALCcRMe5KIRbWgcGCoc/edit?usp=sharing) 
 
