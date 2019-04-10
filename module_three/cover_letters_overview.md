@@ -104,5 +104,3 @@ Reminder about deliverables:
 * Cover letter draft for a real position due week 1 of Mod 4
   * Reminder you can find job postings from [the sites listed here](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/job_search_strategies.md). Remember to note any research you need to do and add it to your Huntr boards.
 * Turing alumni portfolio due Monday of week 6 at 9am
-
-Fill out the survey in your channel for Mod 4 groups!
