@@ -40,7 +40,7 @@ Step 3: Please respond to the following questions in a reflection (4-6 sentences
    * How do you hope to maximize your strengths for your new career in software development?
    * How might knowing about your strengths and working preferences benefit you as a software developer? 
  
-**Please put your reflections in your PD pre-work gist that you'll submit in the survey [here](https://sites.google.com/casimircreative.com/enrollment/pre-work?authuser=0)**
+**Please put your reflections in your PD pre-work gist that you'll submit in the survey [here](https://sites.google.com/casimircreative.com/enrollment/mod-0-capstone-fka-pre-work?authuser=0)**
  
 Optional further reading:
    * [How to Hire Like Google & Facebook](https://www.forbes.com/sites/ashoka/2014/04/15/how-to-hire-like-google-and-facebook-evaluating-candidates-beyond-their-technical-ability/#64c08fc513bf): (5 minute read)
