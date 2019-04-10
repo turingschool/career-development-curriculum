@@ -10,9 +10,10 @@ Timeline: 90 mins
 * Dissecting cover letters & example (15 mins)
 * Turn & Talk (10 mins)
 * We Do (15 mins)
-* Workshop: You Do (20 mins)
+* Workshop: You Do (15 mins)
 * Round of feedback (10 mins)
-* Closing: Debrief/Survey (5 mins)
+* Work Time (15 mins)
+* Closing: Debrief (5 mins)
 
 ### Opening & Objectives
 In this session, participants will be able to:
@@ -23,7 +24,7 @@ In this session, participants will be able to:
 * Provide & receive feedback on your cover letters
 
 #### Deliverables
-* Cover letter draft due Friday of week 1 of Mod 4
+* Cover letter draft due day 1 of Mod 4
 * Turing alumni portfolio due Monday of week 6 at 9am
 
 ### Do's & Don't's of a Cover Letter
@@ -90,6 +91,9 @@ Form groups of 2-3 people in your program and draft out a cover letter for the p
 ### Round of Feedback: Pair & Share
 Team up with a group not in your program to share your cover letters and give each other feedback. Feedback should be **specific, actionable, and kind** and include both **appreciation and coaching.** 
 
+### Work Time
+Using a position you've added to Huntr, work on a cover letter today using the principles we've discussed. 
+
 ### Closing
 Debrief as a whole group:
 
@@ -97,7 +101,7 @@ Debrief as a whole group:
 
 Reminder about deliverables:
 
-* Cover letter draft for a real position due Friday of week 1 of Mod 4
+* Cover letter draft for a real position due week 1 of Mod 4
   * Reminder you can find job postings from [the sites listed here](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/job_search_strategies.md). Remember to note any research you need to do and add it to your Huntr boards.
 * Turing alumni portfolio due Monday of week 6 at 9am
 
