@@ -31,7 +31,7 @@ Step 1: Take the survey using [this link](https://survey.pairin.com/signup/15960
 Step 2: Read this post and watch this video to start building an understanding of your Pairin results (5 minutes total):
 
    * [Understanding Your Pairin Results](https://www.youtube.com/watch?v=VXe3i_KjaSI) (2 minutes)
-   * [Pairin Qualities Overview](https://docs.google.com/document/d/1bqJd_53P-_5_iHN4cn7K04Jzhvw1FOUo3FcjSPCdK8w/edit?usp=sharing) (2.5 minute read)
+   * [Pairin Qualities Overview](https://docs.google.com/document/d/1LIR7gITKqOX2ewcOqp_KTkj3Phqjk4ZKoOrpUdidvwM/edit?usp=sharing) (2.5 minute read)
       
 Step 3: Please respond to the following questions in a reflection (4-6 sentences):
    * What is your greatest strength and how do you know?
