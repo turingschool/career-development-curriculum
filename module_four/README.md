@@ -38,6 +38,5 @@ Reference [these guidelines](https://github.com/turingschool/career-development-
 ### Deliverables
 In order to fulfill the requirements of Module Four, students will:
 
-* A [30-day post-grad job search action plan](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md) to be submitted in their Module Four portfolio
-* Students will also be expected to share a summarized version of their professional story with their instructors during the portfolio review. This is a 1-2 minute sharing highlighting what makes them stand out from their peers and where they want to go in their careers
+* A [Post-grad job search action plan](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md) to be submitted to Kayt on Mondy of Week 6
 * Complete a mock interview with your instructor and/or mentor during module 4
