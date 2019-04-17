@@ -15,8 +15,14 @@ Build a sustainable routine:
 * Include a screenshot of your Week 3 calendar in your gist by following [these directions](https://gist.github.com/kannankumar/4c613cac6d9db896062a16e1cc57d3e5)
 * This screenshot should have all of your job search time broken down into specific tasks (i.e., find posting, write outreach email, write cover letter, etc.)
 
-### Section II: Short Answer Responses
-Please respond to these questions
+## Section II: Short Answer Responses
+Please respond to these questions: 
+
+1. Why do you want mentoring in the job search?
+
+2. How will you hold yourself accountable to balancing time for your job search and following your mentor and group's advice?
+
+3. What is the focus of your job search (timeline, ideal job, steps you’ve already taken)? Be as specific as you can.
 
 ## Section III: Turing Alumni Portfolio
 Your [alumni portfolio](https://alumni.turing.io/) should have all fields filled out and include at least 2 projects. Portfolios that are most effective 
