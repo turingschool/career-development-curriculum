@@ -24,12 +24,19 @@ Please respond to these questions:
 
 3. What is the focus of your job search (timeline, ideal job, steps you’ve already taken)? Be as specific as you can.
 
+Add your responses to your application gist.
+
 ## Section III: Turing Alumni Portfolio
-Your [alumni portfolio](https://alumni.turing.io/) should have all fields filled out and include at least 2 projects. Portfolios that are most effective 
+Your [alumni portfolio](https://alumni.turing.io/) should have all fields filled out and include at least 2 projects. Portfolios considered most effective will:
+
+* Demonstrate attention to detail (no typos, all links work correctly, project ReadMes are detailed, etc.)
+* 
 
 ## Section IV: Resume
+The version of your resume that is on your Turing Alumni Portfolio is what will be considered for the application. 
 
 ## Section V: Mod 4 First Solo Project
+Even though your first project is not graded as part of your promotional decision, successful applicants will put considerable effort into these projects to demonstrate exceptional professionalism. 
 
 ## Evaluation Rubric
 Your application will be evaluated using the following rubric, and you must reach a 3 or above in all categories to be approved:
