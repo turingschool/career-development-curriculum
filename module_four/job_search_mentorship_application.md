@@ -62,7 +62,7 @@ Your application will be evaluated using the following rubric, and you must reac
 ### Alumni Portfolio
 4 = Well Above Expectations: 
 
-3 = Meets Expectations
+3 = Meets Expectations: 
 
 2 = Below Expectations
 
