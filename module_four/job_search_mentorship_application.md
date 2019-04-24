@@ -29,8 +29,9 @@ Add your responses to your application gist.
 ## Section III: Turing Alumni Portfolio
 Your [alumni portfolio](https://alumni.turing.io/) should have all fields filled out and include at least 2 projects. Portfolios considered most effective will:
 
+* Provide a strong sense of one's professional interests through the summary
+* Provide a strong sense of one's abilities as a software developer through detailed project descriptions
 * Demonstrate attention to detail (no typos, all links work correctly, project ReadMes are detailed, etc.)
-* 
 
 ## Section IV: Resume
 The version of your resume that is on your Turing Alumni Portfolio is what will be considered for the application. 
@@ -42,9 +43,11 @@ Even though your first project is not graded as part of your promotional decisio
 Your application will be evaluated using the following rubric, and you must reach a 3 or above in all categories to be approved:
 
 ### Calendar
-4 = Well Above Expectations: 
+4 = Well Above Expectations:
 
-3 = Meets Expectations
+* Calendar includes detailed 
+
+3 = Meets Expectations: 
 
 2 = Below Expectations
 
