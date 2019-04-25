@@ -13,161 +13,63 @@ Time: 90 mins
 * Cover Letter Review (40 mins)
 * Closing/Debrief (5 mins)
 
-### Setting New Norms
-Welcome to Module 4. It's easy to feel burnt out at this point in the program; however, this module is your peak. It's the opportunity to refine your technical and professional skills for the job search. 
+### Objectives
 
-You’ve worked together for 3 mods already, and you’ve set norms for how to work together. Now you’re transitioning into not only working together but preparing for your careers post-Turing; how can you do your best work? What are your roles within the cohort to ensure that everyone can do their best work?
-
-#### Whole Group Discussion
-Popcorn to answer a few questions:
-
-
-
-#### Small Group Discussions
-Break out into groups of 3-4 people from the same program (i.e., BE goes with BE, FE goes with FE) to discuss the following:
+* Decide as a cohort how to make Mod 4 your "peak" module and how to support each other during the job search
+* Discuss and understand options for job search support in Mod 4
 * 
 
-One person should be the notetaker.
+### Setting New Norms
+Welcome to Module 4. It's easy to feel burnt out at this point in the program; however, this module is your peak. It's the opportunity to refine your technical and professional skills for the job search. The best way to do that is to support each other through this module as a cohesive cohort.
+
+You’ve worked together for 3 mods already, and you’ve set norms for how to work together. Now you’re transitioning into not only working together but preparing for your careers post-Turing. To set us up for success this module, let's start with setting some new norms on how we can best work and support each other. 
+
+#### Whole Group Discussion
+Cold call 3 people to answer one of each of these questions:
+
+* What does your cohort do well? How do you know? 
+* How would you describe the morale of your cohort? What contributes to that?
+* How would you describe your cohort's successes so far? What contributes to that?
+
+Consider your cohort's strengths and how you can capitalize on them this module. 
+
+#### Individual Reflections
+Reflect on these questions in your journals to prepare for discussions with your cohorts:
+
+* 
+
+#### Cohort Discussions
+Divide the room down the middle with BE on one side and FE on the other (note: if cohorts are especially large, this could be done in small groups or in each of the cohort's respective classrooms before coming back to Clarke to share out). Each cohort will have a chart paper to contribute group norms to, which must include these particular sections: 
+
+* How can you do your best work this module?
+* What role do you each want to take within the cohort to ensure that everyone can do their best work?
+* 
+
+One person should be the notetaker, and everyone should be given an opportunity to participate. 
 
 ### Share Out
-* One representative from each group will share out ...
+* One representative from each group will share out the cohort's norms as well as additional volunteers to share about their individual roles in the cohort. 
 
-Now that we know our cohort norms for Mod 4, let's discuss how to put them into practice as 
+Now that we know our cohort norms for Mod 4, let's discuss options for Mod 4 PD.
 
 ### Mod 4 PD Options
 While you will still receive a few whole group PD sessions, in weeks 3-5, you can choose to participate in small group job search mentorship with a staff member. 
 
 Please read over this [1-pager](https://docs.google.com/document/d/1EsPZtNaDBTNvFUcoVwGVYPLGg7wQtNqJUKix0XS88Xs/edit?usp=sharing) with information on what this means as well as the [application requirements for job search mentorship](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/job_search_mentorship_application.md). Discuss questions from the whole group.
 
-### Cover Letter Review (30-40 mins)
+### Cover Letter Review
+Review cover letter norms
+
+#### Individual Review
+Read through your cover letter and highlight specific questions you have for the group
+
+#### Small Group Sharing
+Break out into groups of 3-4 people and in a group DM, send your cover letter drafts. 
+
 More prompting questions; force group members to give feedback first; have them do more peer review of materials (bring some prompting questions);
 Assign roles to the students (person 1 is in charge of critiquing tone; person 2 is in charge of sentence structure; ....)
 Person to the right does the checklist, other person takes notes, etc.
 Small Group/Peer review
+
 Reviewing Huntr/Other housekeeping? (10 mins)
 Make sure you have the plugin so it's really easy to do
-
-## Opening: The Big Picture
-### Sit in your Coaching Groups
-You are assigned to a peer group made up of other students and one staff member who is your coach. You'll meet with your groups every week, and you should also utilize them outside of the PD sessions to ask questions, get feedback, and support with resources. 
-
-### Objectives
-* Understand the scope and sequence of Module 4 Professional Development and what support looks like this module
-* Discover the use and importance of M4 PD peer groups & coaches
-* Utilize strategies for managing time for the job search during module
-
-### Module 4 Professional Development Scope & Sequence
-You're starting your final module at Turing, and we aim to set you up with structured support to help you navigate this successfully. However, you are the driver of your own job search -- take advantage of all of the tools and resources listed here!
-
-### Looking Ahead
-Here is the PD layout of week-by-week in Module 4:
-
-* Week 1: PD Kickoff & Cover Letter Workshop
-* Week 2: Behavioral Interview Prep practice
-* Week 3: External Review: mentors and alumni will meet with PD groups to go through resumes, cover letters, and give feedback on pitches
-* Week 4: Negotiations & Equity discussion
-* Week 5: 30-day Post-Grad Plan Workshop
-* Week 6: Prepare & present portfolio defense
-
-These [resources](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/guidelines_for_peer_groups.md) will help you navigate each week and prep you for the difference aspects of your job search. 
-
-You'll be expected to:
-
-* Use your [Huntr](https://huntr.co/) account
-* Submit your [30-day job search action plan](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md) 
-* Present your story and lessons learned at your end-of-module portfolio review
-* Participate in mock interviews, code challenges, and reviews in your cohort
-* Lead Gear Up for Mods 1-3 
-
-## The Job Search Requires...
-* Discipline
-* Hustle
-* Skill
-
-You already have the skill:
-* Technical skills
-* Professional Development tools
-
-In 5 minutes within your groups:
-* What steps should you take in the job search?
-* What are the tools that you’ve been given for the job search? 
-
-So, how do you develop the discipline and the hustle for the job search?
-
-### Let's Start with Hustle
-What is your job search timeline? 
-If you need a job by:
-
-* Graduation
-* 30 days after graduation
-* 60 days after graduation
-* 90 days after graduation
-
-What should you be doing? Call on 2-3 people for ideas.
-
-For a job by graduation:
-* Apply to 2-3 jobs a week, which means:
-    * 2-3 new cover letters
-    * Customize versions of your resume
-    * Schedule 1-2 coffee meetings per application
-    * Clean up your projects
-    * Practice interview skills related to the job
-
-For a job by 30 days after graduation:
-* Apply to 1-2 jobs a week, which means:
-    * 1-2 new cover letters
-    * Customize versions of your resume
-    * Schedule 1-2 coffee meetings per application
-    * Clean up your projects
-    * Practice interview skills related to the job
-
-For a job by 60-90 days after graduation:
-* Conduct research, which means:
-    * Build up your Huntr with company leads and info
-    * Schedule 1-2 coffee meetings a week related to companies you are interested in
-    * Clean up your projects
-    * Practice interview skills 
-
-### How to Cultivate Discipline: 
-1. Create your tools:
-  * Establish a calendar
-  * Block out time throughout each week
-  * Depending on your timeline for needing a job, your calendar will look different!
-
-2. Stay accountable:
-  * Share this with your coach and group
-  * Projects: make this part of your DTR
-  * What problems do you anticipate running into here?
-
-3. Outline your time:
-  * What will you actually do during the time you’ve set aside?
-  * Approach this like you would a project: 
-    * Break into tasks
-    * Set due dates
-    * Use Huntr!
-
-## You Do
-1. Consider your timeline for when you need a job to decide on your priorities for this module
-2. Build out a calendar for the module to balance your job search with your module responsibilities
-3. Update your Huntr with task breakdowns
-
-## Group Discussions
-* Intros
-  * What are you looking for?
-  * What is your timeline?
-* Expectation-setting
-* Accountability 
-  * Share calendars
-  * What can you help the group with?
-  * What do you need help with?
-
-## Next Steps
-Bring your cover letter draft for our session on Friday.
-
-**Remember Your Resources:**
-
-* #job-hunt
-* #salaries
-* DM your coach as needed
-Additional Resources:
-* [Reference these guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/guidelines_for_peer_groups.md) to understand group expectations and regular deliverables
