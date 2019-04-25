@@ -51,7 +51,9 @@ Your application will be evaluated using the following rubric, and you must reac
 
 2 = Below Expectations
 
-1 = Well Below Expectations
+1 = Well Below Expectations:
+
+* Calendar is incomplete, does not provide time for job search, or has not been included in submission
 
 ### Short Answer Responses
 4 = Well Above Expectations: 
@@ -60,25 +62,39 @@ Your application will be evaluated using the following rubric, and you must reac
 
 2 = Below Expectations
 
-1 = Well Below Expectations
+1 = Well Below Expectations:
+
+* Short answers are incomplete, do not directly answer the questions, or have not been included in submission
 
 ### Alumni Portfolio
 4 = Well Above Expectations: 
 
 3 = Meets Expectations: 
 
-2 = Below Expectations
+2 = Below Expectations:
 
-1 = Well Below Expectations
+* Alumni portfolio is missing 1 component, contains some spelling/grammatical errors, and/or has not incorporated feedback 
+
+1 = Well Below Expectations:
+
+* Alumni portfolio is missing more than 2 components or is missing from the site 
 
 ### Resume
 4 = Well Above Expectations: 
 
-3 = Meets Expectations
+* Resume includes all necessary components, an eye-catching layout, no spelling/grammatical errors, incorporates all relevant feedback from resume review, the resume has been customized so that it stands out, and it includes a personal website link and/or personal projects that have not been required at Turing
 
-2 = Below Expectations
+3 = Meets Expectations:
 
-1 = Well Below Expectations
+* Resume includes all necessary components, has an easy-to-read layout, no spelling/grammatical errors, and incorporates relevant feedback from resume review
+
+2 = Below Expectations:
+
+* Resume is missing 1 component, has components in the wrong order, contains some spelling/grammatical errors, and/or did not incorporate additional feedback from resume review
+
+1 = Well Below Expectations:
+
+* Resume is missing 2 or more components, contains multiple spelling/grammatical errors, and/or is missing from the alumni site
 
 ### Mod 4 First Solo Project
 Even though the scores for this project do not factor into your promotion decisions, the scores that your instructors discuss with you during evaluations will be considered in this application.
