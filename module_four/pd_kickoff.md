@@ -1,17 +1,51 @@
-# PD Kickoff: Timeboxing
+# Mod 4 PD Kickoff
 
 ## Setting You Up for Success in the Module 4 Job Search
 
 [Slides for this session](https://docs.google.com/presentation/d/1DNPivOJBUUnWlwD-n-2K9dysidWPyVFaqCvMmy87Irw/edit?usp=sharing)
 
 ### Session Structure:
-Time: 60 mins
+Time: 90 mins
 
-* Opening (scope & sequence of Mod 4 & objectives) (5 mins)
-* Hear from Kayt (5 mins)
-* Discipline, Hustle, Skill (20 mins)
-* You Do: Create a schedule & Update Huntr (10 mins)
-* Coaching group discussions on group expectations and calendars (20-30 mins)
+* Opening/Objectives (5 mins)
+* Norm-Setting (30 mins)
+* Job Search Mentorship Expectations (10 mins)
+* Cover Letter Review (40 mins)
+* Closing/Debrief (5 mins)
+
+### Setting New Norms
+Welcome to Module 4. It's easy to feel burnt out at this point in the program; however, this module is your peak. It's the opportunity to refine your technical and professional skills for the job search. 
+
+You’ve worked together for 3 mods already, and you’ve set norms for how to work together. Now you’re transitioning into not only working together but preparing for your careers post-Turing; how can you do your best work? What are your roles within the cohort to ensure that everyone can do their best work?
+
+#### Whole Group Discussion
+Popcorn to answer a few questions:
+
+
+
+#### Small Group Discussions
+Break out into groups of 3-4 people from the same program (i.e., BE goes with BE, FE goes with FE) to discuss the following:
+* 
+
+One person should be the notetaker.
+
+### Share Out
+* One representative from each group will share out ...
+
+Now that we know our cohort norms for Mod 4, let's discuss how to put them into practice as 
+
+### Mod 4 PD Options
+While you will still receive a few whole group PD sessions, in weeks 3-5, you can choose to participate in small group job search mentorship with a staff member. 
+
+Please read over this [1-pager](https://docs.google.com/document/d/1EsPZtNaDBTNvFUcoVwGVYPLGg7wQtNqJUKix0XS88Xs/edit?usp=sharing) with information on what this means as well as the [application requirements for job search mentorship](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/job_search_mentorship_application.md). Discuss questions from the whole group.
+
+### Cover Letter Review (30-40 mins)
+More prompting questions; force group members to give feedback first; have them do more peer review of materials (bring some prompting questions);
+Assign roles to the students (person 1 is in charge of critiquing tone; person 2 is in charge of sentence structure; ....)
+Person to the right does the checklist, other person takes notes, etc.
+Small Group/Peer review
+Reviewing Huntr/Other housekeeping? (10 mins)
+Make sure you have the plugin so it's really easy to do
 
 ## Opening: The Big Picture
 ### Sit in your Coaching Groups
