@@ -8,7 +8,7 @@ To balance your job search with your Mod 4 workload, structuring your time well 
 Build a sustainable routine:
   * What could a typical week look like for you?
   * When do you work best during the day? 
-  * What is a realistic way to spend your time? (Don't overcommit yourself; consider blocking out 1 hour a day)
+  * What is a realistic way to spend your time? (Don't overcommit yourself; consider blocking out 1 hour a day or a few times a week)
   * What will you work on during that time?
   
 **What to Submit:**
@@ -45,11 +45,15 @@ Your application will be evaluated using the following rubric, and you must reac
 ### Calendar
 4 = Well Above Expectations:
 
-* Calendar includes detailed 
+* Scheduled time details specific job search tasks and demonstrates consistent timeboxing for the job search multiple times throughout the week 
 
 3 = Meets Expectations: 
 
-2 = Below Expectations
+* Scheduled time details specific job search tasks and demonstrates consistent timeboxing for the job search throughout the week 
+
+2 = Below Expectations:
+
+* Scheduled time does not include specifics on how job search time will be spent and/or does not demonstrate consistent timeboxing for the job search throughout the week
 
 1 = Well Below Expectations:
 
@@ -58,22 +62,32 @@ Your application will be evaluated using the following rubric, and you must reac
 ### Short Answer Responses
 4 = Well Above Expectations: 
 
-3 = Meets Expectations
+* Short answers provide clear and detailed ideas, enthusiasm for job search mentorship, and specific ways that the student will exhibit agency over their job search
 
-2 = Below Expectations
+3 = Meets Expectations:
+
+* Short answers provide clear and detailed ideas and enthusiasm for job search mentorship
+
+2 = Below Expectations:
+
+* Short answers are general or indirect, indicating that the student is unsure of what they want mentoring for or what they want in their job search
 
 1 = Well Below Expectations:
 
-* Short answers are incomplete, do not directly answer the questions, or have not been included in submission
+* Short answers are incomplete, do not answer the questions, or have not been included in submission
 
 ### Alumni Portfolio
 4 = Well Above Expectations: 
 
+* Alumni portfolio has no spelling/grammatical errors, has a personalized, relevant, and authentic professional summary, and incorporates at least 3 projects and/or personal projects that are outside the Turing curriculum
+
 3 = Meets Expectations: 
+
+* Alumni portfolio includes all necessary components, a well-written professional summary, no spelling/grammatical errors, and incorporates relevant feedback
 
 2 = Below Expectations:
 
-* Alumni portfolio is missing 1 component, contains some spelling/grammatical errors, and/or has not incorporated feedback 
+* Alumni portfolio is missing 1 component, contains some spelling/grammatical errors, and/or has not incorporated relevant feedback 
 
 1 = Well Below Expectations:
 
@@ -82,7 +96,7 @@ Your application will be evaluated using the following rubric, and you must reac
 ### Resume
 4 = Well Above Expectations: 
 
-* Resume includes all necessary components, an eye-catching layout, no spelling/grammatical errors, incorporates all relevant feedback from resume review, the resume has been customized so that it stands out, and it includes a personal website link and/or personal projects that have not been required at Turing
+* Resume includes all necessary components, an eye-catching layout, no spelling/grammatical errors, incorporates all relevant feedback from resume review, the resume has been customized so that it stands out, and it includes a personal website link and/or personal projects that are outside the Turing curriculum
 
 3 = Meets Expectations:
 
