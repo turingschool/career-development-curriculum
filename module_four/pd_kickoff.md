@@ -15,6 +15,7 @@ Time: 90 mins
 
 ### Objectives
 
+* Understand the scope and sequence of Module 4 Professional Development and what support looks like this module
 * Decide as a cohort how to make Mod 4 your "peak" module and how to support each other during the job search
 * Discuss and understand options for job search support in Mod 4
 * Provide effective feedback for each other's cover letters
@@ -87,14 +88,12 @@ Break out into groups of 3-4 people and in a group DM, send your cover letter dr
 
 * Partner 1: Critique tone & sentence structure
     * How did you feel about the reader after hearing the letter? What impression did you have of them and why?
-    * What stood out to you from the sentences? What is clear?
     * How many of the sentences start with "I"? Is there variety in the sentences?
-    * What are you confused about/have questions about?
+    * What are you confused about?
 * Partner 2: Critique content
-    * What did you learn about the person who wrote this letter?
     * What do you know about this person's qualifications from what you heard in the letter?
     * How will the applicant contribute to the company?
-    * What are some ways that the applicant could make the answers to previous 3 questions clearer?
+    * What are some ways that the applicant could make these connections stronger?
 * (If applicable) Partner 3: Go through the checklist to make sure nothing's missing
 
 #### Revision Time
