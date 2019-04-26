@@ -14,9 +14,11 @@ Session Structure: 90 mins
 * Share Out/Closing (5 mins)
 
 ### Opening
-Close your eyes for a moment and think back to when you were a young child and you first thought about what you wanted to be when you grow up. Maybe you dreamed of being a doctor, an astronaut, a singer, a professional athlete, a teacher -- what about those dreams were exciting and appealing to you?
+**Turn & Talk:** Last mod, you were asked to write a job description for yourself as a software developer:
+* What are some of the ways you see yourself excelling as a software developer?
+* What excites you most right now about this career?
 
-Today we'll talk about the steps you can take to make sure that you recapture those feelings of excitement and passion in your new career as a software developer. After all, you're making this career transition because you weren't happy in your last job -- let's make sure that your happiness is front and center in your new career. 
+Today we'll talk about the steps you can take to make sure that you continue building those feelings of excitement and passion in your new career as a software developer. After all, you're making this career transition because you weren't happy in your last job -- let's make sure that your happiness is front and center in your new career. 
 
 This relates directly to our mission at Turing as we strive for all students to **succeed in high-fulfillment technical careers.**
 
