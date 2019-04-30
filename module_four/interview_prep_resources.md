@@ -23,7 +23,6 @@ Below you can find lots of resources to help you prepare for both components.
   * [Josh Cass](https://joshcass.youcanbook.me/)
   * [Adrienne Domingus](https://calendly.com/adriennedomingus/) - if you do not see a time that works for you, feel free to reach out to Adrienne on Slack (@adrienne)
   * [Judson Stevens](https://judsonstevens.youcanbook.me)
-  * [Sam Nayrouz](https://sam-nayrouz.youcanbook.me)
   * [Tim Tyrell](https://calendly.com/timomitchel23)
   * [Adrian Lara](https://adrian-lara.youcanbook.me/)
 
