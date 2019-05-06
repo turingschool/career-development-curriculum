@@ -84,6 +84,7 @@ Let’s look at the 3 ego-states from Eric Berne’s [Transactional Analysis](ht
 * What are the relating styles present across our cohorts? 
 * How could we work together successfully?
 * What do we expect each of these different communication styles to look like?
+* How would you describe this person’s ability to communicate?
 
 #### Volunteer Group Activity
 A team is made up of each of the relating styles:
