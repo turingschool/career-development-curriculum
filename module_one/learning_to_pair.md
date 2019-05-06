@@ -77,8 +77,13 @@ Let’s look at the 3 ego-states from Eric Berne’s [Transactional Analysis](ht
   * Pairin: Responsibility
 * Child: Our felt concept of life; shown through how easily we can adapt to new situations or desire to rebel & exercise freedom
   * Pairin: Approval Seeking or Playfulness
+  
+[This blog post](https://medium.com/@NataliMorad/how-to-communicate-better-with-transactional-analysis-d0d32f9d50da) gives an excellent breakdown of these different ego-states in action. 
 
-**Discussion:** what are the relating styles present across our cohorts? How could we work together successfully?
+**Discussion:** 
+* What are the relating styles present across our cohorts? 
+* How could we work together successfully?
+* What do we expect each of these different communication styles to look like?
 
 #### Volunteer Group Activity
 A team is made up of each of the relating styles:
