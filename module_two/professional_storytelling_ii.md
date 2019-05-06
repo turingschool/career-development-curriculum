@@ -6,49 +6,91 @@
 
 ### Session Structure
 
-UPDATE: Include story elements and narrative arc intro; make connection from Storytelling I + Flower Exercise
-
 Length: 60 mins
 
-* Opening/Hook: 5 mins
-* Discuss storytelling: 20 mins
+* Opening/Why: 5 mins
+* Turn & Talk: 5 mins
+* Discussion of storytelling components and examples: 20 mins
 * Individual Practice: 10-15 mins
-* Feedback Groups: 15-20 mins
+* Feedback Groups: 15 mins
 * Closing: 5 mins
 
 ### Objectives
-* Understand the purpose of a professional story -- *and what it shouldn't include*
+* Understand the value and purpose of storytelling in both professional and personal relationship-building contexts
 * Explore examples of effective professional stories
-* Revise and refine your professional story and how you tell it 
-* Provide feedback on your classmates' stories and incorporate their feedback into improving your own
+* Reflect on and share what brought you to Turing and how you uniquely add to the software industry
+* Practice sharing stories to better understand each other and build our storytelling skillset 
 
 ### Deliverable
 * Submit a draft of your professional story via [this survey](https://goo.gl/forms/nfu0g8MnoyKXjfnp1) by **9am on Monday of Week 3.**
 
 ### The Why/Hook
-In Module One, we dove into exploring who we are through discussions of:
-* Our working styles -- where we fall on the introversion/extroversion spectrum
+We've been focusing on building awareness of:
+
 * Our strengths
-* The lenses and identities through which we see the world
+* Our values
+* Our identities
+* Our passions
+* Our goals in this career
 
-In this session, we'll continue to build on this self-awareness to lend to our professional stories. From your professional story, we'll craft your resume, your Turing portfolio, update your LinkedIn, inspire others through blog posts, personal websites, projects, and more.   
+Today, we'll take that information to craft a **compelling story** that describes who you are, how you came to this industry, and where you see yourself going. This is a story that you'll tell employers, colleagues at networking events, and even your Turing community in order to find the right match for your future career.
 
-We are all inherent storytellers, and the aim of today's session is to expand on your professional story and turn it into a compelling narrative. 
+From your professional story, we'll craft your resume, your Turing portfolio, update your LinkedIn, inspire others through blog posts, personal websites, projects, and more.   
 
-### Telling Your Story
-Our lives are made up of stories -- they are how we make sense of our experiences. Stories define who we are. The same is true with your professional story. Telling the story of your professional transition into software development helps others understand your motives, character, and capacity to reach the goals that you've set for yourself. In short, your story makes others believe in you.
+### Elements of a Story
+We are all inherent storytellers. Stories are how we connect with each other. From fairy tales to novels to movies to podcasts, stories provide a way for people to share their experiences with others, building empathy and awareness of our universal experiences.
+
+Storytelling is our first step in the job search at Turing. You are a member of the software industry now, and as you start connecting with others in the industry, you need to be able to tell the story of your transition -- how did you get here? How do you uniquely make up a part of this industry? 
+
+Let's start by thinking about stories. What do you love about stories? Emma Coats, a former story artist for Pixar, published [this post](http://storyshots.tumblr.com/post/25032057278/22-storybasics-ive-picked-up-in-my-time-at-pixar) with her 22 rules for storytelling. We're going to start with rule #10:
+
+    Pull apart the stories you like. What you like in them is a part of you; 
+    you’ve got to recognize it before you can use it.
+
+**Turn & Talk:**
+
+What stories stick with you and why? Think of a story that you love; maybe it's a story from childhood, maybe it's a book you just finished reading, or maybe it's a story that has been passed down through your family. Turn to the person next to you and take 2 minutes to retell that story, and then switch.
+
+**Whole Group Debrief:**
+
+Sharing from 1-2 people:
+
+* What key details do you remember from your partner's story?
+* How did your partner tell the story? 
+* What made the story interesting?
+
+This brings us to the elements that make up a good story -- what are they?
+
+Possible answers: consistent theme, protagonist who faces and overcomes challenges, a journey of some kind, sequential plot that shows a beginning, middle, and end.
+
+When it comes to character, what does it mean to be the hero of the story? What are the typical characteristics of a hero? 
+
+**More Lessons from Pixar (and Joseph Campbell):**
+Most stories follow the 3-Act Arc:
+* Act I (Set-Up)
+   * Call to adventure and accepts
+   * Rules of the world are established
+   * Inciting Incident
+* Act II (Struggle)
+   * Looking for ways to solve the problem
+   * Learning what it will take to actually solve problem
+   * Crisis/“Lowest of the low”
+* Act III (Finale)
+   * Show what’s been learned
+   * Protagonist is changed
+
+**Connection to You:**
+These elements are present in your story as well. You are the main character, the hero, undergoing challenges, experiencing a journey, and revealing the narrative thread through your own theme.
 
 **Disclaimer:** When we say story, this is not something that has been made up or embellished in any way. People can tell when you're not being truthful. Rather, this is about how to make a true account of a career trajectory engaging and inspiring. 
 
-These three questions are the basis of telling your story:  
-
+There are 3 main questions to help us understand our own stories and our character arcs:
 * **Who are you?** *(as a developer, a teammate, a worker, a career changer)*
 * **Why are you here?** *(Why software development? Why now? Consider both your background but also what drives you to be in this field)*
 * **What's next?** *(Where do you see yourself going in this career?)* 
 
-**Review as whole group:** What elements make a compelling story?
-
-Examples: something's at stake, relatable protagonist, overcoming obstacles, turning points, a satisfying ending.
+### What is a *Professional* Story?
+Telling the story of your professional transition into software development helps others understand your motives, character, and capacity to reach the goals that you've set for yourself. In short, your story makes others believe in you.
 
 Your story is one of **transition.** These stories are inherently interesting as they have all the elements of a classic story, and most importantly, they have the important elements of change, conflict, and tension around the transition. Where are you going? What will happen next? It's so exciting for the listener! But it also depends on how you tell that story. Let's look at some examples... 
 
