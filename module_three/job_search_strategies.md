@@ -139,7 +139,7 @@ In addition to finding the right posting, remember that the next step is to find
    * Tips: Search for groups local to the area you’re interested in working and in topics that you're interested in pursuing (i.e. Ruby, JavaScript, etc.). Be sure to select "Groups" (not "Calendar"). On the group page, there are two things that will be very useful to your job search:
       * Organizers list: who are they? Where do they work? What other meetups are they active in?
       * Upcoming events: look at the RSVP list; Who else is going? What companies do they work for? 
-* [BeVisible](https://www.bevisible.soy/) is a career network for Latinxs.
+* [BeVisible](https://www.bevisible.soy/) is a career network for Latinx.
 * [Black Data Processing Associates](https://www.bdpa.org/default.aspx) is an international organization for Black professionals in tech. 
 * [CodeNewbie](https://www.codenewbie.org/) is a community for newcomers to code.
 * [Diversify Tech](https://www.diversifytech.co/) is a community built to share upcoming conference scholarships, events, education scholarships, job opportunities, and more for people who are underrepresented in tech. 
