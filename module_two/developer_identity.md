@@ -56,25 +56,27 @@ Why is this important? According to the online reputation management consultantc
 * 23% of US adults have looked up a coworker. 
 
 ### LinkedIn
-If you don't already have a LinkedIn profile, now is time to set one up [here](https://www.linkedin.com/). As we look at LinkedIn today, we'll talk about how you can passively use it for your job search -- how do people find you? How do they know who you are? It all has to do with how you tell your stories and the particular keywords that you're using.
+LinkedIn is specifically set up to utilize algorithms and context to help employers find potential candidates and vice versa. As we look at LinkedIn today, we'll talk about how you can passively use it for your job search -- how do people find you? How do they know who you are? It all has to do with how you tell your stories and the particular keywords that you're using. If you don't already have a LinkedIn profile, now is time to set one up [here](https://www.linkedin.com/). 
 
-#### Dissecting the Profile:
-**Headline:** 
-
-* This is what you want to be known for. What do you want your brand to be? What keywords do you want to be associated with? When recruiters do a search, what words do you want to lead to you? Use what you do to brand yourself
-	* ...which is not necessarily the same as your working title although it can be
-	* Consider "Software Developer Student," "Back End Engineering Student," or "Front End Engineering Student"
-	* You can combine your past experiences with new skills like "Software Developer \| Former Educator"
-	* Examples:
-		* [Allison Reu Singer](https://www.linkedin.com/in/allisonreusinger/)
-
+#### Dissecting the Profile
 **First Look:**
-When a recruiter or potential employer clicks on your profile, they see 4 initial things:
+The top of your profile is an opportunity to make a great first impression. When a recruiter or potential employer clicks on your profile, they see 4 initial things:
 
 * **Your picture:** Headshot of just you and the same photo across your multiple profiles
 * **Your title:** See above
 * **Your location:** Where do you want to be? If you want to work in San Francisco, list San Francisco
 * **The first few sentences of your summary:** This is why it's so important. Make those first 100 words stand out. 
+
+**Headline:** 
+
+* This is your elevator pitch of your story.
+   * What do you want your brand to be? 
+   * When recruiters do a search, what keywords do you want to lead to you? 
+	* Not necessarily the same as your working title although it can be
+	* Consider "Software Developer Student," "Back End Engineering Student," or "Front End Engineering Student"
+	* You can combine your past experiences with new skills like "Software Developer \| Former Educator"
+	* Consider adding in languages/frameworks you specialize in 
+   * Any keywords here should be consistently displayed throughout your profile
 
 **Summary:** 
 This is the story that you're telling: who you are (as a developer, worker, teammate, individual, etc.), how you got here (why software development, why now), what's next (what are your longterm career goals/ambitions). Your story is one of the few places in the profile where you can introduce yourself as a whole person and should be told from a high level.
@@ -117,19 +119,10 @@ If your name is taken, use your middle name, etc. but it should be consistent ac
 Below your summary, on your personal dashboard, there is an option to update your career interests to let recruiters know if you're actively, passively, or not looking for opportunities. You can update this if you'd like to let recruiters know more specifically about your interests. Be warned -- you may open yourself up to lots of contacts if you click it on, and they may not always be helpful. But this would also increase your conversations with recruiters, which at the very least could be a good learning opportunity. 
 
 #### Add Connections
-Start with a network of at least 50 connections (but always aim for 500+ quality connections). Don't forget to add Turing staff:
-
-| [Jeff Casimir](https://www.linkedin.com/in/jcasimir/)                   | [Allison Reu Singer](https://www.linkedin.com/in/allisonreusinger/)        | [Ellen Mary Hickmann](https://www.linkedin.com/in/emhickmann/)           |
-| [Courtney Haynes](https://www.linkedin.com/in/courtney-haynes-5154a24/) | [Sal Espinosa](https://www.linkedin.com/in/salespinosa/)                   | [Louisa Barrett](https://www.linkedin.com/in/louisabarrett/)             |
-| [Kayt Hensley](https://www.linkedin.com/in/klhensley/)                  | [Sarah Schnall](https://www.linkedin.com/in/sarah-schnall-799338b4/)       | [Joanne Liu](https://www.linkedin.com/in/joannemwliu/)                   |
-| [Amy Holt](https://www.linkedin.com/in/amyelizabethholt/)               | [Cory Westerfield](https://www.linkedin.com/in/corywesterfield/)           | [Leta Keane](https://www.linkedin.com/in/letakeane/)                     |
-| [Will Mitchell](https://www.linkedin.com/in/wvmitchell/)                | [Josh Mejia](https://www.linkedin.com/in/joshmejia/)                       | [Mike Dao](https://www.linkedin.com/in/michaeldao/)                      |
-| [Christie Lynham](https://www.linkedin.com/in/christie-lynam/)          | [David Whitaker](https://www.linkedin.com/in/david-whitaker/)              | [Robbie Jaeger](https://www.linkedin.com/in/robertjaeger0/)              |
-| [Brittany Storoz](https://www.linkedin.com/in/brittanystoroz/)          | [Pam Lovett](https://www.linkedin.com/in/thatpamiam/)                      | [Ian Douglas](https://www.linkedin.com/in/iandouglas736/)                |
-| [Dione Wilson](https://www.linkedin.com/in/dionewilson/)                | [Brian Zanti](https://www.linkedin.com/in/brian-zanti-ba906057/)           | [Megan McMahon](https://www.linkedin.com/in/meganemcmahon1/)             |
-| [Travis Rollins](https://www.linkedin.com/in/travisrollins/)            | [Khalid Williams](https://www.linkedin.com/in/khalidwilliams27/)           | [Katelyn Kasperowicz](https://www.linkedin.com/in/katelynkasperowicz/)   |
-| [Lindsey Lucero](https://www.linkedin.com/in/lindslucero/)              | [Erin Williams](https://www.linkedin.com/in/erin-neill-williams-793696a8/) | [Rachel Martinez](https://www.linkedin.com/in/rachel-martinez-16693956/) || [Rachel Warbelow](https://www.linkedin.com/in/rwarbelow/)               |                                                    
-
+Your network & their relevance to the job you want DO matter -- start connecting with peers in the industry!
+* Aim for at least 100 connections
+* Quality over quantity 
+* When adding Turing staff/alumni, please include an introductory message.                                          
 * Engage with your connections by liking, commenting on, and/or sharing their updates.
 * As you continue to grow in your development at Turing, share your own updates, whether they be blog posts or links to projects.
 
