@@ -52,7 +52,7 @@ Congratulations! You've graduated! As you embark on your job search, here is an 
 * [People of Color in Tech](https://www.pocitjobs.com/) is a job site specifically for People of Color in tech.
 * [reacHire](http://www.reachire.com/women/jobs) is a job site specifically for connecting women with companies that value inclusion. 
 * [Power to Fly](https://powertofly.com/jobs/) is a job site specifically for women.
-* [Find My Flock](https://www.findmyflock.com/) is a job site built specifically for underrepresented groups in tech.
+* [Diversify Tech](https://www.diversifytech.co/) is a job site built specifically for underrepresented groups in tech.
 * [Owler](https://www.owler.com/) is a great way to conduct research on different companies.
 * [Listing of Colorado Tech Companies](https://bizwest.com/colorado-tech-2017/?member=guest)
     * Tips:
@@ -101,6 +101,19 @@ Congratulations! You've graduated! As you embark on your job search, here is an 
    * End the conversation by asking, "who else from your network could you introduce me to?"
 
 For more, check out the [Mod 5 Outreach & Networking Refresh Markdown](https://github.com/turingschool/career-development-curriculum/blob/master/module-5/outreach_networking_refresh.md)
+
+### Networking Groups for Underrepresented People in Tech
+* [BeVisible](https://www.bevisible.soy/) is a career network for Latinxs.
+* [Black Data Processing Associates](https://www.bdpa.org/default.aspx) is an international organization for Black professionals in tech. 
+* [CodeNewbie](https://www.codenewbie.org/) is a community for newcomers to code.
+* [Diversify Tech](https://www.diversifytech.co/) is a community built to share upcoming conference scholarships, events, education scholarships, job opportunities, and more for people who are underrepresented in tech. 
+* [Lesbians Who Tech](https://lesbianswhotech.org/) is a career network for lesbians. 
+* [MAES](http://mymaes.org/) was founded in Los Angeles in 1974 to increase the number of Mexican Americans and other Hispanics in the technical and scientific fields. 
+* [National Society of Black Engineers](http://www.nsbe.org/home.aspx) is one of the largest student-governed organizations with the aim to increase the number of culturally responsible Black Engineers.
+* [Out in Tech](https://outintech.com/#welcome) is a community to connect LGBTQ+ in tech. 
+* [TechLatino](http://techlatino.org/) is an organization to empower Latino technological and scientific engagement.
+* [Tech Ladies](https://www.hiretechladies.com/) is a community for women and non-binary folks. You have to apply to join, but once accepted, you'll have access to jobs from partnering companies.
+* [Trans Tech Social Enterprises](https://www.transtechsocial.org/) is an incubator for LGBTQ Talent with a focus on economically empowering transgender people. 
 
 ## Interview Prep <a name="interview-prep"></a>
 
