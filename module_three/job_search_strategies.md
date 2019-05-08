@@ -116,7 +116,7 @@ In order to find job postings and begin conducting research, here are some tools
 * [People of Color in Tech](https://www.pocitjobs.com/) is a job site specifically for People of Color in tech.
 * [reacHire](http://www.reachire.com/women/jobs) is a job site specifically for connecting women with companies that value inclusion. 
 * [Power to Fly](https://powertofly.com/jobs/) is a job site specifically for women.
-* [Find My Flock](https://www.findmyflock.com/) is a job site built specifically for underrepresented groups in tech.
+* [Diversify Tech](https://www.diversifytech.co/) is a job site built specifically for underrepresented groups in tech.
 * [Owler](https://www.owler.com/) is a great way to conduct research on different companies.
 * [Listing of Colorado Tech Companies](https://bizwest.com/colorado-tech-2017/?member=guest)
     * Tips:
@@ -142,6 +142,7 @@ In addition to finding the right posting, remember that the next step is to find
 * [BeVisible](https://www.bevisible.soy/) is a career network for Latinxs.
 * [Black Data Processing Associates](https://www.bdpa.org/default.aspx) is an international organization for Black professionals in tech. 
 * [CodeNewbie](https://www.codenewbie.org/) is a community for newcomers to code.
+* [Diversify Tech](https://www.diversifytech.co/) is a community built to share upcoming conference scholarships, events, education scholarships, job opportunities, and more for people who are underrepresented in tech. 
 * [Lesbians Who Tech](https://lesbianswhotech.org/) is a career network for lesbians. 
 * [MAES](http://mymaes.org/) was founded in Los Angeles in 1974 to increase the number of Mexican Americans and other Hispanics in the technical and scientific fields. 
 * [National Society of Black Engineers](http://www.nsbe.org/home.aspx) is one of the largest student-governed organizations with the aim to increase the number of culturally responsible Black Engineers.
@@ -160,7 +161,7 @@ In addition to finding the right posting, remember that the next step is to find
 **Debrief:** Discuss whole group takeaways and questions
 
 ### Demo: Group Practice
-As a whole group, we'll find a job listing to go through. Using this job listing, I'm going to update my Trello and create a plan for outreach using the guidelines we discussed last module in the [Outreach & Networking Session](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/outreach_and_networking.md):
+As a whole group, we'll find a job listing to go through. Using this job listing, I'm going to update my Huntr and create a plan for outreach using the guidelines we discussed last module in the [Outreach & Networking Session](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/outreach_and_networking.md):
 
 * Update my contacts -- how do I find contact information?
 * Craft my email -- what should I say? 
