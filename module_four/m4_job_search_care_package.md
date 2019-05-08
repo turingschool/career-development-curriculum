@@ -103,7 +103,7 @@ Congratulations! You've graduated! As you embark on your job search, here is an 
 For more, check out the [Mod 5 Outreach & Networking Refresh Markdown](https://github.com/turingschool/career-development-curriculum/blob/master/module-5/outreach_networking_refresh.md)
 
 ### Networking Groups for Underrepresented People in Tech
-* [BeVisible](https://www.bevisible.soy/) is a career network for Latinxs.
+* [BeVisible](https://www.bevisible.soy/) is a career network for Latinx.
 * [Black Data Processing Associates](https://www.bdpa.org/default.aspx) is an international organization for Black professionals in tech. 
 * [CodeNewbie](https://www.codenewbie.org/) is a community for newcomers to code.
 * [Diversify Tech](https://www.diversifytech.co/) is a community built to share upcoming conference scholarships, events, education scholarships, job opportunities, and more for people who are underrepresented in tech. 
