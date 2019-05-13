@@ -40,8 +40,14 @@ Step 3: Please respond to the following questions in a reflection (4-6 sentences
    * How do you hope to maximize your strengths for your new career in software development?
    * How might knowing about your strengths and working preferences benefit you as a software developer? 
  
-**Please put your reflections in your PD pre-work gist that you'll submit in the survey [here](https://sites.google.com/casimircreative.com/enrollment/mod-0-capstone-fka-pre-work?authuser=0)**
+**Capstone submission directions:**
+In a gist, please:
+1. Include a screenshot of your Pairin top 4 results by following [these directions](https://gist.github.com/kannankumar/4c613cac6d9db896062a16e1cc57d3e5)
+2. Include your responses to the questions in Step 3.
+
+Submit your gist in the survey [here](https://sites.google.com/casimircreative.com/enrollment/mod-0-capstone-fka-pre-work?authuser=0)**
  
 Optional further reading:
+   * [How the Pairin Survey compares to other assessments](https://github.com/turingschool/career-development-curriculum/blob/master/files/Survey%20Comparisons.pdf)
    * [How to Hire Like Google & Facebook](https://www.forbes.com/sites/ashoka/2014/04/15/how-to-hire-like-google-and-facebook-evaluating-candidates-beyond-their-technical-ability/#64c08fc513bf): (5 minute read)
    * [Four Essentials of Strengths-Based Leadership](http://www.forbes.com/sites/ekaterinawalter/2013/08/27/four-essentials-of-strength-based-leadership/#76b62a91fa21): (6 minute read)
