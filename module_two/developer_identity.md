@@ -97,15 +97,15 @@ Tips for an effective summary:
    * “Along with my experience in client-side development, I have been learning and working with Node, Express, Knex, PostgreSQL and RESTful API creation to fill out my server-side experience.”
 	
 **Work Experience:** 
-As you list your past experiences, your accompanying description should not be bullet points. Why? It doesn't read as well on LinkedIn and interferes with keyword searches. LinkedIn is also built out to be a *storytelling platform*, so use it that way. Write in complete sentences and paragraphs. Think about how you read across a computer screen. You want your profile to be easy to scan since recruiters only have so much time to look at them
+As you list your past experiences, your accompanying description should not be bullet points. Why? It doesn't read as well on LinkedIn and interferes with keyword searches. LinkedIn is also built out to be a *storytelling platform*, so use it that way. Write in complete sentences and paragraphs. Think about how you read across a computer screen. You want your profile to be easy to scan since recruiters only have so much time to look at them.
 
-These descriptions should be:
-
-* Short
-* Value-driven rather than task-driven. What value did you bring to this company? Tasks don't matter as much to recruiters or employers looking at your profile
-* Linked to the name of the company. 
-	* You should list Turing under experience but clearly state that you're a student at Turing because you don't want to mislead anyone as this could lead to being dismissed from an interview process. Edit your title to "Software Developer Student," "Back End Engineering Student," or "Front End Engineering Student"
-	* Describe your experience while at Turing -- what technologies are you learning?
+* Focus on applicable and transferable skills; Again, consider keyword searches
+* Instead of listing tasks, discuss value of your past work. 
+   * What value did you bring to this company? 
+* Link to the name of the company
+   * List Turing under experience but clearly state that you're a student
+   * Edit your title to "Software Developer Student," "Back End Engineering Student," or "Front End Engineering Student"
+   * Describe your experience while at Turing; list technologies and value you’ve created through your project work
 
 **Education:**
 Under education, make sure to include Turing again as this ties you to the [Turing alumni page](https://www.linkedin.com/school/3805597/alumni), which allows our Turing network to grow so that future students can seek out where alumni work just like you are
