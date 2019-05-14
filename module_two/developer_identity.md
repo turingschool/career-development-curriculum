@@ -83,10 +83,18 @@ This is the story that you're telling: who you are (as a developer, worker, team
 
 Tips for an effective summary:
 
-* Keep it to short paragraphs, 2-3 sentences per paragraph
+* Keep it to 2-3 short paragraphs, 2-3 sentences per paragraph
 * Write it in first person
 * Provide a call to action -- what do you want people to do when they see your profile? Do you want them to look at your code, website, email you? 
 	* Put your email address right there in the summary. Once you get a job, you can take it out, but don't create any blockers right now
+	
+#### Examples: What can a LinkedIn summary look like?
+* Merge your past experience with your new career path:
+   * “Combining marketing experience with a love for data, I’m a software developer looking to…”
+* What are your motives?
+   * “My love for helping people led me to develop apps that focus on the user experience…” 
+* What do you enjoy working with? Mention your specialities (aka keywords):
+   * “Along with my experience in client-side development, I have been learning and working with Node, Express, Knex, PostgreSQL and RESTful API creation to fill out my server-side experience.”
 	
 **Work Experience:** 
 As you list your past experiences, your accompanying description should not be bullet points. Why? It doesn't read as well on LinkedIn and interferes with keyword searches. LinkedIn is also built out to be a *storytelling platform*, so use it that way. Write in complete sentences and paragraphs. Think about how you read across a computer screen. You want your profile to be easy to scan since recruiters only have so much time to look at them
