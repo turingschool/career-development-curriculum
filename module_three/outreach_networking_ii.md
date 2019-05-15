@@ -6,15 +6,15 @@ Timing: 60 minutes
 
 * Opening: 5 mins
 * Review & Strategy: 10 mins
-* Group Practice: 20 mins
-* Whole Group Debrief: 7 mins
-* Work Time: 15 mins
-* Next Steps & Closing: 3 mins
+* Whole Group Practice: 20 mins
+* Debrief: 5 mins
+* Partner Work Time: 15 mins
+* Next Steps & Closing: 5 mins
 
 #### Objectives
-* Understand the purpose of outreach within your job search 
-* Utilize an outreach strategy
-* Identify how you will move forward with at least one contact
+* Understand the role of outreach within your job search 
+* Review and execute outreach strategies
+* Identify how you will move forward with at least one contact for your own job search
 
 ### Opening
 Last mod, we discussed utilizing outreach for research to use in your job search by setting up meetings with warm outreach contacts. Now we'll start to discuss how to use the same outreach principles and apply them to reaching out to people at the companies with open positions that you want. 
@@ -24,11 +24,7 @@ Last mod, we discussed utilizing outreach for research to use in your job search
 * Who didn't? Why not -- what held you back?
 
 ### Review
-Our strategy for this again is to define:
-
-* The Why
-* The Who
-* The What
+What is our strategy for job searching? When we find a position want to apply for, we also need to find someone to reach out to.
 
 #### The Why
 Now that you're researching companies and positions, why reach out to someone from that company?
@@ -85,19 +81,23 @@ Whenever possible, find your contact's email (or use Slack if they're in the Tur
   * GitHub
   * Personal website 
 
-### Group Practice
-Get into groups of 2-3 people, and as a group:
+### Whole Group Practice
+Let's have 2 volunteers to walk us through this process:
 
-1. Brainstorm a list of 2 dream companies.
-2. Find 2 people at each company to reach out to. 
-3. Pick 1 person to conduct research on as a group.
-4. Find their email address (hint: use one of the tools listed above)
-5. Draft an email as a group.
-
-We'll share out the work you've completed after 20 minutes.
+* Find a posting.
+* Find 1 person at the company to reach out to. 
+* How can we do research on them? What do we say in the message? 
+* How do we contact them?
 
 #### Whole Group Debrief
-2-3 groups share out their company, contact, what they've found about them, how they found their email address, and what they would say in an email to them.
+* What should you keep in mind when executing outreach tied to a job posting?
+
+### Partner Practice
+With a partner, using 1 position you posted to your Huntr board last week:
+
+* Find and research a contact
+* Find their contact information
+* Draft a message to them
 
 ### Follow-Through: Coffee Meetings
 * Prep your story
