@@ -65,8 +65,8 @@ In groups, discuss these cover letters as though you're a hiring manager:
 * What is effective? What value could they bring to the company? How do you know?
 * What could be changed to make the letter more effective?
 
-Matthew Foxwell
-April Dagonese
+* [Matthew Foxwell](
+* [April Dagonese](https://github.com/turingschool/career-development-curriculum/blob/master/files/April%20Cover%20Letter.pdf)
 * [Abdulla Qudrat](https://github.com/turingschool/career-development-curriculum/blob/master/files/Abdulla_Blinker%20Cover%20Letter.pdf)
 * [Tommasina Miller](https://github.com/turingschool/career-development-curriculum/blob/master/files/Example%20Cover%20Letter.pdf)
 
