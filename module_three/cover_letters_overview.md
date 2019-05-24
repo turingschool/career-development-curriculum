@@ -7,8 +7,8 @@
 Timeline: 90 mins
 
 * Opening (5 mins)
-* Dissecting cover letters & example (15 mins)
-* Turn & Talk (10 mins)
+* Dissecting cover letters (10 mins)
+* Group Discussion (15 mins)
 * We Do (15 mins)
 * Workshop: You Do (15 mins)
 * Round of feedback (10 mins)
@@ -30,30 +30,45 @@ In this session, participants will be able to:
 ### Do's & Don't's of a Cover Letter
 **Whole Group Discussion:** What is the purpose of a cover letter?
 
-With a cover letter, you are:
+In a cover letter, you should: 
 
-* Introducing yourself
-* Creating a connection between you and the job/company
-* Providing insight into how you would do this work
+* Demonstrate an understanding of the company
+* Introduce yourself...by talking about them
+   * What is it that you do that could contribute to what the company does?
+   * How would you provide value?
+* Create a connection between you and the company
+   * What can we do together?
+   * It’s not about what you can *get*; it’s about what you can *give*
 
 Here are some things to keep in mind when writing a cover letter:
 
-* Keep your cover letters to 1 page. 2-3 paragraphs is standard. 
-* Here are some suggested ways to structure the letter:
-  * Paragraph #1: Introduce yourself -- *briefly.*
-      * Explain why you are applying for the position and include some research into the company
-      * Give a brief version of your professional story; why does this company and this position specifically fit into your next step in your career?
-      * Consider including a **hook** to connect to the reader and give a sense of your personality
-      * If you have any connection at the company, mention them here
-  * Paragraph #2: Highlight your skills specific to the job posting
-      * This is *not* a rehashing of your resume. Rather, what do you want the reader to notice about your resume? What extra detail can you provide here?
-      * Go more in-depth about a certain project or discuss an example of how you've done similar work to what the company is looking for
-  * Paragraph #3: Connect the first two paragraphs by talking about how you are the best fit to build *value* for the company
-      * This letter is about helping the company see how you uniquely will help them meet their goals. Paint that picture for them. Emphasize how you will not only flourish in this role but you also have the drive and ability to keep growing professionally, take on more responsibility, and benefit the company in ways beyond the initial position for which you're applying.
-      * How can you apply your background and skills to make great experiences for the company's users/customers? What can you leave them with that will make them want to contact you?
-      * Include information about your availability for interviews and/or references if applicable
-      
-That being said, this template is more like an outline to keep in mind when structuring your thoughts. **The most important thing is that the cover letter has your unique voice and does not come across like a generic copy.** 
+* There are multiple ways to write an effective cover letter
+* The important part is that it’s customized to the company each time
+* General rules to follow:
+   * Any time you mention yourself connect it explicitly to the job/company
+   * Keep it concise (no more than a page; half a page is ideal)
+   * If you’ve met someone at the company, drop their name!
+   * State the position you’re applying for in the first line
+   
+### How to Incorporate Your Story: The Elevator Pitch
+* Merging my background in X and Y, I help (industry) improve (outcomes).
+   * “Merging my background in entrepreneurship and graphic design, I help technology companies improve user engagement and retention with UX Design.”
+
+* Break into parts:
+1. Here’s what I did in the previous phase of my career + What I learned…
+2. And here’s what I can do for you based on what I’ve learned...
+   
+### Examples
+In groups, discuss these cover letters as though you're a hiring manager:
+
+* What do you notice about these cover letters?
+* What is effective? What value could they bring to the company? How do you know?
+* What could be changed to make the letter more effective?
+
+Matthew Foxwell
+April Dagonese
+* [Abdulla Qudrat](https://github.com/turingschool/career-development-curriculum/blob/master/files/Abdulla_Blinker%20Cover%20Letter.pdf)
+* [Tommasina Miller](https://github.com/turingschool/career-development-curriculum/blob/master/files/Example%20Cover%20Letter.pdf)
 
 #### Frequently Made Mistakes in Cover Letters
 
@@ -65,18 +80,6 @@ That being said, this template is more like an outline to keep in mind when stru
 
 To ensure you're hitting the right points, you can use this [Cover Letter Checklist](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/cover_letter_checklist.md)
 
-#### Examples
-Let's discuss as a group:
-* [Abdulla Qudrat](https://github.com/turingschool/career-development-curriculum/blob/master/files/Abdulla_Blinker%20Cover%20Letter.pdf)
-
-Turn & Talk to discuss these other 2 examples:
-* [John Roemer](https://github.com/turingschool/career-development-curriculum/blob/master/files/JohnRoemerNordstromCoverLetter.pdf)
-* [Tommasina Miller](https://github.com/turingschool/career-development-curriculum/blob/master/files/Example%20Cover%20Letter.pdf)
-
-* What do you notice about this cover letter? 
-* What story are they telling?
-* What value does this person bring to this company? How do you know? 
-
 ### We Do
 As a whole group, let's look at a job posting and decide what we'd put in a cover letter for it. We'll discuss:
 
@@ -86,7 +89,13 @@ As a whole group, let's look at a job posting and decide what we'd put in a cove
 * How can we use our professional story here?
 
 ### Workshop Time
-Form groups of 2-3 people in your program and draft out a cover letter for the position picked for your program. 
+Form groups of 2-3 people in your program and draft out a cover letter for a position you find as a group.
+
+Remember:
+
+* Use research
+* Create relevant connections
+* How will you provide value? 
 
 ### Round of Feedback: Pair & Share
 Team up with a group not in your program to share your cover letters and give each other feedback. Feedback should be **specific, actionable, and kind** and include both **appreciation and coaching.** 
