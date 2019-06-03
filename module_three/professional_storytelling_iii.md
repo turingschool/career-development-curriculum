@@ -158,7 +158,7 @@ As you update your resume, check on what updates you need to make to your Linked
 * Your own coded resume
 
 ### Turing Portfolio
-As you fill out your [Turing portfolio](https://www.turing.io/alumni), think about how you want to present yourself. 
+As you fill out your [Turing portfolio](https://alumni.turing.io), think about how you want to present yourself. 
 
 Here are the must haves:
 * Professional photo
