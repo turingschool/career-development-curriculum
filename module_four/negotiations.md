@@ -6,13 +6,13 @@ For some reason we live in a world that is afraid to talk openly about money. Th
 [Slides for this session](https://docs.google.com/presentation/d/1UBHC5M0KQ712bUN8aeCfqKI7ti-Q_FajxSSJB5_5sDo/edit?usp=sharing)
 
 ### Session Structure
-Time: 90 mins
+Time: 60 mins
 
-* Opening: objectives, recap of external review, turn & talk (10 mins)
+* Opening: objectives, turn & talk (5 mins)
 * Ins & Outs of Negotations (20 mins)
 * Offer Discussion & Demo (5 mins)
-* Other Parts of the Offer (30)
-* You Do: Group Discussions (20 mins)
+* Other Parts of the Offer (15 mins)
+* You Do: Group Discussions (10 mins)
 * Debrief & Closing (5 mins)
 
 ### Objectives 
