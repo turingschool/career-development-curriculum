@@ -16,7 +16,7 @@ Length: 80-85 mins
 * Intro to Strengths & Values Discussion (15 mins)
 * Strengths & Values Activity (9 mins)
 * Small Group Discussions (10 mins)
-* Closing: Complete Exit Ticket (5 mins)
+* Closing: Debrief (5 mins)
 
 ### Opening Activity
 In your journal, draw a line down the page. On the left side, write down all your strengths. On the right side, write down all the strengths/qualities of a software developer. Circle or put a star next to the ones that overlap.
@@ -136,11 +136,9 @@ Form groups of 3-4 people to discuss the following questions:
 * Why did you come to Turing?
 * What helps you overcome challenges at Turing? 
 * Knowing your values, what kind of software developer do you believe you'll become?
+* As a group, come up with a 
 
 ### Whole Group Debrief/Synthesis
 Share out:
 * How does what we've talked about today relate to your new career as a software developer? What did you learn about yourself?
 * Go back to the activity we did at the beginning of the session; as you look back over the two lists that you made, what do you notice?
-
-### Closing Activity: Exit Ticket
-Using what you've learned about yourself today, write a job description for a software developer with yourself, emphasizing your strengths, values, and social identity as inspiration. Submit this job description [here](https://forms.gle/4DLRvyJTuunxspon8) by the end the day.
