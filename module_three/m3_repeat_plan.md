@@ -17,10 +17,11 @@ You **are not required** to attend professional development sessions *that you h
 
    * [Professional Storytelling III](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/professional_storytelling_iii.md) 
    * [Job Search Strategies](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/job_search_strategies.md)
+   * [Outreach & Networking II](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/outreach_networking_ii.md)
    * [Resume Review Workshop](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/m3_resume_review.md)
    * [Cover Letters Overview](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/cover_letters_overview.md)
 
-You **are required** to attend all Gear Up sessions and the [Outreach & Networking II](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/outreach_networking_ii.md) session taking place in Week 3 as it is a new session.  
+You **are required** to attend all Gear Up sessions.
     
 ### Deliverables
 * You **are required** to:
