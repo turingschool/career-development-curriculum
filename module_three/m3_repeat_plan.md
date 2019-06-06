@@ -31,7 +31,7 @@ You **are required** to attend all Gear Up sessions.
 
 * Options for additional deliverables (choose **at least 2** that you will complete during the module):
    * Complete a mock technical interview with one of the mentors listed [here](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/interview_prep_resources.md)
-   * Complete a second mock behavioral interview with Allison or Kayt by signing up on the spreadsheet in your cohort channel
+   * Complete a second mock behavioral interview by signing up on the spreadsheet in your cohort channel
    * Participate in resume review workshop by bringing a resume tailored to a specific position OR bring a cover letter draft for that position
    * Attend a Meetup -- be specific on which meetup in your plan below
    * Initiate cold outreach with a new contact and set up a coffee meeting with them
