@@ -39,6 +39,7 @@ Below you can find lots of resources to help you prepare for both components.
 
 ### Other Resources
 
+* [Top 50 Programming Interview Questions](https://simpleprogrammer.com/programming-interview-questions/)
 * [Algorithm Questions](https://github.com/yangshun/tech-interview-handbook/tree/master/algorithms)
 * [Front End Interview Handbook](https://github.com/yangshun/front-end-interview-handbook)
 * [System Design Questions](https://github.com/yangshun/tech-interview-handbook/tree/master/design)
