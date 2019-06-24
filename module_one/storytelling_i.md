@@ -135,8 +135,8 @@ Form groups of 3-4 people to discuss the following questions:
 
 * Why did you come to Turing?
 * What helps you overcome challenges at Turing? 
-* Knowing your values, what kind of software developer do you believe you'll become?
-* As a group, come up with a 
+* How do your strengths apply to being a good software developer? 
+* Knowing your values, how will you use them in your new career?
 
 ### Whole Group Debrief/Synthesis
 Share out:
