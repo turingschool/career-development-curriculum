@@ -8,12 +8,12 @@
 Length: 60 mins
 
 * Opening: objectives, review M3 PD scope and sequence, and hook: 15 mins
+* Turing Portfolios
+   * What they are (10 mins)
+   * Demo (5 mins)
 * Resumes: 30 mins
    * Group Discussion & Share Out (20 mins)
    * Discussion of structure, intro to templates, and review checklist (10 mins)
-* Turing Portfolios
-   * What they are & data (10 mins)
-   * Demo (5 mins)
 * Any leftover time: work time 
 
 ### Professional Development in Module Three
