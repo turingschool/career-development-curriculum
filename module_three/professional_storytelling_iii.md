@@ -7,14 +7,13 @@
 
 Length: 60 mins
 
-* Opening: objectives, review M3 PD scope and sequence, and hook: 15 mins
-* Turing Portfolios
-   * What they are (10 mins)
-   * Demo (5 mins)
-* Resumes: 30 mins
-   * Group Discussion & Share Out (20 mins)
+* Opening: objectives, review M3 PD scope and sequence: 5 mins
+* Housekeeping: mock interviews, job shadow, Turing alumni portfolio: 15 mins
+* Storytelling review & practice: 7 mins
+* Resumes: 23 mins
+   * Group Discussion & Share Out (13 mins)
    * Discussion of structure, intro to templates, and review checklist (10 mins)
-* Any leftover time: work time 
+* Any leftover time: work time to start on resumes and portfolios
 
 ### Professional Development in Module Three
 This is the first of your PD sessions this module. Module Three is the module in which the personal and professional development of the previous two modules is applied to job searching and discovering the right path for your new career. You'll leave Module Three with a clear blueprint for your job search, and we'll start by focusing in on what it is that you want out of your new career, building on your professional story, and reflecting on how your strengths apply to finding this new, fulfilling career path.
@@ -36,18 +35,79 @@ Some resources for you:
 * [Interview Prep Resources](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/interview_prep_resources.md)
 * [Mod 4 Job Search Care Package](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/m4_job_search_care_package.md)
 
+Be aware of your job search timeline:
+* Do you need a job by graduation?
+   * Then: You must start your search **now**
+* Do you need a job by 30 days after graduation?
+   * Then: You must start your search by the end of this module
+* Do you have a longer timeline?
+   * Then: Use this module to begin research
+
 ### Objectives
 * Build on your professional story by focusing on "what's next"
 * Create a resume and Turing portfolio that reflect your skills and your professional story
 
 ### Deliverables
-* You'll need a draft of your resume ready by Week 3 for review from staff coaches
-* You'll submit your revised draft of your resume to the Career Development Team (Allison, Ellen Mary, or Kayt) by the end of Week 3
-* You'll participate in a mock behavioral interview by the end of the module
-* You'll need to have your [Turing portfolio](https://alumni.turing.io) finished and published on the Turing website by Monday of Week 6 with your final draft of your resume uploaded 
+* Draft of your [Turing alumni portfolio](https://alumni.turing.io) by 9am Monday of Week 2
+* Draft of your resume ready for review for Week 3's session
+* Revised draft of resume by end of Week 3
+* Mock behavioral interview by end of Week 5
+* Final draft of Turing alumni portfolio by 9am Monday of Week 6
 
-### Opening: Review of Storytelling
-Hook: Last module, you created a draft of your professional story. Today we'll talk about how you can refine your professional story through tools like your resume and your Turing alumni portfolio. But first, practice makes perfect:
+### Opening: Housekeeping
+#### Mock Interviews
+* Using the sign-up sheet in your channel, select 1 20-min mock interview slot when you don't have class
+* Write this appointment down in your calendar
+* Use the doc you’ve been working on in your pre-work for Mod 3 to prep
+* You should bring questions to practice asking
+   * Tailor them to a specific company if you have one in mind!
+
+#### Job Shadow
+What is it?
+
+ * A chance to learn from and observe developers on the job.
+ * An opportunity to ask questions of HR and developers about success in the job hunt.
+ * A time to make some initial networking connections and possibly find a mentor.
+ * A professional event where you are acting as a representative of Turing.
+ 
+What it's not:
+
+ * Time to work on your own projects or studies (though you can ask for advice).
+ * Time to review the tech stack you have been learning (though this might happen, it is not likely).
+ * A job interview.
+ * A "free" afternoon.
+ * A social event
+
+You can earn participation in job shadow by completing a first draft of your Turing alumni portfolio. See below:
+
+#### Turing Alumni Portfolio
+* You should have an invite to create your Turing alumni portfolio in your email
+* You need to fill out a *first draft* of your [Turing portfolio](https://alumni.turing.io) to earn your job shadow! 
+
+Here are the must haves:
+* Professional photo
+* Description -- use this space to tell your professional story!
+* Draft of your resume
+  * FINAL DRAFT: must have final resume
+* 2 projects highlighted
+  * Show variety: paired, team, individual
+  * FINAL DRAFT: must have 3 projects
+* Select “published” for both your profile and projects when you save them
+
+Check out some examples of how others have created their [portfolios](https://alumni.turing.io).
+
+This site is very buggy. To make sure you can save your profile, follow these steps:
+* Use Safari
+* Double check these fields when trying to save:
+ * Name
+ * Your expertise
+ * Professional headshot (choose file, then click upload) 
+ * Put a placeholder in the summary but when writing it out, don't copy and paste as it won't paste correctly.
+* Select any cohort; that doesn't matter
+* GitHub ID doesn't matter; leave it blank
+
+### Storytelling Review
+Last module, you created a draft of your professional story. Today we'll talk about how you can refine your professional story through tools like your resume and your Turing alumni portfolio. But first, practice makes perfect:
 
 * Spend 2 minutes reviewing your story gist
 * Pair & Share #1: Practice your story as though you are at a networking event and someone says "tell me about yourself." You and your partner each get 1 minute to share your story.
@@ -60,7 +120,7 @@ Whole Group Debrief:
 
 As we dive into your resumes and portfolios today, we're going to aim to address both of those statements--"tell me about yourself" and "why should I hire you?"--through the details you include. 
 
-### Storytelling Tool #1: Resumes 
+### How can you tell your story? Resumes! 
 Thinking in particular about that question "why should I hire you?", your first activity is to examine resumes using that particular stance. 
 
 **Activity: Who do you interview?**
@@ -156,19 +216,6 @@ As you update your resume, check on what updates you need to make to your Linked
 * Colors that are not printer-friendly
      * Or make sure to have a printer-friendly version
 * Your own coded resume
-
-### Turing Portfolio
-As you fill out your [Turing portfolio](https://alumni.turing.io), think about how you want to present yourself. 
-
-Here are the must haves:
-* Professional photo
-* Description -- *how can you tell your story here?*
-* 2-3 projects
-   * Show a variety: paired, team, individual
-
-Check out some examples of how others have created their [portfolios](https://alumni.turing.io).
-
-For the last quarter, 4 alumni identified that their employers found them through the Turing alumni page. 
 
 ### Closing
 * What are you taking away from today's session?
