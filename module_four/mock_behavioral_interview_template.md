@@ -34,7 +34,7 @@ When Giving Feedback:
 * Describe your background. How did you get to where you are now? What was your previous career field? What did you like about it? What didn’t you like about it? Why coding? 
 * Describe your coding experience and why you wish to continue.
 * What are you looking for in a company? Why would you want to work here?
-* Describe your time at Turing. What was the structure of the program? What were some takeaways for you from your experience there?
+* Describe your time at Turing. How did it prepare you for this career?
 * What is your 100% ideal role for your first web development job?
  
 **Project, Problem-Solving, & Team Contribution Questions:**
