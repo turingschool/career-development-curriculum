@@ -10,9 +10,9 @@ Below you can find lots of resources to help you prepare for both components.
 
 ### Start Here
 * [Ian Douglas's Guide to Technical Interview Prep](https://docs.google.com/document/d/1yWfxxYoCkZgxQrJ5Bn6051OE9a6f7mm5zs72jvqGKx8/edit?usp=sharing) 
-* [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook) by Yangshun Tay and Louie Tan
-  * [Preparing for a Coding Interview](https://github.com/yangshun/tech-interview-handbook/tree/master/preparing)
-  * [Interview Cheat Sheet](https://github.com/yangshun/tech-interview-handbook/blob/master/preparing/cheatsheet.md)
+* [Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/) by Yangshun Tay and Louie Tan
+  * [Preparing for a Coding Interview](https://yangshun.github.io/tech-interview-handbook/coding-round-overview/#!)
+  * [Interview Cheat Sheet](https://yangshun.github.io/tech-interview-handbook/cheatsheet/)
   * [Ultimate Guide to Kicking Ass on Take-home Coding Challenges](https://www.fullstackinterviewing.com/2018/02/02/the-ultimate-guide-to-kicking-ass-on-take-home-coding-challenges.html)
 * Check out one of Ian's [Google Hangout sessions on interviewing](https://www.youtube.com/watch?v=aXohtMcPT6I)
 
@@ -40,9 +40,8 @@ Below you can find lots of resources to help you prepare for both components.
 ### Other Resources
 
 * [Top 50 Programming Interview Questions](https://simpleprogrammer.com/programming-interview-questions/)
-* [Algorithm Questions](https://github.com/yangshun/tech-interview-handbook/tree/master/algorithms)
+* [Algorithm Questions](https://yangshun.github.io/tech-interview-handbook/algorithms/algorithms-introduction/)
 * [Front End Interview Handbook](https://github.com/yangshun/front-end-interview-handbook)
-* [System Design Questions](https://github.com/yangshun/tech-interview-handbook/tree/master/design)
 * [Tech Interview Questions Directory](https://techtion.co/?ref=producthunt) 
 * [Top 50 React Interview Prep Questions](https://www.edureka.co/blog/interview-questions/react-interview-questions/?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
 * [Essential Ruby Interview Questions](https://www.toptal.com/ruby/interview-questions)
