@@ -52,7 +52,7 @@ Below you can find lots of resources to help you prepare for both components.
 ## Behavioral Interview Prep Resources
 
 ### Start Here
-* [Behavioral Interview Formats and Questions to Review](https://github.com/yangshun/tech-interview-handbook/blob/master/non-technical/behavioral.md)
+* [Behavioral Interview Formats and Questions to Review](https://yangshun.github.io/tech-interview-handbook/behavioral-questions/)
 * [How to Answer "Why Should I Hire You?"](https://blog.pramp.com/the-interviewers-perspective-how-to-answer-why-should-i-hire-you-ad070987c2cc)
 
 ### Bank of Common Questions
@@ -106,6 +106,5 @@ Below you can find lots of resources to help you prepare for both components.
   * Kayt Hensley: Sign up using [this link](https://calendly.com/kaythensley)
 
 ### Questions to Ask the Interview & Other Resources
-* [Questions to Ask the Interviewer](https://github.com/yangshun/tech-interview-handbook/blob/master/non-technical/questions-to-ask.md)
+* [Questions to Ask the Interviewer](https://yangshun.github.io/tech-interview-handbook/questions-to-ask/)
 * [Tool to Help You Come Up with Culture Questions](https://www.keyvalues.com/culture-queries)
-* [Tips for Body Language and Psychological Awareness](https://github.com/yangshun/tech-interview-handbook/blob/master/non-technical/psychological-tricks.md)
