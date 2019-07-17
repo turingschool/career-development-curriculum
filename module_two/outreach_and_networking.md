@@ -211,16 +211,17 @@ Let's craft a message to one of our contacts that we researched together.
 Whenever possible, find your contact's email (or use Slack if they're in the Turing network!). Why? Unless you're actively job searching or actively hiring, people may not be checking their LinkedIn regularly and might miss your message. Also, LinkedIn messages have a limited number of characters you can use. Instead try some of the following tools to find your contact's email:
 
 * Tools for finding emails:
-  * [Email Hunter](https://emailhunter.co/)
-  * [Find That Lead](https://findthatlead.com/)
-  * [Find That Email](https://findthat.email/)
-  * [MatterMark](https://mattermark.com/)
-  * [Skrapp.io](https://www.skrapp.io/)
-  * [Quickmail.io](https://quickmail.io/)
-  * [Snov.io](https://snov.io/)
-  * [Go Pin Leads](https://www.gopinleads.com/)
-  * GitHub
-  * Personal website 
+
+* [Email Hunter](https://emailhunter.co/)
+* [Find That Lead](https://findthatlead.com/)
+* [Find That Email](https://findthat.email/)
+* [MatterMark](https://mattermark.com/)
+* [Skrapp.io](https://www.skrapp.io/)
+* [Quickmail.io](https://quickmail.io/)
+* [Snov.io](https://snov.io/)
+* [Go Pin Leads](https://www.gopinleads.com/)
+* GitHub
+* Personal website 
 
 #### You Do
 Craft your own message!
