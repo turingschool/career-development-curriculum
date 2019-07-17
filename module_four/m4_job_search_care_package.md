@@ -98,7 +98,7 @@ Congratulations! You've graduated! As you embark on your job search, here is an 
 * Start here:
    * [Research Converation Questions](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/research_conversation_questions.md)
    * [Culture Queries Generator](https://www.keyvalues.com/culture-queries)
-   * [LOTS of Additional Questions](https://github.com/yangshun/tech-interview-handbook/blob/master/non-technical/questions-to-ask.md)
+   * [LOTS of Additional Questions](https://yangshun.github.io/tech-interview-handbook/questions-to-ask)
    * End the conversation by asking, "who else from your network could you introduce me to?"
 
 For more, check out the [Mod 5 Outreach & Networking Refresh Markdown](https://github.com/turingschool/career-development-curriculum/blob/master/module-5/outreach_networking_refresh.md)
