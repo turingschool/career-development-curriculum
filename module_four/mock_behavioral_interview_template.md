@@ -71,4 +71,4 @@ When Giving Feedback:
 * When have you taken accountability for something even when it could have proven detrimental for you?
 
 ### Questions from Students
-In the mock interview, end the interview portion by asking **"What questions do you have for me?"** to push students to ask questions of the interviewer. Here is a [thorough list of potential questions](https://github.com/yangshun/tech-interview-handbook/blob/master/non-technical/questions-to-ask.md) they should become comfortable with asking.
+In the mock interview, end the interview portion by asking **"What questions do you have for me?"** to push students to ask questions of the interviewer. Here is a [thorough list of potential questions](https://yangshun.github.io/tech-interview-handbook/questions-to-ask/) they should become comfortable with asking.
