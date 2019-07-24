@@ -104,9 +104,11 @@ In groups, discuss these cover letters as though you're a hiring manager:
 To ensure you're hitting the right points, you can use this [Cover Letter Checklist](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/cover_letter_checklist.md)
 
 ### We Do
-As a whole group, let's look at a job posting and decide what we'd put in a cover letter for it. We'll discuss:
+As a whole group, let's look at a job posting and decide what we'd put in a cover letter for it. Facilitator posts job posting in both cohort Slack channels. Students should read the posting to themselves for 1-2 minutes. Then, as a group, we'll discuss:
 
 * What do we notice in the job description that stands out to us? 
+  * What problem is this company trying to solve?
+  * How will this position help solve it?
 * What can we pull out to discuss in the cover letter?
 * What research should we do?
 * How can we use our professional story here?
