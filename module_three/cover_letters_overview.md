@@ -6,9 +6,9 @@
 
 Timeline: 90 mins
 
-* Opening (5 mins)
-* Dissecting cover letters (10 mins)
-* Group Discussion (15 mins)
+* Objectives/Hook (7 mins)
+* Do's & Don'ts of Cover Letters (12 mins)
+* Small Group Discussion (10 mins)
 * We Do (15 mins)
 * Workshop: You Do (15 mins)
 * Round of feedback (10 mins)
@@ -26,6 +26,16 @@ In this session, participants will be able to:
 #### Deliverables
 * Cover letter draft due day 1 of Mod 4
 * Turing alumni portfolio due Monday of week 6 at 9am
+
+### Hook: Storytelling + Cover Letters
+Reminder of this storytelling rule:
+* Pull apart the stories you like. What you like in them is a part of you; you’ve got to recognize it before you can use it.
+
+#### Turn & Talk
+* Name a company you admire:
+  * What kind of value does it bring to the world? 
+  * What do you admire about this company?
+  * Why would this be a place you’d want to work?
 
 ### Do's & Don't's of a Cover Letter
 **Whole Group Discussion:** What is the purpose of a cover letter?
@@ -50,7 +60,20 @@ Here are some things to keep in mind when writing a cover letter:
    * If you’ve met someone at the company, drop their name!
    * State the position you’re applying for in the first line
    
-### How to Incorporate Your Story: The Elevator Pitch
+### Back to Storytelling
+
+* What are some of the elements we’ve discussed for storytelling?
+* How could you use these elements in a cover letter? 
+
+Some elements might include: conflict, theme, protagonist's arc or journey, etc. 
+
+#### Turn & Talk 
+You’re now on a Hero’s Journey on a mission to solve the main problem facing the company you admire:
+
+* Describe the skills you bring with you to solve it
+* Describe the metrics that would measure your success
+ 
+### Other Ways to Incorporate Your Story: The Elevator Pitch
 * Merging my background in X and Y, I help (industry) improve (outcomes).
    * “Merging my background in entrepreneurship and graphic design, I help technology companies improve user engagement and retention with UX Design.”
 
