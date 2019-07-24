@@ -45,7 +45,7 @@ In a gist, please:
 1. Include a screenshot of your Pairin top 4 results by following [these directions](https://gist.github.com/kannankumar/4c613cac6d9db896062a16e1cc57d3e5)
 2. Include your responses to the questions in Step 3.
 
-Submit your gist in the survey [here](https://sites.google.com/casimircreative.com/enrollment/mod-0-capstone-fka-pre-work?authuser=0)**
+Submit your gist in the survey **[here](https://sites.google.com/casimircreative.com/enrollment/mod-0-capstone-fka-pre-work?authuser=0)**
  
 Optional further reading:
    * [How the Pairin Survey compares to other assessments](https://github.com/turingschool/career-development-curriculum/blob/master/files/Survey%20Comparisons.pdf)
