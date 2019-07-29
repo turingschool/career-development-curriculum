@@ -55,4 +55,4 @@ Please answer the following questions so that Kayt and the rest of the post-grad
 9. If you are not using Huntr, please include a link here to the job tracker you're using so that Kayt can follow along with your progress. 
 
 ### Step 3: Send Your Latest Resume to Kayt
-Send a PDF of your resume to Kayt in your DM with your gist answering the above questions
+Send a PDF of your resume to Kayt in your DM with your gist answering the above questions. Make sure your resume is titled appropriately, e.g. 'FirsNameLastName.pdf'. 
