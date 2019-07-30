@@ -2,8 +2,13 @@
 
 [Slides for this session](https://docs.google.com/presentation/d/1JBeeABFkMvWjbXZDDxiOaW9iFHIhzQT2C-UxIEaQAvs/edit?usp=sharing)
 
+### Facilitator Instructions
+There are facilitator notes throughout this markdown to divide up responsibilities in the session, assuming there are 2 instructors (1 BE and 1 FE) in the session. Please read through this markdown ahead of the session and let Allison know if you have any questions. 
+
 ### Session Structure
 Length: 60 mins
+
+**Facilitator #1** Slide #2
 
 Agenda:
 * Intro to Professional Development (5 mins)
@@ -14,6 +19,7 @@ Agenda:
 * Closing: Takeaways, coaching reminders (5 mins)
 
 ### Overview of Professional Development at Turing
+**Facilitator #1** Slides 3-8
 #### The What
 Turing’s **mission** is to unlock human potential by training a diverse, inclusive student body to succeed in high-fulfillment technical careers. 
 
@@ -22,7 +28,7 @@ Turing’s career development curriculum is created directly out of this mission
 The touchstones of this curriculum include these mindsets: 
 
 * **Agency:** Taking initiative and ownership over your learning and work
-* **Empathy:** Understanding and sharing others' emotions in order to relate to them 
+* **Empathy:** Understanding and sharing others' emotions in order to better connect and work with them
 * **Engagement:** Active participation in community
 * **Grit:** A combination of perseverance and passion
 * **Growth:** A belief that your abilities can be developed through dedication, hard work, and resiliency
@@ -51,6 +57,8 @@ Today, we're going to start building this self-awareness by talking through our 
 * Analyze your possibilities for professional growth
 
 ### Overview of Strengths & Working Styles
+**Facilitator #2** Slides 9-14
+
 A strength is defined as a combination of skills, knowledge, and talents. Let's go back to the reflection you submitted as part of your prework:
 
 * What do you do best?
