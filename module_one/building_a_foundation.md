@@ -59,7 +59,7 @@ Today, we're going to start building this self-awareness by talking through our 
 ### Overview of Strengths & Working Styles
 **Facilitator #2** Slides 9-14
 
-A strength is defined as a combination of skills, knowledge, and talents. Let's go back to the reflection you submitted as part of your prework:
+A strength is defined as a combination of skills, knowledge, and talents. Let's go back to the reflection you submitted in your Mod 0 Capstone:
 
 * What do you do best?
 * How do you like to work?
@@ -72,6 +72,8 @@ A strength is defined as a combination of skills, knowledge, and talents. Let's 
 * How did you know the answers?
 
 As we start to dive deeper into our strengths and working preferences, let's examine what this can look like in action: 
+
+**Note to Facilitator:** The following examples could be discussed in a whole group discussion with cold calling using popsicle sticks or in a turn & talk. 
 
 **Example #1:** Jason prefers to spend time thinking through problems in his head and drawing out solutions before discussing them. 
 
