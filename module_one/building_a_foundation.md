@@ -8,7 +8,9 @@ There are facilitator notes throughout this markdown to divide up responsibiliti
 ### Session Structure
 Length: 60 mins
 
-**Facilitator #1** Slide #2
+**Facilitator #1** 
+
+Slide #2
 
 Agenda:
 * Intro to Professional Development (5 mins)
