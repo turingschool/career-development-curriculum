@@ -81,11 +81,12 @@ In order to find job postings and begin conducting research, here are some tools
 
 * [LinkedIn](http://www.linkedin.com/)
    * Tips: 
-      * Go to the "Jobs" tab to start a new search -- use the filters effectively! (i.e., JavaScript, Ruby, Python, EdTech, FinTech, etc.)
+      * Use the "Advanced Search" tool to find people based on skillset, location, and industry OR names of companies and select the "People who work at..." option
+      * In "Keywords" type in the skills or focus you want to be working in (i.e., JavaScript, Ruby, Python, EdTech, FinTech, etc.)
       * In "Location" type in the area where you'd like to work
-      * Save jobs and also go to the company page -- what connections do you have there?
-      * Find people to reach out to!
-      * On the company page, select "create job alert" to be notified of any new opportunities
+      * In "Industry" select "computer software"
+      * Search: Of those profiles that return, look at their profiles to see the list of companies they've worked for. What companies do you want to continue to research? Who do you want to connect with? 
+      * You can also click on the company’s page and on the right side, view "Similar Companies" where your connections work
 * [BuiltIn](http://builtin.com/) is located in Austin, Boston, Chicago, Colorado, LA, and New York 
 * [Github’s Job Board](https://jobs.github.com/)
 * [Glassdoor](https://www.glassdoor.com/index.htm)
@@ -113,8 +114,11 @@ In order to find job postings and begin conducting research, here are some tools
 * [We Work Remotely Job Board](https://weworkremotely.com/)
 * [Current Listing of Remote Dev Jobs](https://remoteok.io/remote-dev-jobs)
 * [Flex Jobs](https://www.flexjobs.com/)
+* [Hatchways](https://hatchways.io/#/) helps connect juniors with their first jobs in tech by identifying skill gaps and talking through goals for your job search. 
+* [Key Values](https://www.keyvalues.com/) allows you to search for companies that fit with your key values.
 * [People of Color in Tech](https://www.pocitjobs.com/) is a job site specifically for People of Color in tech.
 * [reacHire](http://www.reachire.com/women/jobs) is a job site specifically for connecting women with companies that value inclusion. 
+* [This Dot](https://www.thisdot.co/hirethefempire) hires women-presenting, frontend junior developers.
 * [Power to Fly](https://powertofly.com/jobs/) is a job site specifically for women.
 * [Diversify Tech](https://www.diversifytech.co/) is a job site built specifically for underrepresented groups in tech.
 * [Include.io](https://include.io/) is a job site built to connect underrepresented groups in tech with employers.
