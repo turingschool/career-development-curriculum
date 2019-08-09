@@ -103,7 +103,7 @@ As we start to dive deeper into our strengths and working preferences, let's exa
 
 **Facilitator #1:**
 
-On Slides 15-28, go through the following:
+On Slides 15-26, as you go through the following about Pairin, feel free to talk about your own results with the questions after each of the top 4 qualities. Allison has also included her Top 4 to serve as an example:
 
 ### Tool for Understanding Our Strengths: The Pairin Survey 
 If you're having trouble answering the above questions, your Pairin survey results might be able to help you. Pairin is a tool that gives you insight into 102 **coachable** and **changeable** professional skills ranging from citizenship to empathy to self awareness. The results from your survey will help you to identify some of your strengths and potential areas for growth. 
@@ -126,9 +126,9 @@ The Thinking Styles are characteristic ways of processing information and handli
 * Intuitive-Conceptual
 * Objective-Analytical
 
-Potential questions for the group:
-* Who had a thinking style that particularly resonated with them? Why? 
-* How are each of these strengths? What would they look like in action?
+**Facilitator #1 or Facilitator #2, share with the whole group:**
+* My top thinking style is... I've seen it in action when...
+* Here's how that's a strength...
 
 #### Drivers 
 Psychologist Henry Murray outlined a set of psychological needs that—-alone or in combination—-drive specific behaviors. Murray believed that everyone has the same set of needs but that individuals experience them in different intensities. These Drivers are based on Murray’s needs. The three domains (Love, Work & Growth) are derived from the core concepts of Abraham Maslow, Edgar Schein and James Sales. 
@@ -154,9 +154,9 @@ Psychologist Henry Murray outlined a set of psychological needs that—-alone or
    * Vitality: Enthusiast 
    * Self-Blame: Microscope 
    
-Potential questions for the group:
-* Who had a driver that particularly resonated with them? Why? 
-* How are each of these strengths? What would they look like in action?
+**Facilitator #1 or Facilitator #2, share with the whole group:**
+* My most intense driver is... which means...
+* Here's how that's a strength...
 
 #### Emotional Intelligence (EQ) Competencies 
 The definition of Emotional Intelligence or EQ (first advanced by researchers Peter Salavoy and John Mayer, but popularized by author Daniel Goleman) is the ability to:
@@ -191,6 +191,10 @@ In practical terms, developing EQ means gaining awareness that emotions drive ou
   * Change:	Transformer 
   * Conflict Management: Conflict Wrangler 
   * Cooperative-Practical: Team Player 
+  
+**Facilitator #1 or Facilitator #2, share with the whole group:**
+* My highest EQ competency is... I've seen myself use it in this way...
+* Here's how that's a strength...
 
 #### Virtue Classes
 Six broad virtues classifying 24 specific strengths that consistently emerge as “good” across history and culture. Pairin’s virtues map to Character Strengths and Virtues (Peterson, C., & Seligman, M. E. P., 2004), the work of a prestigious group of researchers who have attempted to create a systematic classification and measurement of widely valued positive traits. Their aim was to present a measure of humanist ideals of virtue in an empirical and scientific way.  
@@ -204,27 +208,36 @@ Knowing your leading virtue class and associated strengths isn’t just interest
 * Wisdom & Knowledge:	Lover of Wisdom 
 * Temperance:	Lover of Moderation 
 
-**Whole Group Discussion:** 
-Let's examine what your cohort's top 4 qualities are (on slide 22):
+**Facilitator #1 or Facilitator #2, share with the whole group:**
+* My highest virtue class is... which means...
+* Knowing that helps me....
+
+**Facilitator #2:**
+
+Using Slide 27, cold call on students to discuss the cohort's top 4:
+
 * What do you notice about these top 4?
 * How are each of these qualities *strengths*? What would they look like in action?
 
 ### Results Reflections
-Take 10 minutes to go over your top 4 qualities and answer these questions in your journal:
+**Facilitator #2:** Using Slide 28, instruct students to take 10 minutes to go over their top 4 qualities and answer these questions in their journals:
 
 * In your own words, what do these top 4 qualities tell you about yourself?
 * Do they resonate with you? Why/why not?
 * What do these top 4 qualities make you think about as you embark on Turing and your new career as a software developer?
 
 ### Small Group Discussions
-Find a group of 3-4 people to discuss:
+**Facilitator #2:** Using slide 29, have students get into small groups of 3-4 people to discuss:
 
 * Share your top 4 qualities from the survey OR your answers from the opening reflection.
 * If you were in a team together, how would you describe your ability to work together?
 * What would you need to be aware of when working with people who have different strengths from you?
 
+**Note to Facilitators:** During the discussion, please circulate the room. 
+
 ### Closing Out
-Takeaways from today:
+**Facilitator #1:** Using slide 31, cold call on a few students to share takeaways from the session:
+
 * What are you taking away from today’s session?
 * What would it take for you to build more awareness of your strengths?
 * What would you like to focus on in your professional development at Turing?
