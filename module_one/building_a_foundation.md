@@ -3,14 +3,14 @@
 [Slides for this session](https://docs.google.com/presentation/d/1JBeeABFkMvWjbXZDDxiOaW9iFHIhzQT2C-UxIEaQAvs/edit?usp=sharing)
 
 ### Facilitator Instructions
-There are facilitator notes throughout this markdown to divide up responsibilities in the session, assuming there are 2 instructors (1 BE and 1 FE) in the session. Please read through this markdown ahead of the session and let Allison know if you have any questions. 
+There are facilitator notes throughout this markdown to divide up responsibilities in the session, assuming there are 2 instructors (1 BE and 1 FE) in the session. Please read through this markdown ahead of the session, decide who is going to be Facilitator #1 and who will be Facilitator #2, and let Allison know if you have any questions. 
 
 ### Session Structure
 Length: 60 mins
 
 **Facilitator #1** 
 
-Slide #2
+Slide #2: Go over the agenda for the session
 
 Agenda:
 * Intro to Professional Development (5 mins)
@@ -21,7 +21,10 @@ Agenda:
 * Closing: Takeaways, coaching reminders (5 mins)
 
 ### Overview of Professional Development at Turing
-**Facilitator #1** Slides 3-8
+**Facilitator #1:**
+
+On Slides 3-8, go through the following:
+
 #### The What
 Turing’s **mission** is to unlock human potential by training a diverse, inclusive student body to succeed in high-fulfillment technical careers. 
 
@@ -59,7 +62,9 @@ Today, we're going to start building this self-awareness by talking through our 
 * Analyze your possibilities for professional growth
 
 ### Overview of Strengths & Working Styles
-**Facilitator #2** Slides 9-14
+**Facilitator #2** 
+
+On Slides 9-14, go through the following:
 
 A strength is defined as a combination of skills, knowledge, and talents. Let's go back to the reflection you submitted in your Mod 0 Capstone:
 
@@ -69,13 +74,14 @@ A strength is defined as a combination of skills, knowledge, and talents. Let's 
 
 *All of these questions will come in handy when interviewing*
 
-**Whole Group:**
-* On a fist to five, how easy was it for you to answer these questions?
-* How did you know the answers?
+**Facilitator #2 call on students:**
+* Whole Group: On a fist to five, how easy was it for you to answer these questions?
+* Cold call on 1-2 students: How did you know the answers to these questions?
+*Potential answers: "I know I like to work by myself"; "I am really good at multi-tasking"; "I like to talk to people and bounce ideas off of them."*
 
 As we start to dive deeper into our strengths and working preferences, let's examine what this can look like in action: 
 
-**Note to Facilitator:** The following examples could be discussed in a whole group discussion with cold calling using popsicle sticks or in a turn & talk. 
+**Note to Facilitator #2:** The following examples could be discussed in a whole group discussion with cold calling using popsicle sticks or in a turn & talk. 
 
 **Example #1:** Jason prefers to spend time thinking through problems in his head and drawing out solutions before discussing them. 
 
@@ -94,6 +100,10 @@ As we start to dive deeper into our strengths and working preferences, let's exa
 
 * How would you describe Sam's strengths?
 * What should Sam and any teammates they work with be aware of?
+
+**Facilitator #1:**
+
+On Slides 15-28, go through the following:
 
 ### Tool for Understanding Our Strengths: The Pairin Survey 
 If you're having trouble answering the above questions, your Pairin survey results might be able to help you. Pairin is a tool that gives you insight into 102 **coachable** and **changeable** professional skills ranging from citizenship to empathy to self awareness. The results from your survey will help you to identify some of your strengths and potential areas for growth. 
