@@ -3,9 +3,14 @@
 
 [Slides for this session](https://docs.google.com/presentation/d/1OZ8WCYsiTBBHEPVsFrEXM0VIJtZViLJr_Tui75zE1H8/edit?usp=sharing)
 
+### Facilitator Instructions
+There are facilitator notes throughout this markdown to divide up responsibilities in the session, assuming there are 2 instructors (1 BE and 1 FE) in the session. Please read through this markdown ahead of the session, decide who is going to be Facilitator #1 and who will be Facilitator #2, and let Allison know if you have any questions.
+
 ### Session Structure
 
 Length: 60 mins
+
+**Facilitator #1:** Using slides #2-4, go through the following:
 
 * Opening: objectives, review M3 PD scope and sequence: 5 mins
 * Housekeeping: mock interviews, job shadow, Turing alumni portfolio: 15 mins
@@ -36,6 +41,7 @@ Some resources for you:
 * [Mod 4 Job Search Care Package](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/m4_job_search_care_package.md)
 
 Be aware of your job search timeline:
+
 * Do you need a job by graduation?
    * Then: You must start your search **now**
 * Do you need a job by 30 days after graduation?
