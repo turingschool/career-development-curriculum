@@ -3,9 +3,16 @@
 
 [Slides for this session](https://docs.google.com/presentation/d/1ZxwdADE5YeyRl_mHAfcQW25QgLSALHo_iKu7eRLLfgg/edit?usp=sharing)
 
+### Facilitator Instructions
+There are facilitator notes throughout this markdown to divide up responsibilities in the session, assuming there are 2 instructors (1 BE and 1 FE) in the session. Please read through this markdown ahead of the session, decide who is going to be Facilitator #1 and who will be Facilitator #2, and let Allison know if you have any questions. 
+
 Session Structure: 90 mins
 
+**Facilitator #1:** Go over the agenda listed below for the session (Slide #2)
+
 * Opening: why is this important? (5 mins)
+	* Turn & Talk
+	* Objectives & Optional Deliverable
 * Overview of Petals & Worksheets: How to do this inventory (20 mins)
 	* Demo
 * Choose Your Own Adventure: Work Time (30 mins)
@@ -14,7 +21,9 @@ Session Structure: 90 mins
 * Share Out/Closing (5 mins)
 
 ### Opening
-**Turn & Talk:** Last mod, you were asked to write a job description for yourself as a software developer:
+**Facilitator #1:** Introduce the Turn & Talk below (Slide #4), followed by the objectives & recommended deliverable, the Why, and the How it Works sections (Slides #5-7). Please drop [this link to the brainstorming sheets](https://docs.google.com/document/d/1pLe95AA3y8rxnU-MDnyAVeoqWCxE9__KMDhmPgcd_7c/edit?usp=sharing) into the cohorts' Slack channels.
+
+**Turn & Talk:** Last mod, we discussed using your strengths and social identities as software developers:
 * What are some of the ways you see yourself excelling as a software developer?
 * What excites you most right now about this career?
 
@@ -40,6 +49,8 @@ The Flower Exercise is designed to help you move through 3 stages:
 * The **synthesis** stage to summarize the findings in your brain dump
 * The **prioritization** stage to narrow down what's most important to you from your synthesis. **The results from your prioritization stage are what should go on your finished Flower page.**
 
+**Facilitator #2:** On the following slide (Slide #9), cold call on 1-2 students to answer the question of how they've responded to the question "what do you do" in the past then go over Slide #10
+
 ### You're Not a Role
 Let's start by recapping the do's and don'ts of professional storytelling. When people have asked you what you do in the past, what have you said? “I was a construction worker.” “I was a marketing manager.” “I was a teacher.” Sound familiar? These kind of declarations are not inherently wrong -- it's important to claim your identity according to the work you love. 
 
@@ -50,6 +61,8 @@ Instead, try saying “I’m a person who…”
 * "I’m a person who...is skilled at building things.”
 * “I’m a person who...has experience in creating stories to attract customers.”
 * “I’m a person who...knows how to explain concepts to others in smaller pieces.”
+
+**Facilitator #2:** State the below when introducing Slide #12:
 
 In this session, you’ll explore who you are from 7 different angles to discover what you want as you start looking for a job. **Because you are not just a software developer now, you are a person who has very specific skills, talents, experience, and goals that make you so much more than *just* a software developer.**
 
@@ -77,6 +90,8 @@ All 7 aspects are important for your job search; Why?
 * If a job only matches 1 or 2 “petals,” it will not be fulfilling to you because it will only allow you to express one or two sides of yourself
 * This picture is the most complete of you and defining these aspects will lead you to your dream job
 
+**Facilitator #2:** On Slide #13, go through the following:
+
 #### Another Note: Pairin
 Reminder that your Pairin survey results measured how you work, and from here, you can analyze a lot about what's important to you in your new career. Look at your results to think about:
 
@@ -87,33 +102,36 @@ Reminder that your Pairin survey results measured how you work, and from here, y
 
 How do each of these categories help define your ideal career? 
 
-### Tools
-Complete [these worksheets](https://docs.google.com/document/d/1pLe95AA3y8rxnU-MDnyAVeoqWCxE9__KMDhmPgcd_7c/edit?usp=sharing) to fulfill the brainstorming stages of the Flower Exercise
+**Note to Facilitators:**
+In the next section (slides #14-20), it's recommended that you take turns presenting each "petal" section. Explain the concept of each petal and show students the corresponding worksheets before giving students work time. Petal #3 requires you to provide 2 story examples (see below).   
+
+### Brainstorming
+For each of the "petals" below, complete [the corresponding worksheets](https://docs.google.com/document/d/1pLe95AA3y8rxnU-MDnyAVeoqWCxE9__KMDhmPgcd_7c/edit?usp=sharing) to fulfill the brainstorming stages of the Flower Exercise.
 
 * Petal #1: Favorite Knowledges And/Or Fields of Interest
-	* Goal: Summarize everything you know; Must have: knowledge from past experiences; Bonus: What you would like to learn
-	* Tips: Knowledges are nouns
-	* What You know from the past:
-		* Go through everything you know; if you worked at Panera, this could mean you list “learned how to prepare and serve food, how to wait on customers, how to make change, how to deal with complaints, how to train new employees, etc.” Then go back and highlight the most important pieces to you -- which are you most satisfied with?
-	* What you know outside of work:
-		* What knowledge have you picked up outside of work?
-		* Examples: Things learned in high school/college that you still value today; anything from training seminars, conferences, etc.; anything you learned at home or via the internet
-	* What industries sound interesting to you:
-Start broadly and then make more specific
-	* Worksheet & Favorite Subjects Matrix
+   * Goal: Summarize everything you know; Must have: knowledge from past experiences; Bonus: What you would like to learn
+   * Tips: Think of your knowledge as nouns, not traits
+   * For brainstorming, use worksheet #1:
+     * What you know from the past: go through everything you know; if you worked at a restaurant, this could mean you list “learned how to prepare and serve food, how to wait on customers, how to make change, how to deal with complaints, how to train new employees, etc.” Then go back and highlight the most important pieces to you -- which are you most satisfied with?
+     * What you know outside of work: what knowledge have you picked up outside of work?
+	* Examples: Things learned in high school/college that you still value today; anything from training seminars, conferences, etc.; anything you learned at home or via the internet
+     * What industries sound interesting to you: start broadly and then make more specific
+     * Anything else you want to learn
+
 * Petal #2: Preferred Kinds of People to Work With
-	* Background: People we work with either give us energy or drain our energy. They’re very important to how we work.
-	* Goal: To avoid past bad experiences with people at work, focus on the people you most like to work with
-	* Looking for:
-		* Better picture in your mind of what kind of people surrounding you at work will enable you to operate at your highest and most effective level.
-		* Better picture in your mind of what kind of people you would most like to serve or help: defined by age, problems, geography, etc.
-		* Tips: These are descriptions -- adjectives
-	* Party Game Exercise
-		* Looking at the graphic for the party, answer these questions by writing down the letter:
-			1. Which corner of the room would you be drawn to as the group of people you’d want to be around longest?
-			2. 15 mins. Later, everyone in that corner leaves for another party, except you. Of the groups that remain, which group would you be drawn to now?
-			3. 15 mins. Later, this group also leaves. Of the remaining groups, which do you join?
-	* Worksheet & Party Game
+   * What does this mean? People we work with either give us energy or drain our energy. They’re very important to how we work.
+   * Goal: To avoid past bad experiences with people at work, focus on the people you most like to work with
+   * Think About:
+      * 1. What kind of people surrounding you at work will enable you to operate at your highest and most effective level.
+      * 2. What kind of people you would most like to serve or help: defined by problems, geography, etc.
+   * Tips: These are descriptions -- adjectives
+   * For brainstorming, use worksheets #2 and #3:
+      1. List the places you've worked and the people from those places that helped you do your best and those that hindered you along with the people you want to build software for in the future
+      2. Party Game Exercise: Looking at the graphic for the party, answer these questions by writing down the letter:
+	* Which corner of the room would you be drawn to as the group of people you’d want to be around longest?
+	* 15 mins. Later, everyone in that corner leaves for another party, except you. Of the groups that remain, which group would you be drawn to now?
+        * 15 mins. Later, this group also leaves. Of the remaining groups, which do you join?
+
 * Petal #3: Transferable Skills
 	* Goal: Discover what your transferable skills are.
 	* Break down into 3 groups:
