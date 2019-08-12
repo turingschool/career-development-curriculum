@@ -2,8 +2,16 @@
 
 [Slides for the Session](https://docs.google.com/presentation/d/1_ZfOvYNMeOQeks4CBioyMZy3mm_5pWdyX6Tp9Ej4OLw/edit?usp=sharing) 
 
-### Agenda
-* Opening (hooks, objectives, and why): 5 mins
+### Facilitator Instructions
+There are facilitator notes throughout this markdown to divide up responsibilities in the session, assuming there are 2 instructors (1 BE and 1 FE) in the session. Please read through this markdown ahead of the session, decide who is going to be Facilitator #1 and who will be Facilitator #2, and let Allison know if you have any questions.
+
+### Session Structure
+
+Length: 60 mins
+
+**Facilitator #1:** Using slide #2-7, go through the following: 
+
+* Opening (why, objectives, and turn & talk): 5 mins
 * Types of Pair Programming & Intro to DTR: 5 mins
 * Relating Styles: 15 mins
 * Journal: Define Your Expectations: 5 mins
@@ -12,7 +20,7 @@
 * Practice: 5 mins
 * Debrief & Closing: 5 mins
 
-### Learning Objectives:
+### Objectives:
 
 * Identify various forms of pair programming
 * Understand what DTR is and how to hold a DTR conversation
@@ -28,9 +36,15 @@
 ### Opening
 Pairing with other programmers is an essential agile practice, and building your pairing skills will help you be successful in projects at Turing and in the workplace. Pairing effectively comes down to establishing a relationship with the person you’re working with. This starts with breaking down communication barriers and building trust within the working relationship.
 
-In the past when you've worked in teams, what was successful about them? What was unsuccessful?
+#### Turn & Talk
+Share:
+
+* In the past when you've worked in teams, what has it been successful?
+* What has it been unsuccessful?
 
 You'll often find similar experiences happen in pair programming. This session will help you discover tools to navigate this relationship in a way that it's a great learning experience for you both. 
+
+**Facilitator #2:** Using slides #8-9, go through the following and call on students to discuss what's helpful in each style of pair programming and when they might want to try out different styles:
 
 ### Types of pair programming
 [Pair programming](https://www.agilealliance.org/glossary/pairing/) can take many forms, and here are some suggestions of how you can approach pairing at Turing:
@@ -62,12 +76,16 @@ You'll often find similar experiences happen in pair programming. This session w
 ### Defining the Relationship (DTR)
 DTR refers to a conversation each student has with group partner(s) before launching into a project. During this conversation, group members set expectations for how to work together. Use this [DTR Guiding Questions & Memo template](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/dtr_guidelines_memo.md) to guide the conversation.
 
+**Note to Facilitator:** Share the DTR guidelines & memo template in the cohorts' channels and cold call a few students to discuss the follow questions:
+
 **Discussion Questions:**
 * What do you notice about these guiding questions?
 * What would you need to keep in mind when answering these questions with your partner?
 * How can you use this template to make your project successful?
 
 Establishing a relationship with your mentor should also include a DTR. Here’s a [cheatsheet](https://docs.google.com/document/d/1Q35fM3coYjnms9rkVem3FHVk44kW6qHp_-t99PBbczI/edit?usp=sharing) for planning that conversation.
+
+**Facilitator #1:** 
 
 ### Using Pairin: How do we relate to each other?
 Let’s look at the 3 ego-states from Eric Berne’s [Transactional Analysis](http://www.ericberne.com/transactional-analysis/):
