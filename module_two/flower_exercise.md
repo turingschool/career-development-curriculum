@@ -4,7 +4,7 @@
 [Slides for this session](https://docs.google.com/presentation/d/1ZxwdADE5YeyRl_mHAfcQW25QgLSALHo_iKu7eRLLfgg/edit?usp=sharing)
 
 ### Facilitator Instructions
-There are facilitator notes throughout this markdown to divide up responsibilities in the session, assuming there are 2 instructors (1 BE and 1 FE) in the session. Please read through this markdown ahead of the session, decide who is going to be Facilitator #1 and who will be Facilitator #2, and let Allison know if you have any questions. 
+There are facilitator notes throughout this markdown to divide up responsibilities in the session, assuming there are 2 instructors (1 BE and 1 FE) in the session. Please read through this markdown ahead of the session, decide who is going to be Facilitator #1 and who will be Facilitator #2, and let Allison know if you have any questions. Prior to the session, [print out enough worksheets for all the students](https://github.com/turingschool/career-development-curriculum/blob/master/files/Career%20Unit%20-%20The%20Flower%20Diagram.pdf) and pass them out at the beginning of the session. 
 
 Session Structure: 90 mins
 
@@ -40,14 +40,14 @@ We'll utilize a job-hunting strategy from [What Color is Your Parachute](http://
 * Describe in detail the kind of career you’re looking for
 
 ## Recommended Deliverable:
-**[Complete the Flower Exercise 1-pager](https://github.com/turingschool/career-development-curriculum/blob/master/files/Career%20Unit%20-%20The%20Flower%20Diagram.pdf)** and share it with Allison. You can set up a meeting with her to discuss it further if you would like.
+This is not required, but you can **[complete the Flower Exercise 1-pager](https://github.com/turingschool/career-development-curriculum/blob/master/files/Career%20Unit%20-%20The%20Flower%20Diagram.pdf)** and share it with Allison. You can set up a meeting with her to discuss it further if you would like.
 
 ### Overview: How It Works
 The Flower Exercise is designed to help you move through 3 stages:
 
 * The **brain dump** stage to organize your thoughts using these [worksheets](https://docs.google.com/document/d/1pLe95AA3y8rxnU-MDnyAVeoqWCxE9__KMDhmPgcd_7c/edit?usp=sharing)
 * The **synthesis** stage to summarize the findings in your brain dump
-* The **prioritization** stage to narrow down what's most important to you from your synthesis. **The results from your prioritization stage are what should go on your finished Flower page.**
+* The **prioritization** stage to narrow down what's most important to you from your synthesis. *That's why you have a single piece of paper -- you need to narrow down your highest priorities to fit onto your Flower worksheet.*
 
 **Facilitator #2:** On the following slide (Slide #9), cold call on 1-2 students to answer the question of how they've responded to the question "what do you do" in the past then go over Slide #10
 
@@ -127,36 +127,63 @@ For each of the "petals" below, complete [the corresponding worksheets](https://
    * Tips: These are descriptions -- adjectives
    * For brainstorming, use worksheets #2 and #3:
       1. List the places you've worked and the people from those places that helped you do your best and those that hindered you along with the people you want to build software for in the future
-      2. Party Game Exercise: Looking at the graphic for the party, answer these questions by writing down the letter:
-	* Which corner of the room would you be drawn to as the group of people you’d want to be around longest?
-	* 15 mins. Later, everyone in that corner leaves for another party, except you. Of the groups that remain, which group would you be drawn to now?
-        * 15 mins. Later, this group also leaves. Of the remaining groups, which do you join?
+      2. Party Game Exercise: Looking at the graphic for the party, answer these questions by writing down the letter: 
+          * Which corner of the room would you be drawn to as the group of people you’d want to be around longest?
+	  * 15 mins. later, everyone in that corner leaves for another party, except you. Of the groups that remain, which group would you be drawn to now?
+	  * 15 mins. later, this group also leaves. Of the remaining groups, which do you join?
+
+**Facilitators:** For petal #3, please provide the story from Richard Bolles listed below as well as an example from your own experience. 
 
 * Petal #3: Transferable Skills
-	* Goal: Discover what your transferable skills are.
-	* Break down into 3 groups:
-		* People skills
-		* Skills with data
-		* Skills with things -- your talents, etc.
-	* Worksheet
+   * Goal: Discover what your transferable skills are by breaking them down into 3 groups:
+     * People skills
+     * Skills with data
+     * Skills with things -- your talents, etc.
+   * How do you do this? Start by telling a story about yourself when you've worked to accomplish a goal in the past. It doesn't have to be a goal related to a specific job you had. Start by detailing the steps you took to accomplish that goal and then outline what skills were used here.
+   * Examples: Richard Bolles, the author of *What Color is your Parachute?*, had a goal to take his family on a vacation. The challenge was that he didn't have a lot of money to spend on hotels, so he decided to rig his family station wagon into a camper (keep in mind: this was the 1970s). He didn't know how to do that, so he started with some research. He researched the materials and tools he would need, drew up plans, measured and cut materials, and began to build the camper. He was successful in building the camper and in taking this family on the vacation. He estimated that he saved over $1200 by not staying in hotels, and by today's standards, that number would have been much higher. He broke down the skills he used to accomplish this goal:
+      * Research
+      * Visualization
+      * Planning 
+      * Design
+      * Engineering 
+      * Construction
+      * Follow-through
+   * How to brainstorm for this:
+      * Using worksheets #4-7, write out a story (or more -- the book recommends 7 so that you can look at patterns of your transferable skills) about a time you accomplished a particular goal. 
+      * Then go through and analyze the particular skills you used with the checklist provided
+      * In the space on worksheet #7, write out a sentence detailing why you're good at your top 10 skills
+   
 * Petal #4: Preferred Working Conditions
-	* Goal: State the working conditions and surroundings that would make you happiest and enable you to do your most effective work
-	* Tip: Make very specific
-	* Good and bad examples
-		* Why is this example bad?
+   * Goal: State the working conditions and culture that would make you happiest and enable you to do your most effective work
+   * Tip: Make these statements very specific
+   * Good example: Clear diversity and inclusion initiatives, flexible hours with work from home option, regular pairing with a senior dev, team-oriented, encourages asking questions
+   * Bad Example: Understanding boss, good colleagues, fun
+   * For brainstorming, use worksheet #8 to detail the places you've worked before, what you liked and disliked about those places, including ranking them
+     * You can also use the [Key Values Culture Queries quiz](https://www.keyvalues.com/culture-queries) to help you get more specific with your language and figure out how to ask about these things in both coffee meetings and interviews
+     * It's also recommended that you look back over your Pairin results to think about how these can help you understand what kind of cultures and values you're looking for. 
+
 * Petal #5: Salary & Level of Responsibility
-	* Goal: Gain a realistic picture of how much money you will need or want to earn in your next job as well as your understanding of how much responsibility you want to strive for in your new career.
-	* Tip: Think about salary in terms of a range.
-	* Worksheet
+   * Goal: Gain a realistic picture of how much money you will need or want to earn in your next job as well as your understanding of how much responsibility you want to strive for in your new career.
+   * Tip: Think about salary in terms of a range.
+   * For brainstorming, use worksheet #9. A couple things to keep in mind:
+   	* Median starting salary for Turing grads is $77,750
+	* Use the [Stack Overflow Salary Calculator](https://stackoverflow.com/jobs/salary) to help narrow down ranges. Put in "bachelor's degree" as equivalent for your Turing education. 
+
 * Petal #6: Preferred place to live
-	* Goal: Define where you would most like to work and live to be happiest
-	* Important to think about the future now in order to see what opportunities you’re ultimately open to; you’ve already said what areas you are willing to relocate to on your Turing profile, but use this time to continue to refine that
-	* Worksheet
+   * Goal: Define where you would most like to work and live to be happiest
+   * Important to think about the future now in order to see what opportunities you’re ultimately open to. Reminder that most first jobs as a software developer will last only for 1-2 years, so you could move somewhere else for a job and then come back to Denver afterwards
+   * For brainstorming, use worksheet #10, which contains questions for you to consider about places you're open to and those you definitely aren't. There are also some quizzes you can use to see what areas you might appreciate that you hadn't thought of before. 
+
 * Petal #7: Goal/Purpose/Mission in life
-	* What is important to you?
+   * Goal: Define the values and goals by which you will continue to guide your life in order to analyze the kinds of companies you’d like to work for or types of projects you’d like to create
+   * For brainstorming, use worksheets #11-13
+   
+**Facilitator #1:** Using Slide #22, go through the following:
 
 ### Choose Your Own Adventure: Work Time
 Now start on the worksheets to think about each of these petals. Think about what's most important to you when it come to unpacking your approach to your job search. This is the brain dump part of the process: use the worksheets, reflect on your past experiences, journal about your passions. 
+
+**Facilitator #2:** Using Slide #24, go through the following: 
 
 ### Group Sharing
 Find 3-4 people to share some takeaways from your brain dump. This is where you synthesize the information you've been working through by answering these questions:
@@ -166,8 +193,12 @@ Find 3-4 people to share some takeaways from your brain dump. This is where you 
 * How will you use this information to drive your job search? 
 * What do you still want to learn from this process?
 
-### Final Reflection
+**Facilitator #1:** Using Slide #26, go through the following:
+
+### Final Reflection: Create your Flower
 From your group discussion, spend a few minutes prioritizing the most important takeaways and then fill out your Flower 1-pager with your most important priorities.
+
+**Both Facilitators:** Also on Slide #26, call on 1-2 people to share out a takeaway from the session
 
 ### Share Out & Closing
 * What have you learned about yourself today?
