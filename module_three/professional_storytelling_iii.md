@@ -4,13 +4,16 @@
 [Slides for this session](https://docs.google.com/presentation/d/1OZ8WCYsiTBBHEPVsFrEXM0VIJtZViLJr_Tui75zE1H8/edit?usp=sharing)
 
 ### Facilitator Instructions
-There are facilitator notes throughout this markdown to divide up responsibilities in the session, assuming there are 2 instructors (1 BE and 1 FE) in the session. Please read through this markdown ahead of the session, decide who is going to be Facilitator #1 and who will be Facilitator #2, and let Allison know if you have any questions.
+There are facilitator notes throughout this markdown to divide up responsibilities in the session, assuming there are 2 instructors (1 BE and 1 FE) in the session. Please read through this markdown ahead of the session, decide who is going to be Facilitator #1 and who will be Facilitator #2, and let Allison know if you have any questions. Also, Robyn will join this session to discuss the slides on mock interviews and job shadow (slides #7-10).
+
+Prior to the session:
+* A Job Squad team member will send out Turing alumni portfolio invitations and post the mock interview schedule in cohort channels
 
 ### Session Structure
 
 Length: 60 mins
 
-**Facilitator #1:** Using slides #2-4, go through the following:
+**Facilitator #1:** Using slides #2-6, go through the following:
 
 * Opening: objectives, review M3 PD scope and sequence: 5 mins
 * Housekeeping: mock interviews, job shadow, Turing alumni portfolio: 15 mins
@@ -21,7 +24,7 @@ Length: 60 mins
 * Any leftover time: work time to start on resumes and portfolios
 
 ### Professional Development in Module Three
-This is the first of your PD sessions this module. Module Three is the module in which the personal and professional development of the previous two modules is applied to job searching and discovering the right path for your new career. You'll leave Module Three with a clear blueprint for your job search, and we'll start by focusing in on what it is that you want out of your new career, building on your professional story, and reflecting on how your strengths apply to finding this new, fulfilling career path.
+Module Three is the module in which the personal and professional development of the previous two modules is applied to job searching and discovering the right path for your new career. You'll leave Module Three with a clear blueprint for your job search, and we'll start by focusing in on what it is that you want out of your new career, building on your professional story, and reflecting on how your strengths apply to finding this new, fulfilling career path.
 
 We'll focus on:
 
@@ -38,7 +41,7 @@ Some resources for you:
 
 * Join #job-hunt
 * [Interview Prep Resources](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/interview_prep_resources.md)
-* [Mod 4 Job Search Care Package](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/m4_job_search_care_package.md)
+* [Job Search Care Package](https://github.com/turingschool/module_5/blob/master/job_search_care_package.md)
 
 Be aware of your job search timeline:
 
@@ -59,6 +62,8 @@ Be aware of your job search timeline:
 * Revised draft of resume by end of Week 3
 * Mock behavioral interview by end of Week 5
 * Final draft of Turing alumni portfolio by 9am Monday of Week 6
+
+**Robyn:** Using slides #7-10, go through the following:
 
 ### Opening: Housekeeping
 #### Mock Interviews
@@ -84,11 +89,14 @@ What it's not:
  * A "free" afternoon.
  * A social event
 
-You can earn participation in job shadow by completing a first draft of your Turing alumni portfolio. See below:
+How can you earn job shadow?
+
+* By completing a first draft of your Turing alumni portfolio. 
+
+**Facilitator #2:** Using slides #11-13 and showing students the [alumni portfolio site](https://alumni.turing.io) and video for how to fill it out (link below), go through the following:
 
 #### Turing Alumni Portfolio
-* You should have an invite to create your Turing alumni portfolio in your email
-* You need to fill out a *first draft* of your [Turing portfolio](https://alumni.turing.io) to earn your job shadow! 
+* You should have an invite to create your Turing alumni portfolio in your email. To log in again, go to [https://alumni.turing.io/user](https://alumni.turing.io/user)
 
 Here are the must haves:
 * Professional photo
@@ -111,6 +119,9 @@ This site is very buggy. To make sure you can save your profile, follow these st
  * Put a placeholder in the summary but when writing it out, don't copy and paste as it won't paste correctly.
 * Select any cohort; that doesn't matter
 * GitHub ID doesn't matter; leave it blank
+* Watch this [video](https://www.youtube.com/watch?v=v7J5cYJ24hU&feature=youtu.be) to see how to fill this out
+
+**Facilitator #1:** Using slide #15 and your phone's timer function, go through the following:
 
 ### Storytelling Review
 Last module, you created a draft of your professional story. Today we'll talk about how you can refine your professional story through tools like your resume and your Turing alumni portfolio. But first, practice makes perfect:
@@ -126,12 +137,16 @@ Whole Group Debrief:
 
 As we dive into your resumes and portfolios today, we're going to aim to address both of those statements--"tell me about yourself" and "why should I hire you?"--through the details you include. 
 
+**Facilitator #2:** Using slides #17-20, go through the following:
+
 ### How can you tell your story? Resumes! 
-Thinking in particular about that question "why should I hire you?", your first activity is to examine resumes using that particular stance. 
+
+**Whole Group Discussion:**
+Cold call on 2-3 people to answer this question: *as a new software developer, what kind of story do you want your resume to tell about you?*
 
 **Activity: Who do you interview?**
 
-Form groups of 3-4 people. You are now on a hiring committee for a junior engineering position at your company. You need to select 1 out of the 5 resumes listed here to decide who will move on to an interview. 
+Form groups of 3-4 people. You are now on a hiring committee for a junior engineering position at your company. You need to select 1 out of the 5 resumes listed here to decide who will move on to an interview. **Note to Facilitator:** Make sure students have the markdown to the session open on their computers for this activity
 
 Things to consider:
 * For the sake of this activity, the position is language agnostic
@@ -156,24 +171,14 @@ Whole Group Debrief:
 * Who was chosen to move to an interview? Why?
 * What are your takeaways about effective resumes?
 
+**Facilitator #2:** Using slides #22-32, go through the following:
+
 ### Rebuilding Your Resume: Format & Content
 As a junior developer, your resume might look very different from its previous forms. Here are some things to keep in mind:
 
 * Reorganize your resume to lead with technical skills and coding projects
 * Analyze what experiences are most useful in demonstrating transferable and applicable skills for an entry level tech role
 * Produce a resume with clear and concise language aligned with current tech industry standards
-
-#### Layouts
-You can choose to set up a traditional resume use a template like this [traditional resume](http://visualcv.com/www/google-docs-resume-templates/), but you may want to personalize the style with a layout. Check out these sites for building a resume:
-
-* [Creddle](http://creddle.io/)
-* [Enhancv](https://enhancv.com/)
-* [VisualCV](https://www.visualcv.com/resume-builder/)
-* [Resume Builder](https://resume-builder.qwilr.com/)
-* [Standard Resume](https://standardresume.co/)
-* [Kick Resume](https://www.kickresume.com/)
-* [Canva](https://www.canva.com/)
-* Find even more sites [here](https://www.producthunt.com/e/create-a-beautiful-resume)
 
 #### Content Inclusion - Follow this order
 Use this [checklist when creating your resume](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/resume_review_checklist.md)
@@ -213,6 +218,18 @@ Use this [checklist when creating your resume](https://github.com/turingschool/c
 
 As you update your resume, check on what updates you need to make to your LinkedIn -- update this profile as often as necessary to ensure it reflects exactly what you want it to portray.
 
+#### Layouts
+You can choose to set up a traditional resume use a template like this [traditional resume](http://visualcv.com/www/google-docs-resume-templates/), but you may want to personalize the style with a layout. Check out these sites for building a resume:
+
+* [Creddle](http://creddle.io/)
+* [Enhancv](https://enhancv.com/)
+* [VisualCV](https://www.visualcv.com/resume-builder/)
+* [Resume Builder](https://resume-builder.qwilr.com/)
+* [Standard Resume](https://standardresume.co/)
+* [Kick Resume](https://www.kickresume.com/)
+* [Canva](https://www.canva.com/)
+* Find even more sites [here](https://www.producthunt.com/e/create-a-beautiful-resume)
+
 #### What Not to Include
 
 * Headshots
@@ -222,6 +239,8 @@ As you update your resume, check on what updates you need to make to your Linked
 * Colors that are not printer-friendly
      * Or make sure to have a printer-friendly version
 * Your own coded resume
+
+**Facilitator #1:** Using slide #34, cold call 1-2 students with the following question:
 
 ### Closing
 * What are you taking away from today's session?
