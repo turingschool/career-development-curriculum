@@ -4,9 +4,14 @@
 
 [Slides for this session](https://docs.google.com/presentation/d/1G1kDWESHQXZI0DeY8pxAyHfK_CMrk4wj9Sv7rZ2nMn8/edit?usp=sharing)
 
+### Facilitator Instructions
+There are facilitator notes throughout this markdown to divide up responsibilities in the session, assuming there are 2 instructors (1 BE and 1 FE) in the session. Please read through this markdown ahead of the session, decide who is going to be Facilitator #1 and who will be Facilitator #2, and let Allison know if you have any questions. Prior to the session, both facilitators should practice their professional stories to share with the cohorts.
+
 ### Session Structure
 
 Length: 60 mins
+
+**Facilitator #1:** Using slide #2-6, go through the following: 
 
 * Opening/Why: 5 mins
 * Turn & Talk: 5 mins
@@ -37,6 +42,8 @@ Today, we'll take that information to craft a **compelling story** that describe
 
 From your professional story, we'll craft your resume, your Turing portfolio, update your LinkedIn, inspire others through blog posts, personal websites, projects, and more.   
 
+**Facilitator #2:** Using Slide #7, introduce the Turn & Talk by introducing the idea of storytelling with the following information:
+
 ### Elements of a Story
 We are all inherent storytellers. Stories are how we connect with each other. From fairy tales to novels to movies to podcasts, stories provide a way for people to share their experiences with others, building empathy and awareness of our universal experiences.
 
@@ -53,17 +60,17 @@ What stories stick with you and why? Think of a story that you love; maybe it's 
 
 **Whole Group Debrief:**
 
-Sharing from 1-2 people:
+**Note to Facilitator #2:** Still on slide #7 -- cold call on 2 different people to share: 
 
 * What key details do you remember from your partner's story?
 * How did your partner tell the story? 
 * What made the story interesting?
 
-This brings us to the elements that make up a good story -- what are they?
+**Facilitator #1:** Still on slide #7, say: "This brings us to the elements that make up a good story -- what are they?" Call on 2-3 students to give some ideas of storytelling elements. Possible answers: consistent theme, protagonist who faces and overcomes challenges, a journey of some kind, sequential plot that shows a beginning, middle, and end.
 
-Possible answers: consistent theme, protagonist who faces and overcomes challenges, a journey of some kind, sequential plot that shows a beginning, middle, and end.
+* When it comes to character, what does it mean to be the hero of the story? What are the typical characteristics of a hero? 
 
-When it comes to character, what does it mean to be the hero of the story? What are the typical characteristics of a hero? 
+**Facilitator #1:** Using Slides #9-11, go through the following:
 
 **More Lessons from Pixar (and Joseph Campbell):**
 Most stories follow the 3-Act Arc:
@@ -94,6 +101,8 @@ Telling the story of your professional transition into software development help
 
 Your story is one of **transition.** These stories are inherently interesting as they have all the elements of a classic story, and most importantly, they have the important elements of change, conflict, and tension around the transition. Where are you going? What will happen next? It's so exciting for the listener! But it also depends on how you tell that story. Let's look at some examples... 
 
+**Both Facilitators:** Using Slide #12, give multiple examples of professional stories. The first story that is shared should be what *not* to do: give an exmaple of your story in which you only list out the jobs you've had without utilizing many other elements of storytelling (see below in story example #1). Then, call on students to say what they noticed from the example. Then, give your *exemplar* version of your story in which you discuss your motives and passions that led you to make specific decisions in your career path (see below in story example #2). After you share the second story, ask for students what they noticed that was different and which story they found more compelling. Each facilitator should share their professional stories, but only one needs to share the "bad" example first.
+
 #### Story Examples: Which story is more compelling? 
 During a networking event explored in this [Harvard Business Review article](https://hbr.org/2005/01/whats-your-story), senior managers who'd been downsized took turns telling what they had done before and what they were looking for next. Which of these stories is more interesting for you as a listener?
 
@@ -107,9 +116,9 @@ Story #2: "I wasn't always sure what I wanted to do for a living, but one thing 
 * Which character did you care about more? Why?
 * Based on these examples, what should your story *not* be?
 
-The second story focuses more on the turning points -- the moments that cause your listener to ask, *"What happened next?"*
+The second story focuses more on character motives, themes, and turning points -- the moments that cause your listener to ask, *"What happened next?"* However, the first story is what we often say to people we've just met in networking or interview situations, which is not very compelling.
 
-Now, let's apply these ideas to your own story and practice telling it. 
+**Facilitator #2:** Using Slide #13, discuss the following of the different situations and contexts storytelling might take place:
 
 #### When & How You Tell Your Story
 * Networking Events
@@ -119,12 +128,16 @@ Now, let's apply these ideas to your own story and practice telling it.
 * How might your story be different in these different contexts?
 * How will your 5-minute version of your story be different from your 1-minute elevator pitch?
 
+Now, let's apply these ideas to your own story and practice telling it. 
+
+**Facilitator #1:** Using Slide #14, instructo students to write out a draft of their story in their journals:
+
 ### You Do: Individual Story-writing
 
 **Write:** Reflect on your experience entering your new career in the software industry and write a draft of your story, answering the questions **who are you, why are you here, what's next?** Think about how others might root for you as a character and what's at stake for you in your career transition. Consider:
 
 * Your Strengths: what makes you the "hero" of this story?
-	* From StrengthsFinder, reflect on how developing your strengths at Turing has influenced your story
+	* Using Pairin, reflect on how developing your strengths at Turing has influenced your story
 * How have you grown at Turing? What obstacles have you overcome? 
 * What turning points led you to make this career change?
 * What does your third act look like? How does transitioning to this career bring some closure to this narrative arc?
@@ -134,10 +147,14 @@ Now, let's apply these ideas to your own story and practice telling it.
 * Utilize a story form
 * Tell multiple stories -- how can you adapt your story to different situations?
 
+**Facilitator #1:** After 10 minutes of writing, using Slide #15, tell students the following:
+
 From what you wrote down, pull out 3 things that you want to memorize:
 1. Important detail about your background
 2. Important detail about your motives
 3. Important detail about your career path
+
+**Facilitator #2:** Using Slides #16-17, introduce the scenario for group practice and have students move into groups:
 
 ### Storytelling Practice & Feedback Groups
 As you start to practice telling your story:
@@ -154,6 +171,8 @@ Feedback should include:
 * **Appreciation** on what is compelling about the story
 * **Coaching** on anything that isn't clear or about the partner's storytelling skills can be improved. 
 * Principles of being specific, actionable, and kind 
+
+**Facilitator #1:** Using slides #19-20, close out the session by calling on a few students to share takeaways:
 
 ### Closing
 **Whole Group Debrief:** What takeaways do you have about what makes an effective professional story?
