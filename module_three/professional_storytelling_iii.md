@@ -146,7 +146,9 @@ Cold call on 2-3 people to answer this question: *as a new software developer, w
 
 **Activity: Who do you interview?**
 
-Form groups of 3-4 people. You are now on a hiring committee for a junior engineering position at your company. You need to select 1 out of the 5 resumes listed here to decide who will move on to an interview. **Note to Facilitator:** Make sure students have the markdown to the session open on their computers for this activity
+Form groups of 3-4 people. You are now on a hiring committee for a junior engineering position at your company. You need to select 1 out of the 5 resumes listed here to decide who will move on to an interview.
+
+**Note to Facilitator:** Make sure students have the markdown to the session open on their computers for this activity
 
 Things to consider:
 * For the sake of this activity, the position is language agnostic
