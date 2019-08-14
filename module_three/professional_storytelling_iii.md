@@ -58,8 +58,8 @@ Be aware of your job search timeline:
 
 ### Deliverables
 * Draft of your [Turing alumni portfolio](https://alumni.turing.io) by 9am Monday of Week 2
-* Draft of your resume ready for review for Week 3's session
-* Revised draft of resume by end of Week 3
+* Draft of your resume due by 5pm Monday of Week 2
+* Revised draft of resume by Week 3's session
 * Mock behavioral interview by end of Week 5
 * Final draft of Turing alumni portfolio by 9am Monday of Week 6
 
@@ -101,7 +101,7 @@ How can you earn job shadow?
 Here are the must haves:
 * Professional photo
 * Description -- use this space to tell your professional story!
-* Draft of your resume
+* Draft of your resume *after you've received feedback and updated it using [CV Compiler](https://cvcompiler.com/students/turingschool)*
   * FINAL DRAFT: must have final resume
 * 2 projects highlighted
   * Show variety: paired, team, individual
@@ -173,7 +173,7 @@ Whole Group Debrief:
 * Who was chosen to move to an interview? Why?
 * What are your takeaways about effective resumes?
 
-**Facilitator #2:** Using slides #22-32, go through the following:
+**Facilitator #2:** Using slides #22-33, go through the following:
 
 ### Rebuilding Your Resume: Format & Content
 As a junior developer, your resume might look very different from its previous forms. Here are some things to keep in mind:
@@ -242,7 +242,18 @@ You can choose to set up a traditional resume use a template like this [traditio
      * Or make sure to have a printer-friendly version
 * Your own coded resume
 
-**Facilitator #1:** Using slide #34, cold call 1-2 students with the following question:
+### Next Steps: What's Due When for your Resume
+To get quick feedback on your resume, we partner with CV Compiler where you can upload your resume to get feedback on how to make it stronger. Here's how it works:
+
+1. Go to [https://cvcompiler.com/students/turingschool](https://cvcompiler.com/students/turingschool)
+2. Click on "Improve Your Student Resume"
+3. Authorize it with either LinkedIn or GitHub
+4. Fill out the fields with your Name and Email and the promo code provided to you by Turing
+5. Upload your resume
+
+**You are required to upload your resume to CV Compiler by 5pm on Monday of Week 2.** After you receive feedback on the resume, make any necessary changes to your resume and then upload it again to CV Compiler no later than **5pm on Wednesday of Week 2.** After that, please upload that draft of your resume to your [Turing alumni portfolio](https://alumni.turing.io/) by no later than **9am on Thursday of Week 2** in order to be considered for job shadow. 
+
+**Facilitator #1:** Using slide #35, cold call 1-2 students with the following question:
 
 ### Closing
 * What are you taking away from today's session?
