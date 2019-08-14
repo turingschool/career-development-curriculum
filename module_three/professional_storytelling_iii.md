@@ -173,7 +173,7 @@ Whole Group Debrief:
 * Who was chosen to move to an interview? Why?
 * What are your takeaways about effective resumes?
 
-**Facilitator #2:** Using slides #22-33, go through the following:
+**Facilitator #2:** Using slides #22-32, go through the following:
 
 ### Rebuilding Your Resume: Format & Content
 As a junior developer, your resume might look very different from its previous forms. Here are some things to keep in mind:
@@ -241,6 +241,8 @@ You can choose to set up a traditional resume use a template like this [traditio
 * Colors that are not printer-friendly
      * Or make sure to have a printer-friendly version
 * Your own coded resume
+
+**Facilitator #1:** Using slides #33-34, go over the resume deadlines and next steps below: 
 
 ### Next Steps: What's Due When for your Resume
 To get quick feedback on your resume, we partner with CV Compiler where you can upload your resume to get feedback on how to make it stronger. Here's how it works:
