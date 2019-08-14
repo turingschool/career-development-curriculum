@@ -57,8 +57,8 @@ Be aware of your job search timeline:
 * Create a resume and Turing portfolio that reflect your skills and your professional story
 
 ### Deliverables
-* Draft of your [Turing alumni portfolio](https://alumni.turing.io) by 9am Monday of Week 2
 * Draft of your resume due by 5pm Monday of Week 2
+* Draft of your [Turing alumni portfolio](https://alumni.turing.io) by 9am Thursday of Week 2
 * Revised draft of resume by Week 3's session
 * Mock behavioral interview by end of Week 5
 * Final draft of Turing alumni portfolio by 9am Monday of Week 6
