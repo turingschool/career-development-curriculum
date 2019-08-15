@@ -9,7 +9,7 @@ There are facilitator notes throughout this markdown to divide up responsibiliti
 
 Length: 60 mins
 
-<span style="background-color: #FFFF00">**Facilitator #1:** Using slide #2-7, go through the following:</span>
+{==this text is highlighted==} . **Facilitator #1:** Using slide #2-7, go through the following:
 
 * Opening (why, objectives, and turn & talk): 5 mins
 * Types of Pair Programming & Intro to DTR: 5 mins
