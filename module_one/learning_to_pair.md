@@ -9,7 +9,7 @@ There are facilitator notes throughout this markdown to divide up responsibiliti
 
 Length: 60 mins
 
-{==this text is highlighted==} . **Facilitator #1:** Using slide #2-7, go through the following:
+**Facilitator #1:** Using slide #2-7, go through the following:
 
 * Opening (why, objectives, and turn & talk): 5 mins
 * Types of Pair Programming & Intro to DTR: 5 mins
@@ -34,10 +34,10 @@ Length: 60 mins
 * Complete a DTR memo for at least one project using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/dtr_guidelines_memo.md) and [submit it here](https://goo.gl/forms/nzHkeSW3DeqdezV22) by 5pm on Monday of Week 2
 
 ### Opening
-Pairing with other programmers is an essential agile practice, and building your pairing skills will help you be successful in projects at Turing and in the workplace. Pairing effectively comes down to establishing a relationship with the person you’re working with. This starts with breaking down communication barriers and building trust within the working relationship.
+Pairing with other programmers is an essential practice, and building your pairing skills will help you be successful in projects at Turing and in the workplace. Pairing effectively comes down to establishing a relationship with the person you’re working with. This starts with breaking down communication barriers and building trust within the working relationship.
 
 #### Turn & Talk
-Share:
+Turn and talk with the person next to you to share:
 
 * In the past when you've worked in teams, what has it been successful?
 * What has it been unsuccessful?
@@ -76,7 +76,7 @@ You'll often find similar experiences happen in pair programming. This session w
 ### Defining the Relationship (DTR)
 DTR refers to a conversation each student has with group partner(s) before launching into a project. During this conversation, group members set expectations for how to work together. Use this [DTR Guiding Questions & Memo template](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/dtr_guidelines_memo.md) to guide the conversation.
 
-**Note to Facilitator:** Share the DTR guidelines & memo template in the cohorts' channels and cold call a few students to discuss the follow questions:
+**Note to Facilitator #2:** Share the DTR guidelines & memo template in the cohorts' channels and cold call a few students to discuss the follow questions:
 
 **Discussion Questions:**
 * What do you notice about these guiding questions?
@@ -85,7 +85,7 @@ DTR refers to a conversation each student has with group partner(s) before launc
 
 Establishing a relationship with your mentor should also include a DTR. Here’s a [cheatsheet](https://docs.google.com/document/d/1Q35fM3coYjnms9rkVem3FHVk44kW6qHp_-t99PBbczI/edit?usp=sharing) for planning that conversation.
 
-**Facilitator #1:** 
+**Facilitator #1:** Using slides #10-15, discuss the following information on relating styles:
 
 ### Using Pairin: How do we relate to each other?
 Let’s look at the 3 ego-states from Eric Berne’s [Transactional Analysis](http://www.ericberne.com/transactional-analysis/):
