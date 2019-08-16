@@ -121,7 +121,7 @@ Pairin breaks down these 3 ego states into 5 Relating Styles:
 Note: your Relating Style is not listed in your Top 4 qualities; ask Allison to create a report for you on this if you want to know more.
 
 **Pairin Example:**
-Cold call 1-2 people: Using the chart on Slide #15 which shows the relating styles of the Parent Ego state across both cohorts:
+**Facilitator #1:** Cold call 1-2 people: Using the chart on Slide #15 which shows the relating styles of the Parent Ego state across both cohorts:
 
 * What do you notice about your cohorts?
 * How could people work together across opposite sides of this spectrum?
@@ -144,10 +144,10 @@ Define your own expectations by reflecting on the following questions in your jo
   * How can you communicate your expectations so that you’re on the same page?
 
 ### Compromising with Each Others’ Expectations
-Facilitator say: How many of you are early birds? Now, how many of you are night owls? Let's say the early birds and the night owls get paired up, how could they worked together successfully? 
+**Facilitator #2 says:** How many of you are early birds? Now, how many of you are night owls? Let's say the early birds and the night owls get paired up, how could they worked together successfully? 
   * Solicit answers from the cohort on strategies for working together.
   
-Using Slide 18:
+**Slide 18:**
 
 * Beware of the Paired Project Fallacy:
 	* My partner is better than I am OR My partner is holding me back.
@@ -155,24 +155,47 @@ Using Slide 18:
 	* This is a fallacy because it discounts all the important skills you both bring to your partnership.
 	* If you don’t feel as strong in your technical skills, what are your strengths? How do your strengths balance out your partner’s? How can you contribute to the project management? What do you want to learn during this project to improve your technical skills?
 	* If you feel like you have stronger technical skills, teaching your partner will help you solidify these skills. Alternatively, what can you learn from your partner?
-	* Beware of the "Developer's Ego" -- learning to ask questions is an important skill for the workplace.
+	* Beware of the "Developer's Ego"; learning to ask questions is an important skill for the workplace.
 * Bottom line: Paired project code is owned by the entire team. There is no room (and no time, considering your tight deadlines) for egos -- you are here to support each other.
 
 ### Holding Each Other Accountable
+**Slide #19:**
 * Memo: Documenting your DTR in a memo will provide you with a record of what you discussed to reference as the project goes on. Make it into a gist so that everyone from the group has it.
 * Stand Up: Start each work session discussing what you are each working on that day and what goals you hope to accomplish at the end of the work session.
 * Retro: Hold regular retros to discuss what’s going well, what’s not going well, and what you should change as a group to make your project and team more successful.
-	* Check out this example of [retro notes](https://docs.google.com/document/d/1qX18S_Ok2IQA5kRB2vdblF61XbO3nX-oTWFkfgA0L8k/edit?usp=sharing)
+	* We'll talk about retros a little more in week 4.
 * Re-DTR: In longer projects, review and readjust expectations midway through the project.
 
+**Facilitator #1:** Using Slides #21-25, go through the following:
+
 ### Using Crucial Conversations
+**On Slide 21, Facilitator #1 says:** Consider this scenario -- you ask a friend to pick you up from the doctor's office and take you to school. This is a really good friend, one you've relied on often. And right now, they're late. What's going through your mind?
+  * Solicit 1-2 responses from the cohort.
+
+Then say: Ok, actually this friend is not that reliable. They've been late before. Sometimes they don't return your messages. And now, they're late, and you're going to be late to class. Now, what's going through your mind?
+  * Solicit 1-2 responses from the cohort.
+  
+Now say: We often go from thinking about external circumstances influencing someone's behavior to starting to make assumptions about that person. That's called the Fundamental Attribution Error.
+
+Now, let's say your friend gets here finally. You get in the car, and your friend is giving all sorts of excuses ("Sorry, I had to take my dog to the vet, and then I had to call my grandma, and then there was a ton of construction so I had to take a detour..."), and you just say, "it's fine." What have you just done?
+  * Solicit 1-2 responses from the cohort.
+  
+You've reacted with *silence*; also known as passive aggression or enabling. You have not addressed the issue.
+
+Let's say, you get in the car, they give you their excuses, and you really let them have it, yelling at them about what a bad friend they are! What have you just done?
+  * Solicit 1-2 responses from the cohort.
+  
+You've reacted with *violence*; also known as aggression. You also have not addressed the issue and maybe have ruined a relationship over it.  
+
 #### Addressing Broken Expectations
-When a partner is not following through on expectations, the first step is to work on yourself:
+**Slide #22:** When a partner is not following through on expectations, the first step is to work on yourself:
 
 * How are you reacting?
 	* Silence (avoiding the situation; passive aggression; using sarcasm). By not addressing the situation, it looks like you actually approve of what the other person did.
 	* Violence (yelling; personal attacks). By reacting this way, it looks like you are hard to work with and are abusive when things don’t go your way.
 	* Fundamental Attribution Error. This error comes from an assumption that others are doing contrary things because it’s part of their makeup or that they don’t care rather than considering other potential motivational forces
+	
+**Slide #23:**
 * How to fix these reactions:
 	* Humanize the situation: analyze why the other person could have broken these social norms
 	* Consider the 6 Sources of Influence:
@@ -188,7 +211,7 @@ When a partner is not following through on expectations, the first step is to wo
 			* Ability (What is structurally holding you back? Do you need a better organizational system? Trello, waffle.io, etc.)
 
 #### Facilitating the Conversation
-Now that you’ve identified a motivation behind your partner’s behavior, how do you conduct a conversation to change that behavior?
+**Slide #24:** Now that you’ve identified a motivation behind your partner’s behavior, how do you conduct a conversation to change that behavior?
 
 * **Establish safety**: you’re about to address something sensitive with another person and they may feel threatened in one way or another.
 	* **Mutual Respect**: People feel unsafe when they don’t feel mutual respect
