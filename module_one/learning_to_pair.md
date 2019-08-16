@@ -9,7 +9,7 @@ There are facilitator notes throughout this markdown to divide up responsibiliti
 
 Length: 60 mins
 
-**Facilitator #1:** Using slide #2-7, go through the following:
+**Facilitator #1:** Using slide #2-6, go through the following:
 
 * Opening (why, objectives, and turn & talk): 5 mins
 * Types of Pair Programming & Intro to DTR: 5 mins
@@ -44,7 +44,7 @@ Turn and talk with the person next to you to share:
 
 You'll often find similar experiences happen in pair programming. This session will help you discover tools to navigate this relationship in a way that it's a great learning experience for you both. 
 
-**Facilitator #2:** Using slides #8-9, go through the following and call on students to discuss what's helpful in each style of pair programming and when they might want to try out different styles:
+**Facilitator #2:** Using slides #8-10, go through the following and call on students to discuss what's helpful in each style of pair programming and when they might want to try out different styles:
 
 ### Types of pair programming
 [Pair programming](https://www.agilealliance.org/glossary/pairing/) can take many forms, and here are some suggestions of how you can approach pairing at Turing:
@@ -85,44 +85,53 @@ DTR refers to a conversation each student has with group partner(s) before launc
 
 Establishing a relationship with your mentor should also include a DTR. Here’s a [cheatsheet](https://docs.google.com/document/d/1Q35fM3coYjnms9rkVem3FHVk44kW6qHp_-t99PBbczI/edit?usp=sharing) for planning that conversation.
 
-**Facilitator #1:** Using slides #10-15, discuss the following information on relating styles:
+**Facilitator #1:** Using slides #12-16, discuss the following information on communication and relating styles:
 
-### Using Pairin: How do we relate to each other?
+### How We Communicate:
 Let’s look at the 3 ego-states from Eric Berne’s [Transactional Analysis](http://www.ericberne.com/transactional-analysis/):
-* Parent: Our taught concept of life; shown by a need to control or nurture
-  * Pairin: Correcting Others or Enriching Others
-* Adult: Our thought concept of life; shown through using reason and maturity
-  * Pairin: Responsibility
-* Child: Our felt concept of life; shown through how easily we can adapt to new situations or desire to rebel & exercise freedom
-  * Pairin: Approval Seeking or Playfulness
+* Parent: Our taught concept of life; shown by a need to control or nurture. We demonstrate this through behaviors, thoughts, and feelings copied from parents or parent figures. 
+  
+* Adult: Our thought concept of life; shown through using reason and maturity. We demonstrate this through behaviors, thoughts, and feelings that are *direct responses* to the here and now.
+
+* Child: Our felt concept of life; shown through how easily we can adapt to new situations or desire to rebel & exercise freedom. We demonstrate this through behaviors, thoughts, and feelings replayed from childhood. 
   
 [This blog post](https://medium.com/@NataliMorad/how-to-communicate-better-with-transactional-analysis-d0d32f9d50da) gives an excellent breakdown of these different ego-states in action. 
 
-**Discussion:** 
-* What are the relating styles present across our cohorts? 
-* How could we work together successfully?
-* What do we expect each of these different communication styles to look like?
-* How would you describe this person’s ability to communicate?
+#### Our Ideal Communication vs. What Often Happens
+When working and communicating with others, we all ideally hope that we are utilizing our Adult ego state, reflected in reason, maturity, and connecting to the present moment, and we hope that we are aligned with our teammates. 
 
-#### Volunteer Group Activity
-A team is made up of each of the relating styles:
-* Correcting Others
-* Enriching Others
-* Responsibility
-* Approval Seeking
-* Playfulness
+However, in reality, we are often accessing our Parent and Child roles or using ego states that are misaligned with others:
 
-Their assignment:
-* Paint a house
+* **Complimentary:** This occurs when communication styles line up; either shown by Adult-Adult or Parent-Child. It is easier to communicate when these styles complement each other since we are not at cross-purposes, and there will be less of a chance of misunderstanding.
+* **Cross:** This occurs when our communication styles do not line up. We might pose a question from an Adult ego state, but the person receiving it reacts from a Parent or Child ego state. When this happens, misunderstandings are frequent.
+* **Ulterior:** This involves unspoken and inferred communication. Communication is spoken, but the person receiving it hears a different intent.
 
-How will each of them contribute?
+A lot of this misaligned communication comes down to a mismatch of intent and impact, which we'll talk about more in-depth during the Feedback I session next week. 
 
-A group of 5 volunteers will act out this activity, and then we'll debrief as a class.
+#### Want to know more? Pairin measures this!
+Pairin breaks down these 3 ego states into 5 Relating Styles:
 
-* What did you notice about how they interacted with each other?
-* What does make you think about how people can successfully work together?
+* Parent: Correcting Others or Enriching Others	
+  * Needing to control vs. needing to nurture
+* Adult: Responsibility
+  * Using reason and maturity
+* Child: Approval Seeking or Playfulness
+  * How easily we can adapt to new situations vs. desire to rebel & exercise freedom
 
-### Define Your Own Expectations:
+Note: your Relating Style is not listed in your Top 4 qualities; ask Allison to create a report for you on this if you want to know more.
+
+**Pairin Example:**
+Cold call 1-2 people: Using the chart on Slide #15 which shows the relating styles of the Parent Ego state across both cohorts:
+
+* What do you notice about your cohorts?
+* How could people work together across opposite sides of this spectrum?
+* What should these people be aware of to keep from having cross purposes when communicating? 
+
+**Facilitator #2:** Using Slides #17-19, go through the following:
+
+### Journal Reflection
+Define your own expectations by reflecting on the following questions in your journals:
+
 * Define your strengths 
 * How do you work best? 
   * Where do you land on the introvert/extrovert spectrum?
@@ -135,6 +144,11 @@ A group of 5 volunteers will act out this activity, and then we'll debrief as a 
   * How can you communicate your expectations so that you’re on the same page?
 
 ### Compromising with Each Others’ Expectations
+Facilitator say: How many of you are early birds? Now, how many of you are night owls? Let's say the early birds and the night owls get paired up, how could they worked together successfully? 
+  * Solicit answers from the cohort on strategies for working together.
+  
+Using Slide 18:
+
 * Beware of the Paired Project Fallacy:
 	* My partner is better than I am OR My partner is holding me back.
 * Why is this a fallacy?
@@ -151,7 +165,8 @@ A group of 5 volunteers will act out this activity, and then we'll debrief as a 
 	* Check out this example of [retro notes](https://docs.google.com/document/d/1qX18S_Ok2IQA5kRB2vdblF61XbO3nX-oTWFkfgA0L8k/edit?usp=sharing)
 * Re-DTR: In longer projects, review and readjust expectations midway through the project.
 
-### Addressing Broken Expectations
+### Using Crucial Conversations
+#### Addressing Broken Expectations
 When a partner is not following through on expectations, the first step is to work on yourself:
 
 * How are you reacting?
@@ -172,7 +187,7 @@ When a partner is not following through on expectations, the first step is to wo
 			* Motivation (deadlines, grades, etc.)
 			* Ability (What is structurally holding you back? Do you need a better organizational system? Trello, waffle.io, etc.)
 
-### Facilitating the Conversation
+#### Facilitating the Conversation
 Now that you’ve identified a motivation behind your partner’s behavior, how do you conduct a conversation to change that behavior?
 
 * **Establish safety**: you’re about to address something sensitive with another person and they may feel threatened in one way or another.
@@ -204,9 +219,21 @@ Now that you’ve identified a motivation behind your partner’s behavior, how 
 		* Create action steps:
 			* Re-DTR: who will do what and when?
 
-### Practice
+#### Practice
 
-**Scenario:** During DTR, Partner A and Partner B decided that you would have an end of day retro to debrief how the worktime went. But at the end of the first day, Partner A left abruptly right after Wrap Up and didn’t meet with Partner B to retro on the tasks. Then in day two, Partner A doesn’t have a task finished that was promised to be done. Partner B is worried about time and how to proceed when Partner A seems unreliable.
+**Scenario:** During DTR, Partner A and Partner B decided that you would have an end of day retro to debrief how the worktime went. But at the end of the first day, Partner A left abruptly right after class and didn’t meet with Partner B for their retro. Then in day two, Partner A doesn’t have a task finished that was promised to be done. Partner B is worried about time and how to proceed when Partner A seems unreliable.
+
+* Decide who Partner A is and who Partner B is and use the ideas we’ve discussed to have a conversation to address the issue and reset expectations
 * What assumptions need to be addressed?
 * How will you conduct the conversation?
-* Debrief: what was easy or difficult about having this conversation?
+
+Debrief by calling on 1-2 people: what was easy or difficult about having this conversation?
+
+### Closing
+Share out takeaways:
+
+* What is DTR?
+* How do you hold each other accountable to expectations?
+* What will you do if expectations broken?
+* What steps will you take to have that conversation?
+
