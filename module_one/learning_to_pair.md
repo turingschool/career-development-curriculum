@@ -11,6 +11,8 @@ Length: 60 mins
 
 **Facilitator #1:** Using slide #2-6, go through the following:
 
+**Slide #2:**
+
 * Opening (why, objectives, and turn & talk): 5 mins
 * Types of Pair Programming & Intro to DTR: 5 mins
 * Relating Styles: 15 mins
@@ -21,6 +23,7 @@ Length: 60 mins
 * Debrief & Closing: 5 mins
 
 ### Objectives:
+**Slide #4:**
 
 * Identify various forms of pair programming
 * Understand what DTR is and how to hold a DTR conversation
@@ -34,9 +37,13 @@ Length: 60 mins
 * Complete a DTR memo for at least one project using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/dtr_guidelines_memo.md) and [submit it here](https://goo.gl/forms/nzHkeSW3DeqdezV22) by 5pm on Monday of Week 2
 
 ### Opening
+**Slide #5:**
+
 Pairing with other programmers is an essential practice, and building your pairing skills will help you be successful in projects at Turing and in the workplace. Pairing effectively comes down to establishing a relationship with the person you’re working with. This starts with breaking down communication barriers and building trust within the working relationship.
 
 #### Turn & Talk
+**Slide #6:**
+
 Turn and talk with the person next to you to share:
 
 * In the past when you've worked in teams, what has it been successful?
@@ -47,6 +54,8 @@ You'll often find similar experiences happen in pair programming. This session w
 **Facilitator #2:** Using slides #8-10, go through the following and call on students to discuss what's helpful in each style of pair programming and when they might want to try out different styles:
 
 ### Types of pair programming
+**Slide #8:**
+
 [Pair programming](https://www.agilealliance.org/glossary/pairing/) can take many forms, and here are some suggestions of how you can approach pairing at Turing:
 
 * **Driver-Navigator:** Driver has control of the keyboard while the Navigator guides the Driver towards the end goal.
@@ -74,6 +83,8 @@ You'll often find similar experiences happen in pair programming. This session w
 	Potential pitfall: Technical issues when pairing remotely are common, so test your tools ahead of time!
 	
 ### Defining the Relationship (DTR)
+**Slide #9:**
+
 DTR refers to a conversation each student has with group partner(s) before launching into a project. During this conversation, group members set expectations for how to work together. Use this [DTR Guiding Questions & Memo template](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/dtr_guidelines_memo.md) to guide the conversation.
 
 **Note to Facilitator #2:** Share the DTR guidelines & memo template in the cohorts' channels and cold call a few students to discuss the follow questions:
@@ -88,6 +99,8 @@ Establishing a relationship with your mentor should also include a DTR. Here’s
 **Facilitator #1:** Using slides #12-16, discuss the following information on communication and relating styles:
 
 ### How We Communicate:
+**Slide #12:**
+
 Let’s look at the 3 ego-states from Eric Berne’s [Transactional Analysis](http://www.ericberne.com/transactional-analysis/):
 * Parent: Our taught concept of life; shown by a need to control or nurture. We demonstrate this through behaviors, thoughts, and feelings copied from parents or parent figures. 
   
@@ -98,6 +111,8 @@ Let’s look at the 3 ego-states from Eric Berne’s [Transactional Analysis](ht
 [This blog post](https://medium.com/@NataliMorad/how-to-communicate-better-with-transactional-analysis-d0d32f9d50da) gives an excellent breakdown of these different ego-states in action. 
 
 #### Our Ideal Communication vs. What Often Happens
+**Slides #13-14:**
+
 When working and communicating with others, we all ideally hope that we are utilizing our Adult ego state, reflected in reason, maturity, and connecting to the present moment, and we hope that we are aligned with our teammates. 
 
 However, in reality, we are often accessing our Parent and Child roles or using ego states that are misaligned with others:
@@ -109,6 +124,8 @@ However, in reality, we are often accessing our Parent and Child roles or using 
 A lot of this misaligned communication comes down to a mismatch of intent and impact, which we'll talk about more in-depth during the Feedback I session next week. 
 
 #### Want to know more? Pairin measures this!
+**Slide #15:**
+
 Pairin breaks down these 3 ego states into 5 Relating Styles:
 
 * Parent: Correcting Others or Enriching Others	
@@ -121,7 +138,7 @@ Pairin breaks down these 3 ego states into 5 Relating Styles:
 Note: your Relating Style is not listed in your Top 4 qualities; ask Allison to create a report for you on this if you want to know more.
 
 **Pairin Example:**
-**Facilitator #1:** Cold call 1-2 people: Using the chart on Slide #15 which shows the relating styles of the Parent Ego state across both cohorts:
+**Facilitator #1:** Cold call 1-2 people: Using the chart on **Slide #16** which shows the relating styles of the Parent Ego state across both cohorts:
 
 * What do you notice about your cohorts?
 * How could people work together across opposite sides of this spectrum?
@@ -130,6 +147,8 @@ Note: your Relating Style is not listed in your Top 4 qualities; ask Allison to 
 **Facilitator #2:** Using Slides #17-19, go through the following:
 
 ### Journal Reflection
+**Slide #17:**
+
 Define your own expectations by reflecting on the following questions in your journals:
 
 * Define your strengths 
@@ -229,6 +248,8 @@ You've reacted with *violence*; also known as aggression. You also have not addr
 		* “When you said that, it made me feel frustrated because I didn't think you valued my input and you weren’t taking our expectations seriously.”
 	* **Ask** for the other person’s side:
 		* “What is your take on this?”
+
+**Slide #25:**
 * Following up after stating your side:
 	* Listen to the other person’s side
 	* Analyze the response & go back to the 6 sources of influence:
@@ -242,7 +263,10 @@ You've reacted with *violence*; also known as aggression. You also have not addr
 		* Create action steps:
 			* Re-DTR: who will do what and when?
 
+**Facilitator #2:** Using Slides #27 & 28, go through the following:
+
 #### Practice
+**Slide #27:**
 
 **Scenario:** During DTR, Partner A and Partner B decided that you would have an end of day retro to debrief how the worktime went. But at the end of the first day, Partner A left abruptly right after class and didn’t meet with Partner B for their retro. Then in day two, Partner A doesn’t have a task finished that was promised to be done. Partner B is worried about time and how to proceed when Partner A seems unreliable.
 
@@ -253,6 +277,8 @@ You've reacted with *violence*; also known as aggression. You also have not addr
 Debrief by calling on 1-2 people: what was easy or difficult about having this conversation?
 
 ### Closing
+**Slide #28:**
+
 Share out takeaways:
 
 * What is DTR?
