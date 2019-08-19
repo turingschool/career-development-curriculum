@@ -52,7 +52,7 @@ Workflow Expectations (Git workflow/Tools/Code Review/Reviewing Pull Requests/De
 
 Expectations for giving and receiving feedback:
 
-Project management tools we will use:
+Project management tools we will use (GitHub projects or Trello are popular tools):
 
 Day 1 Agenda: 
 
