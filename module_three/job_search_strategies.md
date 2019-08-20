@@ -41,19 +41,19 @@ In contrast, [referral candidates](http://www.careerxroads.com/news/SourcesOfHir
 **Slide #6:**
 
 #### Group Discussion
-Form groups of 3-4 people, decide on a notetaker , and create a list to answer this question:
+Form groups of 3-4 people, decide on a notetaker, and in your journal, create a list to answer this question:
 
 * What are the steps you should take for a successful job search as a junior developer? 
 * what resources should you use along the way?
 
-After 5 minutes of brainstorming, walk around the room to read other groups’ papers:
+After 5 minutes of brainstorming, each group should pair up with another and share your lists with each other. Then 2-3 students share out:
 * What trends do you see?
 * What is something new you hadn’t thought of?
 * What will be challenging for you to do in the job search?
 
-As a group, we'll come up with a definitive list.
+**Note to Facilitators:** One facilitator can call on students and another can write on the board the items that they list.
 
-Now that you have an idea of what you'll need to do, how can you keep track of these things?
+Now that you have an idea of what you'll need to do, how can you keep track of these things? Use a job tracking system!
 
 **Facilitator #2:** Using slides #10-13, go through the following:
 
@@ -106,7 +106,7 @@ Reminder: Update Huntr in every step of the process.
 **Slide #14:**
 How can you use these sites listed here to find opportunities? 
 
-**Note to Facilitator #2:** Instruct students to open this markdown to start looking through all of the many resources available to them. 
+**Note to Facilitator #1:** Instruct students to open this markdown to start looking through all of the many resources available to them. 
 
 **Slide #15:**
 **Facilitator shares:** You can narrow down companies who are doing the kind of work you want to do. Compare them and track them on Owler. Follow them on LinkedIn.
@@ -202,10 +202,9 @@ How can you use these sites listed here to find opportunities?
 * And of course, don't forget about the #job-hunt channel on Slack
 
 **Slide #20:**
-**Facilitator shares:** Utilize 
 
 #### Search by...outreach & social media
-In addition to finding the right posting, remember that the next step is to find a face at the company to connect with. LinkedIn will be your go-to site for this, but a great way to continue the research into places you want to work that are aligned with your goals is by building your network. Below are some suggestions for groups to utilize for this purpose:
+**Facilitator shares:** In addition to finding the right posting, remember that the next step is to find a face at the company to connect with. LinkedIn will be your go-to site for this, but a great way to continue the research into places you want to work that are aligned with your goals is by building your network. Below are some suggestions for groups to utilize for this purpose:
 
 * [Meetup](http://www.meetup.com/)
    * Tips: Search for groups local to the area you’re interested in working and in topics that you're interested in pursuing (i.e. Ruby, JavaScript, etc.). Be sure to select "Groups" (not "Calendar"). On the group page, there are two things that will be very useful to your job search:
@@ -232,24 +231,17 @@ In addition to finding the right posting, remember that the next step is to find
 
 **Debrief:** Discuss whole group takeaways and questions
 
+**Facilitator #2:** Using Slide 21, use at least 2 of the tools mentioned on the previous slides to demonstrate for the whole class how you'd approach looking for an opportunity using them. Call on 1-2 volunteers to help walk you through the steps for conducting research on the companies and finding contacts for outreach. 
+
 ### Demo: Group Practice
-As a whole group, we'll find a job listing to go through. Using this job listing, I'm going to update my Huntr and create a plan for outreach using the guidelines we discussed last module in the [Outreach & Networking Session](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/outreach_and_networking.md):
+As a whole group, we'll work through a strategy for finding a job opportunity and conducting some initial research to add to our Huntr boards. 
 
-* Update my contacts -- how do I find contact information?
-* Craft my email -- what should I say? 
-* Create a task/Set up a meeting
-
-Need more help? Join the #cold-outreach channel and come to their sessions
-
-**What else?**
-
-* Describe a plan for research
-* Create a tailored resume for the position
-* Write a tailored cover letter for the position
-* Research the technologies/libraries the company uses to use in an upcoming project
+**Facilitator #2:** On Slide 23, instruct students to start diving into the tools and going through the strategy. Both Facilitators can float around and answer questions during the work time.
 
 ### Your Turn: Conduct Research & Update Your Tracker
 You have 15 minutes now to get started researching and adding opportunities you're interested in to your Jobtrack.io account.
+
+**Facilitator #1:** Using slides #24-25, close out the session and call on any students for final questions or takeaways.
 
 ### Closing & Next Steps
 It's important to take the time now to organize your job search. Take these steps to make this process less daunting and empower yourself. 
