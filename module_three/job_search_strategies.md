@@ -2,11 +2,15 @@
 
 [Slides for this session](https://docs.google.com/presentation/d/1cMJwVIn7QY4txtLLUfGrb-gF1A9PuWxyVfJuSqeKE4U/edit?usp=sharing)
 
-### Why
-Now is the point in your Turing education to start on your job search, and through this session, we'll discuss tools to use to approach the job search in an intentional way that will also make the search less overwhelming.  
+### Facilitator Instructions
+There are facilitator notes throughout this markdown to divide up responsibilities in the session, assuming there are 2 instructors (1 BE and 1 FE) in the session. Please read through this markdown ahead of the session, decide who is going to be Facilitator #1 and who will be Facilitator #2, and let Allison know if you have any questions.
 
 ### Overview of Session
 Session length: 60 minutes
+
+**Facilitator #1:** Using slide #3-8, go through the following:
+
+**Slide #3:** 
 
 * Opening (10 mins)
 * Job Searching Tracking (10 mins)
@@ -16,6 +20,9 @@ Session length: 60 minutes
 * Share Out & Closing (5 mins)
 
 ### Opening
+
+**Slide #4:**
+
 #### Objectives
 
 * Understand all components that go into an effective job search 
@@ -23,16 +30,21 @@ Session length: 60 minutes
 * Create and effectively use a job search tracker for your job search with Huntr
 * Start a list of companies and jobs to research
 
-The traditional way to look for jobs isn't necessarily the best route. 
+**Slide #5:**
+
+Focusing your job search strategy solely on job postings is not the best idea. 
 
 Applying for jobs on sites like monster.com, Indeed, and other career listing sites can be discouraging and ineffective. As little as [20-30% of job listings](http://www.npr.org/2011/02/08/133474431/a-successful-job-search-its-all-about-networking) are being posted online. That means that when you're _only_ looking at company job postings, you are decreasing your chances of finding a job significantly. 
 
-In contrast, [referral candidates](http://www.careerxroads.com/news/SourcesOfHire2013.pdf) are 3-4 times more likely to be hired than non-referral candidates. To add yourself to those numbers, today we'll talk about how to find a job without relying on just a job application. 
+In contrast, [referral candidates](http://www.careerxroads.com/news/SourcesOfHire2013.pdf) are 3-4 times more likely to be hired than non-referral candidates. To add yourself to those numbers, today we'll talk about how to find a job without relying on just a job posting. 
+
+**Slide #6:**
 
 #### Group Discussion
-Form groups of 3-4 people, grab a piece of chart paper, and create a list to answer this question:
+Form groups of 3-4 people, decide on a notetaker , and create a list to answer this question:
 
-* What are all the things you should do for a successful job search as a junior developer? 
+* What are the steps you should take for a successful job search as a junior developer? 
+* what resources should you use along the way?
 
 After 5 minutes of brainstorming, walk around the room to read other groups’ papers:
 * What trends do you see?
@@ -43,14 +55,25 @@ As a group, we'll come up with a definitive list.
 
 Now that you have an idea of what you'll need to do, how can you keep track of these things?
 
-### Prep for Your Job Search: Using a Tracker
-The first step to a successful job search is to utilize a tracking system. Having a system to keep track of everything from companies you're interested in to notes from coffee meetings will be highly beneficial in staying organized in the job search. We'll get set up today using [Huntr](https://huntr.co/):
+**Facilitator #2:** Using slides #10-16, go through the following:
 
+### Prep for Your Job Search: Using a Tracker
+
+**Slides #10 & 11:**
+
+The first step to a successful job search is to utilize a tracking system. Having a system to keep track of everything from companies you're interested in to notes from coffee meetings will be highly beneficial in staying organized in the job search. We'll get set up today using [Huntr](https://huntr.co/) as your tracker. Here's what you should know:
+
+* Huntr works similarly to Trello. You can create cards for specific companies and then move them to the different lists as you complete specific steps (applied, interview, offer, etc.)
 * Start by reading through this guide to [using Huntr here](https://help.huntr.co/for-job-seekers/huntr-quickstart-guide)
-* Install the [Chrome extension](https://chrome.google.com/webstore/detail/huntr-job-search-tracker/mihdfbecejheednfigjpdacgeilhlmnf)
+* Install the [Chrome extension](https://chrome.google.com/webstore/detail/huntr-job-search-tracker/mihdfbecejheednfigjpdacgeilhlmnf) to add a job posting right from its source
 * Start customizing your board!
 
+**You Do:** Spend 5 minutes logging in, setting up your board, and reading through the info here to familiarize yourself with Huntr
+
 ### The Process
+
+**Slide #13:**
+
 So if you aren't going to just apply to a posting on a job board, what is your process?
 
 Here are helpful tips for the process:
@@ -74,55 +97,19 @@ Here are helpful tips for the process:
 5. Go back to your Contact
   * Let them know you've applied
 
-Update Huntr in every step of the process. 
+Reminder: Update Huntr in every step of the process. 
 
-### Where to Begin: Finding the Job Posting
-In order to find job postings and begin conducting research, here are some tools you should check out:
+### Where to Begin: Finding Opportunities
 
-* [LinkedIn](http://www.linkedin.com/)
-   * Tips: 
-      * Use the "Advanced Search" tool to find people based on skillset, location, and industry OR names of companies and select the "People who work at..." option
-      * In "Keywords" type in the skills or focus you want to be working in (i.e., JavaScript, Ruby, Python, EdTech, FinTech, etc.)
-      * In "Location" type in the area where you'd like to work
-      * In "Industry" select "computer software"
-      * Search: Of those profiles that return, look at their profiles to see the list of companies they've worked for. What companies do you want to continue to research? Who do you want to connect with? 
-      * You can also click on the company’s page and on the right side, view "Similar Companies" where your connections work
-* [BuiltIn](http://builtin.com/) is located in Austin, Boston, Chicago, Colorado, LA, and New York 
-* [Github’s Job Board](https://jobs.github.com/)
-* [Glassdoor](https://www.glassdoor.com/index.htm)
-* [Techstars Listing of Companies](https://www.techstars.com/companies/)
-* [Smashing Magazine’s Job Board](http://jobs.smashingmagazine.com/)
-* [Mashable's Job Board](http://jobs.mashable.com/jobs/search/results)
-* [Angel List](https://angel.co/jobs)
-* [Hired](https://hired.com/)
-* [Dice](https://www.dice.com/#)
-* [Stack Overflow Job Board](http://careers.stackoverflow.com/jobs)
-* [Product Hunt](https://www.producthunt.com/jobs)
-* [Hacker News](https://news.ycombinator.com/jobs)
-* [Authentic Jobs](https://authenticjobs.com/)
-* [Krop](https://www.krop.com/)
-* [The Muse](https://www.themuse.com/jobs)
-* [Craigslist](https://denver.craigslist.org/d/software-qa-dba-etc/search/sof) 
-* [Top Ruby Jobs](https://toprubyjobs.com/)
-* [Ruby Weekly](http://rubyweekly.com/)
-* [Ruby Now](https://jobs.rubynow.com/)
-* [JavaScript Weekly](http://javascriptweekly.com/)
-* [gun.io](https://gun.io/)
-* [Startupers](https://www.startupers.com/)
-* [Working Nomads](https://www.workingnomads.co/jobs)
-* [Ars Technica Job Board](http://arstechnica.com/jobs/)
-* [We Work Remotely Job Board](https://weworkremotely.com/)
-* [Current Listing of Remote Dev Jobs](https://remoteok.io/remote-dev-jobs)
-* [Flex Jobs](https://www.flexjobs.com/)
-* [Hatchways](https://hatchways.io/#/) helps connect juniors with their first jobs in tech by identifying skill gaps and talking through goals for your job search. 
-* [Key Values](https://www.keyvalues.com/) allows you to search for companies that fit with your key values.
-* [People of Color in Tech](https://www.pocitjobs.com/) is a job site specifically for People of Color in tech.
-* [reacHire](http://www.reachire.com/women/jobs) is a job site specifically for connecting women with companies that value inclusion. 
-* [This Dot](https://www.thisdot.co/hirethefempire) hires women-presenting, frontend junior developers.
-* [Power to Fly](https://powertofly.com/jobs/) is a job site specifically for women.
-* [Diversify Tech](https://www.diversifytech.co/) is a job site built specifically for underrepresented groups in tech.
-* [Include.io](https://include.io/) is a job site built to connect underrepresented groups in tech with employers.
-* [Owler](https://www.owler.com/) is a great way to conduct research on different companies.
+**Slides #14-17:**
+
+**Note to Facilitator #2:** Instruct students to open this markdown to start looking through all of the many resources available to them. Say: "How can you use these sites listed here to find opportunities? 
+
+* 1. **Search by companies.** You can narrow down companies who are doing the kind of work you want to do. Compare them and track them on Owler. Follow them on LinkedIn.
+* 2. **Search by listings.** Use some of the many resources listed here on the markdown to find job postings. Be sure to narrow the searches to entry level/junior developers and include the technologies you're most familiar with to find targeted listings. However, don't limit yourself either. Read through all the postings to see what 
+* 3. 
+
+#### Search by...company
 * [Listing of Colorado Tech Companies](https://bizwest.com/colorado-tech-2017/?member=guest)
     * Tips:
       * Check out the articles and directory here for lots of companies you can add to your research
@@ -136,8 +123,70 @@ In order to find job postings and begin conducting research, here are some tools
     * Other Resources:
       * [25 Killer Combos for Google's Site: Operator](https://moz.com/blog/25-killer-combos-for-googles-site-operator)
       * [How to Use Google Search More Effectively](http://mashable.com/2011/11/24/google-search-infographic/)
+* [Owler](https://www.owler.com/) is a great way to conduct research on different companies.
 
-#### The Essential Step in the Process: Building Your Network & Conducting Outreach
+#### Search by...culture
+* [Key Values](https://www.keyvalues.com/) allows you to search for companies that fit with your key values.
+
+* Start Ups:
+  * [Startupers](https://www.startupers.com/)
+  * [Techstars Listing of Companies](https://www.techstars.com/companies/)
+
+* Remote work:
+  * [Remote OK](https://remoteok.io/remote-dev-jobs)
+  * [Working Nomads](https://www.workingnomads.co/jobs?category=development)
+  * [We Work Remotely Job Board](https://weworkremotely.com/)
+  * [Flex Jobs](https://www.flexjobs.com/)
+  
+#### Search by...language or skillset
+* [Top Ruby Jobs](https://toprubyjobs.com/)
+* [Ruby Weekly](http://rubyweekly.com/)
+* [Ruby Now](https://jobs.rubynow.com/)
+* [Ruby on Rails Jobs](https://www.rorjobs.com/)
+* [JavaScript Weekly](http://javascriptweekly.com/)
+* [React Job Board](https://www.reactjobboard.com/)
+* [Python Job Board](https://www.python.org/jobs/)
+* [Elixir Jobs](https://elixirjobs.net/)
+* [Hatchways](https://hatchways.io/#/) helps connect juniors with their first jobs in tech by identifying skill gaps and talking through goals for your job search.
+* [ZipRecruiter](https://www.ziprecruiter.com/) 
+
+#### Search by...network
+* [LinkedIn](http://www.linkedin.com/)
+   * Tips: 
+      * Use the "Advanced Search" tool to find people based on skillset, location, and industry OR names of companies and select the "People who work at..." option
+      * In "Keywords" type in the skills or focus you want to be working in (i.e., JavaScript, Ruby, Python, EdTech, FinTech, etc.)
+      * In "Location" type in the area where you'd like to work
+      * In "Industry" select "computer software"
+      * Search: Of those profiles that return, look at their profiles to see the list of companies they've worked for. What companies do you want to continue to research? Who do you want to connect with? 
+      * You can also click on the company’s page and on the right side, view "Similar Companies" where your connections work
+* [People of Color in Tech](https://www.pocitjobs.com/) is a job site specifically for People of Color in tech.
+* [reacHire](http://www.reachire.com/women/jobs) is a job site specifically for connecting women with companies that value inclusion. 
+* [This Dot](https://www.thisdot.co/hirethefempire) hires women-presenting, frontend junior developers.
+* [Power to Fly](https://powertofly.com/jobs/) is a job site specifically for women.
+* [Diversify Tech](https://www.diversifytech.co/) is a job site built specifically for underrepresented groups in tech.
+* [Include.io](https://include.io/) is a job site built to connect underrepresented groups in tech with employers.
+
+#### Search by...job listings
+* [BuiltIn](http://builtin.com/) is located in Austin, Boston, Chicago, Colorado, LA, New York, and Seattle
+* [GitHub’s Job Board](https://jobs.github.com/)
+* [Glassdoor](https://www.glassdoor.com/index.htm)
+* [Smashing Magazine’s Job Board](http://jobs.smashingmagazine.com/)
+* [Mashable's Job Board](http://jobs.mashable.com/jobs/search/results)
+* [Angel List](https://angel.co/jobs)
+* [Hired](https://hired.com/)
+* [Dice](https://www.dice.com/#)
+* [Stack Overflow Job Board](http://careers.stackoverflow.com/jobs)
+* [Product Hunt](https://www.producthunt.com/jobs)
+* [Hacker News](https://news.ycombinator.com/jobs)
+* [Authentic Jobs](https://authenticjobs.com/)
+* [Krop](https://www.krop.com/)
+* [The Muse](https://www.themuse.com/jobs)
+* [Craigslist](https://denver.craigslist.org/d/software-qa-dba-etc/search/sof) 
+* [gun.io](https://gun.io/)
+* [Ars Technica Job Board](http://arstechnica.com/jobs/)
+* And of course, don't forget about the #job-hunt channel on Slack
+
+#### Search by...outreach & social media
 In addition to finding the right posting, remember that the next step is to find a face at the company to connect with. LinkedIn will be your go-to site for this, but a great way to continue the research into places you want to work that are aligned with your goals is by building your network. Below are some suggestions for groups to utilize for this purpose:
 
 * [Meetup](http://www.meetup.com/)
