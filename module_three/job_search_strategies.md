@@ -55,7 +55,7 @@ As a group, we'll come up with a definitive list.
 
 Now that you have an idea of what you'll need to do, how can you keep track of these things?
 
-**Facilitator #2:** Using slides #10-16, go through the following:
+**Facilitator #2:** Using slides #10-13, go through the following:
 
 ### Prep for Your Job Search: Using a Tracker
 
@@ -99,15 +99,17 @@ Here are helpful tips for the process:
 
 Reminder: Update Huntr in every step of the process. 
 
+**Facilitator #1:** Using slides #14-20, go through the following:
+
 ### Where to Begin: Finding Opportunities
 
-**Slides #14-17:**
+**Slide #14:**
+How can you use these sites listed here to find opportunities? 
 
-**Note to Facilitator #2:** Instruct students to open this markdown to start looking through all of the many resources available to them. Say: "How can you use these sites listed here to find opportunities? 
+**Note to Facilitator #2:** Instruct students to open this markdown to start looking through all of the many resources available to them. 
 
-* 1. **Search by companies.** You can narrow down companies who are doing the kind of work you want to do. Compare them and track them on Owler. Follow them on LinkedIn.
-* 2. **Search by listings.** Use some of the many resources listed here on the markdown to find job postings. Be sure to narrow the searches to entry level/junior developers and include the technologies you're most familiar with to find targeted listings. However, don't limit yourself either. Read through all the postings to see what 
-* 3. 
+**Slide #15:**
+**Facilitator shares:** You can narrow down companies who are doing the kind of work you want to do. Compare them and track them on Owler. Follow them on LinkedIn.
 
 #### Search by...company
 * [Listing of Colorado Tech Companies](https://bizwest.com/colorado-tech-2017/?member=guest)
@@ -125,6 +127,9 @@ Reminder: Update Huntr in every step of the process.
       * [How to Use Google Search More Effectively](http://mashable.com/2011/11/24/google-search-infographic/)
 * [Owler](https://www.owler.com/) is a great way to conduct research on different companies.
 
+**Slide #16:**
+**Facilitator shares:** Use these tools to search for companies or positions that might meet certain criteria for you when it comes to culture you desire to see in a company.
+
 #### Search by...culture
 * [Key Values](https://www.keyvalues.com/) allows you to search for companies that fit with your key values.
 
@@ -137,7 +142,10 @@ Reminder: Update Huntr in every step of the process.
   * [Working Nomads](https://www.workingnomads.co/jobs?category=development)
   * [We Work Remotely Job Board](https://weworkremotely.com/)
   * [Flex Jobs](https://www.flexjobs.com/)
-  
+
+**Slide #17:**
+**Facilitator shares:** You can search for jobs by language or skillset using these tools:
+
 #### Search by...language or skillset
 * [Top Ruby Jobs](https://toprubyjobs.com/)
 * [Ruby Weekly](http://rubyweekly.com/)
@@ -149,6 +157,9 @@ Reminder: Update Huntr in every step of the process.
 * [Elixir Jobs](https://elixirjobs.net/)
 * [Hatchways](https://hatchways.io/#/) helps connect juniors with their first jobs in tech by identifying skill gaps and talking through goals for your job search.
 * [ZipRecruiter](https://www.ziprecruiter.com/) 
+
+**Slide #18:**
+**Facilitator shares:** Don't forget about utilizing your network by looking at where people you know work. There are also great tools to connect people who have been traditionally underrepresented in tech with others share similar identity markers. 
 
 #### Search by...network
 * [LinkedIn](http://www.linkedin.com/)
@@ -165,6 +176,9 @@ Reminder: Update Huntr in every step of the process.
 * [Power to Fly](https://powertofly.com/jobs/) is a job site specifically for women.
 * [Diversify Tech](https://www.diversifytech.co/) is a job site built specifically for underrepresented groups in tech.
 * [Include.io](https://include.io/) is a job site built to connect underrepresented groups in tech with employers.
+
+**Slide #19:** 
+**Facilitator shares:** Use some of the many resources listed here on the markdown to find job postings. Be sure to narrow the searches to entry level/junior developers and include the technologies you're most familiar with to find targeted listings. However, don't limit yourself either. Read through all the postings to see what else fits your interests and skills outside the specific language.
 
 #### Search by...job listings
 * [BuiltIn](http://builtin.com/) is located in Austin, Boston, Chicago, Colorado, LA, New York, and Seattle
@@ -186,6 +200,9 @@ Reminder: Update Huntr in every step of the process.
 * [gun.io](https://gun.io/)
 * [Ars Technica Job Board](http://arstechnica.com/jobs/)
 * And of course, don't forget about the #job-hunt channel on Slack
+
+**Slide #20:**
+**Facilitator shares:** Utilize 
 
 #### Search by...outreach & social media
 In addition to finding the right posting, remember that the next step is to find a face at the company to connect with. LinkedIn will be your go-to site for this, but a great way to continue the research into places you want to work that are aligned with your goals is by building your network. Below are some suggestions for groups to utilize for this purpose:
