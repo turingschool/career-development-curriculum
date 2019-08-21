@@ -147,7 +147,6 @@ How can you use these sites listed here to find opportunities?
 **Facilitator shares:** You can search for jobs by language or skillset using these tools:
 
 #### Search by...language or skillset
-* [Top Ruby Jobs](https://toprubyjobs.com/)
 * [Ruby Weekly](http://rubyweekly.com/)
 * [Ruby Now](https://jobs.rubynow.com/)
 * [Ruby on Rails Jobs](https://www.rorjobs.com/)
