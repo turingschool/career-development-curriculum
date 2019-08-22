@@ -155,7 +155,7 @@ How can you use these sites listed here to find opportunities?
 * [Python Job Board](https://www.python.org/jobs/)
 * [Elixir Jobs](https://elixirjobs.net/)
 * [Hatchways](https://hatchways.io/#/) helps connect juniors with their first jobs in tech by identifying skill gaps and talking through goals for your job search.
-* [ZipRecruiter](https://www.ziprecruiter.com/) 
+* [ZipRecruiter](https://www.ziprecruiter.com/)
 
 **Slide #18:**
 **Facilitator shares:** Don't forget about utilizing your network by looking at where people you know work. There are also great tools to connect people who have been traditionally underrepresented in tech with others share similar identity markers. 
