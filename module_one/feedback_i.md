@@ -10,7 +10,25 @@ We believe that a big component of unlocking your potential at Turing revolves a
 ### Slides
 [Slides for this session](https://docs.google.com/presentation/d/1f0cDlu4u5ZnM0WjpCpPfBcCJ9n3qRknqYjaqh8DdJVs/edit?usp=sharing)
 
+### Facilitator Instructions
+There are facilitator notes throughout this markdown to divide up responsibilities in the session, assuming there are 2 instructors (1 BE and 1 FE) in the session. Please read through this markdown ahead of the session, decide who is going to be Facilitator #1 and who will be Facilitator #2, and let Allison know if you have any questions.
+
+### Session Structure
+
+Length: 60 mins
+
+**Facilitator #1:** Using slides #3-13, go through the following:
+
+**Slide #3:**
+
+* Opening (14 mins)
+* Kinds of Feedback (17 mins)
+* Intent vs. Impact & Blind Spots (16 mins)
+* Feedback Frameworks (8 mins)
+* Example (5 mins)
+
 ### Objectives
+**Slide #4:**
 
 * Understand and recognize the three triggers of feedback
 * Define and understand the 3 different kinds of feedback
@@ -21,15 +39,9 @@ We believe that a big component of unlocking your potential at Turing revolves a
 
 You will submit feedback for your paired project partners this module by sending a paragraph of written feedback intended for your partner in a survey. Your feedback will be reviewed and you may be asked to update the feedback before it is passed on to your partner. Feedback will also be shared with your instructors. 
 
-### Session Structure
-
-* Opening (14 mins)
-* Kinds of Feedback (17 mins)
-* Intent vs. Impact & Blind Spots (16 mins)
-* Feedback Frameworks (8 mins)
-* Example (5 mins)
-
 #### Opening
+**Slide #5:**
+
 Why are we talking about this? 
 
 The benefits of giving and receiving feedback well include:
@@ -38,6 +50,8 @@ The benefits of giving and receiving feedback well include:
 * Other people find it more enjoyable to work with you
 * Easier to collaborate with others to solve problems
 * You can set an example to help others see the value in seeking feedback for themselves
+
+**Slide #7:**
 
 **Personal Reflection:**
 
@@ -50,11 +64,15 @@ Think of a couple of pieces of feedback in the recent past that you found tough 
 
 **Turn & Talk:** Share your experience with a partner
 
+**Slide #8:**
+
 Recap the 3 triggers as a whole group:
 
 * Truth
 * Relationship
 * Identity 
+
+**Slides #9-12:**
 
 ### Three Kinds of Feedback
 In order to better recognize our triggers, we need to first understand what kind of feedback we're hearing
@@ -72,8 +90,12 @@ In order to better recognize our triggers, we need to first understand what kind
 	* To be effective:
 		* Be clear the standards or expectations to evaluate against
 		* Aligns expectations and informs decision making
-		
+
+**Slide #13:**
+
 #### Examples - which type of feedback is this?
+**Note to Facilitator #1:** You can either cold call on students in the whole group or have them discuss the examples in pairs and then give responses. In each example, there could be triggers; ask the students, "If you received this feedback, how would you feel? What assumptions are being made here?" 
+
 * "I admire how you jumped into discussing our Git workflow. I was feeling lost about that, and you helped me understand it more because you took the time to explain what you were doing."
 
 * "I would have liked to hear your ideas more. It seemed like you were hesitant to share them with me and questioned yourself a lot. I think the initial brainstorming phase would be a good time to share your ideas so that you can test them out or spend time explaining them in a lower stakes environment."
@@ -87,6 +109,10 @@ In order to better recognize our triggers, we need to first understand what kind
 
 Here's more on why feedback can create triggers...
 
+**Facilitator #2:** Using slides #15-27, go through the following:
+
+**Slide #15:**
+
 ### Intention vs. Impact 
 Every dialogue includes *intent* and *impact*. The intent (the purpose behind the giver's message) may not always align with its impact (how the receiver is affected by the message) in conversation. The way we are impacted by feedback can correspond with one of the three triggers. 
 
@@ -96,17 +122,13 @@ For example:
 | ------ | ---------------- | ---------------- |
 | I think you should work on being more confident | When you don't know something, be confident enough to admit it. | You come across as doubtful or passive; instead, you should give others the impression that you have all the answers. Be a phony. |
 
-* What kind of feedback is this?
-* What other impacts might this message have?
-* How does this relate to a trigger? 
-* How could this language be reframed to be more aligned with the intent? 
-
-**Discussion Questions:**
-For each piece of feedback, answer these questions:
+**Facilitator asks from the whole group:**
 
 * What kind of feedback is this?
-* How might you reframe this feedback considering the impact? How does this relate to a trigger? 
+* How does this relate to a trigger? What other impacts might this message have?
 * We're thinking about this feedback knowing what the impact is already. How can you be more aware of impact while phrasing your feedback?
+
+**Slide #16:**
 
 ### Blind Spots
 Blind spots are always present as a gap between the self we think we present and the self that others see. Even with good intentions, your thoughts and feelings can affect the impact of your communication through behaviors that you don't always notice. These can include:
@@ -115,15 +137,22 @@ Blind spots are always present as a gap between the self we think we present and
 * Your tone of voice
 * Your behavior patterns
 
-How could blind spots potentially affect the intent of a feedback giver's words?
+**Facilitator asks from the whole group:**
 
-What blind spots should we be aware of when we're providing written feedback? 
+* How could blind spots potentially affect the intent of a feedback giver's words?
+* What blind spots should we be aware of when we're providing written feedback? 
 
-Blind Spots lead to Biases:
+Examples might include: lack of tone of voice, misunderstandings of emphasis on certain words, lack of facial expressions
+
+**Slide #17:**
+
+#### Blind Spots lead to Biases
 
 * A bias is a feeling either favorable or negative towards others based on a narrowed viewpoint. We often feel positive bias towards others who are most like us and negative bias against others who are different from us
 * We may be more likely to not give constructive feedback to people who are similar to us
 * Or we may be over critical of people for whom we already have a bias.
+
+**Slide #18:**
 
 #### Turn & Talk:
 Discuss these examples with your partner:
@@ -132,6 +161,10 @@ Discuss these examples with your partner:
 | ------ | ---------------- | ---------------- |
 | I think the project went fine overall. But I think you should work on your organization skills. You were late to most meetings. | The project got finished, but my partner should know that tardiness is affecting their pairing abilities | This is so harsh. Didn’t I do anything right? |
 | You're making a lot of strides with TDD. You got a 3 on testing again this project | Few people ever get a 4, and you got a 3 twice in a row. This is impressive! | I worked even harder than last project, and I still got a 4. This instructor is too hard on me. |
+
+**Facilitator:** Cold call on 1 group for each example to share what they discussed.
+
+**Slide #20:**
 
 ### Being Intentional in Giving Feedback: So Many Frameworks!
 In [Learning to Pair](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/learning_to_pair.md), we discussed the Crucial Conversations framework, which is mean to establish safety and respect in your conversation by establishing:
@@ -150,12 +183,20 @@ Now, how can you actually do that? Similar to using Crucial Conversations, the S
 
 The [Center for Creative Leadership](https://www.ccl.org/) developed the SBI Feedback tool to help managers deliver clear, specific feedback. You can apply it to your partnerships at Turing too!
 
+**Slide #21:**
+
 * **Situation:** When you're giving feedback, first define the when and where of the situation you're referring to. This puts the feedback into context, and gives the other person a specific setting as a reference.
 	* "During work time yesterday, when you completed that feature..."
 	* "At the check-in with the instructor on Monday afternoon..."
+
+**Slide #22:**
+
 * **Behavior:** Your next step is to describe the specific behaviors that you want to address. This is the most challenging part of the process, because you must communicate *only* the behaviors that you observed directly. You must not make assumptions or subjective judgments about those behaviors. These could be wrong, which could cause a truth trigger and undermine your feedback.
 	* "During work time yesterday, when you completed that feature, you did not ask me to review your PR before pushing your code. We had written in our DTR memo that we would review each other's code as part of our workflow."
 	* "At the check-in with the instructor on Monday afternoon, I saw you point out the code that I wrote, and you mentioned that you learned a lot from it."
+
+**Slide #23:**
+
 * **Impact:** The last step is to describe the impact that the behavior had on you and the project. Try to use "I" statements when referring to yourself. As you discuss the impact, make it actionable for what your team member could do to change or build on the behavior for the future. 
 	* "During work time yesterday, when you completed that feature, you did not ask me to review your PR before pushing your code. We had written in our DTR memo that we would review each other's code as part of our workflow. I'm concerned that not taking time to review our code could result in more bugs. I also wish I could've learned more about the code from reviewing it."
 	* "At the check-in with the instructor on Monday afternoon, I saw you point out the code that I wrote, and you mentioned that you learned a lot from it. I really appreciate that you took the time to acknowledge what I did, and I'm glad I was able to help you learn too." 
