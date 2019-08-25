@@ -21,10 +21,10 @@ Length: 60 mins
 
 **Slide #3:**
 
-* Opening (14 mins)
-* Kinds of Feedback (17 mins)
-* Intent vs. Impact & Blind Spots (16 mins)
-* Feedback Frameworks (8 mins)
+* Opening (15 mins)
+* Kinds of Feedback (15 mins)
+* Intent vs. Impact & Blind Spots (15 mins)
+* Feedback Frameworks (10 mins)
 * Example (5 mins)
 
 ### Objectives
@@ -189,31 +189,48 @@ The [Center for Creative Leadership](https://www.ccl.org/) developed the SBI Fee
 	* "During work time yesterday, when you completed that feature..."
 	* "At the check-in with the instructor on Monday afternoon..."
 
-**Slide #22:**
+**Slide #22-23:**
 
 * **Behavior:** Your next step is to describe the specific behaviors that you want to address. This is the most challenging part of the process, because you must communicate *only* the behaviors that you observed directly. You must not make assumptions or subjective judgments about those behaviors. These could be wrong, which could cause a truth trigger and undermine your feedback.
 	* "During work time yesterday, when you completed that feature, you did not ask me to review your PR before pushing your code. We had written in our DTR memo that we would review each other's code as part of our workflow."
 	* "At the check-in with the instructor on Monday afternoon, I saw you point out the code that I wrote, and you mentioned that you learned a lot from it."
 
-**Slide #23:**
+**Slide #24-25:**
 
 * **Impact:** The last step is to describe the impact that the behavior had on you and the project. Try to use "I" statements when referring to yourself. As you discuss the impact, make it actionable for what your team member could do to change or build on the behavior for the future. 
 	* "During work time yesterday, when you completed that feature, you did not ask me to review your PR before pushing your code. We had written in our DTR memo that we would review each other's code as part of our workflow. I'm concerned that not taking time to review our code could result in more bugs. I also wish I could've learned more about the code from reviewing it."
 	* "At the check-in with the instructor on Monday afternoon, I saw you point out the code that I wrote, and you mentioned that you learned a lot from it. I really appreciate that you took the time to acknowledge what I did, and I'm glad I was able to help you learn too." 
 	
+**Slide #26:**
+
+Again, a framework can be helpful when you are trying to figure out what feedback to give and how to give it.
+
+**Slide #27:**
+
 Other guiding principles for deciding on what feedback to give:
 * What feedback will be helpful for my partner's learning and coding career? 
 * What should my partner consider when working with someone like me in the future? 
 * What should my partner consider when working with someone who is different from me in the future? 
 * How could my partner build on what they're doing well?
 
+**Facilitator #1:** Using Slides #29-31, go through the following:
+
+**Slide #29:**
+
 ### Example of Written Feedback
 
 > Thank you for your contributions, especially in styling of several of our pages in the last few days. The site presentation looks much better as a result. Thank you also for checking in with me before you began working on a new item. I know that you didn’t always feel strong with some of the more complex aspects of our project, and I think that may have caused you to communicate with me less. I feel like there were several times during the project where either you had a missing DB migration or merge conflicts due to working off a branch with a head far behind our current dev_branch. I would suggest that you communicate with your future pairs more often to help avoid these issues. Committing and submitting PR's more often, even if it means smaller steps, would also help resolve merge conflicts along the way rather than letting them build into massive problems that take away from project time. In the last two days of the project, I feel like your contributions improved tremendously, and I very much appreciated the work you did.
 
-What do you notice about this feedback? What's working well? What would you change? 
+**Facilitator asks from the whole group:**
 
-### You Do: Work Time (10 mins)
+* What do you notice about this feedback? 
+* What's working well? 
+* What assumptions are being made here? What would trigger you if you received this feedback? 
+* What would you change? 
+
+**Note to Facilitator:** There often isn't time for work time in the session, so use the following (Slide #30) only if there's time; otherwise, skip to Slide #31
+
+### You Do: Work Time 
 Write out your feedback for your project partner
 
 Keep in mind:
@@ -222,5 +239,7 @@ Keep in mind:
 * How does your tone sound?
 * Remember that we're all trying to help each other -- how can you give feedback that will be most meaningful for your partner's growth?
 
+**Slide #31:**
+
 ### Closing
-Recap the 3 triggers and 3 types of feedback
+* Your deliverable is to submit your appreciation and coaching feedback for your partner by Monday of Week 4 at 9am using the survey posted in your cohort Slack channel. 
