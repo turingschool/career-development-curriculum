@@ -6,7 +6,7 @@
 
 2. Bookmark [this Interview Prep Resources markdown](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/interview_prep_resources.md) and read through it. Pick at least 2 resources to read more in-depth and use this research to add to your interview prep doc from step #1. 
 
-3. In your interview prep notes, come up with at least 5 questions that you could ask your interviewer. You will use these questions in your mock interview with Kayt or Allison in Mod 3. [This list](https://yangshun.github.io/tech-interview-handbook/questions-to-ask/) can help you get started.
+3. In your interview prep notes, come up with at least 5 questions that you could ask your interviewer. You will use these questions in your mock interview in Mod 3. [This list](https://yangshun.github.io/tech-interview-handbook/questions-to-ask/) can help you get started.
 
 You may be asked to show or discuss your interview prep process with Allison, Kayt, or your instructors. 
 
