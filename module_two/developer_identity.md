@@ -8,11 +8,12 @@
 Length: 60 minutes
 
 * Opening (15 mins)
-* LinkedIn (20 mins)
-* Twitter (10 mins)
+* LinkedIn Overview (15 mins)
+* LinkedIn Discussions (8 mins)
+* LinkedIn Work Time (7 mins)
+* Twitter (5 mins)
 * GitHub (5 mins)
-* Work Time/Q&A (5 mins)
-* Closing: Upcoming Tools: Resumes, Portfolios (5 mins)
+* Closing: Q&A, Upcoming Tools: Resumes, Portfolios (5 mins)
 
 ### Objectives
 
@@ -133,6 +134,21 @@ Your network & their relevance to the job you want DO matter -- start connecting
 * When adding Turing staff/alumni, please include an introductory message.                                          
 * Engage with your connections by liking, commenting on, and/or sharing their updates.
 * As you continue to grow in your development at Turing, share your own updates, whether they be blog posts or links to projects.
+
+### LinkedIn in Practice: Small Group Discussions
+
+In groups of 3-4 people, look up the following profiles:
+
+* Ellen Cornelius
+* Graham Munro
+*
+
+Discuss:
+
+* How does this person talk about themselves?
+* How do they showcase their previous experiences?
+* How would you describe them as a software developer? 
+
 
 ### Twitter Overview
 The people you want to connect with are using Twitter, so if you're not on the site yet, you should create a profile today. 
