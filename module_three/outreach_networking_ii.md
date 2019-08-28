@@ -4,7 +4,6 @@
 
 ### Facilitator Instructions
 There are facilitator notes throughout this markdown to divide up responsibilities in the session, assuming there are 2 instructors (1 BE and 1 FE) in the session. Please read through this markdown ahead of the session, decide who is going to be Facilitator #1 and who will be Facilitator #2, and let Allison know if you have any questions.
-60 minutes 
 
 ### Session Structure
 
