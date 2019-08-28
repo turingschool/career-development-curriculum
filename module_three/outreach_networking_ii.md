@@ -2,7 +2,17 @@
 
 [Slides for the session](https://docs.google.com/presentation/d/1_JmlfZr2emcfndX0rMpW2Jr-upGwQDifN7qNMyQgbNI/edit?usp=sharing)
 
-Timing: 60 minutes 
+### Facilitator Instructions
+There are facilitator notes throughout this markdown to divide up responsibilities in the session, assuming there are 2 instructors (1 BE and 1 FE) in the session. Please read through this markdown ahead of the session, decide who is going to be Facilitator #1 and who will be Facilitator #2, and let Allison know if you have any questions.
+60 minutes 
+
+### Session Structure
+
+Length: 60 minutes
+
+**Facilitator #1:** Using slides #3-12, go through the following:
+
+**Slide #3:**
 
 * Opening: 5 mins
 * Review & Strategy: 10 mins
@@ -11,20 +21,32 @@ Timing: 60 minutes
 * Partner Work Time: 15 mins
 * Next Steps & Closing: 5 mins
 
+**Slide #4:**
+
 #### Objectives
 * Understand the role of outreach within your job search 
 * Review and execute outreach strategies
 * Identify how you will move forward with at least one contact for your own job search
 
+**Slide #5:**
+
 ### Opening
 Last mod, we discussed utilizing outreach for research to use in your job search by setting up meetings with warm outreach contacts. Now we'll start to discuss how to use the same outreach principles and apply them to reaching out to people at the companies with open positions that you want. 
 
-#### Whole Group Share Out
-* Who executed their outreach plan from last mod? Share out results
-* Who didn't? Why not -- what held you back?
+#### Turn & Talk
+* Did you execute your outreach plan from last mod? 
+  * What were your results?
+* If you didn’t execute your plan, why not? 
+  * What held you back?
+
+Facilitator calls on 2 groups to share out what they discussed.
+
+**Slide #7:**
 
 ### Review
 What is our strategy for job searching? When we find a position want to apply for, we also need to find someone to reach out to.
+
+**Slide #8:**
 
 #### The Why
 Now that you're researching companies and positions, why reach out to someone from that company?
@@ -36,6 +58,8 @@ Now that you're researching companies and positions, why reach out to someone fr
   * Exchanging information (mutual benefits)
   * Expanding both of your networks
 * Become a referral candidate
+
+**Slide #9:**
 
 #### The Who
 Who should you reach out to from a company?
@@ -49,6 +73,8 @@ Who should you reach out to from a company?
   * Company page
   * LinkedIn
 
+**Slide #10:**
+
 #### The What
 Start with Research
 
@@ -59,12 +85,16 @@ Then, what do you say in your message?
 * Specifics (what do you know about the contact? What do you know about the company?)
 * Questions (what do you want to know?)
 
+**Slide #11:**
+
 Do not:
 
 * Ask for referrals without establishing relationships
 * Ask for a job
 * Send a LinkedIn request with no introduction
 * Use a generic template that hasn't been customized
+
+**Slide #12:**
 
 #### How to Send the Message: Email vs. LinkedIn
 Whenever possible, find your contact's email (or use Slack if they're in the Turing network!). Why? Unless you're actively job searching or actively hiring, people may not be checking their LinkedIn regularly and might miss your message. Also, LinkedIn messages have a limited number of characters you can use. Instead try some of the following tools to find your contact's email:
@@ -81,6 +111,10 @@ Whenever possible, find your contact's email (or use Slack if they're in the Tur
   * GitHub
   * Personal website 
 
+**Facilitator #2:** Using Slides #13-18, go through the following:
+
+**Slide #13:** Facilitator calls on 2 student volunteers to come to the front to walk you through the following, which you should display on the main screen. You may need to prompt students to utilize the tools we've discussed in previous sessions and provide guidance along the way. 
+
 ### Whole Group Practice
 Let's have 2 volunteers to walk us through this process:
 
@@ -89,8 +123,16 @@ Let's have 2 volunteers to walk us through this process:
 * How can we do research on them? What do we say in the message? 
 * How do we contact them?
 
+Repeat this process with volunteer #2.
+
+**Slide #14:**
+
 #### Whole Group Debrief
+Facilitator calls on 2-3 students to answer this question:
+
 * What should you keep in mind when executing outreach tied to a job posting?
+
+**Slide #16:**
 
 ### Partner Practice
 With a partner, using 1 position you posted to your Huntr board last week:
@@ -99,15 +141,9 @@ With a partner, using 1 position you posted to your Huntr board last week:
 * Find their contact information
 * Draft a message to them
 
-### Follow-Through: Coffee Meetings
-* Prep your story
-* Prep questions to ask
-* Use your research
-* What do you want to know about the company? The role? 
-* [Look at this question list](https://github.com/yangshun/tech-interview-handbook/blob/master/non-technical/questions-to-ask.md)
+Facilitator: after this group practice, call on 2 groups to share out who they're reaching out to, why, and what they'll say.
 
-#### You Do
-Using positions you added to Huntr last week, research a contact, find their contact information, and draft a message to them.
+**Slide #18**
 
 ### Closing
 What's next? Coffee Meetings!
@@ -115,17 +151,4 @@ What's next? Coffee Meetings!
 * Prep questions to ask
 * Use your research
 * What do you want to know about the company? The role? 
-* [Look at this question list](https://github.com/yangshun/tech-interview-handbook/blob/master/non-technical/questions-to-ask.md)
-
-Next week, you'll be going on **Job Shadowing**. We know that this is *not* a job interview, but it is an opportunity to create connections with others in the industry. Add contact information and other info to your Jobtrack from your Job Shadowing experience. 
-
-Here are other expectations:
-
-* Keep your phones off/out of reach 
-* Don't drink alcohol prior to the shadow
-* Dress professionally -- doesn't need to be overly dressy, focus on business casual
-* Come prepared with questions
-
-For further preparation, please read this feedback from an alum at Ibotta who participated in the employer side of job shadowing: 
-```As a Turing grad who benefitted greatly from shadowing, it's a pleasure to be able to hopefully provide the same benefit to Turing students who shadow me at Ibotta. I have a bit of feedback for future shadowing students: It's best not to consume anything before the shadowing that might cause one's breath to smell like alcohol. If it's not alcohol, then sometimes chewing tobacco can cause this odor. When you're sitting right next to someone you're shadowing, they will smell it. So that's something Turing students might want to be aware of before they shadow. Another thing is that it's best not to check your phone while the person you're shadowing is trying to show you things. It's rude and shows that you're unengaged during time that the person has taken out of their day to hopefully show you useful stuff. Another thing I'd recommend is for students to come prepared with questions. This is a rare opportunity to learn what life is like outside of Turing, and it's a shame to not take advantage of it. Respectfully asking questions also evidences engagement and interest on the part of the student. I am so glad that Turing offers its students this opportunity, and it was something that I found really useful.```
-
+* [Look at this question list](https://yangshun.github.io/tech-interview-handbook/questions-to-ask/)
