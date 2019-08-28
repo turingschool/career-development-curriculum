@@ -4,9 +4,9 @@
 
 Directions for Facilitator(s):
 
-1. Assign groups ahead of time with 4-5 students per staff member
-2. Send groups to staff members
-3. Have everyone meet in Clarke Hall to find their groups (students will already be in there). Display groups on the monitors by updating the slides linked above. After you kick off the session, groups may move elsewhere if they choose
+1. Assign groups ahead of time with 4-5 students per staff member using the roster of students in Airtable
+2. Send groups to staff members ahead of time along with this markdown
+3. Everyone will meet in Clarke Hall to find their groups (students will already be in there). Display groups on the monitors by updating the slides linked above. After you kick off the session, groups may move elsewhere if they choose
 4. Instruct students to DM their resume drafts to the whole group as PDFs
 
 Directions for Staff Reviewers:
