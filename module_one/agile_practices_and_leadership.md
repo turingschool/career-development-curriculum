@@ -9,7 +9,7 @@ There are facilitator notes throughout this markdown to divide up responsibiliti
 
 This session is also co-taught with Jeff. He is the primary instructor for the first half of the session with Facilitator #1 supporting, and then Facilitator #2 is the primary instructor for the second half. 
 
-**Before the session:** Please [print copies of this worksheet for all students](https://docs.google.com/document/d/1N449kYbcOhu22vbORfjUOfjFOIfPoka5w00q_fklipU/edit?usp=sharing. Repeaters should be instructed to come to the second half of the session to join their groups for DTR. As the session begins, instruct students to sit in their project groups. 
+**Before the session:** Please [print copies of this worksheet for all students](https://docs.google.com/document/d/1N449kYbcOhu22vbORfjUOfjFOIfPoka5w00q_fklipU/edit?usp=sharing). Repeaters should be instructed to come to the second half of the session to join their groups for DTR. As the session begins, instruct students to sit in their project groups. 
 
 ### Session Structure
 
