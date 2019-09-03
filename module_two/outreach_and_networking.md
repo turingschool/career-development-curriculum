@@ -2,9 +2,14 @@
 
 [Slides for this session](https://docs.google.com/presentation/d/1wWS8PyV8lNsEIznJ78Kk08IDTHUHApfeVikANJEBvn8/edit?usp=sharing)
 
+### Facilitator Instructions
+There are facilitator notes throughout this markdown to divide up responsibilities in the session, assuming there are 2 instructors (1 BE and 1 FE) in the session. Please read through this markdown ahead of the session, decide who is going to be Facilitator #1 and who will be Facilitator #2, and let Allison know if you have any questions.
+
 ### Session Structure
 
 Time: 60 minutes
+
+**Facilitator #1:** Using Slides #2-10, go through the following:
 
 * Opening/Hook (5 mins)
 * Intro to Outreach & Networking: Purpose (5 mins)
@@ -22,6 +27,8 @@ Time: 60 minutes
    * Start on a message 
 * Share Out & Takeaways (5 mins)
 
+**Slide #3:**
+
 ### Objectives
 * Understand how to utilize outreach for research purposes
 * Create a list of questions to ask
@@ -31,31 +38,60 @@ Time: 60 minutes
 ### Deliverable
 Provide a plan for how you'll start your outreach and networking this module using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/outreach_networking_guidelines.md).
 
+**Slide #5:**
+
 ### Opening Hook
 What is networking?
 
-You've done a few rounds of story sharing with each other at this point. What have you learned? Use Popcorn for 3-4 people to share what they've learned about someone else in the room (that person who's shared about will then share next). 
+**Note to Facilitator #1:** Ask the following questions as a round of "popcorn" by calling on a student to tell something they remember about another student in the room. The student who is named is next in line to share something they remember about another student. Do this for 4-5 rounds.
+
+Facilitator says: You've done a few rounds of story sharing with each other at this point. What have you learned? Use Popcorn for 3-4 people to share what they've learned about someone else in the room (that person who's shared about will then share next). 
 
 Share:
 * Why do you remember this?
 * What follow-up could you do with this person based on this knowledge?
 
+**Slide #6:**
+
 ### Intro to Outreach & Networking
 **Networking** is learning about others and building relationships based on those connections -- which is why being able to tell your story is so important! **Outreach** is how you begin these relationships. 
 
-There are different levels of networking and outreach. **Whole Group:** Why would you reach out to someone in the tech industry?
+**Slide #7:**
+
+Establishing strong connections with those in the technology community starts while you're at Turing:
+
+* Outreach
+  * Warm Outreach: Mentors, alumni, student groups, guest speakers
+  * Cold Outreach: Contacts in the tech industry you don’t know yet
+* Networking
+  * Coffee meetings
+  * Meetups/Events
+  * Shared Interest Groups & Posses
+  * Social Media & Open Source
+
+**Slide #8:**
+
+There are different levels of networking and outreach. Why would you reach out to someone in the tech industry?
 
 Here are some reasons:
 1. To conduct research for your job search and get advice
 2. To connect with someone who works at a company you're interested in and there's an open position there
 
+**Slide #9:**
+
 Today, we are only going to talk about reason #1. In Module 3, we'll discuss strategies for reason #2. 
+
+**Slide #10:**
 
 Our strategy for this is to define:
 
 * The Why
 * The Who
-* The What
+* The How
+
+**Facilitator #2:** Using Slides #12-24, go through the following: 
+
+**Slide #12:**
 
 ### The Why: Research
 So, what do you want to learn?
@@ -65,6 +101,8 @@ So, what do you want to learn?
   * What transferable skills came up for you? 
   * What is your ideal work environment/culture?
   * What industries/fields are you most interested in?
+
+
   
 * Try this [culture queries exercise](https://www.keyvalues.com/culture-queries)
   
@@ -82,7 +120,7 @@ So, what do you want to learn?
 
 **Pair & Share** with a partner to give feedback on specificity. 
 
-### Networking
+### The Who: Utilize Who You Already Know
 Who do you reach out to? How will you do it?
 
 Your strategy for **who:**
@@ -127,7 +165,7 @@ Who is in your current network?
       * What value you bring:
          * Community. You're part of the Turing community too and you serve as a connection to the latest information in the Turing community
          
-For a more in-depth perspective on the network that you already have, check out Wharton professor and author of *Give and Take: A Revolutionary Approach to Success* Adam Grant's post [Finding the Hidden Value in Your Network](https://webcache.googleusercontent.com/search?q=cache:uniBCEM9Wr8J:https://www.huffingtonpost.com/adam-grant/finding-the-hidden-value-_1_b_3458536.html+&cd=1&hl=en&ct=clnk&gl=us)
+For a more in-depth perspective on the network that you already have, check out Wharton professor and author of *Give and Take: A Revolutionary Approach to Success* Adam Grant's post [Finding the Hidden Value in Your Network](https://www.huffpost.com/entry/finding-the-hidden-value_b_3458536)
 
 #### Expanding Your Circle
 **Meetups/Events**:
@@ -178,7 +216,11 @@ Spend 5 minutes brainstorming within your network who would be most beneficial t
 #### Pair & Share
 Pair with partner to share who will you reach out to and why. 
 
-### Writing the Message
+**Facilitator #1:** Using slides #26-32, go through the following:
+
+**Slide #26:**
+
+### The How: Writing the Message
 Once you decide who you'll reach out to, it's time to figure out your message. How? Again, start with research. 
 
 Know who you're contacting:
@@ -226,12 +268,23 @@ Whenever possible, find your contact's email (or use Slack if they're in the Tur
 #### You Do
 Craft your own message!
 
+**Facilitator #2:** Using slides #34-35, go through the following to close out the session:
+
+**Slide #34:** 
+
 ### Closing: Share Out & Takeaways
-As we wrap up, share out:
+Recap of our strategy:
+
+* Why: research
+* Who: warm connections, the Turing network
+* How: conduct the research, craft a thoughtful message, send it!
+
+**Slide #35:**
+
+**Note to facilitator #2:** Call on 2-3 students to answer the following questions:
 
 * What are you working on next as you finalize your first outreach and networking plan?
 * What will you include in a message to a contact?
 * What questions do you still have?
 
-Reminder about your deliverable due Friday of Week 5!
-
+Reminder about your deliverable due Monday of Week 5!
