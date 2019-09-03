@@ -7,8 +7,17 @@ Materials needed:
 * Post-it notes of different colors
 * Pens/pencils
 
+### Facilitator Instructions
+There are facilitator notes throughout this markdown to divide up responsibilities in the session, assuming there are 2 instructors (1 BE and 1 FE) in the session. Please read through this markdown ahead of the session, decide who is going to be Facilitator #1 and who will be Facilitator #2, and let Allison know if you have any questions.
+
+**Before the session starts:** 
+
 ### Session Structure
 Length: 60 minutes
+
+**Facilitator #1:** Using slides #2-17, go through the following:
+
+**Slide #2:**
 
 * Opening/Hook (5 mins)
   * Reflection on domains of leadership/Pairin
@@ -18,29 +27,38 @@ Length: 60 minutes
 * Debrief/Closing (3 mins)
 
 ### Opening
+
+**Slide #3:**
+
 #### Objectives & Why:
 Objectives of our session today:
 * Understand what a retro is and what it can look like in practice
 * Build on your feedback process by using the Nonviolent Communication Framework to increase the mindfulness in your communication
 * Execute a successful retro in your project groups
 
-Why are we talking about retros?
+#### Reminder: Deliverable
+Submit a reflection on using agile and participating in retro feedback using [this template](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/agile_feedback_reflection_guidelines.md) in survey provided by 9am on Friday of Week 5
+
+**Slide #4:**
+
+#### Why are we talking about retros?
 * This is a part of the agile process
 * This is how you continue to build strong communication skills
 * Strong communication leads to better software
 
-#### Reminder: Deliverable
-Submit a reflection on using agile and participating in retro feedback using [this template](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/agile_feedback_reflection_guidelines.md) in survey provided by 9am on Friday of Week 5
+**Slide #5:**
 
-#### Reflection (2 mins)
-Take 90 seconds to reflect on the role you've taken in your project so far in terms of how you're using your strengths and leadership style. Reminder about the four domains:
+#### Reflection
+Take 2 minutes to reflect on the role you've taken in your project so far in terms of how you're using your strengths and leadership style. Reminder about the four domains:
 
 * **Executing:** Team members who have a dominant strength in Executing are those you turn to time and again to implement a solution. These people work tirelessly to get something done. People who are strong in the Executing domain have an ability to take an idea and transform it into a reality within the organization they lead
 * **Influencing:** People who are innately good at influencing are always selling the team’s ideas inside and outside the organization. When you need someone to take charge, speak up, and make sure your group is heard, look to someone with Influence.
 * **Relationship Building:** Relationship Builders are the glue that holds a team together. Strengths associated with bringing people together -- whether it is by keeping distractions at bay or keeping the collective energy high -- transform a group of individuals into a team capable of carrying out complex projects and goals.
 * **Strategic Thinking:** Those who are able to keep people focused on “what they could” be are constantly pulling a team and its members into the future. They continually absorb and analyze information and help the team make better decisions.
 
-We'll share out a few responses with the whole group.
+**Note to Facilitator #1:** Call on 1-2 students to share their reflections.
+
+**Slide #7 & #8:**
 
 ### Overview of Team Retros 
 Agile is all about continuous improvement, and retros are an important part of that process.
@@ -51,6 +69,8 @@ Notes from [Do's and Don't's: How to Conduct Effective Retros](https://www.inloo
 * This meeting is an opportunity for the project team to look back at what they have achieved during the last sprint, what went really well, and what could be improved. 
 * **The focus is not on how the product or deliverable could be improved but on how the team can collaborate more effectively to generate better outcomes.** 
 * Retrospectives are great for helping teams understand each other better and facilitate better collaboration which in turn leads to improved productivity. *The emphasis is on continuous improvement and change, instead of blindly following the same old procedures and processes.*
+
+**Slide #9:**
 
 #### How to Get Started: Set Norms
 Ask yourselves: where are you in Tuckman's Group Life Cycle? Knowing where you are will help you figure out the norms you need to start with. Here are some you might want to consider (from [Atlassian](https://www.atlassian.com/team-playbook/plays/retrospective)):
