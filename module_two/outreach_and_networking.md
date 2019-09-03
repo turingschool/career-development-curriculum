@@ -102,23 +102,27 @@ So, what do you want to learn?
   * What is your ideal work environment/culture?
   * What industries/fields are you most interested in?
 
+**Slide #13:**
+  
+* Not sure what kind of culture you want in a company? Try this [culture queries exercise](https://www.keyvalues.com/culture-queries) to find out about questions that can be aligned with your values. From there, think about how you can approach conducting research to focus your job search.
 
-  
-* Try this [culture queries exercise](https://www.keyvalues.com/culture-queries)
-  
-* From here, think about how you can approach conducting research to focus your job search:
-  * **I Do:** If I want to find out more about finding the kind of culture I want, I could start by narrowing down my own definition of culture (if I haven't already):
+**Note to Facilitator #2:** Say: "If I want to find out more about finding the kind of culture I want, I could start by narrowing down my own definition of culture." For each point here on the slide, call on students to help you come up with specifics for each based on the questions in parentheses:
+
     * Learning & growth is encouraged (how?)
     * Collaborative environment (what is team workflow like? How is it actually collaborative?)
     * I can comfortably be myself (what do I want in order to do that?)
-
-**We Do:**
-* Using the examples above, what even more specific questions could we ask?
+* What other specific questions could we ask?
   * Brainstorm questions as a group
+
+**Slide #14:**
 
 **You Do:** In your journal, brainstorm a list of topics/questions you want answers to in your research. 
 
 **Pair & Share** with a partner to give feedback on specificity. 
+
+**Note to Facilitator #2:** After the students shared with their partner, call on 2 groups to share what they discussed with the whole group.
+
+**Slide #16:**
 
 ### The Who: Utilize Who You Already Know
 Who do you reach out to? How will you do it?
@@ -130,12 +134,17 @@ Your strategy for **who:**
 #### Your Network
 Who is in your current network? 
 
+**Slide #17:**
+
 * **Dormant Ties:** These are people you know from other walks of life whom you may not have talked with in a while
    * Why you should reach out to them: You already know them. You may not have talked to them in a while, but it's not a cold contact. And chances are, you're already connected to them on social media so it's not difficult to reconnect with them. 
     * What value they bring:
          * They can introduce you to others in their network. Look at their LinkedIn connections -- do they know people you want to know? 
     * What value you bring:
          * You can introduce them to people in the Turing network or talk to them about website design, the tech industry, any number of things that you have learned while at Turing
+
+**Slide #18:**
+
 * **Weak Ties:** As opposed to strong ties (the people you are closest to), these are people who you are not as close with. They run in different circles than you do, so they know other people to introduce you to
     * Why you should reach out to them:
          * Open yourself up to new perspectives and relationships outside of your usual circle
@@ -143,6 +152,11 @@ Who is in your current network?
          * New people and new connections
     * What value you bring:
          * The same -- since you're a weak tie to them, you also have networks and information that is new to them. You're able to share this value equally. 
+
+**Slide #19:**
+
+**Note to Facilitator #2:** Pull up the Mentor spreadsheet on your screen to show the students how to use it and reshare it with them in their channels. 
+
 * **Turing Network:** 
    * Turing Mentors: If you don't already have a mentor you meet with regularly, you should find one right now. Use the [mentor database](https://docs.google.com/spreadsheets/d/1oxsATOSIdRZ78-Bj3GQY2LkIp0OV_sCN6GJVjtUuCl0/edit?usp=sharing). 
       * Why you should reach out to them:
@@ -157,6 +171,9 @@ Who is in your current network?
          * Learning about the tech scene in a certain location
       * What value you bring:
          * Provide them with the opportunity to grow their mentoring skills
+         
+ **Slide #20:**        
+ 
    * Turing Alumni (especially any who are not in the mentorship database):
       * Why you should reach out to them:
          * They've been in your shoes. They can give you the do's and don'ts of navigating the tech industry based on their own experience as a Turing grad.
@@ -166,6 +183,8 @@ Who is in your current network?
          * Community. You're part of the Turing community too and you serve as a connection to the latest information in the Turing community
          
 For a more in-depth perspective on the network that you already have, check out Wharton professor and author of *Give and Take: A Revolutionary Approach to Success* Adam Grant's post [Finding the Hidden Value in Your Network](https://www.huffpost.com/entry/finding-the-hidden-value_b_3458536)
+
+**Slide #21:**
 
 #### Expanding Your Circle
 **Meetups/Events**:
@@ -184,6 +203,8 @@ You've come prepared to share your story. How can you also learn about the other
         
 * **Get a business card.** Find a way to follow up the conversation with this person and don't leave without a call to action -- how will you continue the conversation? 
 
+**Slide #22:**
+
 **Social Networking:**
 * Twitter follows/retweets/messages
 * Connect on LinkedIn
@@ -193,6 +214,8 @@ You've come prepared to share your story. How can you also learn about the other
 * Open Source contributions:
   * Connect with people by showing off your skills
   * Check out [this guide for navigating open source and building a community!](https://opensource.guide/)
+
+**Slide #23:**
 
 **Groups:**
 Here is a non-exhaustive list of tech networking groups that you can get involved in as you build your network:
@@ -210,6 +233,8 @@ Here is a non-exhaustive list of tech networking groups that you can get involve
 * [Tech Ladies](https://www.hiretechladies.com/) is a community for women and non-binary folks. You have to apply to join, but once accepted, you'll have access to jobs from partnering companies.
 * [Trans Tech Social Enterprises](https://www.transtechsocial.org/) is an incubator for LGBTQ Talent with a focus on economically empowering transgender people.
 
+**Slide #24:**
+
 #### You Do: Who will you reach out to?
 Spend 5 minutes brainstorming within your network who would be most beneficial to reach out to. Try to come up with more than 1 name although 1 contact is a great start!
 
@@ -223,15 +248,23 @@ Pair with partner to share who will you reach out to and why.
 ### The How: Writing the Message
 Once you decide who you'll reach out to, it's time to figure out your message. How? Again, start with research. 
 
+**Slide #27:**
+
 Know who you're contacting:
 * LinkedIn: Where have they worked?
 * GitHub: What are they working on?
 * Medium: What do they blog about?
 * Twitter: What do they tweet about? 
-* What else? 
+* What else?
+
+**Slide #28:**
+
+**Note to Facilitator #1:** For the demo, call on a student to share who their warm contact is and have them walk through some steps using the tools listed on the previous slide to conduct some research. Show what you're doing on the screen. 
 
 #### Demo
 Let's take 1-2 contacts and do some research as a group.
+
+**Slide #29:**
 
 #### The Message
 What should be included here?
@@ -246,8 +279,14 @@ What should NOT be included here? (All from Alumni)
 * Generic message/unclear specifics about them as a person. This includes using a template.
 * Mentioning multiple people you're reaching out to
 
+**Slide #30:**
+
+**Note to Facilitator #1:** Using the same contact that you did research on in slide #28, call on students to help you write a message to them using your research. 
+
 #### What Does This Look Like?
 Let's craft a message to one of our contacts that we researched together. 
+
+**Slide #31:**
 
 #### How to Send the Message: Email vs. LinkedIn
 Whenever possible, find your contact's email (or use Slack if they're in the Turing network!). Why? Unless you're actively job searching or actively hiring, people may not be checking their LinkedIn regularly and might miss your message. Also, LinkedIn messages have a limited number of characters you can use. Instead try some of the following tools to find your contact's email:
@@ -264,6 +303,10 @@ Whenever possible, find your contact's email (or use Slack if they're in the Tur
 * [Go Pin Leads](https://www.gopinleads.com/)
 * GitHub
 * Personal website 
+
+**Slide #32:**
+
+**Note to Facilitator #1:** Give students 5 minutes or so to write their message and then call on 1-2 people to share out what they wrote for the whole group. 
 
 #### You Do
 Craft your own message!
