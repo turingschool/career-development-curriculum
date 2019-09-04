@@ -2,15 +2,16 @@
 
 [Slides for this session](https://docs.google.com/presentation/d/1D8i8iyGNgxdkDql5fe6zOkRqJl3Qit19NaPbrVC-L9g/edit?usp=sharing)
 
-Materials needed:
-* Chart paper
-* Post-it notes of different colors
-* Pens/pencils
-
 ### Facilitator Instructions
 There are facilitator notes throughout this markdown to divide up responsibilities in the session, assuming there are 2 instructors (1 BE and 1 FE) in the session. Please read through this markdown ahead of the session, decide who is going to be Facilitator #1 and who will be Facilitator #2, and let Allison know if you have any questions.
 
 **Before the session starts:** 
+
+1. Grab these materials:
+* Chart paper
+* Post-it notes
+* Markers
+2. Instruct students to sit in their project groups
 
 ### Session Structure
 Length: 60 minutes
@@ -73,7 +74,11 @@ Notes from [Do's and Don't's: How to Conduct Effective Retros](https://www.inloo
 **Slide #9:**
 
 #### How to Get Started: Set Norms
-Ask yourselves: where are you in Tuckman's Group Life Cycle? Knowing where you are will help you figure out the norms you need to start with. Here are some you might want to consider (from [Atlassian](https://www.atlassian.com/team-playbook/plays/retrospective)):
+Ask yourselves: where are you in Tuckman's Group Life Cycle? Knowing where you are will help you figure out the norms you need to start with. 
+
+**Slide #10:**
+
+Here are some you might want to consider (from [Atlassian](https://www.atlassian.com/team-playbook/plays/retrospective)):
 
 * Embrace a positive spirit of continuous improvement and share whatever you think will help the team improve.
 * Don't make it personal, don't take it personally.
@@ -83,10 +88,16 @@ Ask yourselves: where are you in Tuckman's Group Life Cycle? Knowing where you a
 
 What other norms might need to be established in order to fulfill our principles of being **specific, actionable, and kind**?
 
+**Slide #11:**
+
+**Note to Facilitator #1:** Instruct students to designate one person on the team to be the notetaker and to discuss the following questions to set norms for their group. Then call on 1-2 teams to share out some of the norms they came up with after they've had 5 minutes to discuss. **Note Both Facilitators:** While the students discuss their norms, hand out about 4-5 post-its per person by leaving stacks at the beginning of each row. 
+
 **You Do:** As a team, spend 5 minutes discussing where you are in the Tuckman's Group Life Cycle and setting norms for your retro discussion. 
 
+**Slide #12:**
+
 #### How to Get Started: Prepare
-Be ready to discuss:
+Now that you've set norms, be ready to discuss:
 
 * Appreciations: celebrate what’s gone well with the team!
 * What have you learned?
@@ -95,6 +106,8 @@ Be ready to discuss:
 * Again, where are you in the Tuckman’s Group Life Cycle? What does the team need to keep moving forward?
 * What would you like the team to improve on?
 
+**Slide #13:**
+
 #### Process
 Start with **what went well**:
 
@@ -102,15 +115,21 @@ Start with **what went well**:
 * How can these appreciations continue to be replicated?
 * What strengths have you observed people using?
 
+**Slide #14:**
+
 Then move to **what needs improvement**:
 
 * Coaching: what can the group do better? How can we move to a performing stage of Tuckman's?
 * Follow your norms: this is about actions and outcomes, not specific people
 
+**Slide #15:**
+
 And finally, move to **next steps:**
 
 * What will you change as you move forward as a group? For a retro to be really effective, your team needs to actually make change
 * Come up with actionable steps, discuss them as a team, agree to which actions you will take, assign owners and a due date to get them DONE.
+
+**Slide #16:**
 
 One particular activity you might want to try to structure this is the 4 Ls:
 
@@ -120,6 +139,8 @@ One particular activity you might want to try to structure this is the 4 Ls:
 * What do you *long for*?
 
 You could set this up through quadrants with your post-its.
+
+**Slide #17:**
 
 **You Do:**
 Write out on your post-its:
@@ -138,12 +159,18 @@ Write out on your post-its:
 * [How to Run a Really Good Retrospective from Pivotal Tracker](https://builttoadapt.io/how-to-run-a-really-good-retrospective-8982bd839e16)
 * [Fun Retrospectives](http://www.funretrospectives.com/) has lots of different activities to use in retros.
 
+**Facilitator #2:** Using Slides #19-30, go through the following:
+
+**Slide #19:**
+
 ### How to Communicate More Mindfully: Nonviolent Communication Framework
 In order to dive into what your feelings/thoughts/concerns/opinions really are in terms of the feedback you need to give, consider the steps to the [Nonviolent Communication Framework](http://www.nonviolentcommunication.com/freeresources/article_archive/heartofnvc_mrosenberg.htm) in order to use our natural *compassion* when communicating with each other.
 
 Similar to the Facts-Feelings-Ask model of having crucial conversations that we discussed in [Learning to Pair](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/learning_to_pair.md) in Module One, the Nonviolent Communication Framework asks you to consider how to be more *mindful* in your communication with others.
 
-* **Whole Group:** What does it mean to be mindful in communication? What would that look like? When is communication *not* mindful?
+**Note to Facilitator #2:** Ask the class: "What does it mean to be mindful in communication? What would that look like? When is communication *not* mindful?" and solicit 2-3 responses to discuss the difference. 
+
+**Slide #20:**
 
 Who is good at mindful communication? No one -- yet. We often spend our time communicating:
 
@@ -153,6 +180,8 @@ Who is good at mindful communication? No one -- yet. We often spend our time com
  * Criticism (i.e. "you're bad at JavaScript")
  * Comparisons (i.e. "no one else in the cohort has this problem")
  * Diagnoses (i.e. you have a hard time thinking problems all the way through") -- Note: this is a big one!
+ 
+ **Slide #21:**
 
 Nonviolent Communication instead integrates:
 * Consciousness: empathy and awareness
@@ -160,17 +189,24 @@ Nonviolent Communication instead integrates:
 * Communication: knowing to how to ask and how to listen
 * Means of Influence: sharing "power" rather than using "power"
 
+**Slides #22-26:**
+
 NVC Framework follows these steps:
 
 * Observations: Facts without judgments
 * Feelings: Harder than it sounds; if you find yourself using "that," "like," or pronouns after the word *feel*, you are not actually saying a feeling
 * Needs: You can't figure out what you need until you reflect on your feelings; use positive language and make needs clear
+  * Note about the word *need*: if this is uncomfortable, you could try appreciate; but we encourage you to practice saying “this is what I need to feel more productive/excited/happy with this project”
 * Requests: Express clearly and ask for a reflection
 
 All of these steps of reflection should take place *before* you have feedback conversations to clarify your points.
 
+**Slide #27:**
+
+**Note to Facilitator:** Depending on time, you might consider doing the following as a whole group discussion by cold calling on 2-3 students rather than having a turn and talk. Discuss how the words "feel" and "need" are being used in each of the examples. 
+
 #### Turn & Talk
-Find a partner to discuss the following scenarios and unpack these phrases to uncover how the feedback could be changed to make for a better retro discussion or what follow-up discussions should happen:
+With a partner, discuss the following conversations. Are they using the NVC framework effectively? If not, how could the statement be changed to be more effective and mindful?
 
 **Scenario #1:** "I feel like not everyone in the group is giving 100%." 
 
@@ -178,11 +214,7 @@ Find a partner to discuss the following scenarios and unpack these phrases to un
 
 **Scenario #3:** "Other groups are further ahead than we are. We have to get back on track. I need everyone to work harder." 
 
-For each of the above, discuss:
-
-* What alternatives could you use for these? 
-* What could be a blind spot here? Tone of voice -- you don’t want to come across as passive aggressive
-* How can you align intent and impact?
+**Slide #29:**
 
 ### Activity: Team Retros
 Choose a format to run your retro and grab a chart paper (or 2). You have 15 minutes to retro in your team:
@@ -199,6 +231,8 @@ Choose a format to run your retro and grab a chart paper (or 2). You have 15 min
   * When will it be done by?
 4. Put your next retro on the calendar
   * Assign roles: facilitator, timekeeper, notetaker, etc.
+
+**Slide #30:**
 
 ### Debrief/Closing
 2-3 groups share out their takeaways from the retro:
