@@ -200,14 +200,22 @@ Remember:
 * Create relevant connections
 * How will you provide value? 
 
+**Slide #21:**
+
 ### Round of Feedback: Pair & Share
 Team up with a group not in your program to share your cover letters and give each other feedback. Feedback should be **specific, actionable, and kind** and include both **appreciation and coaching.** 
+
+**Slide #22:**
+
+**Note to Facilitator #1:** There is often not enough time for students to have individual work time on cover letters, so this is just if there is extra time:
 
 ### Work Time
 Using a position you've added to Huntr, work on a cover letter today using the principles we've discussed. 
 
+**Slide #24:**
+
 ### Closing
-Debrief as a whole group:
+**Note to Facilitator #1:** Call on 1-2 people to respond to the following question:
 
 * What are your next steps/takeaways from today's session?
 
