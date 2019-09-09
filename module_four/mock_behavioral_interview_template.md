@@ -27,7 +27,7 @@ When Giving Feedback:
    * Example: "Eye contact is generally important in most US companies. Can you try to give more eye contact for your interview?"
 
 ### Bank of Questions to Ask Students
-**Storytelling questions:**
+**Storytelling, Experience, and Career Goals Questions:**
 * Tell me about yourself. Why do you want to be a software developer?
 * Tell me about your journey into tech. How did you get interested in coding, and why was software development a good fit for you? How is that applicable to our _____ role or company goals?
 * What made you switch from your prior career into programming? 
@@ -36,19 +36,26 @@ When Giving Feedback:
 * What are you looking for in a company? Why would you want to work here?
 * Describe your time at Turing. How did it prepare you for this career?
 * What is your 100% ideal role for your first web development job?
+* Have you ever worked directly with clients or have been in a customer-facing role in the past? If not, would you like to?
+* Talk about your preferred development environment.
+* How are you keeping up with the latest developments in web development?
  
 **Project, Problem-Solving, & Team Contribution Questions:**
 * Describe a successful idea or project you worked on. What are some of the challenges you had to overcome? What made it a success?
 * Describe a project that failed, a project you had to give up on, or a time you worked really hard on a project and it just didn’t pan out as expected. What happened? How did you make the decisions that you made?
+* When have you solved a problem that didn’t involve you coding?
 * Please describe to me the difference between waterfall and agile approaches to software.
 * How have you implemented or adapted agile practices in your projects?
 * What is your approach to working on a team?
-* A lot of this job will be full-stack. Your experience is largely ____ (Back End, Front End). How do you plan to contribute to the team with only that experience? How comfortable are you with getting uncomfortable with a new language?
+* A lot of this job will be full-stack. Your experience is largely ____ (Back End, Front End). How do you feel like you’d be able to contribute to the team with only that experience? How comfortable are you with getting uncomfortable with a new language?
 * Describe an example of how you have handled a stressful situation.
+* In what types of environments/projects is it best to use pair programming? Why? In what cases would you not use pair programming? Why? 
 * Describe your teamwork experience in a coding environment. How big of a team did you work with?
 * Have you ever had to switch gears in the middle of a project to get something fixed immediately? How did you react?
 * What project of yours are you most proud of and why? 
+* You can’t work out how to solve a coding problem. What do you do to find the answer?
 * Tell me about a challenge or conflict you've faced at work and how you dealt with it.
+* How do you approach testing? And what do you think about this? How would you improve QA?
 * When have you exercised leadership and what was the result?
 * Describe a time when you took a risk that paid off for you. What was your process for pushing yourself further? How did you assess risk and try something new?
 
@@ -60,8 +67,10 @@ When Giving Feedback:
 * Describe a time when you received feedback that you were surprised by. What did you do with that feedback?
 * When you disagree with a decision your team makes, how do you handle it?
 
-**Personal Growth Questions:**
+**Personal Growth & Self-Awareness Questions:**
 * What is an area of growth for you?
+* What’s hard about programming?
+* What are some of your best professional/soft skills?
 * Describe your strengths. How have you seen these in practice as a developer?
 * How do you deal with failure?
 * What is your biggest weakness?
