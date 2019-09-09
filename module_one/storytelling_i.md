@@ -125,6 +125,8 @@ Using [the handout](https://github.com/turingschool/career-development-curriculu
   
 **Slide #17:**
 
+**Note to Facilitator #1:** Let students know these hand-outs will not be collected, and they can share as much or as little as they want with each other about their social identities. This activity is meant to help people think about how to respond to the following questions.
+
 ### Turn & Talk
 * How do you already fit into the tech industry?
 * How have you seen yourself using your social identity to become a successful student and developer? 
@@ -161,7 +163,9 @@ Read [these examples from 3 other staff members](https://docs.google.com/documen
 
 * **Jeff Casimir, Executive Director:** ```"I remember really struggling when I first started learning about functional programming. At that point I had been writing code for 15 years. I started to see that the anxiety about not 'getting it' was actually preventing me from getting it. When I don't understand what I'm doing I like to copy, modify, create. I take something that I know works, from the web or a book or whatever, and just type that out and make it run. Then I start tweaking things. What if I rearrange two lines, change some numbers or values, that kind of thing. I think of it as 'pulling on' the code, seeing how it flexes and changes. Then I delete a chunk of the code and try to write it myself. I think one of my strengths in life and programming is a willingness to experiment. I prefer to move quickly and learn, even if it means making mistakes, rather than sitting and planning. When you're planning you're working with the information you have right now. When you experiment you have the opportunity to gain new perspective/data."```
 
-2-3 groups share out for the whole group.
+**Note to Facilitator #2:** Call on 2-3 groups to share what they discussed for the whole group. 
+
+**Slide #22:**
 
 Now, let's dive into our own strengths and values a little more to explore how we utilize growth mindset and succeed over struggle as software developers. 
 
@@ -171,12 +175,14 @@ As we discuss values, we're talking about:
 * What drives our behavior and are directly related to job satisfaction and fulfillment.
 * We value some things more than others and these priorities affect the choices we make in life.
 
-**I Do:** Facilitator demonstrates how to complete the strengths and values activity. 
+**Slide #23:**
+
+**Note to Facilitator #2:** Draw the 4 quadrants on the baord and demonstrate how you would complete the strengths and values activity by picking out a few values that would fit in different categories for you. 
+
+**Slide #24:**
 
 #### You Do
-You have 2 handouts:
-* A handout with 4 quadrants labeled with *Always Valued, Often Valued, Sometimes Valued,* and *Seldom Valued* 
-* A handout listing different kinds of values. Pick 5 values for each of the 4 quadrants. 
+Using your [list of values handout](https://github.com/turingschool/career-development-curriculum/blob/master/files/List%20of%20Values.pdf) and the [quadrants handout](https://github.com/turingschool/career-development-curriculum/blob/master/files/Value%20Quadrants.pdf), pick 5 values for each of the 4 quadrants.  
 
 *Think about how your Pairin Highest Virtue Class ("Lover of...") fits into your final selections.* 
 
@@ -186,6 +192,8 @@ Respond to these questions in your journal:
 * How do these values describe your response to struggle?
 * What do these values tell you about your career as a software developer? 
 
+**Slide #25:**
+
 ### Small Group Discussions
 Form groups of 3-4 people to discuss the following questions:
 
@@ -194,7 +202,19 @@ Form groups of 3-4 people to discuss the following questions:
 * How do your strengths apply to being a good software developer? 
 * Knowing your values, how will you use them in your new career?
 
+**Slide #26:**
+
 ### Whole Group Debrief/Synthesis
-Share out:
+**Note to Facilitator #2:** Call on 2-3 people to respond to these questions:
+
 * How does what we've talked about today relate to your new career as a software developer? What did you learn about yourself?
 * Go back to the activity we did at the beginning of the session; as you look back over the two lists that you made, what do you notice?
+
+**Slide #27:**
+
+### Closing
+Looking ahead at next module:
+
+* You will complete an exercise on the kind of career you want
+* Put all of this together into your professional story
+
