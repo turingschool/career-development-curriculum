@@ -2,9 +2,19 @@
 
 [Slides for this session](https://docs.google.com/presentation/d/1HMUP45CdDOTX07vaHUy5QhIEfbe_XQSyiCiByoDiJhg/edit?usp=sharing)
 
+### Facilitator Instructions
+There are facilitator notes throughout this markdown to divide up responsibilities in the session, assuming there are 2 instructors (1 BE and 1 FE) in the session. Please read through this markdown ahead of the session, decide who is going to be Facilitator #1 and who will be Facilitator #2, and let Allison know if you have any questions.
+
+### Before the Session
+Facilitators should pick out 
+
 ### Session Structure
 
 Timeline: 90 mins
+
+**Facilitator #1:** Using slides #
+
+**Slide #
 
 * Objectives/Hook (7 mins)
 * Do's & Don'ts of Cover Letters (12 mins)
@@ -92,6 +102,7 @@ In groups, discuss these cover letters as though you're a hiring manager:
 * [Abdulla Qudrat](https://github.com/turingschool/career-development-curriculum/blob/master/files/Abdulla_Blinker%20Cover%20Letter.pdf)
 * [Tommasina Miller](https://github.com/turingschool/career-development-curriculum/blob/master/files/Example%20Cover%20Letter.pdf)
 * [Tom Wilhoit](https://docs.google.com/document/d/15WiVlqWODG63dyH5Ix2mxRBAQb3fwYS0V5HNDJ37vb4/edit?usp=sharing)
+* [Vinton Te'o](https://docs.google.com/document/d/1H5NxxasnGxb49swHGtrdDZY7T88yQMcxI2UqGDsyWNY/edit?usp=sharing)
 
 #### Frequently Made Mistakes in Cover Letters
 
