@@ -6,6 +6,13 @@
 ### Facilitator Instructions
 There are facilitator notes throughout this markdown to divide up responsibilities in the session, assuming there are 2 instructors (1 BE and 1 FE) in the session. Please read through this markdown ahead of the session, decide who is going to be Facilitator #1 and who will be Facilitator #2, and let Allison know if you have any questions.
 
+### Before the Session
+Make copies for all students of the following 4 handouts:
+* [Social Identity Map](https://github.com/turingschool/career-development-curriculum/blob/master/files/Social%20Identity%20Map.pdf)
+* [Staff Story Examples](https://docs.google.com/document/d/1XvuHUi1NuHT28KczWQrkuVeMEyEn4TtiJ2KDe6MoorM/edit?usp=sharing)
+* [List of Values](https://github.com/turingschool/career-development-curriculum/blob/master/files/List%20of%20Values.pdf)
+* [Values Quadrant Sheet](https://github.com/turingschool/career-development-curriculum/blob/master/files/Value%20Quadrants.pdf)
+
 ### Session Structure
 
 Length: 80-85 mins
@@ -83,23 +90,29 @@ given and chosen categories
 
 **Slide #13:**
 
-**I Do:** Facilitator(s) demonstrates how to fill out a social identity map on the board and discusses their own map, which is modeled after this handout.
+**I Do:** Facilitator(s) demonstrates how to fill out a social identity map on the board and discusses their own map, which is modeled after [this handout](https://github.com/turingschool/career-development-curriculum/blob/master/files/Social%20Identity%20Map.pdf).
+
+**Slide #14:**
 
 How can we apply these social identity maps to articulating who we are more effectively? Let's look at this example from Josh Mejia, Back End Instructor:
 
 ```I grew up in a blue collar town within a family that, while we were close and valued each other, didn't focus much on education. We were near the poverty line for a good portion of my childhood and relied on things such as Section 8, food stamps, and free lunch. Technology was not a passion of mine. In fact, I was convinced I didn't want to work with computers or spend all day sitting at a desk. It took me years to give software a chance. I was playing music with a couple friends who were software engineers and that encouraged me to look into it as a career path. I declined their nudges and continued working blue collar jobs for the first 10 years of my adult life. After growing tired of the options in front of me, I decided to take their advice and started teaching myself HTML and CSS. One of my friends was working with Ruby on Rails, and he recommended I dive a little deeper.```
 
-**Whole Group Discussion:**
+**Note to Facilitator #1:** These questions can either be answered by calling on 2-3 people to respond or having students do a Turn & Talk, if there's time: 
 * What did you learn about Josh here?
 * What are some ways that he discusses his social identity? 
 * What do you connect with from what he shared?
+
+**Slide #15:**
 
 Some takeaways here:
 * Even though our social identities could cause us to stick with people who are most like us, by sharing our social identities, we begin to see the ways in which our social identities overlap with people who on the surface seem unlike us.
 * Understanding our social identities allows us to identify the ways in which we already feel like we're a part of the tech industry, identify the ways we don't *yet* feel that we're a part of the tech industry, and begin to build bridges to incorporate the latter even more.
 
+**Slide #16:**
+
 #### You Do
-Using the handout, create your own social identity map: 
+Using [the handout](https://github.com/turingschool/career-development-curriculum/blob/master/files/Social%20Identity%20Map.pdf), create your own social identity map: 
 
 1. In the outer ring, write words that describe your given identity: attributes that you had no choice about such as your nationality, age, gender, physical characteristics, certain family roles, possibly religion.
 2. In the next ring, list aspects of your chosen identity. Consider including your occupation, hobbies, political affiliation, where you live, certain family roles, possibly religion. Examples are cyclist, mother, engineer, expatriate, college graduate, wife, leader, New Yorker, Buddhist.
@@ -109,27 +122,40 @@ Using the handout, create your own social identity map:
   * Put a plus sign (+) beside the items that you believe clearly demonstrate that you fit into the tech industry.
   * Put a minus sign (-) beside the items that you believe do not demonstrate that you fit into the tech industry.
   * Put a question mark (?) beside the items that you're unsure how they could show your ability to contribute to the tech industry.
+  
+**Slide #17:**
 
 ### Turn & Talk
-* How do you already think that you fit into the tech industry?
+* How do you already fit into the tech industry?
 * How have you seen yourself using your social identity to become a successful student and developer? 
 * What would it look like for some of your minuses or question marks to turn into pluses? In other words, how could some of these traits be assets for the tech industry?
 
-2-3 groups share out for the whole group.
+**Note to Facilitator #1:** Call on 2-3 groups to share out what they discussed.
+
+**Slide #18:**
 
 ### Pomodoro
 Take a 5 minute break!
 
+**Facilitator #2:** Using slides #20-27, go through the following: 
+
+**Slide #20:**
+
 ### Activity #2: Strengths & Values 
-Question to the group: when you hear the words "strengths" and "values," what kinds of words come to mind?
-Can *struggle* be a strength or a value?  Why/why not? How many of you have struggled at Turing? Probably all of you are raising your hands. That's part of becoming a better software developer as you learn to keep using a growth mindset. 
+**Note to Facilitator #2:** Call on students to respond to the following questions as a whole group:
+
+* When you hear the words "strengths" and "values," what kinds of words come to mind?
+* Can *struggle* be a strength or a value?  Why/why not? 
+* How many of you have struggled at Turing? Probably all of you are raising your hands. That's part of becoming a better software developer as you learn to keep using a growth mindset. 
+
+**Slide #21:**
 
 #### Turn & Talk
-Discuss these examples from 3 other staff members on how they utilize struggle with these questions:
+Read [these examples from 3 other staff members](https://docs.google.com/document/d/1XvuHUi1NuHT28KczWQrkuVeMEyEn4TtiJ2KDe6MoorM/edit?usp=sharing) on how they utilize struggle and discuss the following questions:
 * What did you learn about each person?
 * What do these stories tell you about how they each use growth mindset against struggle?
 
-* **Amy Holt, Back End Instructor:** ```"I still struggle every day! One thing I learned about myself and my learning style while at Turing is that it's really important I understand the inner-workings of things before I feel ok with implementing them. At first, I just thought I was a slow learner. Connecting my 'speed' in picking up concepts to my need for a deeper understanding helped me be a little more kind with myself. When I'm really discouraged, I try to step back and remind myself of how far I've come and acknowledge that it is always possible to 'do the thing'. "```
+* **Amy Holt, Front End Instructor:** ```"I still struggle every day! One thing I learned about myself and my learning style while at Turing is that it's really important I understand the inner-workings of things before I feel ok with implementing them. At first, I just thought I was a slow learner. Connecting my 'speed' in picking up concepts to my need for a deeper understanding helped me be a little more kind with myself. When I'm really discouraged, I try to step back and remind myself of how far I've come and acknowledge that it is always possible to 'do the thing'. "```
 
 * **Leta Keane, Front End Instructor:** ```"I constantly struggle with learning to code! Coding has never been easy for me, never been intuitive, never been anything other than a very conscious, very intentional PROCESS. I had to learn that just because coding is not intuitive for me, it doesn't mean that I can't or shouldn't code. It doesn't mean that I am a weak developer. Instead, I make use of my very strong skills of communication, organization, planning, and logic to work through problems methodically and collaboratively. I am driven by logic that is tempered by empathy. People should have the resources and understanding they need to make informed decisions for themselves and the safety to grow and thrive. I like to share my experiences and knowledge with the people around me, including the times I've messed up, because examples and commiseration are powerful in combatting imposter syndrome and doubt."```
 
