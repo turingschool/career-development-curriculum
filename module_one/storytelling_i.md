@@ -10,9 +10,9 @@ There are facilitator notes throughout this markdown to divide up responsibiliti
 
 Length: 80-85 mins
 
-**Facilitator #1:** Using slides 
+**Facilitator #1:** Using slides #3-18, go through the following: 
 
-**Slide #
+**Slide #3:**
 
 * Opening Activity (5 mins)
 * Why/Objectives (2 mins)
@@ -25,31 +25,52 @@ Length: 80-85 mins
 * Small Group Discussions (10 mins)
 * Closing: Debrief (5 mins)
 
+**Slide #4:**
+
 ### Opening Activity
-In your journal, draw a line down the page. On the left side, write down all your strengths. On the right side, write down all the strengths/qualities of a software developer. Circle or put a star next to the ones that overlap.
+**Note to Facilitator #1:** Instruct students to use their journals to do the following:
 
-### The Why: Coming Full Circle
-Throughout this module, we've been talking about our strengths as a way to build more awareness of how we work, communicate, and lead. This session serves as a culmination of that work as we begin to connect that understanding to continue to build relationships with each other and begin to tell a cohesive professional story for our new careers.
+* Draw a line down the middle of a page
+* On the left side, write down all your strengths. 
+* On the right side, write down all the strengths/qualities of a software developer. 
+* Circle or put a star next to the ones that overlap.
 
-Today, we'll do a deeper dive into our strengths, values, and social identities.
+Give students about 5 minutes for this activity. They aren't going to share their responses, but they'll use this reflection throughout the session. 
+
+**Slide #5:**
 
 #### Objectives
 * Reflect on your social identities and values and how they inform your place in the tech industry
 * Understand how your experiences at Turing connect to others'
 * Begin to build your professional story by describing yourself as a software developer
 
+**Slides #6-7:**
+
+### The Why: Coming Full Circle
+Throughout this module, we've been talking about our strengths as a way to build more awareness of how we work, communicate, and lead. This session serves as a culmination of that work as we begin to connect that understanding to continue to build relationships with each other and begin to tell a cohesive professional story for our new careers.
+
+Today, we'll do a deeper dive into our strengths, values, and social identities.
+
+**Slide #9:**
+
 ### Activity #1: Social Identity Mapping
 *This activity is adapted from the Center for Creative Leadership*
 
-Question to the group: When you think of the words "culture fit," what comes to mind?
+**Note to Facilitator #1:** Ask the whole group: "When you think of the words "culture fit," what comes to mind?" Call on 2-3 people to discuss various responses. 
+
+**Slide #10:**
 
 This phrase can cause many organizations to form around people who share a common culture and set of values. This makes sense -- we seek out the people who are most like us. However, research shows that organizations are more successful when they incorporate groups of people with very different histories, perspectives, values, and cultures. And more and more organizations are moving towards embracing that idea of diversity. 
+
+**Slide #11:**
 
 Why does this matter to you? 
 1. You each bring your own specific culture and set of values to this industry. That is something to be celebrated as you carve out your own niche in the tech industry.
 2. By understanding and articulating your culture and values, you are able to relate to others better, work with them more successfully, and demonstrate the growth you achieve through working with others who are both similar and different to you.
 
 So how do we do that? By looking at our **social identities** more closely.
+
+**Slide #12:**
 
 **Social identity** uses parts of a person’s identity to categorize them into groups. All of us are members of multiple groups. Many of us compare the groups we belong to with other groups, typically thinking more highly of our own.
 
@@ -60,7 +81,9 @@ family roles or physical characteristics
 * Core: made up of the attributes that make you unique as an individual such as behaviors, values, skills, and items from your
 given and chosen categories
 
-**I Do:** Facilitator demonstrates how to fill out a social identity map on the board and discusses their own map.
+**Slide #13:**
+
+**I Do:** Facilitator(s) demonstrates how to fill out a social identity map on the board and discusses their own map, which is modeled after this handout.
 
 How can we apply these social identity maps to articulating who we are more effectively? Let's look at this example from Josh Mejia, Back End Instructor:
 
