@@ -12,9 +12,11 @@ Facilitators should pick out
 
 Timeline: 90 mins
 
-**Facilitator #1:** Using slides #
+**Facilitator #1:** Using slides #3-7, go through the following:
 
-**Slide #
+**Slide #3:**
+
+Agenda:
 
 * Objectives/Hook (7 mins)
 * Do's & Don'ts of Cover Letters (12 mins)
@@ -24,6 +26,8 @@ Timeline: 90 mins
 * Round of feedback (10 mins)
 * Work Time (15 mins)
 * Closing: Debrief (5 mins)
+
+**Slide #
 
 ### Opening & Objectives
 In this session, participants will be able to:
