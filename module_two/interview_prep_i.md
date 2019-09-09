@@ -1,7 +1,7 @@
 # Interview Prep I
 ## Putting It All Together
 
-Session Time: 60 minutes
+Session Time: 60 minutes + 30 minutes for peer review on outreach and networking 
 
 [Slides for this lesson](https://docs.google.com/presentation/d/1ncfDn8PO3bRTwZbNPU01w0kbHGvofLjupUzYBQZ_IVI/edit?usp=sharing)
 
@@ -18,6 +18,7 @@ Agenda:
 * We Do: Prep & Volunteer & Feedback (15 mins)
 * Group Practice (20 mins)
 * Closing (4 mins)
+* Peer Review: Outreach & Networking Deliverable (20-30 mins)
 
 **Slide #4:**
 
@@ -184,3 +185,18 @@ Next Mod:
 * Before Mod 3, you have [pre-work to create an interview prep system](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/pre_work.md)
 * In Mod 3, you’ll complete a mock behavioral interview with a staff member
 
+**Facilitator #2:** Using slide #23, go through the following:
+
+**Slide #23:**
+
+### Peer Review: Outreach & Networking Deliverable
+1. Get into groups of 3-4 people
+2. Share your outreach/networking plans with each other
+3. Give each other feedback:
+  * Is it clear why your partner is reaching out to this person? Why/why not? 
+  * Is it clear what the ask is? Why/why not? 
+  * What other next steps should your partner consider to make a strong connection here?
+  * How can you as a group help each other be accountable to these plans and follow-through?
+4. Go back to your plans and make any updates that you need to in the gist to help hold yourself accountable
+
+**Note to Facilitator #2:** Before closing out, have 2-3 groups share out what steps they're taking with their outreach and how they're holding each other and themselves accountable.
