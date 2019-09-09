@@ -101,7 +101,7 @@ In groups, discuss these cover letters as though you're a hiring manager:
 * [April Dagonese](https://github.com/turingschool/career-development-curriculum/blob/master/files/April%20Cover%20Letter.pdf)
 * [Abdulla Qudrat](https://github.com/turingschool/career-development-curriculum/blob/master/files/Abdulla_Blinker%20Cover%20Letter.pdf)
 * [Tommasina Miller](https://github.com/turingschool/career-development-curriculum/blob/master/files/Example%20Cover%20Letter.pdf)
-* [Tom Wilhoit](https://docs.google.com/document/d/15WiVlqWODG63dyH5Ix2mxRBAQb3fwYS0V5HNDJ37vb4/edit?usp=sharing)
+* [Tom Wilhoit](https://github.com/turingschool/career-development-curriculum/blob/master/files/ibotta-cover-letter.pdf)
 * [Vinton Te'o](https://docs.google.com/document/d/1H5NxxasnGxb49swHGtrdDZY7T88yQMcxI2UqGDsyWNY/edit?usp=sharing)
 
 #### Frequently Made Mistakes in Cover Letters
