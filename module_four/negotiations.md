@@ -1,15 +1,20 @@
 # Negotiations
 ## How to Ask for What You Want
 
-For some reason we live in a world that is afraid to talk openly about money. That changes for you today. In this session, we'll have an open discussion about averages our alums are currently making in full-time junior developer jobs, apprenticeships, internships, and contract/freelance opportunities -- and how you should negotiate for what you want.
+### Facilitator Instructions
+There are facilitator notes throughout this markdown to divide up responsibilities in the session, assuming there are 2 instructors (1 BE and 1 FE) in the session. Ian will facilitate the section on equity specifically. Please read through this markdown ahead of the session, decide who is going to be Facilitator #1 and who will be Facilitator #2, and let Allison know if you have any questions.
 
 [Slides for this session](https://docs.google.com/presentation/d/1UBHC5M0KQ712bUN8aeCfqKI7ti-Q_FajxSSJB5_5sDo/edit?usp=sharing)
 
 ### Session Structure
 Time: 60 mins
 
+**Facilitator #1:** Using slides #3-7, go through the following:
+
+**Slide #3:**
+
 * Opening: objectives, turn & talk (5 mins)
-* Ins & Outs of Negotations (20 mins)
+* Ins & Outs of Negotiations (20 mins)
 * Offer Discussion & Demo (5 mins)
 * Other Parts of the Offer (15 mins)
 * You Do: Group Discussions (10 mins)
@@ -29,12 +34,17 @@ Time: 60 mins
 * If you haven’t negotiated, why not?
 
 ### The Why
+For some reason we live in a world that is afraid to talk openly about money. That changes for you today. In this session, we'll have an open discussion about averages our alums are currently making in full-time junior developer jobs, apprenticeships, internships, and contract/freelance opportunities -- and how you should negotiate for what you want.
 
 * As our mission states, we aim to unlock human potential by training a diverse, inclusive student body to **succeed in high-fulfillment technical careers.** As part of that high-fulfillment piece, we aim to provide you with the tools to navigate offer negotiations. It's up to you to use these tools, but keep in mind that companies will low-ball you with their first offer because they *expect you to negotiate.*
 
 * A negotiation conversation could take as little as 5 minutes. Think about that. You generally can’t do 5 minutes of work this year and have your boss give you an extra $10,000. But you can pick up $10,000 in salary negotiations just by having a conversation about your compensation. That makes your negotiation five very important minutes so that no money is left on the table. You can't afford to *not* negotiate. Not only that, but when our alumni have used these negotiations tools, they've been able to get more of what they deserve. We'll look at some examples later in this session. If you're ever given an offer that you're not sure how to negotiate, bring it to the staff and we'll help. 
 
 * Keep in mind that the [wage gap](http://www.latimes.com/business/technology/la-fi-tn-0323-pay-gap-20160323-story.html) in [tech](http://www.payscale.com/data-packages/gender-pay-gap/women-in-tech) is very real. Creating transparency around salaries is an important step in closing that gap, and that transparency starts with negotiations. Do not let money stay on the table that could be yours.
+
+**Facilitator #2:** Using slides #9-20, go through the following:
+
+**Slide #9:**
 
 ### Ins & Outs of Negotiations
 **Let's say you're asked the question: "What are your salary expectations?"**
@@ -144,6 +154,10 @@ Brittany`
 * After you've reviewed it, you're free to negotiate directly in the email but offer up a chance for a phone conversation. Explain what you're happy with and what you'd like to negotiate. Don't just ask for more money, explain why you're worth it. What differentiates you from the competition that makes you worth that extra money or PTO? 
 * Sometimes they will respond right away with a new offer letter just giving you what you asked for. Sometimes they'll call you back and tell you what they can do (maybe give you a counter offer). 
 
+**Facilitator #1:** Using slides #21-32, go through the following:
+
+**Slide #21:**
+
 ### Other Parts of the Offer to Consider
 #### Equity
 Learn the lingo:
@@ -191,6 +205,10 @@ Year 5: $92,007				  Year 5: $81,182
 That $9k is a bonus paycheck from the company should they succeed. This is not a guarantee.
 
 **Bottom Line:** Don’t accept more equity over salary.
+
+**Facilitator #2:** Using slides #33-40, go through the following:
+
+**Slide #33:**
 
 #### Additional Parts of the Offer
 * PTO/Sick days/Mental Health days
