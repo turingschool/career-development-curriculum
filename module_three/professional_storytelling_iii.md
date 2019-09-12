@@ -242,7 +242,16 @@ You can choose to set up a traditional resume use a template like this [traditio
      * Or make sure to have a printer-friendly version
 * Your own coded resume
 
-**Facilitator #1:** Using slides #33-34, go over the resume deadlines and next steps below: 
+**Facilitator #1:** Using slides #34-36, go through the following:
+
+**Slide #34:**
+
+### Closing
+Call on 1-2 students to respond to this question:
+
+* What are you taking away from today's session?
+
+**Slide #35:**
 
 ### Next Steps: What's Due When for your Resume
 To get quick feedback on your resume, we partner with CV Compiler where you can upload your resume to get feedback on how to make it stronger. Here's how it works:
@@ -253,9 +262,6 @@ To get quick feedback on your resume, we partner with CV Compiler where you can 
 4. Fill out the fields with your Name and Email and the promo code provided to you by Turing
 5. Upload your resume
 
+**Slide #36:**
+
 **You are required to upload your resume to CV Compiler by 5pm on Monday of Week 2.** After you receive feedback on the resume, make any necessary changes to your resume and then upload it again to CV Compiler no later than **5pm on Wednesday of Week 2.** After that, please upload that draft of your resume to your [Turing alumni portfolio](https://alumni.turing.io/) by no later than **9am on Thursday of Week 2** in order to be considered for job shadow. 
-
-**Facilitator #1:** Using slide #35, cold call 1-2 students with the following question:
-
-### Closing
-* What are you taking away from today's session?
