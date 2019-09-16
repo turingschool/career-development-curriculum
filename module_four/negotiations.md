@@ -185,7 +185,7 @@ Call on 2-3 students to answer the following:
 * After you've reviewed it, you're free to negotiate directly in the email but offer up a chance for a phone conversation. Explain what you're happy with and what you'd like to negotiate. Don't just ask for more money, explain why you're worth it. What differentiates you from the competition that makes you worth that extra money or PTO? 
 * Sometimes they will respond right away with a new offer letter just giving you what you asked for. Sometimes they'll call you back and tell you what they can do (maybe give you a counter offer). 
 
-**Facilitator #1:** Using slides #21-32, go through the following:
+**Facilitator #1:** Using slides #21-27, go through the following:
 
 **Slide #21:**
 
@@ -214,7 +214,7 @@ Consider:
 * What's the strike price? The more rounds of funding the company has had, or the longer they’ve been around, the higher the strike price.
 * What's your exit plan? Whether the options are going to be worth anything some day depends on the exit plan.
 
-**Slides #24-31:**
+**Slides #24-26:**
 
 Case Study:
 * Given 1,000 stock options, assume $1 strike price per share
@@ -241,13 +241,13 @@ Year 5: $92,007				  Year 5: $81,182
 					  
 That $9k is a bonus paycheck from the company should they succeed. This is not a guarantee.
 
-**Slide #32:**
+**Slide #27:**
 
 **Bottom Line:** Don’t accept more equity over salary.
 
-**Facilitator #2:** Using slides #33-40, go through the following:
+**Facilitator #2:** Using slides #28-35, go through the following:
 
-**Slide #33:**
+**Slide #28:**
 
 #### Additional Parts of the Offer
 * PTO/Sick days/Mental Health days
@@ -262,7 +262,7 @@ That $9k is a bonus paycheck from the company should they succeed. This is not a
    * Lunch
    * Cell phone 
 
-**Slide #34:**
+**Slide #29:**
 
 ### What if a Company Can't Meet Your Counter?
 * If the company is unable to meet your counter offer, *this is okay.* **The worst thing they can say is "no."** It is good practice to always negotiate.
@@ -279,7 +279,7 @@ That $9k is a bonus paycheck from the company should they succeed. This is not a
   * You could also negotiate moving costs, but be aware that this is a reimbursement, not something you can take. Ask about the tax write-off and get a list of what's reimburasable. 
   	* "Will you reimburse IRS-approved relocation expenses?"
 
-**Slide #35:**
+**Slide #30:**
 
 **Keep in Mind:**
 
@@ -289,13 +289,13 @@ That $9k is a bonus paycheck from the company should they succeed. This is not a
     * You should be somewhere you want to be and where you’re valued
     * If they rescind the offer because you were disrespectful, that’s different. *But we don't expect you to be disrespectful*
     
-**Slide #36:**
+**Slide #31:**
   
 **Bottom Line: Negotiating is Always Important**
  
   * **It’s important for you to advocate for yourself because there's no guarantee that anyone else will**
 
-**Slide #38:**
+**Slide #33:**
 
 ### You Do: Group Discussion
 You receive this offer:
@@ -319,10 +319,10 @@ In your small groups, discuss:
 
 **Note to Facilitator #2:** Call on 1-2 groups to share out what they discussed about the offer.
 
-**Slide #39:**
+**Slide #34:**
 Ask for a fist to five: how confident do you feel about negotiating your first offer?
   
-**Slide #40:**
+**Slide #35:**
 
 ### Resources for Follow-Up
 
