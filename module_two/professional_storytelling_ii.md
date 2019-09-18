@@ -13,12 +13,16 @@ Length: 60 mins
 
 **Facilitator #1:** Using slide #2-6, go through the following: 
 
+**Slide #2:**
+
 * Opening/Why: 5 mins
 * Turn & Talk: 5 mins
 * Discussion of storytelling components and examples: 20 mins
 * Individual Practice: 10-15 mins
 * Feedback Groups: 15 mins
 * Closing: 5 mins
+
+**Slide #4:**
 
 ### Objectives
 * Understand the value and purpose of storytelling in both professional and personal relationship-building contexts
@@ -28,6 +32,8 @@ Length: 60 mins
 
 ### Deliverable
 * Submit a draft of your professional story via [this survey](https://goo.gl/forms/nfu0g8MnoyKXjfnp1) by **9am on Monday of Week 3.**
+
+**Slides #5-6:**
 
 ### The Why/Hook
 We've been focusing on building awareness of:
@@ -72,6 +78,8 @@ What stories stick with you and why? Think of a story that you love; maybe it's 
 
 **Facilitator #1:** Using Slides #9-11, go through the following:
 
+**Slide #9:**
+
 **More Lessons from Pixar (and Joseph Campbell):**
 Most stories follow the 3-Act Arc:
 * Act I (Set-Up)
@@ -86,22 +94,28 @@ Most stories follow the 3-Act Arc:
    * Show what’s been learned
    * Protagonist is changed
 
+**Slide #10:**
+
 **Connection to You:**
 These elements are present in your story as well. You are the main character, the hero, undergoing challenges, experiencing a journey, and revealing the narrative thread through your own theme.
-
-**Disclaimer:** When we say story, this is not something that has been made up or embellished in any way. People can tell when you're not being truthful. Rather, this is about how to make a true account of a career trajectory engaging and inspiring. 
 
 There are 3 main questions to help us understand our own stories and our character arcs:
 * **Who are you?** *(as a developer, a teammate, a worker, a career changer)*
 * **Why are you here?** *(Why software development? Why now? Consider both your background but also what drives you to be in this field)*
 * **What's next?** *(Where do you see yourself going in this career?)* 
 
+**Slide #11:**
+
 ### What is a *Professional* Story?
 Telling the story of your professional transition into software development helps others understand your motives, character, and capacity to reach the goals that you've set for yourself. In short, your story makes others believe in you.
 
+**Disclaimer:** When we say story, this is not something that has been made up or embellished in any way. People can tell when you're not being truthful. Rather, this is about how to make a true account of a career trajectory engaging and inspiring. 
+
 Your story is one of **transition.** These stories are inherently interesting as they have all the elements of a classic story, and most importantly, they have the important elements of change, conflict, and tension around the transition. Where are you going? What will happen next? It's so exciting for the listener! But it also depends on how you tell that story. Let's look at some examples... 
 
-**Both Facilitators:** Using Slide #12, give multiple examples of professional stories. The first story that is shared should be what *not* to do: give an exmaple of your story in which you only list out the jobs you've had without utilizing many other elements of storytelling (see below in story example #1). Then, call on students to say what they noticed from the example. Then, give your *exemplar* version of your story in which you discuss your motives and passions that led you to make specific decisions in your career path (see below in story example #2). After you share the second story, ask for students what they noticed that was different and which story they found more compelling. Each facilitator should share their professional stories, but only one needs to share the "bad" example first.
+**Slide #12:**
+
+**Both Facilitators:** Give multiple examples of professional stories. The first story that is shared should be what *not* to do: give an exmaple of your story in which you only list out the jobs you've had without utilizing many other elements of storytelling (see below in story example #1). Then, call on students to say what they noticed from the example. Then, give your *exemplar* version of your story in which you discuss your motives and passions that led you to make specific decisions in your career path (see below in story example #2). After you share the second story, ask for students what they noticed that was different and which story they found more compelling. Each facilitator should share their professional stories, but only one needs to share the "bad" example first.
 
 #### Story Examples: Which story is more compelling? 
 During a networking event explored in this [Harvard Business Review article](https://hbr.org/2005/01/whats-your-story), senior managers who'd been downsized took turns telling what they had done before and what they were looking for next. Which of these stories is more interesting for you as a listener?
@@ -130,7 +144,7 @@ The second story focuses more on character motives, themes, and turning points -
 
 Now, let's apply these ideas to your own story and practice telling it. 
 
-**Facilitator #1:** Using Slide #14, instructo students to write out a draft of their story in their journals:
+**Facilitator #1:** Using Slide #14, instruct students to write out a draft of their story in their journals:
 
 ### You Do: Individual Story-writing
 
