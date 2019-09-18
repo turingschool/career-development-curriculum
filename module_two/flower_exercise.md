@@ -6,9 +6,14 @@
 ### Facilitator Instructions
 There are facilitator notes throughout this markdown to divide up responsibilities in the session, assuming there are 2 instructors (1 BE and 1 FE) in the session. Please read through this markdown ahead of the session, decide who is going to be Facilitator #1 and who will be Facilitator #2, and let Allison know if you have any questions. Prior to the session, [print out enough worksheets for all the students](https://github.com/turingschool/career-development-curriculum/blob/master/files/Career%20Unit%20-%20The%20Flower%20Diagram.pdf) and pass them out at the beginning of the session. 
 
+#### Before the Session Starts
+Facilitators: Drop [this link to the brainstorming sheets](https://docs.google.com/document/d/1pLe95AA3y8rxnU-MDnyAVeoqWCxE9__KMDhmPgcd_7c/edit?usp=sharing) into the cohorts' Slack channels.
+
 Session Structure: 90 mins
 
-**Facilitator #1:** Go over the agenda listed below for the session (Slide #2)
+**Facilitator #1:** Using slides #2-7, go through the following: 
+
+**Slide #2:**
 
 * Opening: why is this important? (5 mins)
 	* Turn & Talk
@@ -21,17 +26,13 @@ Session Structure: 90 mins
 * Share Out/Closing (5 mins)
 
 ### Opening
-**Facilitator #1:** Introduce the Turn & Talk below (Slide #4), followed by the objectives & recommended deliverable, the Why, and the How it Works sections (Slides #5-7). Please drop [this link to the brainstorming sheets](https://docs.google.com/document/d/1pLe95AA3y8rxnU-MDnyAVeoqWCxE9__KMDhmPgcd_7c/edit?usp=sharing) into the cohorts' Slack channels.
+**Slide #4:** 
 
 **Turn & Talk:** Last mod, we discussed using your strengths and social identities as software developers:
 * What are some of the ways you see yourself excelling as a software developer?
 * What excites you most right now about this career?
 
-Today we'll talk about the steps you can take to make sure that you continue building those feelings of excitement and passion in your new career as a software developer. After all, you're making this career transition because you weren't happy in your last job -- let's make sure that your happiness is front and center in your new career. 
-
-This relates directly to our mission at Turing as we strive for all students to **succeed in high-fulfillment technical careers.**
-
-We'll utilize a job-hunting strategy from [What Color is Your Parachute](http://www.jobhuntersbible.com/) by Richard N. Bolles to unpack your values, goals, and passions to make this job search your most successful and satisfying. 
+**Slide #5:**
 
 ### Learning Objectives:
 
@@ -42,6 +43,16 @@ We'll utilize a job-hunting strategy from [What Color is Your Parachute](http://
 ## Recommended Deliverable:
 This is not required, but you can **[complete the Flower Exercise 1-pager](https://github.com/turingschool/career-development-curriculum/blob/master/files/Career%20Unit%20-%20The%20Flower%20Diagram.pdf)** and share it with Allison. You can set up a meeting with her to discuss it further if you would like.
 
+**Slide #6:**
+
+Today we'll talk about the steps you can take to make sure that you continue building those feelings of excitement and passion in your new career as a software developer. After all, you're making this career transition because you weren't happy in your last job -- let's make sure that your happiness is front and center in your new career. 
+
+This relates directly to our mission at Turing as we strive for all students to **succeed in high-fulfillment technical careers.**
+
+We'll utilize a job-hunting strategy from [What Color is Your Parachute](http://www.jobhuntersbible.com/) by Richard N. Bolles to unpack your values, goals, and passions to make this job search your most successful and satisfying. 
+
+**Slide #7:**
+
 ### Overview: How It Works
 The Flower Exercise is designed to help you move through 3 stages:
 
@@ -49,10 +60,14 @@ The Flower Exercise is designed to help you move through 3 stages:
 * The **synthesis** stage to summarize the findings in your brain dump
 * The **prioritization** stage to narrow down what's most important to you from your synthesis. *That's why you have a single piece of paper -- you need to narrow down your highest priorities to fit onto your Flower worksheet.*
 
-**Facilitator #2:** On the following slide (Slide #9), cold call on 1-2 students to answer the question of how they've responded to the question "what do you do" in the past then go over Slide #10
+**Facilitator #2:** Using slides #9-13, go through the following:
 
+**Slide #9-10:**
+On the following slide (Slide #9), cold call on 1-2 students to answer the question of how they've responded to the question "what do you do" in the past then go over Slide #10
 ### You're Not a Role
-Let's start by recapping the do's and don'ts of professional storytelling. When people have asked you what you do in the past, what have you said? “I was a construction worker.” “I was a marketing manager.” “I was a teacher.” Sound familiar? These kind of declarations are not inherently wrong -- it's important to claim your identity according to the work you love. 
+Let's start by recapping the do's and don'ts of professional storytelling. When people have asked you what you do in the past, what have you said? **Note to Facilitator #2:** Cold call 1-2 people to respond to that question. 
+
+Examples: “I was a construction worker.” “I was a marketing manager.” “I was a teacher.” Sound familiar? These kind of declarations are not inherently wrong -- it's important to claim your identity according to the work you love. 
 
 However, stating your identity in this way can lock you into a role; but you’re not a role, you’re a person with many skills and many experiences.
 
@@ -62,7 +77,7 @@ Instead, try saying “I’m a person who…”
 * “I’m a person who...has experience in creating stories to attract customers.”
 * “I’m a person who...knows how to explain concepts to others in smaller pieces.”
 
-**Facilitator #2:** State the below when introducing Slide #12:
+**Slide #12:**
 
 In this session, you’ll explore who you are from 7 different angles to discover what you want as you start looking for a job. **Because you are not just a software developer now, you are a person who has very specific skills, talents, experience, and goals that make you so much more than *just* a software developer.**
 
@@ -90,12 +105,12 @@ All 7 aspects are important for your job search; Why?
 * If a job only matches 1 or 2 “petals,” it will not be fulfilling to you because it will only allow you to express one or two sides of yourself
 * This picture is the most complete of you and defining these aspects will lead you to your dream job
 
-**Facilitator #2:** On Slide #13, go through the following:
+**Slide #13:**
 
 #### Another Note: Pairin
 Reminder that your Pairin survey results measured how you work, and from here, you can analyze a lot about what's important to you in your new career. Look at your results to think about:
 
-1. Your Top General Style: how you like to work
+1. Your Top Thinking Style: how you like to work
 2. Your Most Intense Driver: what motivates you the most
 3. Your Highest EQ Competency: your mindsets and abilities
 4. Your Leading Virtue Class: what you value
