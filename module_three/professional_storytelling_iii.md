@@ -15,6 +15,8 @@ Length: 60 mins
 
 **Facilitator #1:** Using slides #2-6, go through the following:
 
+**Slide #2:**
+
 * Opening: objectives, review M3 PD scope and sequence: 5 mins
 * Housekeeping: mock interviews, job shadow, Turing alumni portfolio: 15 mins
 * Storytelling review & practice: 7 mins
@@ -22,6 +24,8 @@ Length: 60 mins
    * Group Discussion & Share Out (13 mins)
    * Discussion of structure, intro to templates, and review checklist (10 mins)
 * Any leftover time: work time to start on resumes and portfolios
+
+**Slide #3:***
 
 ### Professional Development in Module Three
 Module Three is the module in which the personal and professional development of the previous two modules is applied to job searching and discovering the right path for your new career. You'll leave Module Three with a clear blueprint for your job search, and we'll start by focusing in on what it is that you want out of your new career, building on your professional story, and reflecting on how your strengths apply to finding this new, fulfilling career path.
@@ -43,6 +47,8 @@ Some resources for you:
 * [Interview Prep Resources](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/interview_prep_resources.md)
 * [Job Search Care Package](https://github.com/turingschool/module_5/blob/master/job_search_care_package.md)
 
+**Slide #4:**
+
 Be aware of your job search timeline:
 
 * Do you need a job by graduation?
@@ -51,6 +57,8 @@ Be aware of your job search timeline:
    * Then: You must start your search by the end of this module
 * Do you have a longer timeline?
    * Then: Use this module to begin research
+
+**Slide #6:**
 
 ### Objectives
 * Build on your professional story by focusing on "what's next"
@@ -65,6 +73,8 @@ Be aware of your job search timeline:
 
 **Robyn:** Using slides #7-10, go through the following:
 
+**Slide #7:**
+
 ### Opening: Housekeeping
 #### Mock Interviews
 * Using the sign-up sheet in your channel, select 1 20-min mock interview slot when you don't have class
@@ -72,6 +82,8 @@ Be aware of your job search timeline:
 * Use the doc you’ve been working on in your pre-work for Mod 3 to prep
 * You should bring questions to practice asking
    * Tailor them to a specific company if you have one in mind!
+
+**Slides #8-10:**
 
 #### Job Shadow
 What is it?
@@ -95,6 +107,8 @@ How can you earn job shadow?
 
 **Facilitator #2:** Using slides #11-13 and showing students the [alumni portfolio site](https://alumni.turing.io) and video for how to fill it out (link below), go through the following:
 
+**Slide #11:**
+
 #### Turing Alumni Portfolio
 * You should have an invite to create your Turing alumni portfolio in your email. To log in again, go to [https://alumni.turing.io/user](https://alumni.turing.io/user)
 
@@ -110,6 +124,8 @@ Here are the must haves:
 
 Check out some examples of how others have created their [portfolios](https://alumni.turing.io).
 
+**Slides #12-13:**
+
 This site is very buggy. To make sure you can save your profile, follow these steps:
 * Use Safari
 * Double check these fields when trying to save:
@@ -121,7 +137,7 @@ This site is very buggy. To make sure you can save your profile, follow these st
 * GitHub ID doesn't matter; leave it blank
 * Watch this [video](https://www.youtube.com/watch?v=v7J5cYJ24hU&feature=youtu.be) to see how to fill this out
 
-**Facilitator #1:** Using slide #15 and your phone's timer function, go through the following:
+**Facilitator #1:** Using slide #15 and a timer app, go through the following:
 
 ### Storytelling Review
 Last module, you created a draft of your professional story. Today we'll talk about how you can refine your professional story through tools like your resume and your Turing alumni portfolio. But first, practice makes perfect:
@@ -139,16 +155,20 @@ As we dive into your resumes and portfolios today, we're going to aim to address
 
 **Facilitator #2:** Using slides #17-20, go through the following:
 
+**Slide #17:**
+
 ### How can you tell your story? Resumes! 
 
 **Whole Group Discussion:**
 Cold call on 2-3 people to answer this question: *as a new software developer, what kind of story do you want your resume to tell about you?*
 
+**Slide #18:**
+
 **Activity: Who do you interview?**
 
 Form groups of 3-4 people. You are now on a hiring committee for a junior engineering position at your company. You need to select 1 out of the 5 resumes listed here to decide who will move on to an interview.
 
-**Note to Facilitator:** Make sure students have the markdown to the session open on their computers for this activity
+**Note to Facilitator #2:** Make sure students have the markdown open on their computers for this activity
 
 Things to consider:
 * For the sake of this activity, the position is language agnostic
@@ -162,12 +182,16 @@ Candidates:
 * [Rose Kohn](https://alumni.turing.io/sites/default/files/resumes/rose_a_kohn.pdf)
 * [Alex Tideman](https://alumni.turing.io/sites/default/files/resumes/alex_tideman.pdf)
 
+**Slide #19:**
+
 Discussion Questions:
 * What is your first impression of this candidate?
 * What do you know about this candidate's technical abilities?
 * What questions do you have about this candidate?
 * Would you choose to interview this person? Why or why not?
 * If you decide to interview them, what follow-up questions would you ask? 
+
+**Slide #20:**
 
 Whole Group Debrief:
 * Who was chosen to move to an interview? Why?
