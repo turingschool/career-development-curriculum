@@ -48,7 +48,7 @@ Step 3: Please respond to the following questions in a reflection (4-6 sentences
   * What role does your emotional state of mind play in your learning? How do your successes and failures at learning affect your emotional state?
   * How will you prepare yourself to be at your best with your learning process while at Turing?
  
-**Capstone submission directions:**
+## **Capstone submission directions:**
 In a gist, please:
 1. Include a screenshot of your Pairin top 4 results by following [these directions](https://gist.github.com/kannankumar/4c613cac6d9db896062a16e1cc57d3e5)
 2. Include your responses to the questions in Step 3.
