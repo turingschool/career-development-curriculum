@@ -9,7 +9,8 @@ Below you can find lots of resources to help you prepare for both components.
 ## Technical Interview Prep Resources
 
 ### Start Here
-* [Ian Douglas's Guide to Technical Interview Prep](https://docs.google.com/document/d/1yWfxxYoCkZgxQrJ5Bn6051OE9a6f7mm5zs72jvqGKx8/edit?usp=sharing) 
+* [Ian Douglas' Guide to Technical Interview Prep](https://techinterview.guide)
+* Join Ian Douglas' mailing list at [his site](https://iandouglas.com/interview-prep/) for interview prep emails
 * [Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/) by Yangshun Tay and Louie Tan
   * [Preparing for a Coding Interview](https://yangshun.github.io/tech-interview-handbook/coding-round-overview/#!)
   * [Interview Cheat Sheet](https://yangshun.github.io/tech-interview-handbook/cheatsheet/)
@@ -53,7 +54,6 @@ Below you can find lots of resources to help you prepare for both components.
 * [Essential Angular Questions](https://www.codementor.io/blog/angularjs-interview-questions-sample-answers-du1081n7p?icn=post-3ey8yl7epg&ici=post-du1081n7p)
 * [Essential Python Questions](https://www.codementor.io/sheena/essential-python-interview-questions-du107ozr6?icn=post-3ey8yl7epg&ici=post-du107ozr6)
 * [Essential Java Questions](https://www.codementor.io/blog/java-interview-sample-questions-answers-du107xs23?icn=post-3ey8yl7epg&ici=post-du107xs23)
-* Join Ian Douglas's mailing list at [his site](https://iandouglas.com/technical-coaching/) for interview prep emails
 * Read about the [interview process at over 500 companies](https://airtable.com/shr3eGPDm3wGjT2gA/tbluCbToxQ2knSLhh/viwmFR062GOjG4cjs)
 
 ## Behavioral Interview Prep Resources
