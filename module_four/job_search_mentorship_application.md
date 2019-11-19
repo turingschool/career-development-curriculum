@@ -37,7 +37,7 @@ Your [alumni portfolio](https://alumni.turing.io/) should have all fields filled
 The version of your resume that is on your Turing Alumni Portfolio is what will be considered for the application. 
 
 ## Section V: Mod 4 First Solo Project
-Even though your first project is not graded as part of your promotional decision, successful applicants will put considerable effort into these projects to demonstrate exceptional professionalism. 
+The effort put into your first Module 4 project is taken into account as a component of exceptional professionalism. 
 
 ## Evaluation Rubric
 Your application will be evaluated using the following rubric, and you must reach a 3 or above in all categories to be approved:
@@ -111,4 +111,4 @@ Your application will be evaluated using the following rubric, and you must reac
 * Resume is missing 2 or more components, contains multiple spelling/grammatical errors, and/or is missing from the alumni site
 
 ### Mod 4 First Solo Project
-Even though the scores for this project do not factor into your promotion decisions, the scores that your instructors discuss with you during evaluations will be considered in this application.
+Your first project scores will be considered in this application.
