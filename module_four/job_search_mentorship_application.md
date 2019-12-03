@@ -27,7 +27,7 @@ Please respond to these questions:
 Add your responses to your application gist.
 
 ## Section III: Turing Alumni Portfolio
-Your [alumni portfolio](https://alumni.turing.io/) should have all fields filled out and include at least 2 projects. Portfolios considered most effective will:
+Your [alumni portfolio](https://alumni.turing.io/) should have all fields filled out and include at least 3 projects. Portfolios considered most effective will:
 
 * Provide a strong sense of one's professional interests through the summary
 * Provide a strong sense of one's abilities as a software developer through detailed project descriptions
