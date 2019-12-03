@@ -286,6 +286,8 @@ To get quick feedback on your resume, we partner with CV Compiler where you can 
 4. Fill out the fields with your Name and Email and the promo code provided to you by Turing
 5. Upload your resume
 
+Still have questions? Check out this [CV Compiler tutorial](https://www.youtube.com/watch?v=_SVO1ethRBU&feature=youtu.be&t=0s)
+
 **Slide #36:**
 
 **You are required to upload your resume to CV Compiler by 5pm on Monday of Week 2.** After you receive feedback on the resume, make any necessary changes to your resume and then upload it again to CV Compiler no later than **5pm on Wednesday of Week 2.** After that, please upload that draft of your resume to your [Turing alumni portfolio](https://alumni.turing.io/) by no later than **9am on Thursday of Week 2** in order to be considered for job shadow. 
