@@ -58,6 +58,7 @@ When Giving Feedback:
 * How do you approach testing? And what do you think about this? How would you improve QA?
 * When have you exercised leadership and what was the result?
 * Describe a time when you took a risk that paid off for you. What was your process for pushing yourself further? How did you assess risk and try something new?
+* Tell me about a time you had competing priorities or worked on multiple projects at once. How did you manage to make or miss the deadlines? What did you learn from that experience? 
 
 **Communication & Feedback Questions:**
 * Describe to me the steps you would take to build out a product.
@@ -70,6 +71,7 @@ When Giving Feedback:
 **Personal Growth & Self-Awareness Questions:**
 * What is an area of growth for you?
 * What’s hard about programming?
+* How do you deal with change?
 * What are some of your best professional/soft skills?
 * Describe your strengths. How have you seen these in practice as a developer?
 * How do you deal with failure?
