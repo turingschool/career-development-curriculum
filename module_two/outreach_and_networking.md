@@ -158,7 +158,7 @@ Who is in your current network?
 **Note to Facilitator #2:** Pull up the Mentor spreadsheet on your screen to show the students how to use it and reshare it with them in their channels. 
 
 * **Turing Network:** 
-   * Turing Mentors: If you don't already have a mentor you meet with regularly, you should find one right now. Use the [mentor database](https://docs.google.com/spreadsheets/d/1oxsATOSIdRZ78-Bj3GQY2LkIp0OV_sCN6GJVjtUuCl0/edit?usp=sharing). 
+   * Turing Mentors: If you don't already have a mentor you meet with regularly, you should find one right now. Use the [mentor database](https://docs.google.com/spreadsheets/d/1Y3vPAJZ120AqyRaiB-G2TagJog_a92WZW2ZMqNf-yQo/edit?usp=sharing). 
       * Why you should reach out to them:
          * This is *warm outreach* -- they are already in our community and have signed up specifically for students to reach out to them. What are you waiting for? 
       * What value they bring:
