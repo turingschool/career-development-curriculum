@@ -1,4 +1,4 @@
-# PD & Gear Up Plan for Repeating Module Three
+# PD Plan for Repeating Module Three
 Repeating the module is an opportunity to not only solidify technical skills but also take advantage of extra time to work on your professional development and take concrete steps for your job search. Mod 3 professional development is focused on these areas:
 
 * Discover and describe how previous jobs, skills, and experiences contribute to new career path
@@ -20,8 +20,6 @@ You **are not required** to attend professional development sessions *that you h
    * [Outreach & Networking II](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/outreach_networking_ii.md)
    * [Resume Review Workshop](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/m3_resume_review.md)
    * [Cover Letters Overview](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/cover_letters_overview.md)
-
-You **are required** to attend all Gear Up sessions.
     
 ### Deliverables
 * You **are required** to:
@@ -41,7 +39,7 @@ You **are required** to attend all Gear Up sessions.
    * Job Shadowing: this is optional if you've already participated; please indicate below if you'd like to participate in job shadowing this mod
    * Other: propose another professional development action step that you will take during your repeat module
 
-### Outline of Your PD & Gear Up Plan:
+### Outline of Your PD Plan:
 **Directions:** Write your answers to the questions below in a secret gist that you'll send to Allison in a DM. 
 
 * Do you want to participate in Job Shadowing this module?
@@ -73,4 +71,4 @@ Below, outline your 2 options that you've chosen by creating [SMART goals](https
 
 * Would you like to set up coaching with Allison to help you with your goals and accountability? If so, please [fill out this form](https://goo.gl/forms/Z57ywysDRqhOKfHD2)
 
-**Allison will review all plans, and you will be asked to fill out [this survey](https://goo.gl/forms/yY8pd8bcJGV3bPwq2) giving a brief update and reflection on your goals by 9am on Monday of Week 6.**  
+**Allison will review all plans, and you may be asked to fill out [this survey](https://goo.gl/forms/yY8pd8bcJGV3bPwq2) giving a brief update and reflection on your goals by 9am on Monday of Week 6.**  
