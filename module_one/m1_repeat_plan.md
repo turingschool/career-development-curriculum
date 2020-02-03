@@ -20,7 +20,7 @@ You **are not required** to attend the following professional development sessio
    * Week 3: [Feedback I](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/feedback_i.md)
    * Week 5: [Storytelling I](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/storytelling_i.md)
 
-You **are required** to attend all Gear Up sessions as well as the group participation portions of the week 4 sessions since that will involve your current project groups:
+You **are required** to attend the group participation portions of the week 4 sessions since that will involve your current project groups:
    * [Agile Practices & Leadership](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/agile_practices_and_leadership.md)
    * [Feedback II & Team Retro](https://github.com/turingschool/career-development-curriculum/tree/master/module_one)
     
