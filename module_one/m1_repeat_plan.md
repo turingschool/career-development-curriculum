@@ -1,4 +1,4 @@
-# PD & Gear Up Plan for Repeating Module One
+# PD Plan for Repeating Module One
 Repeating the module is an opportunity to not only solidify technical skills but also take advantage of extra time to work on your professional development and take concrete steps for your job search. Mod 1 professional development is focused on these areas:
 
 * Cultivate Self-Awareness
@@ -41,7 +41,7 @@ You **are required** to attend all Gear Up sessions as well as the group partici
    * Give an additional Lightning Talk, either at Wrap Up or during non-class time for your cohort
    * Other: propose another professional development action step that you will take during your repeat module
 
-### Outline of Your PD & Gear Up Plan:
+### Outline of Your PD Plan:
 **Directions:** Write your answers to the questions below in a secret gist that you'll submit to Allison. Outline your goal that you've chosen by creating a [SMART goal](https://www.smartsheet.com/blog/essential-guide-writing-smart-goals). 
 
 #### Goal (what is the goal): 
@@ -58,4 +58,4 @@ You **are required** to attend all Gear Up sessions as well as the group partici
 
 * Would you like to set up coaching with Allison to help you with your goals and accountability? If so, please [fill out this form](https://goo.gl/forms/Z57ywysDRqhOKfHD2)
 
-**Allison will review all plans, and you will be asked to fill out [this survey](https://goo.gl/forms/yY8pd8bcJGV3bPwq2) giving a brief update and reflection on your goals by 9am on Monday of Week 6.**   
+**Allison will review all plans, and you may be asked to fill out [this survey](https://goo.gl/forms/yY8pd8bcJGV3bPwq2) giving a brief update and reflection on your goals by 9am on Monday of Week 6.**   
