@@ -1,4 +1,4 @@
-# PD & Gear Up Plan for Repeating Module Two
+# PD Plan for Repeating Module Two
 Repeating the module is an opportunity to not only solidify technical skills but also take advantage of extra time to work on your professional development and take concrete steps for your job search. Mod 2 professional development is focused on these areas:
 
 * Cultivate empathy when working with others
@@ -20,8 +20,6 @@ You **are not required** to attend professional development sessions *that you h
   * Week 3: [Personal Branding: Developer Identity](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/developer_identity.md)
   * Week 4: [Outreach & Networking](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/outreach_and_networking.md)
   * Week 5: [Interview Prep I](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/interview_prep_i.md)
-  
-You **are required** to attend all Gear Up sessions. 
 
 ### Deliverables
 * You **are required** to:
@@ -55,4 +53,4 @@ You **are required** to attend all Gear Up sessions.
 
 * Would you like to set up coaching with Allison to help you with your goals and accountability? If so, please [fill out this form](https://goo.gl/forms/Z57ywysDRqhOKfHD2)
 
-**Allison will review all plans, and you will be asked to fill out [this survey](https://goo.gl/forms/yY8pd8bcJGV3bPwq2) giving a brief update and reflection on your goals by 9am on Monday of Week 6.**   
+**Allison will review all plans, and you may be asked to fill out [this survey](https://goo.gl/forms/yY8pd8bcJGV3bPwq2) giving a brief update and reflection on your goals by 9am on Monday of Week 6.**   
