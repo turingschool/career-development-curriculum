@@ -10,9 +10,13 @@ There are facilitator notes throughout this markdown to divide up responsibiliti
 
 Length: 60 minutes
 
-**Facilitator #1:** Using Slides #3-7, go through the following:
+**Facilitator #1:** Using Slides #3-8, go through the following:
 
 **Slide #3:**
+
+Group assignments; students should sit in these groups for all discussions today
+
+**Slide #4:**
 
 * Opening (12 mins)
 * LinkedIn Overview (20 mins)
@@ -22,7 +26,7 @@ Length: 60 minutes
 * GitHub (5 mins)
 * Closing: Q&A, Upcoming Tools: Resumes, Portfolios (2 mins)
 
-**Slide #4:**
+**Slide #5:**
 
 ### Objectives
 
@@ -37,29 +41,29 @@ Update your LinkedIn profile:
   * Summary 
   * Add Turing to your experience/education
 
-**Slide #5:**
+**Slide #6:**
 
 ### Opening
 #### Hook: Storytelling Follow-Up
 Last week, we spent time talking about our stories in terms of our identities, values, and strengths. Today, we'll practice storytelling in other contexts to dive into our developer identity.
 
-**Note to Facilitator #1:** Instruct students to find a different partner for each of the 3 scenarios. Time them so that each person gets 1 minute to talk about themselves according to the prompt; announce when it's time to switch to the other partner and then again when it's time to switch to the next scenario and find a new partner.
+**Note to Facilitator #1:** Instruct students to share their story drafts with their PD groups that they should be sitting in.
 
-**Pair & Share #1:** Find a partner for a 2-minute conversation. You'll describe yourself as a worker -- who are you as a worker?
+In your groups, practice sharing your story and get feedback from your group members. You should give feedback on:
 
-**Pair & Share #2:** Find a new partner for a 2-minute conversation. Now describe yourself in regards to your previous job and why you're transitioning careers -- who are you as a career changer?
+* Story arc -- are the 3 questions answered?
+* Content -- why does this person want to be a software developer? Is it clear?
+* Specific details -- how does this person describe themselves in specific ways?
 
-**Pair & Share #3:** Find a new partner for a 2-minute conversation. This time describe yourself as a developer -- who are you as a developer? What kind of developer do you see yourself as?
-
-**Slide #6:**
+**Slide #7:**
 
 **Whole Group Debrief:**
 
-* Which details stayed consistent across your different stories?
-* Which details were different?
-* What was relatively easy or difficult about this exercise?
+Call on 2-3 groups to share: 
 
-**Slide #7:**
+* What details do you remember about someone else in your group? Summarize their story.
+
+**Slide #8:**
 
 Personal branding is all about telling a consistent story about yourself, building out the details of this story with each profile. As you start this new career, telling your story as a new member of the software industry in as many consistent ways as possible will help you stand out and embrace that identity even more. 
 
