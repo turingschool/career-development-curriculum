@@ -23,15 +23,15 @@ Students will leave Module Three with a clear blueprint for their job search by 
    * [Outreach & Networking II](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/outreach_networking_ii.md)
    * [Resume Review Workshop](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/m3_resume_review.md)
 * Week 4: Job Shadowing
-* Week 5: 
+* Week 5:
    * [Cover Letters Overview](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/cover_letters_overview.md)
    * Alumni Portfolio Workshop
 
 ### Deliverables
 In order to fulfill the requirements of module three, students will submit these deliverables:
-* Resume: due **Week 3** after workshop
+* Resume: Uploaded to CV Compiler __Due Week 2__
 * Complete a mock a 20-min. mock behavioral interview with a member of the career development team in order to synthesize their professional development by **end of Week 5**
-* [Turing Alumni portfolio](https://alumni.turing.io): due by **9am on Monday of Week 6**
+* [Turing Alumni portfolio](https://alumni.turing.io): due by **9am Thursday of Week 2**
 
 ### Repeating the Module
-If you're repeating the module, you'll meet with Allison during Week 1 to discuss an alternate plan for meeting your professional development goals during the repeat module using [these guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/m3_repeat_plan.md). 
+If you're repeating the module, you'll meet with Allison during Week 1 to discuss an alternate plan for meeting your professional development goals during the repeat module using [these guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/m3_repeat_plan.md).
