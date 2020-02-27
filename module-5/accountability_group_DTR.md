@@ -11,20 +11,28 @@ Schedule for weekly meetings and regular Stand Ups (must have 1 weekly meeting a
 
 #### Technical Section
 * What do we want to work on together for technical practice? Suggestions: group code challenges/project work/code reviews
+* How we will hold each other accountable to this technical work:
 
-* Group member strengths for supporting each other in the job search:
+#### Strengths & Supports
+* Group member strengths for supporting each other in the job search (what can we each help our group with?):
 
-* What everyone needs in terms of self-care and support
-Systems, people, activities; mental health support, physical health support
-How to hold each other accountable to using these supports
-Decide on things to work on together during meetings:
+* What does everyone need in terms of self-care and support:
+  * Systems, people, activities for mental health support:
+  * Systems, people, activities for physical health support:
+  * How we will hold each other accountable to using these supports:
+
+#### Meeting Structure
+* Group meeting structures (what will we work on/discuss during group meetings?):
 Finding jobs/companies
 Working on cover letters
 Finding connections, creating messages, finding contact info
 
+* Stand Up discussions (what specific questions will we use in our Stand Ups twice a week?):
+  * Stand Up #1:
+  * Stand Up #2:
 
-#### Agenda for meeting #1 *(this should happen during intermission week after graduation)*:
-* Create a calendar: each group member should create a schedule for when they will be doing the following activities each day:
+#### Agenda for meeting #1 *(this should happen during the intermission week after graduation)*:
+* Create a calendar. Each group member should create a schedule for when they will be doing the following activities each day:
   * Coding/technical work
   * Company research
   * Outreach emails/respond to emails
