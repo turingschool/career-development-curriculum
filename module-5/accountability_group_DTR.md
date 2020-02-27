@@ -8,6 +8,7 @@ Use this template to create your DTR with your job seeker accountability groups.
 Group Members:
 
 Schedule for weekly meetings and regular Stand Ups (must have 1 weekly meeting and at least 2 Stand Ups a week):
+*Be prepared to come up with 2-3 different times in case groups overlap so that Tracey can meet with all groups.*
 
 #### Technical Section
 * What do we want to work on together for technical practice? Suggestions: group code challenges/project work/code reviews
@@ -40,4 +41,5 @@ Finding connections, creating messages, finding contact info
   * Meetups
   * Applications (cover letters, resume)
   * Wellness activities and other life stuff
+  * Group meetings and stand ups
 * 
