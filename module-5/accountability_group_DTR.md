@@ -46,3 +46,4 @@ Schedule for weekly meetings and regular Stand Ups (must have 1 weekly meeting a
   * Group meetings and stand ups
 * Meeting topics:
 * Action steps for each group member:
+* Additional agenda items:
