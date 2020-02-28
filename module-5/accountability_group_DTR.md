@@ -24,9 +24,11 @@ Schedule for weekly meetings and regular Stand Ups (must have 1 weekly meeting a
 
 #### Meeting Structure
 * Group meeting structures (what will we work on/discuss during group meetings?):
-Finding jobs/companies
-Working on cover letters
-Finding connections, creating messages, finding contact info
+*Suggestions: Finding jobs/companies, working on cover letters, finding company contacts, creating messages, finding contact info, etc.*
+
+* How we will hold each other accountable to following through on action steps:
+
+* How we will communicate if someone needs to miss a meeting:
 
 * Stand Up discussions (what specific questions will we use in our Stand Ups twice a week?):
   * Stand Up #1:
@@ -42,4 +44,5 @@ Finding connections, creating messages, finding contact info
   * Applications (cover letters, resume)
   * Wellness activities and other life stuff
   * Group meetings and stand ups
-* 
+* Meeting topics:
+* Action steps for each group member:
