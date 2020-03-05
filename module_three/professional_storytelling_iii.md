@@ -249,6 +249,7 @@ You can choose to set up a traditional resume use a template like this [traditio
 
 * [Creddle](http://creddle.io/)
 * [Enhancv](https://enhancv.com/)
+* [Resumake](https://resumake.io/)
 * [VisualCV](https://www.visualcv.com/resume-builder/)
 * [Resume Builder](https://resume-builder.qwilr.com/)
 * [Standard Resume](https://standardresume.co/)
