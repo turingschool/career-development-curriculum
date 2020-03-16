@@ -41,7 +41,7 @@ Session Structure: 90 mins
 * Describe in detail the kind of career you’re looking for
 
 ## Recommended Deliverable:
-This is not required, but you can **[complete the Flower Exercise 1-pager](https://github.com/turingschool/career-development-curriculum/blob/master/files/Career%20Unit%20-%20The%20Flower%20Diagram.pdf)** and share it with Allison. You can set up a meeting with her to discuss it further if you would like.
+This is not required, but you can **[complete the Flower Exercise 1-pager](https://docs.google.com/document/d/1ETSoRT-BxMH-cTWzbk1inRESmYHGnpbz0DgBHgmAJ-4/edit?usp=sharing)** and share it with Allison. You can set up a meeting with her to discuss it further if you would like.
 
 **Slide #6:**
 
