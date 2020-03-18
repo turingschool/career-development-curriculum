@@ -38,10 +38,24 @@ Congratulations! You've graduated! As you embark on your job search, here is an 
   * [Techstars Listing of Companies](https://www.techstars.com/companies/)
 
 * Remote work:
-  * [Remote OK](https://remoteok.io/remote-dev-jobs)
-  * [Working Nomads](https://www.workingnomads.co/jobs?category=development)
-  * [We Work Remotely Job Board](https://weworkremotely.com/)
+  * [Established Remote Companies](https://github.com/yanirs/established-remote)
+  * [List of Remote-Friendly Companies](https://github.com/remoteintech/remote-jobs)
+  * [List of Startups with Distributed Teams](https://docs.google.com/spreadsheets/d/1uDdDyheNY_-Z3MtuNoFdBYBooBnUTmlYCOZ3VhcN9Sw/edit?usp=sharing)
+  * [Another Remote Company List](https://docs.google.com/spreadsheets/d/1tETz3dWHkbzbXAMZ9XXdR0VKhhite-i_ON_Ei3TjFSc/edit?usp=sharing)
+  * [AngelList Remote Job Collection](https://angel.co/remote)
+  * [Authentic Jobs - Remote](https://authenticjobs.com/#onlyremote=1)
   * [Flex Jobs](https://www.flexjobs.com/)
+  * [NODESK](https://nodesk.co/remote-jobs/)
+  * [Remote4me](https://remote4me.com/)
+  * [RemoteBase](https://remotebase.io)
+  * [Remote.co](https://remote.co/remote-jobs/)
+  * [Remote OK](https://remoteok.io/remote-dev-jobs)
+  * [Remotive](https://remotive.io/)
+  * [StackOverflow Remote Job Listings](https://stackoverflow.com/jobs/remote-developer-jobs)
+  * [We Work Remotely Job Board](https://weworkremotely.com/)
+  * [Working Nomads](https://www.workingnomads.co/jobs?category=development)
+
+Also check out these [Remote Working Resources](https://github.com/lukasz-madon/awesome-remote-job)
   
 #### Search by...language or skillset
 * [Top Ruby Jobs](https://toprubyjobs.com/)
