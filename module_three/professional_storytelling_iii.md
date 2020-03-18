@@ -45,7 +45,7 @@ Some resources for you:
 
 * Join #job-hunt
 * [Interview Prep Resources](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/interview_prep_resources.md)
-* [Job Search Care Package](https://github.com/turingschool/module_5/blob/master/job_search_care_package.md)
+* [Job Search Care Package](https://github.com/turingschool/career-development-curriculum/blob/master/module-5/job_search_care_package.md)
 
 **Slide #4:**
 
