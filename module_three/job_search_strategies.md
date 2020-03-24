@@ -41,10 +41,10 @@ In contrast, [referral candidates](http://www.careerxroads.com/news/SourcesOfHir
 **Slide #6:**
 
 #### Group Discussion
-Form groups of 3-4 people, decide on a notetaker, and in your journal, create a list to answer this question:
+Form groups of 3-4 people, decide on a notetaker, and in your journal, create a list to answer these questions:
 
-* What are the steps you should take for a successful job search as a junior developer? 
-* what resources should you use along the way?
+* Beyond looking at job postings, what are the steps you should take for a successful job search as a junior developer? 
+* What resources should you use along the way?
 
 After 5 minutes of brainstorming, each group should pair up with another and share your lists with each other. Then 2-3 students share out:
 * What trends do you see?
