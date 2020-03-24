@@ -189,6 +189,7 @@ Also check out these [Remote Working Resources](https://github.com/lukasz-madon/
 * [Power to Fly](https://powertofly.com/jobs/) is a job site specifically for women.
 * [Diversify Tech](https://www.diversifytech.co/) is a job site built specifically for underrepresented groups in tech.
 * [Include.io](https://include.io/) is a job site built to connect underrepresented groups in tech with employers.
+* [Tech Ladies](https://www.hiretechladies.com/)
 
 **Slide #19:** 
 **Facilitator shares:** Use some of the many resources listed here on the markdown to find job postings. Be sure to narrow the searches to entry level/junior developers and include the technologies you're most familiar with to find targeted listings. However, don't limit yourself either. Read through all the postings to see what else fits your interests and skills outside the specific language.
