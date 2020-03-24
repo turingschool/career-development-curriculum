@@ -15,8 +15,8 @@ Session length: 60 minutes
 * Opening (10 mins)
 * Job Searching Tracking (10 mins)
 * Tools & Discussion of Process (10 mins)
-* Demo: Walking Through an Application (10 mins)
-* You Do: Work Time (15 mins)
+* Individual Work Time (10 mins)
+* Group Discussion (10 mins)
 * Share Out & Closing (5 mins)
 
 ### Opening
