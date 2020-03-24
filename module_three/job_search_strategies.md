@@ -246,13 +246,10 @@ Also check out these [Remote Working Resources](https://github.com/lukasz-madon/
 
 **Facilitator #2:** Using Slide 21, use at least 2 of the tools mentioned on the previous slides to demonstrate for the whole class how you'd approach looking for an opportunity using them. Call on 1-2 volunteers to help walk you through the steps for conducting research on the companies and finding contacts for outreach. 
 
-### Demo: Group Practice
-As a whole group, we'll work through a strategy for finding a job opportunity and conducting some initial research to add to our Huntr boards. 
-
-**Facilitator #2:** On Slide 23, instruct students to start diving into the tools and going through the strategy. Both Facilitators can float around and answer questions during the work time.
+### Individual Work Time
 
 ### Your Turn: Conduct Research & Update Your Tracker
-You have 15 minutes now to get started researching and adding opportunities you're interested in to your Jobtrack.io account.
+You have 15 minutes now to get started researching and adding opportunities you're interested in to your Huntr account.
 
 **Facilitator #1:** Using slides #24-25, close out the session and call on any students for final questions or takeaways.
 
