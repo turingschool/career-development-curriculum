@@ -1,5 +1,9 @@
 # Job Search Strategies
 
+Other things to add:
+Juniors in tech newsletter; Remotewoman.com
+
+
 [Slides for this session](https://docs.google.com/presentation/d/1cMJwVIn7QY4txtLLUfGrb-gF1A9PuWxyVfJuSqeKE4U/edit?usp=sharing)
 
 ### Facilitator Instructions
@@ -13,8 +17,8 @@ Session length: 60 minutes
 **Slide #3:** 
 
 * Opening (10 mins)
-* Job Searching Tracking (10 mins)
-* Tools & Discussion of Process (10 mins)
+* Job Searching Tracking Intro (10 mins)
+* New Strategies & Tools (10 mins)
 * Individual Work Time (10 mins)
 * Group Discussion (10 mins)
 * Share Out & Closing (5 mins)
@@ -77,7 +81,7 @@ The first step to a successful job search is to utilize a tracking system. Havin
 So if you aren't going to just apply to a posting on a job board, what is your process?
 
 Here are helpful tips for the process:
-1. Find a job posting that interests you
+1. Find a job opportunity that interests you
   * Use one of the job searching tools below
 2. Conduct research
   * Go to the company's site and find out about their mission, product, customer base, blog posts
@@ -111,7 +115,31 @@ How can you use these sites listed here to find opportunities?
 **Slide #15:**
 **Facilitator shares:** You can narrow down companies who are doing the kind of work you want to do. Compare them and track them on Owler. Follow them on LinkedIn.
 
+#### Search by...industry
+Based on your values, what are the top 3 industries you’d want to target?
+
+For example:
+* If you value helping people, consider:
+  * Healthcare (telemedicine and online mental health support)
+  * EdTech (online education and learning tools)
+  * Food access/service platforms
+* If you value health & wellness, consider:
+  * Online fitness and meditation platforms
+* If you value the environment and sustainability, consider:
+  * GreenTech (conservation, alternative energy, etc.)
+* If you value connecting people with resources, consider:
+  * Online shopping platforms
+  * Public services
+  * Streaming services
+
+How do you search for these? Start with Google!
+
+**Slide #16:**
+
 #### Search by...company
+* [BuiltIn](http://builtin.com/)
+  * Provides lots of details about companies
+  * Located in Austin, Boston, Chicago, Colorado, LA, New York, and Seattle
 * [Listing of Colorado Tech Companies](https://bizwest.com/colorado-tech-2017/). Note: if the link doesn't work for you, you can [download the file here](https://github.com/turingschool/career-development-curriculum/blob/master/files/Colorado%20Tech%20Companies%20Directory_2017.numbers).
     * Tips:
       * Check out the articles and directory here for lots of companies you can add to your research
@@ -127,37 +155,22 @@ How can you use these sites listed here to find opportunities?
       * [How to Use Google Search More Effectively](http://mashable.com/2011/11/24/google-search-infographic/)
 * [Owler](https://www.owler.com/) is a great way to conduct research on different companies.
 
-**Slide #16:**
+**Slide #17:**
 **Facilitator shares:** Use these tools to search for companies or positions that might meet certain criteria for you when it comes to culture you desire to see in a company.
 
 #### Search by...culture
 * [Key Values](https://www.keyvalues.com/) allows you to search for companies that fit with your key values.
+* [Glassdoor](https://www.glassdoor.com/index.htm)
+* [CareerBliss](https://www.careerbliss.com/reviews/)
+* [The Muse](https://www.themuse.com/)
+* [The Vault](https://www.vault.com/best-companies-to-work-for/technology)
+* Again, use Owler to track these companies and find out more about their culture
 
 * Start Ups:
   * [Startupers](https://www.startupers.com/)
   * [Techstars Listing of Companies](https://www.techstars.com/companies/)
 
-* Remote work:
-  * [Established Remote Companies](https://github.com/yanirs/established-remote)
-  * [List of Remote-Friendly Companies](https://github.com/remoteintech/remote-jobs)
-  * [List of Startups with Distributed Teams](https://docs.google.com/spreadsheets/d/1uDdDyheNY_-Z3MtuNoFdBYBooBnUTmlYCOZ3VhcN9Sw/edit?usp=sharing)
-  * [Another Remote Company List](https://docs.google.com/spreadsheets/d/1tETz3dWHkbzbXAMZ9XXdR0VKhhite-i_ON_Ei3TjFSc/edit?usp=sharing)
-  * [AngelList Remote Job Collection](https://angel.co/remote)
-  * [Authentic Jobs - Remote](https://authenticjobs.com/#onlyremote=1)
-  * [Flex Jobs](https://www.flexjobs.com/)
-  * [NODESK](https://nodesk.co/remote-jobs/)
-  * [Remote4me](https://remote4me.com/)
-  * [RemoteBase](https://remotebase.io)
-  * [Remote.co](https://remote.co/remote-jobs/)
-  * [Remote OK](https://remoteok.io/remote-dev-jobs)
-  * [Remotive](https://remotive.io/)
-  * [StackOverflow Remote Job Listings](https://stackoverflow.com/jobs/remote-developer-jobs)
-  * [We Work Remotely Job Board](https://weworkremotely.com/)
-  * [Working Nomads](https://www.workingnomads.co/jobs?category=development)
-
-Also check out these [Remote Working Resources](https://github.com/lukasz-madon/awesome-remote-job)
-
-**Slide #17:**
+**Slide #18:**
 **Facilitator shares:** You can search for jobs by language or skillset using these tools:
 
 #### Search by...language or skillset
@@ -169,9 +182,9 @@ Also check out these [Remote Working Resources](https://github.com/lukasz-madon/
 * [Python Job Board](https://www.python.org/jobs/)
 * [Elixir Jobs](https://elixirjobs.net/)
 * [Hatchways](https://hatchways.io/#/) helps connect juniors with their first jobs in tech by identifying skill gaps and talking through goals for your job search.
-* [ZipRecruiter](https://www.ziprecruiter.com/)
+* [ZipRecruiter](https://www.ziprecruiter.com/) connects job seekers with recruiters based on specific languages/skills
 
-**Slide #18:**
+**Slide #19:**
 **Facilitator shares:** Don't forget about utilizing your network by looking at where people you know work. There are also great tools to connect people who have been traditionally underrepresented in tech with others share similar identity markers. 
 
 #### Search by...network
@@ -189,12 +202,14 @@ Also check out these [Remote Working Resources](https://github.com/lukasz-madon/
 * [Power to Fly](https://powertofly.com/jobs/) is a job site specifically for women.
 * [Diversify Tech](https://www.diversifytech.co/) is a job site built specifically for underrepresented groups in tech.
 * [Include.io](https://include.io/) is a job site built to connect underrepresented groups in tech with employers.
-* [Tech Ladies](https://www.hiretechladies.com/)
+* [Tech Ladies](https://www.hiretechladies.com/) is a community for women and non-binary folks. You have to apply to join, but once accepted, you'll have access to jobs from partnering companies.
 
-**Slide #19:** 
+**Slide #20:** 
 **Facilitator shares:** Use some of the many resources listed here on the markdown to find job postings. Be sure to narrow the searches to entry level/junior developers and include the technologies you're most familiar with to find targeted listings. However, don't limit yourself either. Read through all the postings to see what else fits your interests and skills outside the specific language.
 
 #### Search by...job listings
+*(because yes, you can also search by job listing -- but it shouldn’t be the only way you search!)*
+
 * [BuiltIn](http://builtin.com/) is located in Austin, Boston, Chicago, Colorado, LA, New York, and Seattle
 * [GitHub’s Job Board](https://jobs.github.com/)
 * [Glassdoor](https://www.glassdoor.com/index.htm)
@@ -215,7 +230,32 @@ Also check out these [Remote Working Resources](https://github.com/lukasz-madon/
 * [Ars Technica Job Board](http://arstechnica.com/jobs/)
 * And of course, don't forget about the #job-hunt channel on Slack
 
-**Slide #20:**
+**Slide #21:** 
+**Facilitator shares:** Right now, remote opportunities will be in demand for the foreseeable future. Check out the resources here.
+
+#### Search by...remote opportunities
+* Remote listings:
+  * [Established Remote Companies](https://github.com/yanirs/established-remote)
+  * [List of Remote-Friendly Companies](https://github.com/remoteintech/remote-jobs)
+  * [List of Startups with Distributed Teams](https://docs.google.com/spreadsheets/d/1uDdDyheNY_-Z3MtuNoFdBYBooBnUTmlYCOZ3VhcN9Sw/edit?usp=sharing)
+  * [Another Remote Company List](https://docs.google.com/spreadsheets/d/1tETz3dWHkbzbXAMZ9XXdR0VKhhite-i_ON_Ei3TjFSc/edit?usp=sharing)
+  * [AngelList Remote Job Collection](https://angel.co/remote)
+  * [Authentic Jobs - Remote](https://authenticjobs.com/#onlyremote=1)
+  * [Flex Jobs](https://www.flexjobs.com/)
+  * [NODESK](https://nodesk.co/remote-jobs/)
+  * [Remote4me](https://remote4me.com/)
+  * [RemoteBase](https://remotebase.io)
+  * [Remote.co](https://remote.co/remote-jobs/)
+  * [Remote OK](https://remoteok.io/remote-dev-jobs)
+  * [Remotive](https://remotive.io/)
+  * [StackOverflow Remote Job Listings](https://stackoverflow.com/jobs/remote-developer-jobs)
+  * [We Work Remotely Job Board](https://weworkremotely.com/)
+  * [Working Nomads](https://www.workingnomads.co/jobs?category=development)
+
+Also check out these [Remote Working Resources](https://github.com/lukasz-madon/awesome-remote-job)
+
+
+**Slide #22:**
 
 #### Search by...outreach & social media
 **Facilitator shares:** In addition to finding the right posting, remember that the next step is to find a face at the company to connect with. LinkedIn will be your go-to site for this, but a great way to continue the research into places you want to work that are aligned with your goals is by building your network. Below are some suggestions for groups to utilize for this purpose:
@@ -233,7 +273,6 @@ Also check out these [Remote Working Resources](https://github.com/lukasz-madon/
 * [National Society of Black Engineers](http://www.nsbe.org/home.aspx) is one of the largest student-governed organizations with the aim to increase the number of culturally responsible Black Engineers.
 * [Out in Tech](https://outintech.com/#welcome) is a community to connect LGBTQ+ in tech. 
 * [TechLatino](http://techlatino.org/) is an organization to empower Latino technological and scientific engagement.
-* [Tech Ladies](https://www.hiretechladies.com/) is a community for women and non-binary folks. You have to apply to join, but once accepted, you'll have access to jobs from partnering companies.
 * [Trans Tech Social Enterprises](https://www.transtechsocial.org/) is an incubator for LGBTQ Talent with a focus on economically empowering transgender people. 
 
 #### Social Media Resources for your Job Search:
@@ -243,16 +282,34 @@ Also check out these [Remote Working Resources](https://github.com/lukasz-madon/
 * [How to Not Suck at Twitter](https://www.themuse.com/advice/how-not-to-suck-at-twitter)
 * [5 Better Ways to Network on Twitter and LinkedIn](https://www.themuse.com/advice/5-better-ways-to-network-on-twitter-linkedin)
 
-**Debrief:** Discuss whole group takeaways and questions
-
-**Facilitator #2:** Using Slide 21, use at least 2 of the tools mentioned on the previous slides to demonstrate for the whole class how you'd approach looking for an opportunity using them. Call on 1-2 volunteers to help walk you through the steps for conducting research on the companies and finding contacts for outreach. 
-
 ### Individual Work Time
+Take 10 mins:
 
-### Your Turn: Conduct Research & Update Your Tracker
-You have 15 minutes now to get started researching and adding opportunities you're interested in to your Huntr account.
+* First, define the top 3 industries you want to target in the job search based on your values and interests
+* Then go through some of the other resources
+* Do some searching, reviewing, and initial set-up
+* Bookmark anything important
+* Save jobs to your Huntr board
 
-**Facilitator #1:** Using slides #24-25, close out the session and call on any students for final questions or takeaways.
+### Small Group Discussions 
+Now in small groups of 3-4 students, discuss the following:
 
-### Closing & Next Steps
+* What industries are you targeting? How did you decide on those?
+* As you move forward in your job search, what next steps will you need to take?
+* What resources seem most beneficial from what was discussed today?
+* What will be challenging about putting all of this into place?
+
+### Debrief, Closing, & Next Steps
+#### Whole Group Debrief:
+
+* What are your takeaways from today’s session?
+* What are some next steps you’ll take in your job search?
+
+#### Next Steps
+As you continue to track your job search, keep in mind to:
+
+* Include the contact information people you connect with
+* Track the communication between you and the individual(s) at the company
+* Track the stage of the process you are currently in with the company
+
 It's important to take the time now to organize your job search. Take these steps to make this process less daunting and empower yourself. 
