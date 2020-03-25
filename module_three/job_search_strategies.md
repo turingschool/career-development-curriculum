@@ -1,9 +1,5 @@
 # Job Search Strategies
 
-Other things to add:
-Juniors in tech newsletter; Remotewoman.com
-
-
 [Slides for this session](https://docs.google.com/presentation/d/1cMJwVIn7QY4txtLLUfGrb-gF1A9PuWxyVfJuSqeKE4U/edit?usp=sharing)
 
 ### Facilitator Instructions
@@ -196,6 +192,7 @@ How do you search for these? Start with Google!
       * In "Industry" select "computer software"
       * Search: Of those profiles that return, look at their profiles to see the list of companies they've worked for. What companies do you want to continue to research? Who do you want to connect with? 
       * You can also click on the company’s page and on the right side, view "Similar Companies" where your connections work
+* [Juniors in Tech](https://www.juniorsintech.com/) newsletter
 * [People of Color in Tech](https://www.pocitjobs.com/) is a job site specifically for People of Color in tech.
 * [reacHire](http://www.reachire.com/women/jobs) is a job site specifically for connecting women with companies that value inclusion. 
 * [This Dot](https://www.thisdot.co/hirethefempire) hires women-presenting, frontend junior developers.
@@ -253,6 +250,8 @@ How do you search for these? Start with Google!
   * [Working Nomads](https://www.workingnomads.co/jobs?category=development)
 
 Also check out these [Remote Working Resources](https://github.com/lukasz-madon/awesome-remote-job)
+
+* [Remote Woman](https://remotewoman.com/) is a community for professional women who work remotely.
 
 
 **Slide #22:**
