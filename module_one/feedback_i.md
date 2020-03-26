@@ -130,8 +130,8 @@ For example:
 
 **Slide #16:**
 
-### Blind Spots
-Blind spots are always present as a gap between the self we think we present and the self that others see. Even with good intentions, your thoughts and feelings can affect the impact of your communication through behaviors that you don't always notice. These can include:
+### Dead Angles
+Dead angles are always present as a gap between the self we think we present and the self that others see. Even with good intentions, your thoughts and feelings can affect the impact of your communication through behaviors that you don't always notice. These can include:
 
 * Your facial expressions
 * Your tone of voice
@@ -139,14 +139,14 @@ Blind spots are always present as a gap between the self we think we present and
 
 **Facilitator asks from the whole group:**
 
-* How could blind spots potentially affect the intent of a feedback giver's words?
-* What blind spots should we be aware of when we're providing written feedback? 
+* How could dead angles potentially affect the intent of a feedback giver's words?
+* What dead angles should we be aware of when we're providing written feedback? 
 
 Examples might include: lack of tone of voice, misunderstandings of emphasis on certain words, lack of facial expressions
 
 **Slide #17:**
 
-#### Blind Spots lead to Biases
+#### Dead Angles lead to Biases
 
 * A bias is a feeling either favorable or negative towards others based on a narrowed viewpoint. We often feel positive bias towards others who are most like us and negative bias against others who are different from us
 * We may be more likely to not give constructive feedback to people who are similar to us
