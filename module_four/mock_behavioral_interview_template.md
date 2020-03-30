@@ -39,6 +39,7 @@ When Giving Feedback:
 * Have you ever worked directly with clients or have been in a customer-facing role in the past? If not, would you like to?
 * Talk about your preferred development environment.
 * How are you keeping up with the latest developments in web development?
+* What is something that your hobbies or interests tell me about you that your resume cannot?
  
 **Project, Problem-Solving, & Team Contribution Questions:**
 * Describe a successful idea or project you worked on. What are some of the challenges you had to overcome? What made it a success?
@@ -61,7 +62,6 @@ When Giving Feedback:
 * Tell me about a time you had competing priorities or worked on multiple projects at once. How did you manage to make or miss the deadlines? What did you learn from that experience? 
 * Sometimes it’s just not possible to get everything on your to-do list done. Tell me about a time your responsibilities got a little overwhelming. What did you do?
 * Give me an example of a time you were able to be creative with your work. What was exciting or difficult about it?
-* What is something that your hobbies or interests tell me about you that your resume cannot?
 * Describe a long-term project that you managed. How did you keep everything moving along in a timely manner?
 * Describe a time when you saw a problem and took the initiative to correct it rather than waiting for someone else to do it.
 * Tell me about a time when you worked under close supervision or extremely loose supervision. How did you handle that?
