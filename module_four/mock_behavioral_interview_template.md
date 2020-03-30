@@ -59,27 +59,47 @@ When Giving Feedback:
 * When have you exercised leadership and what was the result?
 * Describe a time when you took a risk that paid off for you. What was your process for pushing yourself further? How did you assess risk and try something new?
 * Tell me about a time you had competing priorities or worked on multiple projects at once. How did you manage to make or miss the deadlines? What did you learn from that experience? 
+* Sometimes it’s just not possible to get everything on your to-do list done. Tell me about a time your responsibilities got a little overwhelming. What did you do?
+* Give me an example of a time you were able to be creative with your work. What was exciting or difficult about it?
+* What is something that your hobbies or interests tell me about you that your resume cannot?
+* Describe a long-term project that you managed. How did you keep everything moving along in a timely manner?
+* Describe a time when you saw a problem and took the initiative to correct it rather than waiting for someone else to do it.
+* Tell me about a time when you worked under close supervision or extremely loose supervision. How did you handle that?
+* When you’re working with a large number of customers, it’s tricky to deliver excellent service to them all. How do you go about prioritizing your customers’ needs?
+* Tell me about a time you were under a lot of pressure. What was going on, and how did you get through it?
+* Tell me about a time you had to be very strategic in order to meet all your top priorities.
+* Give me an example of a time when you had to think on your feet in order to delicately extricate yourself from a difficult or awkward situation.
 
 **Communication & Feedback Questions:**
 * Describe to me the steps you would take to build out a product.
 * Tell me how you solve a problem.
 * Explain one of the most difficult code problems you’ve had to solve, either on your own authored code, or in contributing to someone else’s.
 * Tell me about a time you had a disagreement with a colleague and how you resolved it.
+* Give me an example of a time you faced a conflict while working on a team. How did you handle that?
 * Describe a time when you received feedback that you were surprised by. What did you do with that feedback?
 * When you disagree with a decision your team makes, how do you handle it?
+* Tell me about a time when you had to rely on written communication to get your ideas across to your team.
+* Tell me about a successful presentation you gave and why you think it was a hit.
+* Tell me about a time you needed to get information from someone who wasn’t very responsive. What did you do?
+* Tell me about a time when you had to work closely with someone whose personality was very different from yours.
+* We all make mistakes we wish we could take back. Tell me about a time you wish you’d handled a situation differently with a colleague.
+* Describe a time when you had to interact with a difficult client. What was the situation, and how did you handle it?
 
 **Personal Growth & Self-Awareness Questions:**
 * What is an area of growth for you?
+* Tell me about a time you set a goal for yourself. How did you go about ensuring that you would meet your objective?
 * What’s hard about programming?
 * How do you deal with change?
 * What are some of your best professional/soft skills?
 * Describe your strengths. How have you seen these in practice as a developer?
-* How do you deal with failure?
+* Tell me about a time you failed. How did you deal with the situation?
 * What is your biggest weakness?
-* What is your greatest professional achievement/achievement at Turing so far? Why?
+* What is your greatest professional achievement so far? Why?
 * Where do you see yourself in 5 years?
 * How would your former boss/current classmates/instructors describe you?
 * When have you taken accountability for something even when it could have proven detrimental for you?
+* Describe a time when your team or company was undergoing some change. How did that impact you, and how did you adapt?
+* Tell me about the first job you’ve ever had. What did you do to learn the ropes?
 
 ### Questions from Students
 In the mock interview, end the interview portion by asking **"What questions do you have for me?"** to push students to ask questions of the interviewer. Here is a [thorough list of potential questions](https://yangshun.github.io/tech-interview-handbook/questions-to-ask/) they should become comfortable with asking.
