@@ -197,8 +197,8 @@ Your network & their relevance to the job you want DO matter -- start connecting
 
 In groups of 3-4 people, look up the following profiles:
 
-* [Becca Hyland](https://www.linkedin.com/in/rebecca-hyland/)
-* [Graham Munro](https://www.linkedin.com/in/grahamamunro/)
+* [Smitha Hosmani](https://www.linkedin.com/in/smitha-hosmani/)
+* [Nick Nist](https://www.linkedin.com/in/nicknist/)
 * [Bekah Lundy](https://www.linkedin.com/in/bekah-lundy/)
 * [Matt Kaufman](https://www.linkedin.com/in/matthew-leo-kaufman/)
 
