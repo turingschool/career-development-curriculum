@@ -74,6 +74,7 @@ Below you can find lots of resources to help you prepare for both components.
 * Have you ever worked directly with clients or have been in a customer-facing role in the past? If not, would you like to?
 * Talk about your preferred development environment.
 * How are you keeping up with the latest developments in web development?
+* What is something that your hobbies or interests tell me about you that your resume cannot?
  
 **Project, Problem-Solving, & Team Contribution Questions:**
 * Describe a successful idea or project you worked on. What are some of the challenges you had to overcome? What made it a success?
@@ -96,7 +97,6 @@ Below you can find lots of resources to help you prepare for both components.
 * Tell me about a time you had competing priorities or worked on multiple projects at once. How did you manage to make or miss the deadlines? What did you learn from that experience? 
 * Sometimes it’s just not possible to get everything on your to-do list done. Tell me about a time your responsibilities got a little overwhelming. What did you do?
 * Give me an example of a time you were able to be creative with your work. What was exciting or difficult about it?
-* What is something that your hobbies or interests tell me about you that your resume cannot?
 * Describe a long-term project that you managed. How did you keep everything moving along in a timely manner?
 * Describe a time when you saw a problem and took the initiative to correct it rather than waiting for someone else to do it.
 * Tell me about a time when you worked under close supervision or extremely loose supervision. How did you handle that?
@@ -119,6 +119,22 @@ Below you can find lots of resources to help you prepare for both components.
 * Tell me about a time when you had to work closely with someone whose personality was very different from yours.
 * We all make mistakes we wish we could take back. Tell me about a time you wish you’d handled a situation differently with a colleague.
 * Describe a time when you had to interact with a difficult client. What was the situation, and how did you handle it?
+
+**Personal Growth & Self-Awareness Questions:**
+* What is an area of growth for you?
+* Tell me about a time you set a goal for yourself. How did you go about ensuring that you would meet your objective?
+* What’s hard about programming?
+* How do you deal with change?
+* What are some of your best professional/soft skills?
+* Describe your strengths. How have you seen these in practice as a developer?
+* Tell me about a time you failed. How did you deal with the situation?
+* What is your biggest weakness?
+* What is your greatest professional achievement so far? Why?
+* Where do you see yourself in 5 years?
+* How would your former boss/current classmates/instructors describe you?
+* When have you taken accountability for something even when it could have proven detrimental for you?
+* Describe a time when your team or company was undergoing some change. How did that impact you, and how did you adapt?
+* Tell me about the first job you’ve ever had. What did you do to learn the ropes?
 
 **Personal Growth & Self-Awareness Questions:**
 * What is an area of growth for you?
