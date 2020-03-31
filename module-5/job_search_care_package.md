@@ -67,8 +67,6 @@ Also check out these [Remote Working Resources](https://github.com/lukasz-madon/
 * [React Job Board](https://www.reactjobboard.com/)
 * [Python Job Board](https://www.python.org/jobs/)
 * [Elixir Jobs](https://elixirjobs.net/)
-* [Hatchways](https://hatchways.io/#/) helps connect juniors with their first jobs in tech by identifying skill gaps and talking through goals for your job search.
-* [ZipRecruiter](https://www.ziprecruiter.com/) 
 
 #### Search by...network
 * [LinkedIn](http://www.linkedin.com/)
@@ -108,6 +106,12 @@ Also check out these [Remote Working Resources](https://github.com/lukasz-madon/
 * [Ars Technica Job Board](http://arstechnica.com/jobs/)
 * And of course, don't forget about the #job-hunt or #module-5 channels on Slack
 
+### Search by...recruiter assistance
+* [Staffing Agencies Resources](https://www.clearlyrated.com/staffing/it-engineering-staffing/web-mobile-software-development-staffing)
+* [TripleByte](https://triplebyte.com/) allows you to showcase your skills to go straight to the tech interview at certain companies. 
+* [Hatchways](https://hatchways.io/#/) helps connect juniors with their first jobs in tech by identifying skill gaps and talking through goals for your job search.
+* [ZipRecruiter](https://www.ziprecruiter.com/) connects job seekers with recruiters based on specific languages/skills.
+
 ## Outreach & Networking <a name="outreach-networking"></a>
 
 ### Research Your Contacts
@@ -132,7 +136,7 @@ Also check out these [Remote Working Resources](https://github.com/lukasz-madon/
 * [Snov.io](https://snov.io/)
 * [Go Pin Leads](https://www.gopinleads.com/)
 
-### Prepare for Coffee Meeting
+### Prepare for Coffee Meetings
 * Using your research, prepare some questions to ask your contact
 * Start here:
    * [Research Converation Questions](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/research_conversation_questions.md)
