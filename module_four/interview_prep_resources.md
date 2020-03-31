@@ -30,6 +30,8 @@ Below you can find lots of resources to help you prepare for both components.
 
 * [Interviewing.io](https://interviewing.io/) allows you to do anonymous mock interviews from top companies. You can also watch recordings of past interviews!
 
+* [TripleByte](https://triplebyte.com/) allows you to showcase your skills to go straight to the tech interview at certain companies. 
+
 * [Denver Tech Interview Meetup](https://www.meetup.com/denver-tech-interview-meetup/) is held twice a month, either downtown or in the Denver Tech Center
 
 * Coding challenges resources:
