@@ -38,6 +38,7 @@ Spend some time during intermission getting your resume template set up with tho
 * [Standard Resume](https://standardresume.co/)
 * [Kick Resume](https://www.kickresume.com/)
 * [Canva](https://www.canva.com/)
+* [Hiration](https://www.hiration.com/)
 * Find even more sites [here](https://www.producthunt.com/e/create-a-beautiful-resume)
 
 Once you have that done, you'll be ready to implement the text after the session and save yourself some time!
