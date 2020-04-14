@@ -87,6 +87,7 @@ Also check out these [Remote Working Resources](https://github.com/lukasz-madon/
 
 #### Search by...job listings
 * [BuiltIn](http://builtin.com/) is located in Austin, Boston, Chicago, Colorado, LA, New York, and Seattle
+* [Link Up](https://www.linkup.com/job-seekers/) - an index of employer websites with job listings in order to avoid duplicates.
 * [GitHub’s Job Board](https://jobs.github.com/)
 * [Glassdoor](https://www.glassdoor.com/index.htm)
 * [Smashing Magazine’s Job Board](http://jobs.smashingmagazine.com/)
