@@ -254,6 +254,7 @@ You can choose to set up a traditional resume use a template like this [traditio
 * [Standard Resume](https://standardresume.co/)
 * [Kick Resume](https://www.kickresume.com/)
 * [Canva](https://www.canva.com/)
+* [Hiration](https://www.hiration.com/)
 * Find even more sites [here](https://www.producthunt.com/e/create-a-beautiful-resume)
 
 #### What Not to Include
