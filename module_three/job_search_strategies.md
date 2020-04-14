@@ -208,6 +208,7 @@ How do you search for these? Start with Google!
 *(because yes, you can also search by job listing -- but it shouldn’t be the only way you search!)*
 
 * [BuiltIn](http://builtin.com/) is located in Austin, Boston, Chicago, Colorado, LA, New York, and Seattle
+* [Link Up](https://www.linkup.com/job-seekers/) - an index of employer websites with job listings in order to avoid duplicates.
 * [GitHub’s Job Board](https://jobs.github.com/)
 * [Glassdoor](https://www.glassdoor.com/index.htm)
 * [Smashing Magazine’s Job Board](http://jobs.smashingmagazine.com/)
