@@ -1,14 +1,14 @@
 # Accountability Group DTR
 
 ### Directions
-Use this template to create your DTR with your job seeker accountability groups. Copy/past the template into a gist for your group to send to Allison or Tracey.
+Use this template to create your DTR with your job seeker accountability groups. Copy/past the template into a gist for your group to send to your Career Dev team adviser.
 
 ### Template
 
 Group Members:
 
 Schedule for weekly meetings and regular Stand Ups (must have 1 weekly meeting and at least 2 Stand Ups a week):
-*Be prepared to come up with 2-3 different times in case groups overlap so that Tracey can meet with all groups.*
+*Be prepared to come up with 2-3 different times in case groups overlap so that your adviser can meet with all groups.*
 
 #### Technical Section
 * What do we want to work on together for technical practice? Suggestions: group code challenges/project work/code reviews
