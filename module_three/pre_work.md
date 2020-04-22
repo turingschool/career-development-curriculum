@@ -12,4 +12,4 @@
 
 ## Objective #2: Complete the Following Survey
 
-* After you have completed your career journal set-up and responded to the Intermission Work Prompts, please fill out this quick survey and submit the link to your journal by EOD Saturday 5/2. 
+* After you have completed your career journal set-up and responded to the Intermission Work Prompts, [please fill out this survey](https://forms.gle/iXWbjg8fAz6AN3aSA) and submit the link to your journal by EOD Saturday 5/2. 
