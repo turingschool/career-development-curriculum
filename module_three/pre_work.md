@@ -3,7 +3,6 @@
 ## Objective #1: Create your career journal
 
 * As you start Module 3 at Turing, professional development will be focused on creating and implementing strategies for you to have a successful job search. To that end, you will be creating a career journal to complete progress towards the Mod 3 benchmarks, and you'll share this journal with the career development team so that we know how to best support you. You will continue to use this career journal in Mod 4.
-    * What is a career journal? Check out [this blog post](https://www.themuse.com/advice/6-ways-keeping-a-journal-can-help-your-career) to see why this is a helpful tool. 
 * Follow the directions [here to create and complete the first phase of your career journal.](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/2001_career_journal.md) 
 
 #### How You'll Use Your Career Journal Throughout the Module
