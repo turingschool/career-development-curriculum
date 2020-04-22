@@ -18,7 +18,6 @@ Schedule for weekly meetings and regular Stand Ups (must have 1 weekly meeting a
 * Group member strengths for supporting each other in the job search (what can we each help our group with?):
 
 * What does everyone need in terms of self-care and support:
-  * Systems, people, activities for mental health support:
   * Systems, people, activities for physical health support:
   * How we will hold each other accountable to using these supports:
 
