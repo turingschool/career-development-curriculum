@@ -10,26 +10,14 @@
 1. Copy the following into your own gist or Google Doc. You'll be sharing this with the Career Development Team. 
 2. For your intermission work, please complete prompts listed under "Intermission Work" and then submit your career journal in the survey linked on the [intermission work page.](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/pre_work.md)
 
-### Intermission Work Prompts
-1. Please describe the current vision you have for your career. What are the values that will drive your job search? What are your goals for your job search? What kind of role do you see yourself pursuing in your job search? 
-
-2. Based on what you wrote above, please write a refined summary statement for your professional story:
-
-3. Please list the top 3-5 industries and companies you'll pursue in your job search as of right now.
-
-4. Why did you pick the industries/companies that you listed above? How do they relate to the values and goals you have for yourself in your job search?
-
-5. How does your LinkedIn currently reflect your goals and industry interests? What changes will you need to make to your LinkedIn to better reflect these?
-
-6. How can you capitalize on the outreach and networking plan you made this module to create new contacts in the industry and/or gain information to help you refine your job search strategy? 
+### Mod 1 Week 1: Reflections on Pairin
+1.  
 
 
-### Week 1
+### Mod 1 Week 2
 
-### Week 2
+### Mod 1 Week 3
 
-### Week 3
+### Mod 1 Week 4
 
-### Week 4
-
-### Week 5
+### Mod 1 Week 5
