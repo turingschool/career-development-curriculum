@@ -1,4 +1,4 @@
-# Professional Development Pre-Work for Mod 3
+# Professional Development Intermission Work for Mod 3
 
 ## Objective #1: Create an Interview Prep System
 
