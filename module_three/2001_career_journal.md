@@ -1,4 +1,4 @@
-# Career Journal Template - Module 3 (2001 cohort)
+# Career Journal Template - 2001 Cohort
 
 #### Overview
 * **What it is.** The journal will help guide you through the process of discovering who you are as a new developer and how that translates into your career goals.  It’s a way to check in with yourself through self-reflection, prompts, and questions, organize your targeted job search, and remember who you met as you build a professional network.   
@@ -10,7 +10,7 @@
 1. Copy the following into your own gist or Google Doc. You'll be sharing this with the Career Development Team. 
 2. For your intermission work, please complete prompts listed under "Intermission Work" and then submit your career journal in the survey linked on the [intermission work page.](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/pre_work.md)
 
-### Intermission Work Prompts
+### Mod 3 Intermission Work Prompts
 1. Please describe the current vision you have for your career. What are the values that will drive your job search? What are your goals for your job search? What kind of role do you see yourself pursuing in your job search? 
 
 2. Based on what you wrote above, please write a refined summary statement for your professional story:
@@ -24,12 +24,12 @@
 6. How can you capitalize on the outreach and networking plan you made this module to create new contacts in the industry and/or gain information to help you refine your job search strategy? 
 
 
-### Week 1
+### Mod 3 Week 1
 
-### Week 2
+### Mod 3 Week 2
 
-### Week 3
+### Mod 3 Week 3
 
-### Week 4
+### Mod 3 Week 4
 
-### Week 5
+### Mod 3 Week 5
