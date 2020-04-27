@@ -8,16 +8,19 @@
 
 ### Directions
 1. Copy the following into your own gist or Google Doc. You'll be sharing this with the Career Development Team. 
-2. For your intermission work, please complete prompts listed under "Intermission Work" and then submit your career journal in the survey linked on the [intermission work page.](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/pre_work.md)
+2. At the end of week 1, you'll submit the link to your journal in a survey provided to you by Allison. Please DM her with any questions you have. 
 
-### Mod 1 Week 1: Reflections on Pairin
+### Mod 1 Week 1: Understanding your strengths 
 1.  
+2.
+3.
+4.
+5.
 
+### Mod 1 Week 2: Understanding your values and identity
 
-### Mod 1 Week 2
+### Mod 1 Week 3: Habits & accountability systems to reach goals
 
-### Mod 1 Week 3
+### Mod 1 Week 4: Creating a Vision, Part I
 
-### Mod 1 Week 4
-
-### Mod 1 Week 5
+### Mod 1 Week 5: Creating a Vision, Part II
