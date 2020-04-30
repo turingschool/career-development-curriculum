@@ -11,6 +11,17 @@
 2. At the end of week 1, you'll submit the link to your journal in a survey provided to you by Allison. Please DM her with any questions you have. 
 
 ### Mod 2 Week 1: 
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+
 
 ### Mod 2 Week 2: 
 
