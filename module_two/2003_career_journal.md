@@ -11,13 +11,21 @@
 2. At the end of week 1, you'll submit the link to your journal in a survey provided to you by Allison. Please DM her with any questions you have. 
 
 ### Mod 2 Week 1: 
-1.
+1. Start Where You Are (Empathize with the user -- *you*):
+* 
 
-2.
 
-3.
+Understanding the User
 
-4.
+2. Challenging Assumptions
+
+3. Redefine problems in an attempt to identify alternative strategies and solutions
+
+4. Empathise – with your users
+Define – your users’ needs, their problem, and your insights
+Ideate – by challenging assumptions and creating ideas for innovative solutions
+Prototype – to start creating solutions
+Test – solutions
 
 5.
 
