@@ -28,19 +28,23 @@
     * What adjustments would you like to make in this area?
 * Looking back at the 4 areas, do any problems emerge that you want to begin designing solutions for?
 
-2. Challenging Assumptions
+2. Define your needs, problem, and insights:
+* Based on what you wrote about above and your group conversation, what problems have you identified that you'd like to design solutions for?
+* What do you already about what you want for your career? What do you still need to find out?
+* Who or what do you want to grow into by the end of the Turing program? 
 
-3. Redefine problems in an attempt to identify alternative strategies and solutions
+3. Ideate -- challenge assumptions:    
+* When you discussed software developers with your small group on Monday, what assumptions came up about what software developers actually do? 
+* What steps could you take to challenge those assumptions and find more facts to answer the question of what developers do?
+* In addition to what a typical software developer life could look like, what do you want yours to include?
 
-4. Empathise – with your users
-Define – your users’ needs, their problem, and your insights
-Ideate – by challenging assumptions and creating ideas for innovative solutions
-Prototype – to start creating solutions
-Test – solutions
+4. Prototype -- start creating solutions:
+* What is the basic threshold that your new career must meet after Turing? 
+* What would you hope WILL NOT happen in your future after Turing?
+* What is your absolute, no-holds-barred, ideal dream for your future after Turing?
 
-5.
-
-
+5. Test –- solutions:
+* Based on this week of reflections, write out your vision statement for your career:
 
 ### Mod 2 Week 2: 
 
