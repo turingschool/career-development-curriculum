@@ -33,7 +33,11 @@
 * Where do they clash?
 * Does one drive the other? How?
 
-2.
+2. Reflect on how you’ve spent your time in the previous 2 mods to gauge your engagement and energy:
+* When have you been excited, focused, and enjoyed your work?
+* When have you felt bored, restless, or unhappy?
+* When do you feel energized in your work?
+* When is your energy drained?
 
 3.
 
