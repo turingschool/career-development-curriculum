@@ -40,20 +40,19 @@
 * When is your energy drained?
 
 3. Setting up habits and routines to make time for the job search this module:
-* 
-* 
-* 
+* Block out time on your calendar this week to work on your job search. When will you make this happen? How will you hold yourself accountable to this?
+* What activities will you focus on during this time this week?
+* What outcomes do you hope to reach by the end of this week because of these activities?
 
-4. Applying wayfinding to looking at job postings
-* 
-*
-* 
-
-5. Applying wayfinding to using the other job search resources; making a list/plan of what they'll use
+4. Applying wayfinding to using job search resources
+* Go through the resources [listed here](https://github.com/turingschool/career-development-curriculum/blob/master/module-5/job_search_care_package.md#job-opportunities) in the Finding Job Opportunities section and explore 2-3 tools. List what you looked at here:
+* Apply wayfinding: of what you looked at, what did you discover that aligns with your vision? If it didn't align with your vision, what will you try next?
+* Find a job posting that aligns with your vision. What's the posting? How does it align with what you're looking for? Add it to your Huntr.
+* What next steps will you take to explore that opportunity and find contacts? Add that information to your Huntr card.
 
 ### Mod 3 Week 2
 1. Reflections:
-* How did you spend your time this past week? How did you utilize the schedule you made for yourself? How can you adjust your schedule to make it more effective this week? 
+* How did you spend your time this past week? How did you utilize the schedule you made for yourself? What were your results? How can you adjust your schedule to make it more effective this week? 
 
 
 ### Mod 3 Week 3
