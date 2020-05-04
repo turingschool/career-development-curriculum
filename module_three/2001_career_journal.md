@@ -24,6 +24,7 @@
 6. How can you capitalize on the outreach and networking plan you made this module to create new contacts in the industry and/or gain information to help you refine your job search strategy? 
 
 ### Mod 3 Week 1: Job Search Strategies
+*These prompts are adapted from the book [Designing Your Life](https://bookshop.org/books/designing-your-life-how-to-build-a-well-lived-joyful-life/9781101875322)*
 1. Add to your vision that you wrote about above:
 * Workview: summarize what good, worthwhile work means to you 
     * Hint: this is NOT about what work you want to do but about why work matters to you)
