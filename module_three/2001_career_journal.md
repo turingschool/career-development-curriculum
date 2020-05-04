@@ -23,8 +23,23 @@
 
 6. How can you capitalize on the outreach and networking plan you made this module to create new contacts in the industry and/or gain information to help you refine your job search strategy? 
 
+### Mod 3 Week 1: Job Search Strategies
+1. Add to your vision that you wrote about above:
+* Workview: summarize what good, worthwhile work means to you 
+    * Hint: this is NOT about what work you want to do but about why work matters to you)
+* Lifeview: summarize what you value in life; what matters to you?
+* Where do your views on work and life complement each other?
+* Where do they clash?
+* Does one drive the other? How?
 
-### Mod 3 Week 1
+2.
+
+3.
+
+4.
+
+5.
+
 
 ### Mod 3 Week 2
 
