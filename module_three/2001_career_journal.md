@@ -39,14 +39,16 @@
 * When do you feel energized in your work?
 * When is your energy drained?
 
-3.
+3. Setting up habits and routines to make time for the job search this module 
 
-4.
+4. Applying wayfinding to looking at job postings
 
-5.
-
+5. Applying wayfinding to using the other job search resources; making a list/plan of what they'll use
 
 ### Mod 3 Week 2
+1. Reflections:
+* How did you spend your time this past week? How did you utilize the schedule you made for yourself? How can you adjust your schedule to make it more effective this week? 
+
 
 ### Mod 3 Week 3
 
