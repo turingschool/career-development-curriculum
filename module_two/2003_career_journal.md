@@ -10,7 +10,7 @@
 1. Copy the following into your own gist or Google Doc. You'll be sharing this with the Career Development Team. 
 2. At the end of week 1, you'll submit the link to your journal in a survey provided to you by Allison. Please DM her with any questions you have. 
 
-### Mod 2 Week 1: 
+### Mod 2 Week 1: Creating Your Vision, Part I
 1. Start Where You Are (Empathize with the user -- *you*):
 * Health: how you answer “how are you”; intersection of physical, mental, and emotional health
     * How would you rate your overall health on a scale of 1-5?
