@@ -39,9 +39,15 @@
 * When do you feel energized in your work?
 * When is your energy drained?
 
-3. Setting up habits and routines to make time for the job search this module 
+3. Setting up habits and routines to make time for the job search this module:
+* 
+* 
+* 
 
 4. Applying wayfinding to looking at job postings
+* 
+*
+* 
 
 5. Applying wayfinding to using the other job search resources; making a list/plan of what they'll use
 
