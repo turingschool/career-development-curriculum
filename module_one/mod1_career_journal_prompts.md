@@ -1,7 +1,7 @@
 # Career Journal Template 
 
 ### Directions
-
+Copy these prompts into your career journal document to complete during Mod 1. 
 
 ### Mod 1 Week 1: Understanding your strengths 
 1. Describe one of your strengths
