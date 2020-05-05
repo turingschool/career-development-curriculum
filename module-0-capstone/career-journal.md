@@ -1,22 +1,58 @@
 # Career Journal Template
 
+## Overview
+* **What is a career journal?** The journal will help guide you through the process of discovering who you are as a new developer and how that translates into your career goals.  It’s a way to check in with yourself through self-reflection, prompts, and questions, organize your targeted job search, and remember who you met as you build a professional network.   
+* **Make it your own.** Add questions and areas to reflect on each week. Just don’t forget to share all of your successes and achievements along the way! 
+* **Ongoing progress checks.** Throughout the module, you'll respond to the other prompts and update your progress in your document during professional development workshops and set aside work time. 
+* **Module Expectations.** A completed career journal is required for successfully passing each module. The career development team will be assessing your progress throughout the module, and you will submit it for final review in week 6. You will also include highlights from your progress in your end of module portfolio presentation. 
+
 ### Directions
-1. Copy the following into your own gist or Google Doc. You'll be sharing this with the Career Development Team. 
-2. 
+1. Copy the following Mod 0 prompts into your own gist or Google Doc. You'll be sharing this with the Career Development Team. 
+2. Submit the link to your document in [this survey]( for your Mod 0 Capstone. 
 
 ### Mod 0 
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
 
 ### Mod 1
+Find the prompts to Mod 1 here:
+* [Week 1]
+* [Week 2]
+* [Week 3]
+* [Week 4]
+* [Week 5]
+
 
 ### Mod 2
+Find the prompts to Mod 2 here:
+* [Week 1]
+* [Week 2]
+* [Week 3]
+* [Week 4]
+* [Week 5]
+
 
 ### Mod 3
+Find the prompts to Mod 3 here:
+* [Week 1]
+* [Week 2]
+* [Week 3]
+* [Week 4]
+* [Week 5]
+
 
 ### Mod 4
-
-1. **Self Reflection** - It’s time to start thinking a little more about your interests and how they might fit into the workforce. What are you really good at? What are you passionate about? What do you find really challenging? Where do you want to live? What are your own personal goals? These questions are a framework, but feel free to go beyond these pieces. Your job search starts with yourself. 
-
-2. **Company research** -  Start doing your research on companies that might be of interest to you. Pick a minimum of three companies in which you would like to target in your job search. What are the current technologies that they are using? What are the company values? Is there any interesting or relevant press related to this company? Is there anyone that you know that works at these companies? Take note of these questions and feel free to dive deeper as you do your research. The more you know about these companies the better your chances are of securing a job. 
-
-3. **Outreach/Networking plan** - At this point, you should have a good understanding of what you want, and companies/industries that are of interest to you. Now take some time to develop a plan for outreach. Who are the key people I should connect with to secure a job? (Make a list of these people, we will be using it at a later time). Who do I have in my network that could be a mentor in my job search?  What events will I find people who work at the companies I am interested in? What knowledge or skills do I have that I can share with people in the industry? (Think of this in the context of a blog post or a lightning talk).
-
+Find the prompts to Mod 4 here:
+* [Week 1]
+* [Week 2]
+* [Week 3]
+* [Week 4]
+* [Week 5]
