@@ -19,7 +19,11 @@
 
 4.
 
-5.
+5. What is your greatest strength and how do you know?
+How do you work best?
+What is your greatest area of improvement?
+How do you hope to maximize your strengths for your new career in software development?
+How might knowing about your strengths and working preferences benefit you as a software developer?
 
 
 ### Mod 1
