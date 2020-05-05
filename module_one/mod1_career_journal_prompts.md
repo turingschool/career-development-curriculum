@@ -6,9 +6,12 @@ Copy these prompts into your career journal document to complete during Mod 1.
 ### Mod 1 Week 1: Understanding your strengths 
 1. Describe one of your strengths
 * What is something you have learned to do well (list a skill)?
+  * I can...
 * What is something you know about (list some knowledge/expertise you have)?
+  * I know...
 * What is something you have a natural ability to do well (list a talent)?
-* How do those combine to create a specific strength?
+  * I am...
+* How could you combine these to describe a specific strength?
 
 2. Read through your Top 4 results from Pairin
 * In your own words, what do these top 4 qualities tell you about yourself?
@@ -21,7 +24,7 @@ Copy these prompts into your career journal document to complete during Mod 1.
 
 4. Strengths in action
 * Write 1-2 sentences describing how you like to work (i.e., Do you pre-plan? Do you talk through your ideas first? Do you work better with deadlines? How do you stay organized?)
-* How could you talk about these working preferences with your project teammates? Your mentor? Your instructors?
+* How could you describe these working preferences to your project teammates? Your mentor? Your instructors?
 * What would you need to be aware of when working with people who have different strengths from you?
 * How could your Pairin results help you better understand your everyday working preferences?
 
@@ -29,3 +32,13 @@ Copy these prompts into your career journal document to complete during Mod 1.
 * Is there any particular strength you'd like to sharpen while you're at Turing? Any area you consider a weakness that you'd like to strengthen? 
 * What are some steps you could take here?
 * How could you be aware of progress you're making?
+
+### Mod 1 Week 2:
+
+### Mod 1 Week 3:
+
+### Mod 1 Week 4:
+
+### Mod 1 Week 5:
+
+
