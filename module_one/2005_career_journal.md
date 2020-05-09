@@ -1,5 +1,11 @@
 # Career Journal Template - 2005 Cohort
 
+* [Week 1 Prompts](#week-1)
+* [Week 2 Prompts](#week-2)
+* [Week 3 Prompts](#week-3)
+* [Week 4 Prompts](#week-4)
+* [Week 5 Prompts](#week-5)
+
 ## Overview
 * **What is a career journal?** The journal will help guide you through the process of discovering who you are as a new developer and how that translates into your career goals.  It’s a way to check in with yourself through self-reflection, prompts, and questions, organize your targeted job search, and remember who you met as you build a professional network.   
 * **Make it your own.** Add questions and areas to reflect on each week. Just don’t forget to share all of your successes and achievements along the way! 
@@ -10,7 +16,7 @@
 1. Copy the following into your own gist or Google Doc. You'll be sharing this with the Career Development Team. 
 2. At the end of week 1, you'll submit the link to your journal in a survey provided to you by Allison. Please DM her with any questions you have. 
 
-### Mod 1 Week 1: Understanding your strengths 
+### Mod 1 Week 1: Understanding your strengths <a name="week-1"></a>
 1. Describe one of your strengths
 * What is something you have learned to do well (list a skill)?
 * What is something you know about (list some knowledge/expertise you have)?
@@ -37,7 +43,7 @@
 * What are some steps you could take here?
 * How could you be aware of progress you're making?
 
-### Mod 1 Week 2: Building Your Compass
+### Mod 1 Week 2: Building Your Compass <a name="week-2"></a>
 1. Power of self-reflection
 * What is challenging about self-reflection?
 * How can you continue to build the habit of self-reflection at Turing? 
@@ -75,8 +81,8 @@ Reflect:
 * Where do they clash?
 * Does one drive the other? How?
 
-### Mod 1 Week 3: Habits & accountability systems to reach goals
+### Mod 1 Week 3: Habits & accountability systems to reach goals <a name="week-3"></a>
 
-### Mod 1 Week 4: Creating a Vision, Part I
+### Mod 1 Week 4: Creating a Vision, Part I <a name="week-4"></a>
 
-### Mod 1 Week 5: Creating a Vision, Part II
+### Mod 1 Week 5: Creating a Vision, Part II <a name="week-5"></a>
