@@ -44,7 +44,7 @@
 * How could you be aware of progress you're making?
 
 ### Mod 1 Week 2: Building Your Compass <a name="week-2"></a>
-1. Power of self-reflection
+1. [Power of self-reflection](https://medium.com/publishous/the-power-of-self-reflection-c1a654ea03a)
 * What is challenging about self-reflection?
 * How can you continue to build the habit of self-reflection at Turing? 
 
