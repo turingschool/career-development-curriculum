@@ -46,7 +46,21 @@
 5. Test –- solutions:
 * Based on this week of reflections, write out your vision statement for your career:
 
-### Mod 2 Week 2: 
+### Mod 2 Week 2: Creating Your Vision, Part II
+1. Design Thinking Review: Cultivating Beginner's Mind
+
+2. Workview & Lifeview
+* Summarize what good, worthwhile work means to you (Tip: this is NOT about what work you want to do but about why work matters to you):
+* Lifeview: summarize what you value in life; what matters to you?
+* Where do your views on work and life complement each other?
+* Where do they clash?
+* Does one drive the other? How?
+
+3. Go through the Flower Exercise worksheets linked here
+
+4. Complete your Flower Exercise
+
+5. Write an updated vision statement here (what new things have you discovered this week to incorporate into your vision statement?):
 
 ### Mod 2 Week 3: 
 
