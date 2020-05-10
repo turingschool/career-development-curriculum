@@ -1,5 +1,11 @@
 # Career Journal Template - 2003 Cohort
 
+* [Week 1 Prompts](#week-1)
+* [Week 2 Prompts](#week-2)
+* [Week 3 Prompts](#week-3)
+* [Week 4 Prompts](#week-4)
+* [Week 5 Prompts](#week-5)
+
 ## Overview
 * **What is a career journal?** The journal will help guide you through the process of discovering who you are as a new developer and how that translates into your career goals.  It’s a way to check in with yourself through self-reflection, prompts, and questions, organize your targeted job search, and remember who you met as you build a professional network.   
 * **Make it your own.** Add questions and areas to reflect on each week. Just don’t forget to share all of your successes and achievements along the way! 
@@ -10,7 +16,7 @@
 1. Copy the following into your own gist or Google Doc. You'll be sharing this with the Career Development Team. 
 2. At the end of week 1, you'll submit the link to your journal in a survey provided to you by Allison. Please DM her with any questions you have. 
 
-### Mod 2 Week 1: Creating Your Vision, Part I
+### Mod 2 Week 1: Creating Your Vision, Part I <a name="week-1"></a>
 1. Start Where You Are (Empathize with the user -- *you*):
 * Health: how you answer “how are you”; intersection of physical, mental, and emotional health
     * How would you rate your overall health on a scale of 1-5?
@@ -46,7 +52,7 @@
 5. Test –- solutions:
 * Based on this week of reflections, write out your vision statement for your career:
 
-### Mod 2 Week 2: Creating Your Vision, Part II
+### Mod 2 Week 2: Creating Your Vision, Part II <a name="week-2"></a>
 1. Design Thinking Review: Cultivating Beginner's Mind
 *
 *
@@ -65,8 +71,8 @@
 
 5. Write a refined vision statement here (what new things have you discovered this week to incorporate into your vision statement?):
 
-### Mod 2 Week 3: 
+### Mod 2 Week 3: <a name="week-3"></a>
 
-### Mod 2 Week 4: 
+### Mod 2 Week 4: <a name="week-4"></a>
 
-### Mod 2 Week 5: 
+### Mod 2 Week 5: <a name="week-5"></a>
