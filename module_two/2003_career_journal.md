@@ -53,10 +53,12 @@
 * Based on this week of reflections, write out your vision statement for your career:
 
 ### Mod 2 Week 2: Creating Your Vision, Part II <a name="week-2"></a>
-1. Design Thinking Review: Cultivating Beginner's Mind
-*
-*
-*
+1. Design Thinking Review: [Cultivating Beginner's Mind](https://mindfulambition.net/beginners-mind/)
+
+* How can beginner's mind be helpful when it comes to thinking about your career and job search?
+* What are some habits you could put into place to cultivate beginner's mind regularly? 
+
+Optional additional reading: [How to Cultivate Beginner's Mind to Become a True Expert](https://medium.com/better-humans/how-to-cultivate-beginners-mind-to-become-a-true-expert-b2e82953318d)
 
 2. Workview & Lifeview
 * Summarize what good, worthwhile work means to you (Tip: this is NOT about what work you want to do but about why work matters to you):
