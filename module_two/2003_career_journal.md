@@ -63,7 +63,7 @@
 
 4. Complete your [Flower Exercise final worksheet here](https://docs.google.com/document/d/1ETSoRT-BxMH-cTWzbk1inRESmYHGnpbz0DgBHgmAJ-4/edit?usp=sharing)
 
-5. Write an updated vision statement here (what new things have you discovered this week to incorporate into your vision statement?):
+5. Write a refined vision statement here (what new things have you discovered this week to incorporate into your vision statement?):
 
 ### Mod 2 Week 3: 
 
