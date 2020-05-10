@@ -48,6 +48,9 @@
 
 ### Mod 2 Week 2: Creating Your Vision, Part II
 1. Design Thinking Review: Cultivating Beginner's Mind
+*
+*
+*
 
 2. Workview & Lifeview
 * Summarize what good, worthwhile work means to you (Tip: this is NOT about what work you want to do but about why work matters to you):
@@ -56,9 +59,9 @@
 * Where do they clash?
 * Does one drive the other? How?
 
-3. Go through the Flower Exercise worksheets linked here
+3. Go through the [Flower Exercise brainstorming worksheets linked here](https://docs.google.com/document/d/1pLe95AA3y8rxnU-MDnyAVeoqWCxE9__KMDhmPgcd_7c/edit?usp=sharing)
 
-4. Complete your Flower Exercise
+4. Complete your [Flower Exercise final worksheet here](https://docs.google.com/document/d/1ETSoRT-BxMH-cTWzbk1inRESmYHGnpbz0DgBHgmAJ-4/edit?usp=sharing)
 
 5. Write an updated vision statement here (what new things have you discovered this week to incorporate into your vision statement?):
 
