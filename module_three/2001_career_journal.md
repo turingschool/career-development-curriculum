@@ -60,7 +60,18 @@
 ### Mod 3 Week 2 <a name="week-2"></a>
 1. Reflections:
 * How did you spend your time this past week? How did you utilize the schedule you made for yourself? What were your results? How can you adjust your schedule to make it more effective this week? 
+* Build new calendar...
 
+2. Build your resume
+* What will you emphasize in your resume that directly relates to your targeted industries?
+* Pick a template...
+
+3. Upload your resume to CV Compiler using this promo code...
+* Based on the feedback you received from CV Compiler, what updates will you make to your resume?
+
+4. Find a position or use a position you've put on your Huntr board and write a cover letter for that position in a Google doc.
+* Post the link to your cover letter here 
+* Be prepared to share this cover letter with a small group for peer review in week 3's workshop 
 
 ### Mod 3 Week 3 <a name="week-3"></a>
 
