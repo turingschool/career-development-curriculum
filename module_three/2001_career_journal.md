@@ -77,10 +77,15 @@
    * Projects
    * Experience
    * Education
-* Check out other resources [here](https://github.com/turingschool/career-development-curriculum-site/blob/master/resources/resume_resources.md)
+* Check out other resources [here](https://github.com/turingschool/career-development-curriculum-site/blob/master/resources/resume_resources.md) including the Resume Checklist
 * Link to your resume or include a screenshot here: 
 
-3. Upload your resume to CV Compiler using this promo code...
+3. Upload your resume to CV Compiler by following these steps: 
+* Go to [https://cvcompiler.com/students/turingschool](https://cvcompiler.com/students/turingschool)
+* Click on "Improve Your Student Resume"
+* Authorize it with either LinkedIn or GitHub
+* Fill out the fields with your Name and Email and the promo code Turing2001
+* Upload your resume
 * Based on the feedback you received from CV Compiler, what updates will you make to your resume?
 
 4. Find a position or use a position you've put on your Huntr board and write a cover letter for that position in a Google doc.
