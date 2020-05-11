@@ -88,7 +88,7 @@
 * Upload your resume
 * Based on the feedback you received from CV Compiler, what updates will you make to your resume?
 
-4. Find a position or use a position you've put on your Huntr board and write a cover letter for that position in a Google doc or gist.
+4. Find a position or use a position you've put on your Huntr board and write a cover letter for that position in a Google doc or gist. Reference these [cover letter resources](https://github.com/turingschool/career-development-curriculum-site/blob/master/resources/cover_letter_resources.md)
 * Post the link to your cover letter here 
 * Be prepared to share this cover letter with a small group for peer review in week 3's workshop 
 
