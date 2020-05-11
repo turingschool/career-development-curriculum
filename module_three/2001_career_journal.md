@@ -68,7 +68,17 @@
 
 2. Build your resume
 * What will you emphasize in your resume that directly relates to your targeted industries?
-* Pick a template...
+* Pick a template from those listed in the Templates section [here](https://github.com/turingschool/career-development-curriculum-site/blob/master/resources/resume_resources.md)
+* Order your content in this way:
+   * Header (Name + Software Developer OR Back End Engineer OR Front End Engineer, etc.)
+   * Contact info
+   * Summary
+   * Skills
+   * Projects
+   * Experience
+   * Education
+* Check out other resources [here](https://github.com/turingschool/career-development-curriculum-site/blob/master/resources/resume_resources.md)
+* Link to your resume or include a screenshot here: 
 
 3. Upload your resume to CV Compiler using this promo code...
 * Based on the feedback you received from CV Compiler, what updates will you make to your resume?
