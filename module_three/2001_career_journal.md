@@ -59,8 +59,12 @@
 
 ### Mod 3 Week 2 <a name="week-2"></a>
 1. Reflections:
-* How did you spend your time this past week? How did you utilize the schedule you made for yourself? What were your results? How can you adjust your schedule to make it more effective this week? 
-* Build new calendar...
+* How effective were you in sticking to your schedule last week? What were your results?
+* How can you adjust your schedule this week to make it more effective? 
+* Block out your job search time on your calendar this week. Make note of the set aside PD work time. You specifically need time for:
+   * Building your resume
+   * Research into companies/job postings
+   * Writing a cover letter for a job posting
 
 2. Build your resume
 * What will you emphasize in your resume that directly relates to your targeted industries?
