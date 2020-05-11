@@ -57,7 +57,7 @@
 * Find a job posting that aligns with your vision. What's the posting? How does it align with what you're looking for? Add it to your Huntr.
 * What next steps will you take to explore that opportunity and find contacts? Add that information to your Huntr card.
 
-### Mod 3 Week 2 <a name="week-2"></a>
+### Mod 3 Week 2: Resumes & Cover Letters <a name="week-2"></a>
 1. Reflections:
 * How effective were you in sticking to your schedule last week? What were your results?
 * How can you adjust your schedule this week to make it more effective? 
