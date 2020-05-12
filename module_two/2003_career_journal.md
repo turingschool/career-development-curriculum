@@ -69,7 +69,7 @@ Optional additional reading: [How to Cultivate Beginner's Mind to Become a True 
 
 3. Go through the [Flower Exercise brainstorming worksheets linked here](https://docs.google.com/document/d/1pLe95AA3y8rxnU-MDnyAVeoqWCxE9__KMDhmPgcd_7c/edit?usp=sharing)
 
-4. Complete your [Flower Exercise final worksheet here](https://docs.google.com/document/d/1ETSoRT-BxMH-cTWzbk1inRESmYHGnpbz0DgBHgmAJ-4/edit?usp=sharing)
+4. Complete your [Flower Exercise final worksheet here](https://docs.google.com/document/d/1ETSoRT-BxMH-cTWzbk1inRESmYHGnpbz0DgBHgmAJ-4/edit?usp=sharing) and link that worksheet here.
 
 5. Write a refined vision statement here (what new things have you discovered this week to incorporate into your vision statement?):
 
