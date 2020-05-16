@@ -103,6 +103,8 @@ Habits of a Software Developer
   
 * Throughout the week, record here in what ways you've tried to implement your new habit and tried to break your bad habit. What were the results?
 
+Additional Optional Reading: [The Five Triggers That Make New Habits Stick](https://jamesclear.com/habit-triggers)
+
 ### Mod 1 Week 4: Creating a Vision, Part I <a name="week-4"></a>
 
 ### Mod 1 Week 5: Creating a Vision, Part II <a name="week-5"></a>
