@@ -90,12 +90,18 @@ Habits of a Software Developer
 * Who do you want to be as a software developer? What kind of behaviors do you already have in place to be that person? What behaviors would you need to put into place? How will you do that?
 
 * Outline a new habit you can put into place:
-  * Cue
-  * Craving
-  * Response
-  * Reward
+  * Cue (make it obvious):
+  * Craving (make it attractive):
+  * Response (make it easy to complete):
+  * Reward (make it satisfying):
   
-* Throughout the week, record here in what ways you've tried to implement this habit. What were the results?
+* Outline a habit you'd like to break:
+  * Cue (make it invisible):
+  * Craving (make it unattractive):
+  * Response (make it difficult):
+  * Reward (make it unsatisfying):
+  
+* Throughout the week, record here in what ways you've tried to implement your new habit and tried to break your bad habit. What were the results?
 
 ### Mod 1 Week 4: Creating a Vision, Part I <a name="week-4"></a>
 
