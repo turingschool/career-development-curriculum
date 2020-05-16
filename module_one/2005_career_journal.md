@@ -81,7 +81,21 @@ Reflect:
 * Where do they clash?
 * Does one drive the other? How?
 
-### Mod 1 Week 3: Habits & accountability systems to reach goals <a name="week-3"></a>
+### Mod 1 Week 3: Habits & Accountability Systems <a name="week-3"></a>
+Habits of a Software Developer
+* What do you think are the traits of a good software developer? What are they like in the workplace? What would you as a co-worker think of this person?
+
+* What do you think are the behaviors that this person demonstrates to embody the identity of a software developer?
+
+* Who do you want to be as a software developer? What kind of behaviors do you already have in place to be that person? What behaviors would you need to put into place? How will you do that?
+
+* Outline a new habit you can put into place:
+  * Cue
+  * Craving
+  * Response
+  * Reward
+  
+* Throughout the week, record here in what ways you've tried to implement this habit. What were the results?
 
 ### Mod 1 Week 4: Creating a Vision, Part I <a name="week-4"></a>
 
