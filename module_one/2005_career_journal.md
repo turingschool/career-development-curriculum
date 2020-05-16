@@ -82,6 +82,8 @@ Reflect:
 * Does one drive the other? How?
 
 ### Mod 1 Week 3: Habits & Accountability Systems <a name="week-3"></a>
+Ideas here are adapted from [Atomic Habits by James Clear](https://bookshop.org/books/atomic-habits-an-easy-proven-way-to-build-good-habits-break-bad-ones/9780735211292)
+
 Habits of a Software Developer
 * What do you think are the traits of a good software developer? What are they like in the workplace? What would you as a co-worker think of this person?
 
