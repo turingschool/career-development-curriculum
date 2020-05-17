@@ -93,6 +93,12 @@
 * Be prepared to share this cover letter with a small group for peer review in week 3's workshop 
 
 ### Mod 3 Week 3 <a name="week-3"></a>
+Job Shadow preparation
+
+Complete 
+
+Resume/Cover Letter Next Steps for application
+
 
 ### Mod 3 Week 4 <a name="week-4"></a>
 
