@@ -84,26 +84,16 @@ Reflect:
 ### Mod 1 Week 3: Habits & Accountability Systems <a name="week-3"></a>
 Ideas here are adapted from [Atomic Habits by James Clear](https://bookshop.org/books/atomic-habits-an-easy-proven-way-to-build-good-habits-break-bad-ones/9780735211292)
 
-Habits of a Software Developer
+**Habits of a Software Developer**
 * What do you think are the traits of a good software developer? What are they like in the workplace? What would you as a co-worker think of this person?
 
 * What are the behaviors that this person demonstrates to embody the identity of a software developer?
 
 * Who do you want to be as a software developer? What kind of behaviors do you already have in place to be that person? What behaviors would you need to put into place? How will you do that?
 
-* Outline a new habit you can put into place:
-  * Cue (make it obvious):
-  * Craving (make it attractive):
-  * Response (make it easy to complete):
-  * Reward (make it satisfying):
-  
-* Outline a habit you'd like to break:
-  * Cue (make it invisible):
-  * Craving (make it unattractive):
-  * Response (make it difficult):
-  * Reward (make it unsatisfying):
-  
-* Throughout the week, record here in what ways you've tried to implement your new habit and tried to break your bad habit. What were the results?
+**Working on the 1st Law of Behavior Change: Self-Awareness**
+* Bring self-awareness to your current habits by making a Habits Scorecard. Make a list of your daily habits (examples: wake up, turn off alarm, check phone, etc.) as a way to bring awareness to what you do. Then, decide how effective that habit is for you and your goal of becoming a software developer. Put a + next to habits that are effective; put a - next to habits that are not effective; put a = next to habits that are neutral. 
+
 
 Additional Optional Reading: [The Five Triggers That Make New Habits Stick](https://jamesclear.com/habit-triggers)
 
