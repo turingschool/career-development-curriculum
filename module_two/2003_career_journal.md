@@ -81,9 +81,7 @@ Reflect on how you’ve spent your time so far at Turing to gauge your engagemen
 * When is your energy drained?
 
 Setting up habits and routines to make time for the job search this module:
-* Block out time on your calendar this week to work on your job search. When will you make this happen? How will you hold yourself accountable to this?
-* What activities will you focus on during this time this week?
-* What outcomes do you hope to reach by the end of this week because of these activities?
+* Block out time on your calendar this week to work on your job search. When will you make this happen? How will you hold yourself accountable to this? What activities will you focus on during this time this week? What outcomes do you hope to reach by the end of this week because of these activities?
 
 Applying wayfinding to using job search resources
 * Go through the resources [listed here](https://github.com/turingschool/career-development-curriculum-site/blob/master/resources/finding_opportunities.md) and explore 2-3 tools. List what you looked at here:
