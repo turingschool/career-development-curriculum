@@ -73,7 +73,23 @@ Optional additional reading: [How to Cultivate Beginner's Mind to Become a True 
 
 5. Write a refined vision statement here (what new things have you discovered this week to incorporate into your vision statement?):
 
-### Mod 2 Week 3: <a name="week-3"></a>
+### Mod 2 Week 3: Job Search Strategies <a name="week-3"></a>
+Reflect on how you’ve spent your time so far at Turing to gauge your engagement and energy:
+* When have you been excited, focused, and enjoyed your work?
+* When have you felt bored, restless, or unhappy?
+* When do you feel energized in your work?
+* When is your energy drained?
+
+Setting up habits and routines to make time for the job search this module:
+* Block out time on your calendar this week to work on your job search. When will you make this happen? How will you hold yourself accountable to this?
+* What activities will you focus on during this time this week?
+* What outcomes do you hope to reach by the end of this week because of these activities?
+
+Applying wayfinding to using job search resources
+* Go through the resources [listed here](https://github.com/turingschool/career-development-curriculum/blob/master/module-5/job_search_care_package.md#job-opportunities) in the Finding Job Opportunities section and explore 2-3 tools. List what you looked at here:
+* Apply wayfinding: of what you looked at, what did you discover that aligns with your vision? If it didn't align with your vision, what will you try next?
+* Find a job posting that aligns with your vision. What's the posting? How does it align with what you're looking for? Add it to your Huntr.
+* What next steps will you take to explore that opportunity and find contacts? Add that information to your Huntr card.
 
 ### Mod 2 Week 4: <a name="week-4"></a>
 
