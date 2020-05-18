@@ -101,9 +101,11 @@ Reflect on your schedule:
    * Reaching out to that contact
    * Setting up a virtual coffee meeting
 
+Resume/Cover Letter Revisions:
+* How will you continue to refine your resume? What next steps will you take to make your cover letter even stronger? When will you submit your application? 
 
-Resume/Cover Letter Next Steps for application
-
+Outreach & Networking: Next Steps for Application:
+* Take the next steps listed in the [slides from this week on outreach](https://docs.google.com/presentation/d/13_L1dp5bZ2Lczb-fPy4MBw5pHSMM5RU6tKmOF1oBmbE/edit?usp=sharing). Who will you reach out to from the company? Why that person? How will you reach out? When will you contact them by?
 
 ### Mod 3 Week 4 <a name="week-4"></a>
 
