@@ -93,9 +93,14 @@
 * Be prepared to share this cover letter with a small group for peer review in week 3's workshop 
 
 ### Mod 3 Week 3 <a name="week-3"></a>
-Job Shadow preparation
+Reflect on your schedule:
+* How effective were you in sticking to your schedule last week? What were your results? How can you adjust your schedule this week to make it more effective? 
+* Block out your job search time on your calendar this week. Make note of the set aside PD work time. You specifically need time for:
+   * Revising your resume and cover letter
+   * Researching contacts at the company you’re applying to
+   * Reaching out to that contact
+   * Setting up a virtual coffee meeting
 
-Complete 
 
 Resume/Cover Letter Next Steps for application
 
