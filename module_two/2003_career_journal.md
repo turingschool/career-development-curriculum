@@ -95,7 +95,10 @@ Mind Maps:
 * 2. **Energy.** What did you reflect on last week in regards to when you feel most energized in your work at Turing? Pull out an idea that resonates with you most and break that idea down into parts and make a list (what are all the steps that go into that moment? When do you get to use your strengths? What is fun about this?).
 * 3. **Flow.** When have you had an experience recently in which you were in a state of flow? You can also think about this as "joy" or "play." Pull out an idea that resonates with you most and break that idea down into parts and make a list (what are all the steps that go into that moment? When do you get to use your strengths? What is fun about this?).
 
-Prototype: what do these mind maps tell you about what's important to you as a software developer? What questions do they bring up about what you still want to learn about this career? 
+Prototype your mind maps: what do these mind maps tell you about what's important to you as a software developer? What questions do they bring up about what you still want to learn about this career? 
+
+Prototype your outreach: (Be prepared to share this in your small group discussion)
+* Who comes to mind as a person you can reach out to? Why that person? What questions would you ask them? 
 
 Outreach & Networking Plan: Based on your reflections above, create a plan to answer these questions: 
 * Who is the right person for you to reach out to? 
