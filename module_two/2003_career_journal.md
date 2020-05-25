@@ -89,7 +89,7 @@ Applying wayfinding to using job search resources
 * Find a job posting that aligns with your vision. What's the posting? How does it align with what you're looking for? Add it to your Huntr.
 * What next steps will you take to explore that opportunity and find contacts? Add that information to your Huntr card.
 
-### Mod 2 Week 4: <a name="week-4"></a>
+### Mod 2 Week 4: Outreach & Networking I <a name="week-4"></a>
 Mind Maps:
 * 1. **Engagement.** What did you reflect on last week in regards to when you're engaged in your work at Turing? Pull out an idea that resonates with you most (e.g., "Talking through a problem with a partner," "The moment when I solve a problem that I previously didn't know how to do," "Setting up a successful project management process for my team") and break that idea down into parts and make a list (what are all the steps that go into that moment? When do you get to use your strengths? What is fun about this?).
 * 2. **Energy.** What did you reflect on last week in regards to when you feel most energized in your work at Turing? Pull out an idea that resonates with you most and break that idea down into parts and make a list (what are all the steps that go into that moment? When do you get to use your strengths? What is fun about this?).
