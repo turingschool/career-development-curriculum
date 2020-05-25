@@ -90,5 +90,11 @@ Applying wayfinding to using job search resources
 * What next steps will you take to explore that opportunity and find contacts? Add that information to your Huntr card.
 
 ### Mod 2 Week 4: <a name="week-4"></a>
+Mind Maps:
+* 1. **Engagement.** What did you reflect on last week in regards to when you're engaged in your work at Turing? Pull out an idea that resonates with you most (e.g., "Talking through a problem with a partner," "The moment when I solve a problem that I previously didn't know how to do," "Setting up a successful project management process for my team") and break that idea down into parts and make a list (what are all the steps that go into that moment? When do you get to use your strengths? What is fun about this?).
+* 2. **Energy.** What did you reflect on last week in regards to when you feel most energized in your work at Turing? Pull out an idea that resonates with you most and break that idea down into parts and make a list (what are all the steps that go into that moment? When do you get to use your strengths? What is fun about this?).
+* 3. **Flow.** When have you had an experience recently in which you were in a state of flow? You can also think about this as "joy" or "play." Pull out an idea that resonates with you most and break that idea down into parts and make a list (what are all the steps that go into that moment? When do you get to use your strengths? What is fun about this?).
+
+
 
 ### Mod 2 Week 5: <a name="week-5"></a>
