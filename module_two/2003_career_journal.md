@@ -95,6 +95,10 @@ Mind Maps:
 * 2. **Energy.** What did you reflect on last week in regards to when you feel most energized in your work at Turing? Pull out an idea that resonates with you most and break that idea down into parts and make a list (what are all the steps that go into that moment? When do you get to use your strengths? What is fun about this?).
 * 3. **Flow.** When have you had an experience recently in which you were in a state of flow? You can also think about this as "joy" or "play." Pull out an idea that resonates with you most and break that idea down into parts and make a list (what are all the steps that go into that moment? When do you get to use your strengths? What is fun about this?).
 
+Prototype: what do these mind maps tell you about what's important to you as a software developer? What questions do they bring up about what you still want to learn about this career? 
+
+Outreach & Networking Plan: 
+
 
 
 ### Mod 2 Week 5: <a name="week-5"></a>
