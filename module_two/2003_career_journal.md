@@ -98,9 +98,10 @@ Mind Maps:
 Prototype your mind maps: what do these mind maps tell you about what's important to you as a software developer? What questions do they bring up about what you still want to learn about this career? 
 
 Prototype your outreach: (Be prepared to share this in your small group discussion)
-* Who comes to mind as a person you can reach out to? Why that person? What questions would you ask them? 
+* Who comes to mind as a person you can reach out to? Why that person? What questions would you ask them? Come up with 2-3 people here to serve as prototypes
+* How would this outreach help you further your job search strategy?
 
-Outreach & Networking Plan: Based on your reflections above, create a plan to answer these questions: 
+Outreach & Networking Plan: Based on your reflections above, create a concrete plan for your outreach: 
 * Who is the right person for you to reach out to? 
 * How will you find them? How do you know they’re the right person?
 * How will you reach out?
