@@ -127,7 +127,7 @@ Based on what you wrote about above and your group conversation, what problems h
 
 4.  Ideate -- challenge assumptions   
 
-When you discussed software developers with your small group on Monday, what assumptions came up about what software developers actually do? What steps could you take to challenge those assumptions and find more facts to answer the question of what developers do? In addition to what a typical software developer life could look like, what do you want yours to include?
+When you discussed software developers with your small group, what assumptions came up about what software developers actually do? What steps could you take to challenge those assumptions and find more facts to answer the question of what developers do? In addition to what a typical software developer life could look like, what do you want yours to include?
 
 5. Prototype -- start creating solutions
 
