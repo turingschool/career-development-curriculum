@@ -107,6 +107,22 @@ Resume/Cover Letter Revisions:
 Outreach & Networking: Next Steps for Application:
 * Take the next steps listed in the [slides from this week on outreach](https://docs.google.com/presentation/d/13_L1dp5bZ2Lczb-fPy4MBw5pHSMM5RU6tKmOF1oBmbE/edit?usp=sharing). Who will you reach out to from the company? Why that person? How will you reach out? When will you contact them by?
 
-### Mod 3 Week 4 <a name="week-4"></a>
+### Mod 3 Week 4: Refining Your Strategy <a name="week-4"></a>
+Prepare for Job Shadow: AEIOU
+* Activities: what questions do you have about the activities that a software developer does on a daily basis?  
+* Environment: what questions do you have about the overall environment and culture of this workplace?
+* Interactions: what questions do you have about the team at this company? What do you hope to see in your interactions during the shadow?
+* Objects: what questions do you have about the code or the product? 
+* Users: what questions do you have about how the company interacts with their users? 
+
+After the Job Shadow, reflect on the same questions; what are your takeaways from the shadow? Ho
+* Activities: what was engaging to the person/people you shadowed?
+* Environment: what did you notice about how they talked about the culture and environment of this company?
+* Interactions: what did you notice about your interactions with this person/people?
+* Objects: what did you learn about their approach to code and/or product development?
+* Users: what did you learn about their approach to their users? 
+* What are your main takeaways from the shadow? How will you use this information to help you with your job search strategy? 
+
+
 
 ### Mod 3 Week 5 <a name="week-5"></a>
