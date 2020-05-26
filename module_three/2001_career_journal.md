@@ -124,10 +124,16 @@ After the Job Shadow, reflect on the same questions; what are your takeaways fro
 * What are your main takeaways from the shadow? How will you use this information to help you with your job search strategy? 
 
 Mind Maps:
-* 1. **Engagement.** What did you reflect on last week in regards to when you're engaged in your work at Turing? Pull out an idea that resonates with you most (e.g., "Talking through a problem with a partner," "The moment when I solve a problem that I previously didn't know how to do," "Setting up a successful project management process for my team") and break that idea down into parts and make a list (what are all the steps that go into that moment? When do you get to use your strengths? What is fun about this?).
-* 2. **Energy.** What did you reflect on last week in regards to when you feel most energized in your work at Turing? Pull out an idea that resonates with you most and break that idea down into parts and make a list (what are all the steps that go into that moment? When do you get to use your strengths? What is fun about this?).
+* 1. **Engagement.** Go back to your reflections on when you're engaged in your work at Turing. Pull out an idea that resonates with you most (e.g., "Talking through a problem with a partner," "The moment when I solve a problem that I previously didn't know how to do," "Setting up a successful project management process for my team") and break that idea down into parts and make a list (what are all the steps that go into that moment? When do you get to use your strengths? What is fun about this?).
+* 2. **Energy.** Go back to your reflections on when you're most energized in your work at Turing. Pull out an idea that resonates with you most and break that idea down into parts and make a list (what are all the steps that go into that moment? When do you get to use your strengths? What is fun about this?).
 * 3. **Flow.** When have you had an experience recently in which you were in a state of flow? You can also think about this as "joy" or "play." Pull out an idea that resonates with you most and break that idea down into parts and make a list (what are all the steps that go into that moment? When do you get to use your strengths? What is fun about this?).
 
-Prototype your mind maps: what do these mind maps tell you about what's important to you as a software developer? What questions do they bring up about what you still want to learn about this career?
+Prototype your next steps: what do these mind maps tell you about what's important to you as a software developer? How could you use this information to adjust how you're looking for jobs? 
+
+Outreach & Networking Plan:  
+* What company are you exploring this week? Who will you contact from that company? Why that person? How will you contact them? How will you follow up? 
+
+Execute your plan:
+* Reach out to your contact THIS WEEK. If possible, reach out to more than one person OR find a meetup to attend also. What happened? What did you learn about the company? What other next steps should you take for pursuing this company? Be sure to update this in Huntr.
 
 ### Mod 3 Week 5 <a name="week-5"></a>
