@@ -112,4 +112,7 @@ Outreach & Networking Plan: Based on your reflections above, create a concrete p
 Execute your plan:
 * Reach out to your contact THIS WEEK. If possible, reach out to more than one person OR find a meetup to attend also. What happened? What other next steps should you take? If this is a person connected to a company you're interested in, be sure to add it to your Huntr card.
 
-### Mod 2 Week 5: <a name="week-5"></a>
+### Mod 2 Week 5: Professional Storytelling & Branding <a name="week-5"></a>
+1. Write a draft of your professional story here as 1-2 paragraphs. Focus on answering the questions *who are you, why are you here,* and *what's next?* Consider how to talk about your motives and values, the turning points that led to your career change, and what you envision for yourself going forward.
+
+2. 
