@@ -149,5 +149,5 @@ What have you accomplished this module (do you know what you’re looking for?) 
 * Write about a time you failed and what you learned from that experience:
 * Write about how you've approached working with a team using a specific example: 
 * What other stories will you prepare to share?
-* Do some research into your top companies' tech stacks; what do you already know? What can you compare to your own learning? What do you need to learn more about?
+* Do some research into your top companies' [tech stacks](https://stackshare.io/stacks); what do you already know? What can you compare to your own learning? What do you need to learn more about?
 * Using this [interview prep resource doc](https://github.com/turingschool/career-development-curriculum-site/blob/master/resources/interview_prep_resources.md), pick out at least 3 resources you will use to prepare for interviews as well as 3 behavioral questions you could practice:
