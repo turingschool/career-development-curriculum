@@ -136,4 +136,13 @@ Outreach & Networking Plan:
 Execute your plan:
 * Reach out to your contact THIS WEEK. If possible, reach out to more than one person OR find a meetup to attend also. What happened? What did you learn about the company? What other next steps should you take for pursuing this company? Be sure to update this in Huntr.
 
-### Mod 3 Week 5 <a name="week-5"></a>
+### Mod 3 Week 5: Interview Prep <a name="week-5"></a>
+1. Reflect on the module:
+What have you accomplished this module (do you know what you’re looking for?) What have you learned? Do you need to change anything about your approach? Where are you stuck (have you not been able to follow through on outreach? Is your resume not finished?)
+
+2. Interview Prep:
+* Pick a successful project and write about it with the STAR method:
+* Write about a time you failed and what you learned from that experience:
+* Do some research into your top companies' tech stacks; what do you need to learn more about?
+Using this interview prep resource doc, pick out some resources you will use to prepare for interviews:
+
