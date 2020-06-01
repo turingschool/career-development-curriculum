@@ -140,9 +140,14 @@ Execute your plan:
 1. Reflect on the module:
 What have you accomplished this module (do you know what you’re looking for?) What have you learned? Do you need to change anything about your approach? Where are you stuck (have you not been able to follow through on outreach? Is your resume not finished?)
 
-2. Interview Prep:
+2. Getting unstuck with new strategies:
+* What new things will you try? What will you do differently in your strategy?
+* When will you have your resume completed? When will you have your portfolio updated on the Turing site? As you plan out your schedule for the week, think of how you'll hold yourself accountable to these goals. 
+
+3. Interview Prep:
 * Pick a successful project and write about it with the STAR method:
 * Write about a time you failed and what you learned from that experience:
-* Do some research into your top companies' tech stacks; what do you need to learn more about?
-Using this interview prep resource doc, pick out some resources you will use to prepare for interviews:
-
+* Write about how you've approached working with a team using a specific example: 
+* What other stories will you prepare to share?
+* Do some research into your top companies' tech stacks; what do you already know? What can you compare to your own learning? What do you need to learn more about?
+* Using this [interview prep resource doc](https://github.com/turingschool/career-development-curriculum-site/blob/master/resources/interview_prep_resources.md), pick out at least 3 resources you will use to prepare for interviews as well as 3 behavioral questions you could practice:
