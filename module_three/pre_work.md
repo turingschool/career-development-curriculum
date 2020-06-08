@@ -1,10 +1,10 @@
 # Professional Development Intermission Work for Mod 3
 
-## Objective #1: Create your career journal
+In your career journal, create a new header that reads "Module 3" and respond to the following prompts there. Please complete these prompts by EOD Saturday at the end of intermission. 
 
-* As you start Module 3 at Turing, professional development will be focused on creating and implementing strategies for you to have a successful job search. To that end, you will be creating a career journal to complete progress towards the Mod 3 benchmarks, and you'll share this journal with the career development team so that we know how to best support you. You will continue to use this career journal in Mod 4.
-* Follow the directions [here to create and complete the first phase of your career journal.](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/2001_career_journal.md)  
+## Intermission Reflections 
+1. Please list the top 3-5 industries and companies you'll pursue in your job search as of right now. 
 
-## Objective #2: Complete the Following Survey
+2. Why did you pick the industries/companies that you listed above? How do they relate to the values and goals you have for yourself in your job search?
 
-* After you have completed your career journal set-up and responded to the Intermission Work Prompts, [please fill out this survey](https://forms.gle/iXWbjg8fAz6AN3aSA) and submit the link to your journal by EOD Saturday 5/2. 
+3. How does your LinkedIn currently reflect your goals and industry interests? What changes will you need to make to your LinkedIn to better reflect these?
