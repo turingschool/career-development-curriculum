@@ -13,7 +13,7 @@
 * **Module Expectations.** A completed career journal is required for successfully passing the module. The career development team will be assessing your progress throughout the module, and you will submit it for final review in week 6. You will also include highlights from your progress in your end of module portfolio presentation. 
 
 ### Directions
-1. Copy the following into your own gist or Google Doc. You'll be sharing this with the Career Development Team. 
+1. Copy the following into your own gist. You'll be sharing this with the Career Development Team. 
 2. At the end of week 1, you'll submit the link to your journal in a survey provided to you by Allison. Please DM her with any questions you have. 
 
 ### Mod 1 Week 1: Understanding your strengths <a name="week-1"></a>

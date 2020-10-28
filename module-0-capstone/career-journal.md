@@ -7,7 +7,7 @@
 * **Module Expectations.** A completed career journal is required for successfully passing each module. The career development team will be assessing your progress throughout the module, and you will submit it for final review in week 6. You will also include highlights from your progress in your end of module portfolio presentation. 
 
 ### Directions
-1. Copy the following Mod 0 prompts into your own gist or Google Doc. You'll be sharing this with the Career Development Team. 
+1. Copy the following Mod 0 prompts into your own gist. You'll be sharing this with the Career Development Team. 
 2. Submit the link to your document in [this survey]( for your Mod 0 Capstone. 
 
 ### Mod 0 

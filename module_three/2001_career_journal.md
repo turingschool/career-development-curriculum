@@ -14,7 +14,7 @@
 * **Module Expectations.** A completed career journal is required for successfully passing Module 3. The career development team will be assessing your progress throughout the module, and you will submit it for final review in week 6. You will also include highlights from your progress in your end of module portfolio presentation. 
 
 ### Directions
-1. Copy the following into your own gist or Google Doc. You'll be sharing this with the Career Development Team. 
+1. Copy the following into your own gist. You'll be sharing this with the Career Development Team. 
 2. For your intermission work, please complete prompts listed under "Intermission Work" and then submit your career journal in the survey linked on the [intermission work page.](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/pre_work.md)
 
 ### Mod 3 Intermission Work Prompts <a name="intermission"></a>
