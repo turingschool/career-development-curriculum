@@ -7,7 +7,7 @@ Use this template to create your DTR with your job seeker accountability groups.
 
 Group Members:
 
-Schedule for weekly meetings and regular Stand Ups (must have 1 weekly meeting and at least 2 Stand Ups a week):
+Schedule for weekly meetings and regular Stand Ups (must have 2 meetings a week):
 *Be prepared to come up with 2-3 different times in case groups overlap so that your adviser can meet with all groups.*
 
 #### Technical Section
