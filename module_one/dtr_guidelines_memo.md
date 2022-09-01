@@ -5,8 +5,15 @@ Use this template when conducting DTR with your project partners. *It's recommen
 ### Guiding Questions to Define The Relationship:
 
 * What are each of our learning goals for this project? What drives us in this project?
+	we want to understand the info and take those lessons with me. We want to understand how Github Workflow works.
+
 * What is your collaboration style? How do you feel about pair programming vs. divide-and-conquer approaches?
+	We are uising Open communication & divide-and-conquer.  We are more of a "D-and-C" pair...but we're engaging both styles to 		maximum our learningexperiences.
+
 * How do you communicate best? How do you appreciate receiving communication from others?
+	We rely upon clear and concise communication via Zoom, DM, Slack & email.  Our goal is to get to the point.
+
+
 * How would you describe your work style?
 * What are each of our strengths? How can our strengths complement each other?
 * What’s gone well or poorly in your previous projects?
